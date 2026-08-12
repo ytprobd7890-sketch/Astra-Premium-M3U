@@ -1,0 +1,15 @@
+{
+  "timestamp": "2026-08-12T16:38:39.713023",
+  "input_file": "/home/user/astra-premium-bot/playlists/ULTIMATE_LIVE_5261.m3u",
+  "total_entries": 20,
+  "unique_urls": 20,
+  "checked": 20,
+  "live": 17,
+  "dead": 3,
+  "live_pct": 85.0,
+  "unique_normalized": 20,
+  "after_dedup_best": 17,
+  "duplicate_groups": 0,
+  "elapsed_sec": 32.1,
+  "proxy_used": true
+}

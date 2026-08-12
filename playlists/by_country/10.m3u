@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 group-title="103.253.18.58:8000" tvg-name="ENCODER 2",ENCODER 2 [103.253.18.58:8000]
+http://103.253.18.58:8000/play/a04i
+#EXTINF:-1 group-title="103.253.18.58:8000" tvg-name="Eurosport HD",Eurosport HD [103.253.18.58:8000]
+http://103.253.18.58:8000/play/a04t
+#EXTINF:-1 group-title="103.253.18.58:8000" tvg-name="EXPRESS 24/7",EXPRESS 24/7 [103.253.18.58:8000]
+http://103.253.18.58:8000/play/a089
+#EXTINF:-1 group-title="103.253.18.58:8000" tvg-name="EXPRESS ENTERTAINMENT",EXPRESS ENTERTAINMENT [103.253.18.58:8000]
+http://103.253.18.58:8000/play/a086
+#EXTINF:-1 group-title="103.253.18.58:8000" tvg-name="EXPRESS NEWS",EXPRESS NEWS [103.253.18.58:8000]
+http://103.253.18.58:8000/play/a08f
+#EXTINF:-1 group-title="103.253.18.58:8000" tvg-name="FILMAX",FILMAX [103.253.18.58:8000]
+http://103.253.18.58:8000/play/a08w
+#EXTINF:-1 group-title="103.253.18.58:8000" tvg-name="FILMAZIA",FILMAZIA [103.253.18.58:8000]
+http://103.253.18.58:8000/play/a08k
+#EXTINF:-1 group-title="103.253.18.58:8000" tvg-name="FILMAZIA PUNJABI",FILMAZIA PUNJABI [103.253.18.58:8000]
+http://103.253.18.58:8000/play/a08u
+#EXTINF:-1 group-title="103.253.18.58:8000" tvg-name="Geo Kahani",Geo Kahani [103.253.18.58:8000]
+http://103.253.18.58:8000/play/a04l
+#EXTINF:-1 group-title="103.253.18.58:8000" tvg-name="Geo News",Geo News [103.253.18.58:8000]
+http://103.253.18.58:8000/play/a064
+#EXTINF:-1 group-title="103.253.18.58:8000" tvg-name="Geo Tez",Geo Tez [103.253.18.58:8000]
+http://103.253.18.58:8000/play/a065
+#EXTINF:-1 group-title="103.253.18.58:8000" tvg-name="Geo TV",Geo TV [103.253.18.58:8000]
+http://103.253.18.58:8000/play/a04m
+#EXTINF:-1 group-title="103.253.18.58:8000" tvg-name="GNNHD",GNNHD [103.253.18.58:8000]
+http://103.253.18.58:8000/play/a08c
+#EXTINF:-1 group-title="103.253.18.58:8000" tvg-name="GreenEnt - HD",GreenEnt - HD [103.253.18.58:8000]
+http://103.253.18.58:8000/play/a08m
+#EXTINF:-1 group-title="103.253.18.58:8000" tvg-name="GTV-HD MM1",GTV-HD MM1 [103.253.18.58:8000]
+http://103.253.18.58:8000/play/a08g
+#EXTINF:-1 group-title="103.253.18.58:8000" tvg-name="HADI TV",HADI TV [103.253.18.58:8000]
+http://103.253.18.58:8000/play/a08x
+#EXTINF:-1 group-title="103.253.18.58:8000" tvg-name="HUM NEWS HD",HUM NEWS HD [103.253.18.58:8000]
+http://103.253.18.58:8000/play/a08y

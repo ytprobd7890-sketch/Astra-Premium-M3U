@@ -1,0 +1,45 @@
+# Astra Premium Bot Config
+input:
+  # Main ultimate file — you can put your ULTIMATE_LIVE_5261.m3u here
+  file: "playlists/ULTIMATE_LIVE_5261.m3u"
+  # Fallback URL if file not exists (raw github url)
+  url: ""
+
+output:
+  # Main premium file — BEST live only, deduplicated
+  premium: "playlists/PREMIUM_BEST.m3u"
+  # Category wise
+  by_country: "playlists/by_country/"
+  by_group: "playlists/by_group/"
+  # Stats
+  stats_json: "playlists/stats.json"
+  duplicate_report: "playlists/duplicates.json"
+  # Final ultimate checked
+  final_checked: "playlists/FINAL_ULTIMATE_LIVE_CHECKED.m3u"
+
+checker:
+  timeout: 8
+  workers: 50
+  retries: 1
+  # Test only #EXTM3U header, or also fetch 1 segment?
+  deep_check: false
+  # Use BD proxy? Set via env BD_PROXY or in secrets
+  # Example: socks5://user:pass@ip:port
+  proxy: "${BD_PROXY}"
+  # If proxy fails, fallback to direct
+  fallback_direct: true
+
+deduplicator:
+  # Normalize channel name: lower, strip spaces, remove special chars
+  normalize: true
+  # Group by exact name or fuzzy? exact = same name after normalize = duplicate
+  # Options: exact, fuzzy (fuzzy uses 90% similarity)
+  mode: "exact"
+  # Pick best by: fastest, biggest, first
+  pick_best_by: "fastest"  # fastest = lowest latency, biggest = largest m3u8 size, first = first live
+  # Keep all duplicates in report but only best in final m3u
+  keep_report: true
+
+github:
+  commit_message: "🤖 Auto update premium m3u - {date} | Live: {live}/{total} ({pct}%)"
+  branch: "main"
