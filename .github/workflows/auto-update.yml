@@ -1,0 +1,97 @@
+name: "🤖 Astra Premium M3U Auto Bot - Every 4 Hours"
+
+on:
+  schedule:
+    # Every 4 hours -> 00,04,08,12,16,20 UTC
+    - cron: '0 */4 * * *'
+  workflow_dispatch:  # Manual trigger
+  push:
+    branches:
+      - main
+    paths:
+      - 'playlists/ULTIMATE_LIVE_*.m3u'
+      - 'config.yaml'
+      - 'src/**'
+
+jobs:
+  update-premium:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          # Install ffmpeg for deep check if needed (optional)
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg || true
+
+      - name: Check BD Proxy secret
+        run: |
+          if [ -z "${{ secrets.BD_PROXY }}" ]; then
+            echo "⚠️ BD_PROXY secret not set — will use direct connection (some PK/BD IPs may be blocked)"
+          else
+            echo "✅ BD_PROXY secret found — will use BD resi proxy for PK/BD"
+          fi
+
+      - name: Run Astra Premium Bot
+        env:
+          BD_PROXY: ${{ secrets.BD_PROXY }}
+          # Optional: FOFA token, Censys token, etc
+          FOFA_EMAIL: ${{ secrets.FOFA_EMAIL }}
+          FOFA_KEY: ${{ secrets.FOFA_KEY }}
+        run: |
+          echo "Starting bot at $(date)"
+          python src/main.py
+          echo "Bot finished at $(date)"
+          ls -lh playlists/
+
+      - name: Generate README stats
+        run: |
+          echo "## 📊 Last Update: $(date -u)" >> /tmp/stats.md
+          cat playlists/stats.json | python -m json.tool >> /tmp/stats.md || true
+          cat /tmp/stats.md
+
+      - name: Commit and Push if changed
+        run: |
+          git config user.name "Astra Premium Bot 🤖"
+          git config user.email "bot@astra-premium.local"
+
+          # Check if there are changes
+          if [ -n "$(git status --porcelain)" ]; then
+            DATE=$(date -u +"%Y-%m-%d %H:%M UTC")
+            # Read stats
+            LIVE=$(cat playlists/stats.json | python -c "import json,sys; d=json.load(sys.stdin); print(d.get('live',0))" 2>/dev/null || echo "?")
+            TOTAL=$(cat playlists/stats.json | python -c "import json,sys; d=json.load(sys.stdin); print(d.get('checked',0))" 2>/dev/null || echo "?")
+            PCT=$(cat playlists/stats.json | python -c "import json,sys; d=json.load(sys.stdin); print(d.get('live_pct',0))" 2>/dev/null || echo "?")
+
+            git add playlists/
+            git commit -m "🤖 Auto update premium m3u - $DATE | Live: $LIVE/$TOTAL ($PCT%)"
+            git push
+            echo "✅ Pushed new premium playlist"
+          else
+            echo "No changes, nothing to commit"
+          fi
+
+      - name: Upload Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: premium-playlists
+          path: |
+            playlists/PREMIUM_BEST.m3u
+            playlists/FINAL_ULTIMATE_LIVE_CHECKED.m3u
+            playlists/stats.json
+            playlists/by_country/
+          retention-days: 7
