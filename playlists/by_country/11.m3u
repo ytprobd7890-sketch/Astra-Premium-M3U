@@ -1,0 +1,157 @@
+#EXTM3U
+#EXTINF:-1 group-title="110.39.15.114",.Black
+http://110.39.15.114:8000/play/a04n/index.m3u8
+#EXTINF:-1 group-title="110.39.15.114",.Red
+http://110.39.15.114:8000/play/a04l/index.m3u8
+#EXTINF:-1 group-title="110.39.15.114",.Sci-Fi
+http://110.39.15.114:8000/play/a04m/index.m3u8
+#EXTINF:-1 group-title="119.155.143.222:4600",13 Ulica HD
+http://119.155.143.222:4600/play/a01g/index.m3u8
+#EXTINF:-1 group-title="115.42.65.142:8000",AD SPORTS 1
+http://119.152.22.166:4389/play/a01f/index.m3u8
+#EXTINF:-1 group-title="110.39.15.114",Amedia 1
+http://110.39.15.114:8000/play/a05m/index.m3u8
+#EXTINF:-1 group-title="110.39.15.114",Amedia 2
+http://110.39.15.114:8000/play/a05o/index.m3u8
+#EXTINF:-1 group-title="110.39.15.114",Animal Planet Poland HD
+http://110.39.15.114:8000/play/a03k/index.m3u8
+#EXTINF:-1 group-title="119.155.143.222:4600",AXN SPIN HD tes
+http://119.155.143.222:4600/play/a020/index.m3u8
+#EXTINF:-1 group-title="119.155.143.222:4600",BABY TV
+http://119.155.143.222:4600/play/a031/index.m3u8
+#EXTINF:-1 group-title="119.155.143.222:4600",BBC Earth HD
+http://119.155.143.222:4600/play/a01e/index.m3u8
+#EXTINF:-1 group-title="113.192.47.107:7997",Bein Movies Action 2
+http://119.152.22.162:4389/play/a02k/index.m3u8
+#EXTINF:-1 group-title="113.192.47.107:7997",Bein Movies premier 1
+http://119.152.22.162:4389/play/a024/index.m3u8
+#EXTINF:-1 group-title="113.192.47.107:7997",BEIN SPORTS 3
+http://119.152.22.162:4389/play/a00b/index.m3u8
+#EXTINF:-1 group-title="110.39.15.114",Cinemax HD
+http://110.39.15.114:8000/play/a03d/index.m3u8
+#EXTINF:-1 group-title="110.39.15.114",Comedy Central HD
+http://110.39.15.114:8000/play/a03w/index.m3u8
+#EXTINF:-1 group-title="110.39.15.114",Cricket Gold
+http://110.39.15.114:8000/play/a05f/index.m3u8
+#EXTINF:-1 group-title="110.39.15.114",Da Vinci
+http://110.39.15.114:8000/play/a04s/index.m3u8
+#EXTINF:-1 group-title="110.39.15.114",Discovery Life
+http://110.39.15.114:8000/play/a03a/index.m3u8
+#EXTINF:-1 group-title="110.39.15.114",Discovery Poland HD
+http://110.39.15.114:8000/play/a038/index.m3u8
+#EXTINF:-1 group-title="110.39.15.114",Disney Junior
+http://110.39.15.114:8000/play/a040/index.m3u8
+#EXTINF:-1 group-title="115.42.65.142:8000",DISNEY+
+http://119.152.22.166:4389/play/a03q/index.m3u8
+#EXTINF:-1 group-title="119.155.143.222:4600",DMAX
+http://119.155.143.222:4600/play/a03z/index.m3u8
+#EXTINF:-1 group-title="113.192.47.107:7997",DUBAI SPORTS
+http://119.152.22.162:4389/play/a02o/index.m3u8
+#EXTINF:-1 group-title="119.155.143.222:4600",Eurosport 1 Poland HD
+http://119.155.143.222:4600/play/a040/index.m3u8
+#EXTINF:-1 group-title="119.155.143.222:4600",Eurosport 2 Poland HD
+http://119.155.143.222:4600/play/a012/index.m3u8
+#EXTINF:-1 group-title="110.39.15.114",Extreme Sports
+http://110.39.15.114:8000/play/a05e/index.m3u8
+#EXTINF:-1 group-title="119.155.143.222:4600",Extreme Sports HD
+http://119.155.143.222:4600/play/a01b/index.m3u8
+#EXTINF:-1 group-title="113.192.47.107:7997",FOOD NETWORK
+http://119.152.22.162:4389/play/a03c/index.m3u8
+#EXTINF:-1 group-title="113.192.47.107:7997",FOX SPORTS 1
+http://119.152.22.162:4389/play/a02w/index.m3u8
+#EXTINF:-1 group-title="119.155.143.222:4600",FX HD
+http://119.155.143.222:4600/play/a01i/index.m3u8
+#EXTINF:-1 group-title="110.39.15.114",Golf Zone
+http://110.39.15.114:8000/play/a035/index.m3u8
+#EXTINF:-1 group-title="110.39.15.114",HBO HD
+http://110.39.15.114:8000/play/a03z/index.m3u8
+#EXTINF:-1 group-title="110.39.15.114",HBO2 HD
+http://110.39.15.114:8000/play/a03g/index.m3u8
+#EXTINF:-1 group-title="110.39.15.114",HBO3 HD
+http://110.39.15.114:8000/play/a03i/index.m3u8
+#EXTINF:-1 group-title="110.39.15.114",History 2 HD
+http://110.39.15.114:8000/play/a042/index.m3u8
+#EXTINF:-1 group-title="119.155.143.222:4600",History HD
+http://119.155.143.222:4600/play/a018/index.m3u8
+#EXTINF:-1 group-title="110.39.15.114",ID Poland HD
+http://110.39.15.114:8000/play/a03n/index.m3u8
+#EXTINF:-1 group-title="113.192.47.107:7997",LOVE NATURE
+http://119.152.22.162:4389/play/a02l/index.m3u8
+#EXTINF:-1 group-title="115.42.65.142:8000",MOTOR TREND
+http://119.152.22.166:4389/play/a00g/index.m3u8
+#EXTINF:-1 group-title="110.39.15.114",Nat Geo People HD
+http://110.39.15.114:8000/play/a03x/index.m3u8
+#EXTINF:-1 group-title="119.155.143.222:4600",NATIONAL GEO HD  TES
+http://119.155.143.222:4600/play/a021/index.m3u8
+#EXTINF:-1 group-title="119.155.143.222:4600",National Geographic Wild HD
+http://119.155.143.222:4600/play/a01l/index.m3u8
+#EXTINF:-1 group-title="119.155.143.222:4600",Nick Jr
+http://119.155.143.222:4600/play/a017/index.m3u8
+#EXTINF:-1 group-title="115.42.65.142:8000",NICKEOLODEN
+http://119.152.22.166:4389/play/a031/index.m3u8
+#EXTINF:-1 group-title="110.39.15.114",Ocean
+http://110.39.15.114:8000/play/a05p/index.m3u8
+#EXTINF:-1 group-title="110.39.15.114",OSN Comedy
+http://110.39.15.114:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="110.39.15.114",OSN CRIME
+http://110.39.15.114:8000/play/a02n/index.m3u8
+#EXTINF:-1 group-title="110.39.15.114",OSN MOVIES ACTION
+http://110.39.15.114:8000/play/a060/index.m3u8
+#EXTINF:-1 group-title="110.39.15.114",OSN MOVIES PREMIER
+http://110.39.15.114:8000/play/a02s/index.m3u8
+#EXTINF:-1 group-title="110.39.15.114",OUTDOOR
+http://110.39.15.114:8000/play/a05q/index.m3u8
+#EXTINF:-1 group-title="110.39.15.114",Outdoor Channel
+http://110.39.15.114:8000/play/a05g/index.m3u8
+#EXTINF:-1 group-title="115.42.65.142:8000",PEACE TV URDU
+http://115.42.65.142:8000/play/a037/index.m3u8
+#EXTINF:-1 group-title="110.39.15.114",Plan B HD
+http://110.39.15.114:8000/play/a05d/index.m3u8
+#EXTINF:-1 group-title="110.39.15.114",Polsat Comedy Central Extra
+http://110.39.15.114:8000/play/a04a/index.m3u8
+#EXTINF:-1 group-title="110.39.15.114",RTG TV
+http://110.39.15.114:8000/play/a05n/index.m3u8
+#EXTINF:-1 group-title="119.155.143.222:4600",Science Poland HD
+http://119.155.143.222:4600/play/a01h/index.m3u8
+#EXTINF:-1 group-title="113.192.47.107:7997",SKY GOLF
+http://119.152.22.162:4389/play/a00p/index.m3u8
+#EXTINF:-1 group-title="113.192.47.107:7997",SKY NEWS
+http://119.152.22.162:4389/play/a03p/index.m3u8
+#EXTINF:-1 group-title="115.42.65.142:8000",SKY SPORTS F1
+http://119.152.22.166:4389/play/a02f/index.m3u8
+#EXTINF:-1 group-title="113.192.47.107:7997",SS Football
+http://119.152.22.162:4389/play/a025/index.m3u8
+#EXTINF:-1 group-title="115.42.65.142:8000",SUPER SPORTS 2
+http://119.152.22.166:4389/play/a01l/index.m3u8
+#EXTINF:-1 group-title="113.192.47.107:7997",SUPER SPORTS 3
+http://119.152.22.162:4389/play/a01m/index.m3u8
+#EXTINF:-1 group-title="113.192.47.107:7997",SUPER SPORTS ACTION
+http://119.152.22.162:4389/play/a032/index.m3u8
+#EXTINF:-1 group-title="115.42.65.142:8000",Super Sports Cricket
+http://119.152.22.166:4389/play/a008/index.m3u8
+#EXTINF:-1 group-title="113.192.47.107:7997",super sports premium league
+http://119.152.22.162:4389/play/a02x/index.m3u8
+#EXTINF:-1 group-title="113.192.47.107:7997",SUPER TENNIES
+http://119.152.22.162:4389/play/a002/index.m3u8
+#EXTINF:-1 group-title="110.39.15.114",TV XXI
+http://110.39.15.114:8000/play/a04o/index.m3u8
+#EXTINF:-1 group-title="111.119.160.92:8000",Venus_tv_76.6
+http://103.76.111.180:8000/play/a070
+#EXTINF:-1 group-title="110.39.15.114",viju Explore
+http://110.39.15.114:8000/play/a04v/index.m3u8
+#EXTINF:-1 group-title="110.39.15.114",viju History
+http://110.39.15.114:8000/play/a04w/index.m3u8
+#EXTINF:-1 group-title="110.39.15.114",viju Nature
+http://110.39.15.114:8000/play/a04x/index.m3u8
+#EXTINF:-1 group-title="110.39.15.114",viju TV1000
+http://110.39.15.114:8000/play/a04u/index.m3u8
+#EXTINF:-1 group-title="110.39.15.114",viju TV1000 action
+http://110.39.15.114:8000/play/a04t/index.m3u8
+#EXTINF:-1 group-title="110.39.15.114",viju+ Sport
+http://110.39.15.114:8000/play/a04y/index.m3u8
+#EXTINF:-1 group-title="110.39.15.114",World Fishing Network
+http://110.39.15.114:8000/play/a05h/index.m3u8
+#EXTINF:-1 group-title="110.39.15.114",СТС Kids
+http://110.39.15.114:8000/play/a05r/index.m3u8
+#EXTINF:-1 group-title="110.39.15.114",ТНТ Music
+http://110.39.15.114:8000/play/a04r/index.m3u8

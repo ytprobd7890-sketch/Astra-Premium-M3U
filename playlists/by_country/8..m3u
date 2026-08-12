@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 group-title="8.243.126.131:8000" tvg-name="05-SD Golden",05-SD Golden [8.243.126.131:8000]
+http://38.52.182.236:9000/play/a0g4/index.m3u8
+#EXTINF:-1 group-title="8.243.126.131:8000" tvg-name="05-SD Golden Edge",05-SD Golden Edge [8.243.126.131:8000]
+http://38.52.182.236:9000/play/a0g2/index.m3u8
+#EXTINF:-1 group-title="8.243.126.131:8000" tvg-name="05-SD Golf Channel",05-SD Golf Channel [8.243.126.131:8000]
+http://38.52.182.236:9000/play/a00z/index.m3u8
+#EXTINF:-1 group-title="8.243.126.131:8000" tvg-name="05-SD HBO Plus",05-SD HBO Plus [8.243.126.131:8000]
+http://38.52.182.236:9000/play/a07q/index.m3u8
+#EXTINF:-1 group-title="8.243.126.131:8000" tvg-name="05-SD History 2",05-SD History 2 [8.243.126.131:8000]
+http://38.52.182.236:9000/play/a02n/index.m3u8
+#EXTINF:-1 group-title="8.243.126.131:8000" tvg-name="05-SD MasChic",05-SD MasChic [8.243.126.131:8000]
+http://38.52.182.236:9000/play/a02q/index.m3u8
+#EXTINF:-1 group-title="8.243.126.131:8000" tvg-name="05-SD Nick Music",05-SD Nick Music [8.243.126.131:8000]
+http://38.52.182.236:9000/play/a02v/index.m3u8
+#EXTINF:-1 group-title="8.243.126.131:8000" tvg-name="05-SD NTN 24 Horas",05-SD NTN 24 Horas [8.243.126.131:8000]
+http://38.52.182.236:9000/play/a043/index.m3u8
+#EXTINF:-1 group-title="8.243.126.131:8000" tvg-name="05-SD Nuestra Tele SD",05-SD Nuestra Tele SD [8.243.126.131:8000]
+http://38.52.182.236:9000/play/a0g0/index.m3u8
+#EXTINF:-1 group-title="8.243.126.131:8000" tvg-name="05-SD RTU",05-SD RTU [8.243.126.131:8000]
+http://38.52.182.236:9000/play/a0ga/index.m3u8
+#EXTINF:-1 group-title="8.243.126.131:8000" tvg-name="05-SD TCM",05-SD TCM [8.243.126.131:8000]
+http://38.52.182.236:9000/play/a0g5/index.m3u8
+#EXTINF:-1 group-title="8.243.126.131:8000" tvg-name="05-SD Teen Nick",05-SD Teen Nick [8.243.126.131:8000]
+http://38.52.182.236:9000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="8.243.126.131:8000" tvg-name="05-SD USA",05-SD USA [8.243.126.131:8000]
+http://38.52.182.236:9000/play/a02y/index.m3u8
+#EXTINF:-1 group-title="8.243.126.131:8000" tvg-name="05-SD Venus",05-SD Venus [8.243.126.131:8000]
+http://38.52.182.236:9000/play/a0g8/index.m3u8
+#EXTINF:-1 group-title="8.243.126.131:8000" tvg-name="05-SD Via X Esports",05-SD Via X Esports [8.243.126.131:8000]
+http://38.52.182.236:9000/play/a01q/index.m3u8
