@@ -3,18 +3,18 @@
 http://110.39.15.114:8000/play/a04n/index.m3u8
 #EXTINF:-1 group-title="110.39.15.114",.Red
 http://110.39.15.114:8000/play/a04l/index.m3u8
+#EXTINF:-1 group-title="110.39.15.114",.Sci-Fi
+http://110.39.15.114:8000/play/a04m/index.m3u8
 #EXTINF:-1 group-title="110.39.15.114",Amedia 1
 http://110.39.15.114:8000/play/a05m/index.m3u8
 #EXTINF:-1 group-title="110.39.15.114",Amedia 2
 http://110.39.15.114:8000/play/a05o/index.m3u8
-#EXTINF:-1 group-title="110.39.15.114",Animal Planet Poland HD
-http://110.39.15.114:8000/play/a03k/index.m3u8
+#EXTINF:-1 group-title="110.39.15.114",BBC FIRST
+http://110.39.15.114:8000/play/a02y/index.m3u8
 #EXTINF:-1 group-title="110.39.15.114",Cricket Gold
 http://110.39.15.114:8000/play/a05f/index.m3u8
 #EXTINF:-1 group-title="110.39.15.114",Da Vinci
 http://110.39.15.114:8000/play/a04s/index.m3u8
-#EXTINF:-1 group-title="110.39.15.114",Discovery Life
-http://110.39.15.114:8000/play/a03a/index.m3u8
 #EXTINF:-1 group-title="110.39.15.114",Discovery Poland HD
 http://110.39.15.114:8000/play/a038/index.m3u8
 #EXTINF:-1 group-title="110.39.15.114",Eurosport 2 Poland HD
@@ -23,8 +23,14 @@ http://110.39.15.114:8000/play/a03m/index.m3u8
 http://110.39.15.114:8000/play/a03y/index.m3u8
 #EXTINF:-1 group-title="110.39.15.114",Golf Zone
 http://110.39.15.114:8000/play/a035/index.m3u8
+#EXTINF:-1 group-title="110.39.15.114",HBO2 HD
+http://110.39.15.114:8000/play/a03g/index.m3u8
 #EXTINF:-1 group-title="110.39.15.114",HBO3 HD
 http://110.39.15.114:8000/play/a03i/index.m3u8
+#EXTINF:-1 group-title="110.39.15.114",ID Poland HD
+http://110.39.15.114:8000/play/a03n/index.m3u8
+#EXTINF:-1 group-title="110.39.15.114",Nat Geo People HD
+http://110.39.15.114:8000/play/a03x/index.m3u8
 #EXTINF:-1 group-title="110.39.15.114",National Geographic Wild HD
 http://110.39.15.114:8000/play/a03h/index.m3u8
 #EXTINF:-1 group-title="110.39.15.114",Ocean
@@ -45,8 +51,6 @@ http://110.39.15.114:8000/play/a05d/index.m3u8
 http://110.39.15.114:8000/play/a04a/index.m3u8
 #EXTINF:-1 group-title="110.39.15.114",RTG TV
 http://110.39.15.114:8000/play/a05n/index.m3u8
-#EXTINF:-1 group-title="110.39.15.114",SciFi HD
-http://110.39.15.114:8000/play/a034/index.m3u8
 #EXTINF:-1 group-title="110.39.15.114",TV XXI
 http://110.39.15.114:8000/play/a04o/index.m3u8
 #EXTINF:-1 group-title="110.39.15.114",viju Explore
