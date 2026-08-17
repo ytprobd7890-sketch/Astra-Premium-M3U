@@ -1,70 +1,84 @@
 #EXTM3U
+#EXTINF:-1 group-title="103.183.69.179",0001_TSPORTS
+http://103.183.69.179:8000/play/a09w/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Ananda TV
 http://103.183.69.179:8000/play/a0ar/index.m3u8
-#EXTINF:-1 group-title="103.183.69.179",Asianet HD - Rs 30.00
-http://103.183.69.179:8000/play/a0pg/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",ATN Bangla
 http://103.183.69.179:8000/play/a0ag/index.m3u8
+#EXTINF:-1 group-title="103.183.69.179",Boishakhi TV
+http://103.183.69.179:8000/play/a0a7/index.m3u8
+#EXTINF:-1 group-title="103.183.69.179",BTV Chattagram
+http://103.183.69.179:8000/play/a0a1/index.m3u8
+#EXTINF:-1 group-title="103.183.69.179",BTV HD
+http://103.183.69.179:8000/play/a0a4/index.m3u8
+#EXTINF:-1 group-title="103.183.69.179",BTV NEWS HD
+http://103.183.69.179:8000/play/a0a5/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Channel 24HD
 http://103.183.69.179:8000/play/a0ab/index.m3u8
-#EXTINF:-1 group-title="103.31.178.157",COLORS BANGLA CINEMA
-http://103.31.178.157:8839/play/a00v/index.m3u8
-#EXTINF:-1 group-title="103.31.178.157",COLORS CINEPLEX HD
-http://103.31.178.157:8839/play/a01s/index.m3u8
-#EXTINF:-1 group-title="103.31.178.157",COLORS INFINITY HD
-http://103.31.178.157:8839/play/a009/index.m3u8
-#EXTINF:-1 group-title="103.183.69.179",Colors Marathi HD - Rs 19.00
-http://103.183.69.179:8000/play/a0g0/index.m3u8
-#EXTINF:-1 group-title="103.183.69.179",Ekattor TV HD
-http://103.183.69.179:8000/play/a0ak/index.m3u8
+#EXTINF:-1 group-title="103.183.69.179",Colors Kannada HD - Rs 30.00
+http://103.183.69.179:8000/play/a0g3/index.m3u8
+#EXTINF:-1 group-title="103.183.69.179",EKHON TV
+http://103.183.69.179:8000/play/a0ac/index.m3u8
+#EXTINF:-1 group-title="103.183.69.179",Ekushey TV
+http://103.183.69.179:8000/play/a0as/index.m3u8
 #EXTINF:-1 group-title="103.31.178.157",ENTERR 10 BANGLA
 http://103.31.178.157:8839/play/a00w/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",GLOBAL TV HD
 http://103.183.69.179:8000/play/a0ad/index.m3u8
-#EXTINF:-1 group-title="103.31.178.157",GOOD TIMES
-http://103.31.178.157:8839/play/a00g/index.m3u8
 #EXTINF:-1 group-title="103.31.178.157",JALSHA MOVIES
 http://103.31.178.157:8839/play/a019/index.m3u8
+#EXTINF:-1 group-title="103.183.69.179",Jamuna Television
+http://103.183.69.179:8000/play/a0at/index.m3u8
 #EXTINF:-1 group-title="103.76.111.178",kids_zone (raw TS)
 http://103.76.111.180:8000/play/a08t
-#EXTINF:-1 group-title="103.183.69.179",Madani TV
-http://103.183.69.179:8000/play/a0ae/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",MYTV HD
 http://103.183.69.179:8000/play/a0au/index.m3u8
-#EXTINF:-1 group-title="103.31.178.157",NAT GEO HD
-http://103.31.178.157:8839/play/a01l/index.m3u8
 #EXTINF:-1 group-title="103.31.178.157",NICK HD+
 http://103.31.178.157:8839/play/a00a/index.m3u8
+#EXTINF:-1 group-title="103.183.69.179",Rtv HD
+http://103.183.69.179:8000/play/a0a8/index.m3u8
+#EXTINF:-1 group-title="103.183.69.179",SA TV HD
+http://103.183.69.179:8000/play/a0a2/index.m3u8
+#EXTINF:-1 group-title="103.183.69.179",SANGSAD TV HD
+http://103.183.69.179:8000/play/a0a9/index.m3u8
+#EXTINF:-1 group-title="103.31.178.157",SET HD
+http://103.31.178.157:8839/play/a01z/index.m3u8
 #EXTINF:-1 group-title="103.31.178.157",SONY AATH
 http://103.31.178.157:8839/play/a022/index.m3u8
 #EXTINF:-1 group-title="103.31.178.157",SONY MAX 1
 http://103.31.178.157:8839/play/a00t/index.m3u8
+#EXTINF:-1 group-title="103.183.69.179",SONY MAX HD - Rs 19.00
+http://103.183.69.179:8000/play/a0fu/index.m3u8
+#EXTINF:-1 group-title="103.31.178.157",SONY SPORTS 2 HD
+http://103.31.178.157:8839/play/a01t/index.m3u8
+#EXTINF:-1 group-title="103.183.69.179",SONY SPORTS TEN 3 Hindi - Rs 19.00
+http://103.183.69.179:8000/play/a0k9/index.m3u8
+#EXTINF:-1 group-title="103.183.69.179",Star Bharat HD - Rs 19.00
+http://103.183.69.179:8000/play/a0g5/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",STAR Maa HD - Rs 30.00
 http://103.183.69.179:8000/play/a0p6/index.m3u8
+#EXTINF:-1 group-title="103.31.178.157",STAR MOVIES SELECT HD
+http://103.31.178.157:8839/play/a007/index.m3u8
+#EXTINF:-1 group-title="103.31.178.157",STAR SPORTS 1 HD
+http://103.31.178.157:8839/play/a00m/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Star Sports 1 Telugu HD - Rs 19.00
 http://103.183.69.179:8000/play/a0kz/index.m3u8
-#EXTINF:-1 group-title="103.31.178.157",STAR SPORTS 2
-http://103.31.178.157:8839/play/a00y/index.m3u8
+#EXTINF:-1 group-title="103.183.69.179",Star Sports 2 - Rs 19.00
+http://103.183.69.179:8000/play/a0n4/index.m3u8
 #EXTINF:-1 group-title="103.31.178.157",STAR SPORTS 2 TELEGU
 http://103.31.178.157:8839/play/a001/index.m3u8
-#EXTINF:-1 group-title="103.31.178.157",STAR SPORTS S1 HD
-http://103.31.178.157:8839/play/a00e/index.m3u8
-#EXTINF:-1 group-title="103.31.178.157",STAR SPORTS S2 HD
-http://103.31.178.157:8839/play/a00c/index.m3u8
-#EXTINF:-1 group-title="103.183.69.179",Star Suvarna HD - Rs 25.00
-http://103.183.69.179:8000/play/a0l3/index.m3u8
+#EXTINF:-1 group-title="103.31.178.157",STAR SPORTS 3
+http://103.31.178.157:8839/play/a00x/index.m3u8
 #EXTINF:-1 group-title="103.31.178.157",SUN BANGLA
 http://103.31.178.157:8839/play/a00k/index.m3u8
 #EXTINF:-1 group-title="103.31.178.157",SUN MUSIC
 http://103.31.178.157:8839/play/a006/index.m3u8
-#EXTINF:-1 group-title="103.183.69.179",Sun Udaya Comedy - Rs 7.00
-http://103.183.69.179:8000/play/a0kc/index.m3u8
+#EXTINF:-1 group-title="103.183.69.179",Sun Udaya HD - Rs 19.00
+http://103.183.69.179:8000/play/a0p7/index.m3u8
 #EXTINF:-1 group-title="103.31.178.157",TATA FANCODE HD
 http://103.31.178.157:8839/play/a01e/index.m3u8
 #EXTINF:-1 group-title="103.31.178.157",TRAVEL XP HD
 http://103.31.178.157:8839/play/a00h/index.m3u8
-#EXTINF:-1 group-title="103.183.69.179",Unite8 Sports 2 - Rs 8.00
-http://103.183.69.179:8000/play/a0n0/index.m3u8
 #EXTINF:-1 group-title="103.31.178.157",VIJAY SUPER HD
 http://103.31.178.157:8839/play/a00u/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Vijay Takkar - Rs 2.00
