@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="india_new_59.103.38.45_8000.m3u",CBeebies - Rs 3.00
-http://59.103.38.45:8000/play/a0a2/index.m3u8
 #EXTINF:-1 group-title="india_new_59.103.38.45_8000.m3u",Nat Geo Wild HD - Rs 8.00
 http://59.103.38.45:8000/play/a05j/index.m3u8
+#EXTINF:-1 group-title="india_new_59.103.38.45_8000.m3u",Sonic - Rs 1.00
+http://59.103.38.45:8000/play/a02t/index.m3u8
+#EXTINF:-1 group-title="india_new_59.103.38.45_8000.m3u",Sports 18 3 - Rs 4.00
+http://59.103.38.45:8000/play/a026/index.m3u8
