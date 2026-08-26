@@ -1,3 +1,31 @@
 #EXTM3U
-#EXTINF:-1 group-title="india_new_59.103.38.45_8000.m3u",Star Sports 1 HD - Rs 19.00
-http://59.103.38.45:8000/play/a00a/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",AGN NEWSE
+http://115.42.65.142:8000/play/a01y/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Alief TV
+http://115.42.65.142:8000/play/a042/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",ARUJ TV
+http://115.42.65.142:8000/play/a023/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",ARYZindagi
+http://115.42.65.142:8000/play/a016/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",AsiaOne
+http://115.42.65.142:8000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",ByPass 16
+http://115.42.65.142:8000/play/a03y/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",CITY-21
+http://115.42.65.142:8000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="india_new_59.103.38.45_8000.m3u",Colors Cineplex Bollywood - Rs 0.10
+http://59.103.38.45:8000/play/a058/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",DAWN NEWS
+http://115.42.65.142:8000/play/a00k/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",DW
+http://115.42.65.142:8000/play/a00l/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Lahore Rang HD
+http://115.42.65.142:8000/play/a03c/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Play TV
+http://115.42.65.142:8000/play/a03n/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",ten sports
+http://115.42.65.142:8000/play/a011/index.m3u8
+#EXTINF:-1 group-title="india_new_59.103.38.45_8000.m3u",Travelxp HD - Rs 9.00
+http://59.103.38.45:8000/play/a04o/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",WASEB
+http://115.42.65.142:8000/play/a039/index.m3u8
