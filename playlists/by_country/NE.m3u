@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",&pictures HD
-http://103.119.94.1:7080/play/a0si/index.m3u8
 #EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",13-Sinart
 http://38.131.62.104:8000/play/a0fs/index.m3u8
 #EXTINF:-1 group-title="new_186.33.1.71_8000_playlist.m3u.m3u",1MUZ BIELORUSIA
@@ -13,8 +11,12 @@ http://186.33.1.71:8000/play/a05u/index.m3u8
 http://103.119.94.1:7080/play/a098/index.m3u8
 #EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",ACTION CINEMA
 http://103.119.94.1:7080/play/a0tm/index.m3u8
+#EXTINF:-1 group-title="new_186.33.47.113_8000_playlist.m3u.m3u",AE Mundo
+http://186.33.47.113:8000/play/a043/index.m3u8
 #EXTINF:-1 group-title="new_103.150.234.115_8000_playlist.m3u.m3u",Al jazeera
 http://103.151.60.184:8000/play/a0ff/index.m3u8
+#EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",Al Jazeera English
+http://103.119.94.1:7080/play/a004/index.m3u8
 #EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",ALIENTO VISION CRISTIANO
 http://38.131.62.104:8000/play/a0ie/index.m3u8
 #EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",All Time Movies
@@ -23,6 +25,10 @@ http://103.119.94.1:7080/play/a0i1/index.m3u8
 http://38.131.62.104:8000/play/a0ny/index.m3u8
 #EXTINF:-1 group-title="new_186.33.1.71_8000_playlist.m3u.m3u",AMERICA TV USA
 http://186.33.1.71:8000/play/a0de/index.m3u8
+#EXTINF:-1 group-title="new_36.50.22.214_8000_playlist.m3u.m3u",ANANDA TV
+http://36.50.22.214:8000/play/a00e/index.m3u8
+#EXTINF:-1 group-title="new_103.150.234.115_8000_playlist.m3u.m3u",Animal Planet
+http://103.151.60.184:8000/play/a01l/index.m3u8
 #EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",ANMOL CINEMA
 http://103.119.94.1:7080/play/a0tz/index.m3u8
 #EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",ANMOL CINEMA 2
@@ -31,16 +37,14 @@ http://103.119.94.1:7080/play/a0tn/index.m3u8
 http://103.119.94.1:7080/play/a0tt/index.m3u8
 #EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",ANTENA 7 CATV
 http://38.131.62.104:8000/play/a0nl/index.m3u8
-#EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",Antena 7- RD
-http://38.131.62.104:8000/play/a0hq/index.m3u8
-#EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",Atres Series
-http://38.131.62.104:8000/play/a0gs/index.m3u8
-#EXTINF:-1 group-title="new_186.33.47.113_8000_playlist.m3u.m3u",AXN
-http://186.33.47.113:8000/play/a04h/index.m3u8
+#EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",Asianet HD - Rs 30.00
+http://103.119.94.1:7080/play/a0yk/index.m3u8
 #EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",AXN CATV
 http://38.131.62.104:8000/play/a0nm/index.m3u8
 #EXTINF:-1 group-title="new_186.33.1.71_8000_playlist.m3u.m3u",AZ click HD
 http://186.33.1.71:8000/play/a0gz/index.m3u8
+#EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",Azcorazon
+http://38.131.62.104:8000/play/a064/index.m3u8
 #EXTINF:-1 group-title="new_186.33.1.71_8000_playlist.m3u.m3u",AZTECA + CLASIC
 http://186.33.1.71:8000/play/a04p/index.m3u8
 #EXTINF:-1 group-title="new_186.33.1.71_8000_playlist.m3u.m3u",AZTECA 1
@@ -53,14 +57,18 @@ http://186.33.1.71:8000/play/a05t/index.m3u8
 http://186.33.1.71:8000/play/a0h8/index.m3u8
 #EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",B4U Bhojpuri
 http://103.119.94.1:7080/play/a0hz/index.m3u8
+#EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",B4U Kadak
+http://103.119.94.1:7080/play/a0i7/index.m3u8
 #EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",B4U Movies
 http://103.119.94.1:7080/play/a0i0/index.m3u8
+#EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",B4U Music
+http://103.119.94.1:7080/play/a0hy/index.m3u8
 #EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",BABY TV CATV
 http://38.131.62.104:8000/play/a0ns/index.m3u8
-#EXTINF:-1 group-title="new_186.33.1.71_8000_playlist.m3u.m3u",BANDAMAX
-http://186.33.1.71:8000/play/a0i0/index.m3u8
-#EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",BBC News
-http://103.119.94.1:7080/play/a0da/index.m3u8
+#EXTINF:-1 group-title="new_103.150.234.115_8000_playlist.m3u.m3u",BBC News
+http://103.151.60.184:8000/play/a0fl/index.m3u8
+#EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",BBC World
+http://38.131.62.104:8000/play/a08l/index.m3u8
 #EXTINF:-1 group-title="new_103.150.234.115_8000_playlist.m3u.m3u",Bein 1
 http://103.151.60.184:8000/play/a0fb/index.m3u8
 #EXTINF:-1 group-title="new_103.150.234.115_8000_playlist.m3u.m3u",Bein 2
@@ -69,6 +77,8 @@ http://103.151.60.184:8000/play/a0fc/index.m3u8
 http://103.151.60.184:8000/play/a00t/index.m3u8
 #EXTINF:-1 group-title="new_186.33.1.71_8000_playlist.m3u.m3u",Boomerang
 http://186.33.1.71:8000/play/a0g0/index.m3u8
+#EXTINF:-1 group-title="new_36.50.22.214_8000_playlist.m3u.m3u",BTV Chattagram
+http://36.50.22.214:8000/play/a009/index.m3u8
 #EXTINF:-1 group-title="new_186.33.1.71_8000_playlist.m3u.m3u",BUNDES LIGA
 http://186.33.1.71:8000/play/a045/index.m3u8
 #EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",Canal 10 - ESA
@@ -83,16 +93,18 @@ http://38.131.62.104:8000/play/a0g2/index.m3u8
 http://38.131.62.104:8000/play/a0fu/index.m3u8
 #EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",CANAL 13 - NI
 http://38.131.62.104:8000/play/a0g7/index.m3u8
-#EXTINF:-1 group-title="new_186.33.1.71_8000_playlist.m3u.m3u",Canal 13-GUA
-http://186.33.1.71:8000/play/a0jj/index.m3u8
 #EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",Canal 14 - NIC
 http://38.131.62.104:8000/play/a0g5/index.m3u8
+#EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",Canal 2 - NIC
+http://38.131.62.104:8000/play/a0gg/index.m3u8
 #EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",Canal 21 - ESA
 http://38.131.62.104:8000/play/a0fq/index.m3u8
 #EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",CANAL 25 CATV
 http://38.131.62.104:8000/play/a0o3/index.m3u8
 #EXTINF:-1 group-title="new_186.33.1.71_8000_playlist.m3u.m3u",CANAL 27
 http://186.33.1.71:8000/play/a03v/index.m3u8
+#EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",Canal 3 Telesistemas HND
+http://38.131.62.104:8000/play/a0dt/index.m3u8
 #EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",Canal 4 - ESA
 http://38.131.62.104:8000/play/a0gc/index.m3u8
 #EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",Canal 5 - HON
@@ -103,20 +115,18 @@ http://186.33.1.71:8000/play/a03z/index.m3u8
 http://38.131.62.104:8000/play/a0g1/index.m3u8
 #EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",Canal 6 - NI
 http://38.131.62.104:8000/play/a0ck/index.m3u8
-#EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",Canal 8 TNH HN
-http://38.131.62.104:8000/play/a0gj/index.m3u8
+#EXTINF:-1 group-title="new_186.33.1.71_8000_playlist.m3u.m3u",Canal Antigua - GUA
+http://186.33.1.71:8000/play/a0h2/index.m3u8
 #EXTINF:-1 group-title="new_186.33.1.71_8000_playlist.m3u.m3u",Canal Azteca - GUA
 http://186.33.1.71:8000/play/a0h3/index.m3u8
 #EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",CANAL DE LAS ESTRELLAS
 http://38.131.62.104:8000/play/a0i5/index.m3u8
 #EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",CANAL DE LAS ESTRELLAS CATV
 http://38.131.62.104:8000/play/a0nx/index.m3u8
-#EXTINF:-1 group-title="new_186.33.47.113_8000_playlist.m3u.m3u",Canal Estrellas
-http://186.33.47.113:8000/play/a044/index.m3u8
 #EXTINF:-1 group-title="new_186.33.1.71_8000_playlist.m3u.m3u",CANAL LOCAL
 http://186.33.1.71:8000/play/a0fk/index.m3u8
-#EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",Caracol
-http://38.131.62.104:8000/play/a0nc/index.m3u8
+#EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",Canal VTV HND
+http://38.131.62.104:8000/play/a0du/index.m3u8
 #EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",CARTOON NETWORK CATV
 http://38.131.62.104:8000/play/a0nf/index.m3u8
 #EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",CARTOON NT HD
@@ -127,48 +137,48 @@ http://38.131.62.104:8000/play/a0o1/index.m3u8
 http://38.131.62.104:8000/play/a07e/index.m3u8
 #EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",CDN37 - RD
 http://38.131.62.104:8000/play/a027/index.m3u8
-#EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",CERTV
-http://38.131.62.104:8000/play/a072/index.m3u8
 #EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",CERTV CATV
 http://38.131.62.104:8000/play/a0nz/index.m3u8
-#EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",Channel S
-http://103.119.94.1:7080/play/a0yg/index.m3u8
 #EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",CIELO TV
 http://38.131.62.104:8000/play/a0i9/index.m3u8
 #EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",Cine Latino
 http://38.131.62.104:8000/play/a05p/index.m3u8
-#EXTINF:-1 group-title="new_186.33.47.113_8000_playlist.m3u.m3u",Cinemax
-http://186.33.47.113:8000/play/a04f/index.m3u8
-#EXTINF:-1 group-title="new_186.33.1.71_8000_playlist.m3u.m3u",CLAN
-http://186.33.1.71:8000/play/a0dl/index.m3u8
+#EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",CineMax
+http://38.131.62.104:8000/play/a033/index.m3u8
+#EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",CLAN
+http://38.131.62.104:8000/play/a0nb/index.m3u8
 #EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",Claro Musica
 http://38.131.62.104:8000/play/a0fx/index.m3u8
-#EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",Claro Sports 1 HD
-http://38.131.62.104:8000/play/a0dp/index.m3u8
+#EXTINF:-1 group-title="new_186.33.1.71_8000_playlist.m3u.m3u",Claro Sports 1 HD
+http://186.33.1.71:8000/play/a05g/index.m3u8
+#EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",Claro Sports 2 HD
+http://38.131.62.104:8000/play/a08w/index.m3u8
 #EXTINF:-1 group-title="new_186.33.1.71_8000_playlist.m3u.m3u",Claro Sports 3 HD
 http://186.33.1.71:8000/play/a05i/index.m3u8
-#EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",CNBC
-http://38.131.62.104:8000/play/a0nd/index.m3u8
 #EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",CNBC TV18 Prime HD - Rs 1.00
 http://103.119.94.1:7080/play/a0pf/index.m3u8
 #EXTINF:-1 group-title="new_103.150.234.115_8000_playlist.m3u.m3u",CNN
 http://103.151.60.184:8000/play/a0fg/index.m3u8
+#EXTINF:-1 group-title="new_186.33.47.113_8000_playlist.m3u.m3u",CNN Espanol
+http://186.33.47.113:8000/play/a05p/index.m3u8
 #EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",CNN News 18
 http://103.119.94.1:7080/play/a00k/index.m3u8
-#EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",Color Vision 9 - RD
-http://38.131.62.104:8000/play/a026/index.m3u8
 #EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",Colors Bangla Cinema
 http://103.119.94.1:7080/play/a0w6/index.m3u8
-#EXTINF:-1 group-title="new_103.155.18.185_8000_playlist.m3u.m3u",Colors Cineplex Bollywood - Rs 0.10
-http://103.155.18.185:8000/play/a058/index.m3u8
 #EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",Colors Cineplex HD - Rs 19.00
 http://103.119.94.1:7080/play/a0lb/index.m3u8
-#EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",Colors Cineplex Superhits
-http://103.119.94.1:7080/play/a0i4/index.m3u8
+#EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",Colors Infinity HD - Rs 15.00
+http://103.119.94.1:7080/play/a0v1/index.m3u8
 #EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",COLORS RISHTEY
 http://103.119.94.1:7080/play/a0u1/index.m3u8
+#EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",Concert Channel
+http://38.131.62.104:8000/play/a0f7/index.m3u8
+#EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",CORAL 39
+http://38.131.62.104:8000/play/a0ib/index.m3u8
 #EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",CORAL 39 CATV 239
 http://38.131.62.104:8000/play/a0ne/index.m3u8
+#EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",Dangal 2
+http://103.119.94.1:7080/play/a0i3/index.m3u8
 #EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",DD National HD
 http://103.119.94.1:7080/play/a0hv/index.m3u8
 #EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",DD News HD
@@ -179,24 +189,18 @@ http://103.119.94.1:7080/play/a0hw/index.m3u8
 http://103.151.60.184:8000/play/a018/index.m3u8
 #EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",Deshi TV
 http://103.119.94.1:7080/play/a0ib/index.m3u8
-#EXTINF:-1 group-title="new_186.33.1.71_8000_playlist.m3u.m3u",DHE HD
-http://186.33.1.71:8000/play/a0gy/index.m3u8
 #EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",Digital 15 - RD
 http://38.131.62.104:8000/play/a04i/index.m3u8
+#EXTINF:-1 group-title="new_186.33.47.113_8000_playlist.m3u.m3u",Discovery Channel
+http://186.33.47.113:8000/play/a08g/index.m3u8
 #EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",DISCOVERY CHANNEL CATV
 http://38.131.62.104:8000/play/a0ni/index.m3u8
 #EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",Discovery Home & Health
 http://38.131.62.104:8000/play/a08p/index.m3u8
-#EXTINF:-1 group-title="new_186.33.47.113_8000_playlist.m3u.m3u",Discovery Kids
-http://186.33.47.113:8000/play/a05o/index.m3u8
 #EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",DISCOVERY KIDS CATV
 http://38.131.62.104:8000/play/a0nh/index.m3u8
-#EXTINF:-1 group-title="new_186.33.1.71_8000_playlist.m3u.m3u",DISCOVERY THEATHER HD
-http://186.33.1.71:8000/play/a0hv/index.m3u8
-#EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",Discovery Turbo
-http://38.131.62.104:8000/play/a073/index.m3u8
-#EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",Disney JR
-http://38.131.62.104:8000/play/a021/index.m3u8
+#EXTINF:-1 group-title="new_186.33.47.113_8000_playlist.m3u.m3u",Disney Channel
+http://186.33.47.113:8000/play/a03v/index.m3u8
 #EXTINF:-1 group-title="new_186.33.1.71_8000_playlist.m3u.m3u",DISTRITO COMEDIAHD
 http://186.33.1.71:8000/play/a05l/index.m3u8
 #EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",Duronto TV
@@ -205,24 +209,24 @@ http://103.119.94.1:7080/play/a0y0/index.m3u8
 http://103.119.94.1:7080/play/a00i/index.m3u8
 #EXTINF:-1 group-title="new_186.33.47.113_8000_playlist.m3u.m3u",E Entertainment
 http://186.33.47.113:8000/play/a03z/index.m3u8
-#EXTINF:-1 group-title="new_186.33.47.113_8000_playlist.m3u.m3u",ECDF SD
-http://186.33.47.113:8000/play/a04u/index.m3u8
+#EXTINF:-1 group-title="new_186.33.1.71_8000_playlist.m3u.m3u",E! Entertairment HD
+http://186.33.1.71:8000/play/a0gr/index.m3u8
+#EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",El Gourmet
+http://38.131.62.104:8000/play/a07i/index.m3u8
 #EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",EN LLAMAS TV
 http://38.131.62.104:8000/play/a0i6/index.m3u8
-#EXTINF:-1 group-title="new_186.33.47.113_8000_playlist.m3u.m3u",Enlace
-http://186.33.47.113:8000/play/a03g/index.m3u8
 #EXTINF:-1 group-title="new_103.150.234.115_8000_playlist.m3u.m3u",ENter 10 Bangla
 http://103.151.60.184:8000/play/a0fa/index.m3u8
-#EXTINF:-1 group-title="new_186.33.47.113_8000_playlist.m3u.m3u",ESPN 4
-http://186.33.47.113:8000/play/a05l/index.m3u8
-#EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",ESPN 5 HD
-http://38.131.62.104:8000/play/a0ha/index.m3u8
-#EXTINF:-1 group-title="new_186.33.1.71_8000_playlist.m3u.m3u",ESPN HD
-http://186.33.1.71:8000/play/a0kg/index.m3u8
+#EXTINF:-1 group-title="new_186.33.47.113_8000_playlist.m3u.m3u",ESPN 3
+http://186.33.47.113:8000/play/a04m/index.m3u8
+#EXTINF:-1 group-title="new_186.33.1.71_8000_playlist.m3u.m3u",EURO Channel
+http://186.33.1.71:8000/play/a00x/index.m3u8
 #EXTINF:-1 group-title="new_186.33.1.71_8000_playlist.m3u.m3u",Europa HD
 http://186.33.1.71:8000/play/a00u/index.m3u8
 #EXTINF:-1 group-title="new_103.150.234.115_8000_playlist.m3u.m3u",EuroSports
 http://103.151.60.184:8000/play/a01i/index.m3u8
+#EXTINF:-1 group-title="new_186.33.1.71_8000_playlist.m3u.m3u",Exa TV
+http://186.33.1.71:8000/play/a0hk/index.m3u8
 #EXTINF:-1 group-title="new_103.150.234.115_8000_playlist.m3u.m3u",Fifa Unity HD 2
 http://103.151.60.184:8000/play/a0f8/index.m3u8
 #EXTINF:-1 group-title="new_103.150.234.115_8000_playlist.m3u.m3u",Fifa unity SD 2
@@ -235,54 +239,52 @@ http://186.33.1.71:8000/play/a0fn/index.m3u8
 http://186.33.1.71:8000/play/a0fm/index.m3u8
 #EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",Fox Sport 3
 http://38.131.62.104:8000/play/a05b/index.m3u8
+#EXTINF:-1 group-title="new_186.33.1.71_8000_playlist.m3u.m3u",FOX SPORTS 2
+http://186.33.1.71:8000/play/a0dd/index.m3u8
 #EXTINF:-1 group-title="new_186.33.47.113_8000_playlist.m3u.m3u",Fox Sports 3
 http://186.33.47.113:8000/play/a046/index.m3u8
-#EXTINF:-1 group-title="new_186.33.1.71_8000_playlist.m3u.m3u",FX HD
-http://186.33.1.71:8000/play/a0gw/index.m3u8
+#EXTINF:-1 group-title="new_186.33.47.113_8000_playlist.m3u.m3u",FX
+http://186.33.47.113:8000/play/a04j/index.m3u8
 #EXTINF:-1 group-title="new_186.33.47.113_8000_playlist.m3u.m3u",GamaTV
 http://186.33.47.113:8000/play/a05n/index.m3u8
 #EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",Golden Premiere 2 HD
 http://38.131.62.104:8000/play/a0dh/index.m3u8
+#EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",Golden Premiere HD
+http://38.131.62.104:8000/play/a0dg/index.m3u8
 #EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",Goldmines Movies
 http://103.119.94.1:7080/play/a0ic/index.m3u8
 #EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",GOOD NEWS TODAY
 http://103.119.94.1:7080/play/a0tr/index.m3u8
 #EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",Guatevision - GUA
 http://38.131.62.104:8000/play/a0i1/index.m3u8
-#EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",H2
-http://38.131.62.104:8000/play/a07h/index.m3u8
-#EXTINF:-1 group-title="new_186.33.1.71_8000_playlist.m3u.m3u",HBO HD
-http://186.33.1.71:8000/play/a0l2/index.m3u8
+#EXTINF:-1 group-title="new_186.33.47.113_8000_playlist.m3u.m3u",HBO
+http://186.33.47.113:8000/play/a04e/index.m3u8
+#EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",HBO Family HD
+http://38.131.62.104:8000/play/a01u/index.m3u8
 #EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",HCH- HON
 http://38.131.62.104:8000/play/a0dv/index.m3u8
-#EXTINF:-1 group-title="new_36.50.22.214_8000_playlist.m3u.m3u",HI DOST HD
-http://36.50.22.214:8000/play/a00n/index.m3u8
 #EXTINF:-1 group-title="new_103.150.234.115_8000_playlist.m3u.m3u",History 18
 http://103.151.60.184:8000/play/a00y/index.m3u8
-#EXTINF:-1 group-title="new_186.33.1.71_8000_playlist.m3u.m3u",History 2
-http://186.33.1.71:8000/play/a0jp/index.m3u8
+#EXTINF:-1 group-title="new_103.155.18.185_8000_playlist.m3u.m3u",History TV18 HD - Rs 7.00
+http://103.155.18.185:8000/play/a065/index.m3u8
 #EXTINF:-1 group-title="new_103.150.234.115_8000_playlist.m3u.m3u",HIT DL
 http://103.151.60.184:8000/play/a02g/index.m3u8
 #EXTINF:-1 group-title="new_103.150.234.115_8000_playlist.m3u.m3u",HitsMovie
 http://103.151.60.184:8000/play/a01h/index.m3u8
+#EXTINF:-1 group-title="new_186.33.1.71_8000_playlist.m3u.m3u",HOLA! TV HD
+http://186.33.1.71:8000/play/a0hx/index.m3u8
 #EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",Hola!TV
 http://38.131.62.104:8000/play/a00f/index.m3u8
-#EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",Home Garden Latino
-http://38.131.62.104:8000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="new_186.33.1.71_8000_playlist.m3u.m3u",Home & Health HD
+http://186.33.1.71:8000/play/a0hw/index.m3u8
 #EXTINF:-1 group-title="new_186.33.47.113_8000_playlist.m3u.m3u",HomeandHealth
 http://186.33.47.113:8000/play/a05i/index.m3u8
-#EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",HTV
-http://38.131.62.104:8000/play/a07n/index.m3u8
 #EXTINF:-1 group-title="new_103.150.234.115_8000_playlist.m3u.m3u",Hum Stury
 http://103.151.60.184:8000/play/a00u/index.m3u8
 #EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",INDIA TODAY
 http://103.119.94.1:7080/play/a0t1/index.m3u8
-#EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",Jalsha Movies HD - Rs 19.00
-http://103.119.94.1:7080/play/a0p1/index.m3u8
 #EXTINF:-1 group-title="new_103.150.234.115_8000_playlist.m3u.m3u",Jolsha Movie
 http://103.151.60.184:8000/play/a00x/index.m3u8
-#EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",KANAL D DRAMA
-http://38.131.62.104:8000/play/a0n7/index.m3u8
 #EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",La voz de Maria
 http://38.131.62.104:8000/play/a0lw/index.m3u8
 #EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",LA VOZ DE MARIA CATV
@@ -291,12 +293,10 @@ http://38.131.62.104:8000/play/a0o0/index.m3u8
 http://186.33.1.71:8000/play/a03x/index.m3u8
 #EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",Latin America Sport
 http://38.131.62.104:8000/play/a07m/index.m3u8
-#EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",LIFE TIME
-http://38.131.62.104:8000/play/a079/index.m3u8
-#EXTINF:-1 group-title="new_36.50.22.214_8000_playlist.m3u.m3u",LIFESTYLE HD
-http://36.50.22.214:8000/play/a00m/index.m3u8
 #EXTINF:-1 group-title="new_36.50.22.214_8000_playlist.m3u.m3u",M CHANNELS HD
 http://36.50.22.214:8000/play/a00o/index.m3u8
+#EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",Mas Chic
+http://38.131.62.104:8000/play/a08u/index.m3u8
 #EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",MNX - Rs 5.00
 http://103.119.94.1:7080/play/a0vl/index.m3u8
 #EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",Monoranjan Movies
@@ -305,16 +305,14 @@ http://103.119.94.1:7080/play/a0i6/index.m3u8
 http://103.119.94.1:7080/play/a0i2/index.m3u8
 #EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",Monoranjan TV
 http://103.119.94.1:7080/play/a0i8/index.m3u8
+#EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",MTV HD
+http://103.119.94.1:7080/play/a0s6/index.m3u8
 #EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",Multicinema
 http://38.131.62.104:8000/play/a0d9/index.m3u8
 #EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",Multimedios
 http://38.131.62.104:8000/play/a0a5/index.m3u8
-#EXTINF:-1 group-title="new_186.33.1.71_8000_playlist.m3u.m3u",Multipremier
-http://186.33.1.71:8000/play/a0ij/index.m3u8
 #EXTINF:-1 group-title="new_186.33.1.71_8000_playlist.m3u.m3u",Nat Geo Kids
 http://186.33.1.71:8000/play/a0jl/index.m3u8
-#EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",NATIONAL GEOGRAPHIC HD - Rs 14.0
-http://103.119.94.1:7080/play/a0sm/index.m3u8
 #EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",NDTV 24x7 - Rs 3.50
 http://103.119.94.1:7080/play/a0wk/index.m3u8
 #EXTINF:-1 group-title="new_103.150.234.115_8000_playlist.m3u.m3u",NET GIO
@@ -323,8 +321,8 @@ http://103.151.60.184:8000/play/a01g/index.m3u8
 http://103.151.60.184:8000/play/a01f/index.m3u8
 #EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",Nicarao TV
 http://38.131.62.104:8000/play/a0aq/index.m3u8
-#EXTINF:-1 group-title="new_186.33.1.71_8000_playlist.m3u.m3u",Nick Jr
-http://186.33.1.71:8000/play/a0fz/index.m3u8
+#EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",Nick
+http://103.119.94.1:7080/play/a0xu/index.m3u8
 #EXTINF:-1 group-title="new_186.33.1.71_8000_playlist.m3u.m3u",NU9VE MX
 http://186.33.1.71:8000/play/a040/index.m3u8
 #EXTINF:-1 group-title="new_103.150.234.115_8000_playlist.m3u.m3u",Pappare Tv 1 SL
@@ -337,22 +335,14 @@ http://103.119.94.1:7080/play/a0b4/index.m3u8
 http://103.151.60.184:8000/play/a0f9/index.m3u8
 #EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",R&E TV ELIAS PIÑA
 http://38.131.62.104:8000/play/a0i7/index.m3u8
-#EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",RCN Novelas
-http://38.131.62.104:8000/play/a04k/index.m3u8
 #EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",REPUBLIC TV - Free
 http://103.119.94.1:7080/play/a0wo/index.m3u8
-#EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",RHEMA TV
-http://38.131.62.104:8000/play/a04x/index.m3u8
 #EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",RNN - RD
 http://38.131.62.104:8000/play/a0hp/index.m3u8
-#EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",RNN CATV
-http://38.131.62.104:8000/play/a0o4/index.m3u8
+#EXTINF:-1 group-title="new_186.33.47.113_8000_playlist.m3u.m3u",RTS
+http://186.33.47.113:8000/play/a04k/index.m3u8
 #EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",Sangeet Bangla
 http://103.119.94.1:7080/play/a0wy/index.m3u8
-#EXTINF:-1 group-title="new_186.33.1.71_8000_playlist.m3u.m3u",Sembrador
-http://186.33.1.71:8000/play/a0k0/index.m3u8
-#EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",SEMILLITAS
-http://38.131.62.104:8000/play/a063/index.m3u8
 #EXTINF:-1 group-title="new_103.150.234.115_8000_playlist.m3u.m3u",SET-MAX
 http://103.151.60.184:8000/play/a015/index.m3u8
 #EXTINF:-1 group-title="new_186.33.1.71_8000_playlist.m3u.m3u",SKY SPORTS LA LIGA HD
@@ -361,30 +351,16 @@ http://186.33.1.71:8000/play/a03u/index.m3u8
 http://103.151.60.184:8000/play/a025/index.m3u8
 #EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",Somoy TV
 http://103.119.94.1:7080/play/a0x0/index.m3u8
-#EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",SONY BBC EARTH HD - Rs 19.00
-http://103.119.94.1:7080/play/a0up/index.m3u8
+#EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",SONY HD
+http://38.131.62.104:8000/play/a09h/index.m3u8
 #EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",SONY MAX
 http://103.119.94.1:7080/play/a09o/index.m3u8
 #EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",Sony Movie
 http://103.119.94.1:7080/play/a0wx/index.m3u8
-#EXTINF:-1 group-title="new_186.33.1.71_8000_playlist.m3u.m3u",SONY MOVIES HD
-http://186.33.1.71:8000/play/a03s/index.m3u8
-#EXTINF:-1 group-title="new_103.150.234.115_8000_playlist.m3u.m3u",Sony Pix
-http://103.151.60.184:8000/play/a01d/index.m3u8
-#EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",SONY SAB HD
-http://103.119.94.1:7080/play/a0ax/index.m3u8
 #EXTINF:-1 group-title="new_103.150.234.115_8000_playlist.m3u.m3u",Sony set ent
 http://103.151.60.184:8000/play/a024/index.m3u8
 #EXTINF:-1 group-title="new_103.150.234.115_8000_playlist.m3u.m3u",Sony Sports 1
 http://103.151.60.184:8000/play/a01c/index.m3u8
-#EXTINF:-1 group-title="new_103.150.234.115_8000_playlist.m3u.m3u",Sony Sports 2
-http://103.151.60.184:8000/play/a01b/index.m3u8
-#EXTINF:-1 group-title="new_103.150.234.115_8000_playlist.m3u.m3u",Sony Sports ten
-http://103.151.60.184:8000/play/a01t/index.m3u8
-#EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",SONY SPORTS TEN 2 HD
-http://103.119.94.1:7080/play/a0s7/index.m3u8
-#EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",SONY SPORTS TEN 3 Hindi HD - Rs 30.00
-http://103.119.94.1:7080/play/a0xd/index.m3u8
 #EXTINF:-1 group-title="new_103.150.234.115_8000_playlist.m3u.m3u",Sony Sub
 http://103.151.60.184:8000/play/a01q/index.m3u8
 #EXTINF:-1 group-title="new_103.150.234.115_8000_playlist.m3u.m3u",SonyMaxHD
@@ -395,18 +371,18 @@ http://103.151.60.184:8000/play/a00r/index.m3u8
 http://103.151.60.184:8000/play/a0f5/index.m3u8
 #EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",Star Bharat
 http://103.119.94.1:7080/play/a0cy/index.m3u8
-#EXTINF:-1 group-title="new_186.33.47.113_8000_playlist.m3u.m3u",STAR CHANNEL
-http://186.33.47.113:8000/play/a03c/index.m3u8
-#EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",Star Gold 2
-http://103.119.94.1:7080/play/a0b0/index.m3u8
+#EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",Star Gold 2 HD
+http://103.119.94.1:7080/play/a0pn/index.m3u8
+#EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",Star Gold Select HD - Rs 8.00
+http://103.119.94.1:7080/play/a0yd/index.m3u8
 #EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",Star Gold Thrills
 http://103.119.94.1:7080/play/a0cs/index.m3u8
-#EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",Star Jalsha HD
-http://103.119.94.1:7080/play/a07g/index.m3u8
 #EXTINF:-1 group-title="new_103.150.234.115_8000_playlist.m3u.m3u",Star Jolsha
 http://103.151.60.184:8000/play/a00w/index.m3u8
 #EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",Star News HD
 http://103.119.94.1:7080/play/a0xv/index.m3u8
+#EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",STAR Plus HD
+http://103.119.94.1:7080/play/a096/index.m3u8
 #EXTINF:-1 group-title="new_103.150.234.115_8000_playlist.m3u.m3u",Star Sport 2 DL
 http://103.151.60.184:8000/play/a00v/index.m3u8
 #EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",Star Sports 1 HD
@@ -415,10 +391,10 @@ http://103.119.94.1:7080/play/a0bl/index.m3u8
 http://103.119.94.1:7080/play/a0b2/index.m3u8
 #EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",Star Sports 2 HD
 http://103.119.94.1:7080/play/a0ky/index.m3u8
-#EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",Star Sports 3
-http://103.119.94.1:7080/play/a0rk/index.m3u8
-#EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",Star Utsav Movies - Rs 0
-http://103.119.94.1:7080/play/a0v3/index.m3u8
+#EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",Star Sports 2 Hindi
+http://103.119.94.1:7080/play/a0kz/index.m3u8
+#EXTINF:-1 group-title="new_186.33.1.71_8000_playlist.m3u.m3u",Star TVE HD
+http://186.33.1.71:8000/play/a0h0/index.m3u8
 #EXTINF:-1 group-title="new_103.150.234.115_8000_playlist.m3u.m3u",Start spor sel 1
 http://103.151.60.184:8000/play/a026/index.m3u8
 #EXTINF:-1 group-title="new_103.150.234.115_8000_playlist.m3u.m3u",Start spor sel 2
@@ -429,6 +405,8 @@ http://186.33.47.113:8000/play/a05s/index.m3u8
 http://103.119.94.1:7080/play/4236966184/index.m3u8
 #EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",Sun Bangla - Free
 http://103.119.94.1:7080/play/a0va/index.m3u8
+#EXTINF:-1 group-title="new_103.150.234.115_8000_playlist.m3u.m3u",SUN tv
+http://103.151.60.184:8000/play/a02a/index.m3u8
 #EXTINF:-1 group-title="new_103.150.234.115_8000_playlist.m3u.m3u",SunBangla
 http://103.151.60.184:8000/play/a01p/index.m3u8
 #EXTINF:-1 group-title="new_103.150.234.115_8000_playlist.m3u.m3u",Supper HIT
@@ -437,6 +415,8 @@ http://103.151.60.184:8000/play/a02f/index.m3u8
 http://38.131.62.104:8000/play/a0g3/index.m3u8
 #EXTINF:-1 group-title="new_186.33.47.113_8000_playlist.m3u.m3u",SyFy
 http://186.33.47.113:8000/play/a03i/index.m3u8
+#EXTINF:-1 group-title="new_186.33.1.71_8000_playlist.m3u.m3u",TBN Enlace
+http://186.33.1.71:8000/play/a0gj/index.m3u8
 #EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",TBS
 http://38.131.62.104:8000/play/a066/index.m3u8
 #EXTINF:-1 group-title="new_186.33.47.113_8000_playlist.m3u.m3u",TC Television
@@ -445,12 +425,18 @@ http://186.33.47.113:8000/play/a04p/index.m3u8
 http://38.131.62.104:8000/play/a06f/index.m3u8
 #EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",TD+2 HD CR
 http://38.131.62.104:8000/play/a00q/index.m3u8
-#EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",TD+HD CR
-http://38.131.62.104:8000/play/a0d0/index.m3u8
+#EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",Tele Antillas - RD
+http://38.131.62.104:8000/play/a01x/index.m3u8
 #EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",TELEANTILLAS CATV
 http://38.131.62.104:8000/play/a0o2/index.m3u8
+#EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",Telecentro - RD
+http://38.131.62.104:8000/play/a04j/index.m3u8
 #EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",TELECENTRO CATV
 http://38.131.62.104:8000/play/a0nr/index.m3u8
+#EXTINF:-1 group-title="new_186.33.1.71_8000_playlist.m3u.m3u",TELEHIT
+http://186.33.1.71:8000/play/a03w/index.m3u8
+#EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",TeleMicro - RD
+http://38.131.62.104:8000/play/a025/index.m3u8
 #EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",TELEMICRO CATV
 http://38.131.62.104:8000/play/a0nj/index.m3u8
 #EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",TELEMICRO INTERNACIONAL CATV
@@ -463,8 +449,6 @@ http://38.131.62.104:8000/play/a0np/index.m3u8
 http://38.131.62.104:8000/play/a0i8/index.m3u8
 #EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",Teleunion - RD
 http://38.131.62.104:8000/play/a07g/index.m3u8
-#EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",Teleuniverso - RD
-http://38.131.62.104:8000/play/a07f/index.m3u8
 #EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",TELEUNIVERSO CATV
 http://38.131.62.104:8000/play/a0no/index.m3u8
 #EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",Televida RD
@@ -483,18 +467,26 @@ http://38.131.62.104:8000/play/a0i4/index.m3u8
 http://186.33.1.71:8000/play/a044/index.m3u8
 #EXTINF:-1 group-title="new_186.33.1.71_8000_playlist.m3u.m3u",TN23
 http://186.33.1.71:8000/play/a0df/index.m3u8
-#EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",TNT
-http://38.131.62.104:8000/play/a067/index.m3u8
 #EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",TNT SERIES CATV
 http://38.131.62.104:8000/play/a0nu/index.m3u8
-#EXTINF:-1 group-title="new_103.150.234.115_8000_playlist.m3u.m3u",Travel_XP
-http://103.151.60.184:8000/play/a01s/index.m3u8
 #EXTINF:-1 group-title="new_186.33.1.71_8000_playlist.m3u.m3u",TUDN HD
 http://186.33.1.71:8000/play/a0bx/index.m3u8
+#EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",TV Oriente ESA
+http://38.131.62.104:8000/play/a0f3/index.m3u8
+#EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",TVChile
+http://38.131.62.104:8000/play/a0aw/index.m3u8
+#EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",TVM25 - ESA
+http://38.131.62.104:8000/play/a0f0/index.m3u8
 #EXTINF:-1 group-title="new_186.33.1.71_8000_playlist.m3u.m3u",UNICABLE
 http://186.33.1.71:8000/play/a04x/index.m3u8
+#EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",Unite8 Sports 1 HD - Rs 9.00
+http://103.119.94.1:7080/play/a0xa/index.m3u8
 #EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",Unite8 Sports 2 HD - Rs 11.00
 http://103.119.94.1:7080/play/a0yb/index.m3u8
+#EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",Universal
+http://38.131.62.104:8000/play/a0f8/index.m3u8
+#EXTINF:-1 group-title="new_186.33.1.71_8000_playlist.m3u.m3u",UNIVERSAL CRIME HD
+http://186.33.1.71:8000/play/a0i4/index.m3u8
 #EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",UNIVERSAL CRIMEN CATV
 http://38.131.62.104:8000/play/a0o6/index.m3u8
 #EXTINF:-1 group-title="new_186.33.1.71_8000_playlist.m3u.m3u",UNIVERSAL PREMI O HD
@@ -507,18 +499,16 @@ http://38.131.62.104:8000/play/a0cn/index.m3u8
 http://38.131.62.104:8000/play/a0ng/index.m3u8
 #EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",WARNER HD
 http://38.131.62.104:8000/play/a042/index.m3u8
-#EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",WION - Rs 1.00
-http://103.119.94.1:7080/play/a0wi/index.m3u8
 #EXTINF:-1 group-title="new_103.150.234.115_8000_playlist.m3u.m3u",WWW 24*7
 http://103.151.60.184:8000/play/a00p/index.m3u8
 #EXTINF:-1 group-title="new_186.33.1.71_8000_playlist.m3u.m3u",XXX PLAYBOY
 http://186.33.1.71:8000/play/a02t/index.m3u8
 #EXTINF:-1 group-title="new_186.33.1.71_8000_playlist.m3u.m3u",XXX VENUS
 http://186.33.1.71:8000/play/a02u/index.m3u8
-#EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",Zee Bangla HD
-http://103.119.94.1:7080/play/a0sd/index.m3u8
 #EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",Zee Bangla Sonar - Rs 10.00
 http://103.119.94.1:7080/play/a0y1/index.m3u8
+#EXTINF:-1 group-title="new_103.155.18.185_8000_playlist.m3u.m3u",Zee Cafe HD - Rs 10.00
+http://103.155.18.185:8000/play/a04n/index.m3u8
 #EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",Zee News HD
 http://103.119.94.1:7080/play/a0pq/index.m3u8
 #EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",Zee Talkies HD
@@ -529,8 +519,6 @@ http://103.151.60.184:8000/play/a011/index.m3u8
 http://103.151.60.184:8000/play/a01u/index.m3u8
 #EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",Zing - Rs 0.10
 http://103.119.94.1:7080/play/a0yj/index.m3u8
-#EXTINF:-1 group-title="new_38.131.62.104_8000.m3u",ZooMoo
-http://38.131.62.104:8000/play/a009/index.m3u8
 #EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",ZZZ || - Ananda TV
 http://103.119.94.1:7080/play/9195852487/index.m3u8
 #EXTINF:-1 group-title="new_103.119.94.1_7080_playlist.m3u.m3u",ZZZ || - Asian TV
