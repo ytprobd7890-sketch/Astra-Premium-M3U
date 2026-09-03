@@ -27,6 +27,8 @@ http://103.183.69.179:8000/play/a0a5/index.m3u8
 http://103.183.69.179:8000/play/a0ab/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Channel I HD
 http://103.183.69.179:8000/play/a0aj/index.m3u8
+#EXTINF:-1 group-title="103.31.178.157",COLORS BANGLA
+http://103.31.178.157:8839/play/a012/index.m3u8
 #EXTINF:-1 group-title="103.31.178.157",COLORS BANGLA CINEMA
 http://103.31.178.157:8839/play/a00v/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Colors Gujarati - Rs 7.00
@@ -73,22 +75,24 @@ http://103.183.69.179:8000/play/a0al/index.m3u8
 http://103.183.69.179:8000/play/a0a8/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",SA TV HD
 http://103.183.69.179:8000/play/a0a2/index.m3u8
-#EXTINF:-1 group-title="103.183.69.179",SANGSAD TV HD
-http://103.183.69.179:8000/play/a0a9/index.m3u8
-#EXTINF:-1 group-title="103.31.178.157",SONY AATH
-http://103.31.178.157:8839/play/a022/index.m3u8
 #EXTINF:-1 group-title="103.31.178.157",SONY MAX 1
 http://103.31.178.157:8839/play/a00t/index.m3u8
-#EXTINF:-1 group-title="103.31.178.157",SONY SPORTS 2 HD
-http://103.31.178.157:8839/play/a01t/index.m3u8
+#EXTINF:-1 group-title="103.31.178.157",SONY PIX
+http://103.31.178.157:8839/play/a014/index.m3u8
 #EXTINF:-1 group-title="103.31.178.157",SONY SPORTS 5 HD
 http://103.31.178.157:8839/play/a021/index.m3u8
 #EXTINF:-1 group-title="103.31.178.157",STAR JALSHA
 http://103.31.178.157:8839/play/a018/index.m3u8
+#EXTINF:-1 group-title="103.183.69.179",Star Maa Gold - Rs 12.00
+http://103.183.69.179:8000/play/a0gi/index.m3u8
+#EXTINF:-1 group-title="103.31.178.157",STAR PLUS HD
+http://103.31.178.157:8839/play/a00n/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Star Sports 1 Telugu HD - Rs 19.00
 http://103.183.69.179:8000/play/a0kz/index.m3u8
 #EXTINF:-1 group-title="103.31.178.157",STAR SPORTS 2 TELEGU
 http://103.31.178.157:8839/play/a001/index.m3u8
+#EXTINF:-1 group-title="103.31.178.157",STAR SPORTS 3
+http://103.31.178.157:8839/play/a00x/index.m3u8
 #EXTINF:-1 group-title="103.31.178.157",STAR SPORTS S2 HD
 http://103.31.178.157:8839/play/a00c/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Star Suvarna HD - Rs 25.00
@@ -107,5 +111,3 @@ http://103.31.178.157:8839/play/a00u/index.m3u8
 http://103.31.178.157:8839/play/a002/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Zee Kannada HD - Rs 19.00
 http://103.183.69.179:8000/play/a0l5/index.m3u8
-#EXTINF:-1 group-title="103.183.69.179",Zee Tamil HD - Rs 19.00
-http://103.183.69.179:8000/play/a0bk/index.m3u8
