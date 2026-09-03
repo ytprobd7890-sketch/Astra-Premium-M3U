@@ -34,11 +34,9 @@ http://103.183.69.179:8000/play/a0ns/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Colors Kannada HD - Rs 30.00
 http://103.183.69.179:8000/play/a0g3/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Colors Marathi HD - Rs 19.00
-http://103.183.69.179:8000/play/a0g0/index.m3u8
+http://103.183.69.179:8000/play/a0g7/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",DBC NEWS
 http://103.183.69.179:8000/play/a0am/index.m3u8
-#EXTINF:-1 group-title="103.183.69.179",Desh TV
-http://103.183.69.179:8000/play/a0ao/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Ekattor TV HD
 http://103.183.69.179:8000/play/a0ak/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",EKHON TV
@@ -57,6 +55,8 @@ http://103.183.69.179:8000/play/a0at/index.m3u8
 http://103.76.111.180:8000/play/a08t
 #EXTINF:-1 group-title="103.183.69.179",Madani TV
 http://103.183.69.179:8000/play/a0ae/index.m3u8
+#EXTINF:-1 group-title="103.31.178.157",MNX HD
+http://103.31.178.157:8839/play/a00b/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Mohona TV
 http://103.183.69.179:8000/play/a0ap/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",MYTV HD
@@ -79,18 +79,20 @@ http://103.183.69.179:8000/play/a0a9/index.m3u8
 http://103.31.178.157:8839/play/a022/index.m3u8
 #EXTINF:-1 group-title="103.31.178.157",SONY MAX 1
 http://103.31.178.157:8839/play/a00t/index.m3u8
-#EXTINF:-1 group-title="103.31.178.157",SONY SPORTS 2 HD
-http://103.31.178.157:8839/play/a01t/index.m3u8
 #EXTINF:-1 group-title="103.31.178.157",SONY SPORTS 5 HD
 http://103.31.178.157:8839/play/a021/index.m3u8
+#EXTINF:-1 group-title="103.31.178.157",STAR JALSHA
+http://103.31.178.157:8839/play/a018/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Star Maa Gold - Rs 12.00
 http://103.183.69.179:8000/play/a0gi/index.m3u8
-#EXTINF:-1 group-title="103.183.69.179",STAR Maa HD - Rs 30.00
-http://103.183.69.179:8000/play/a0p6/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Star Sports 1 Telugu HD - Rs 19.00
 http://103.183.69.179:8000/play/a0kz/index.m3u8
+#EXTINF:-1 group-title="103.31.178.157",STAR SPORTS 2
+http://103.31.178.157:8839/play/a00y/index.m3u8
 #EXTINF:-1 group-title="103.31.178.157",STAR SPORTS 2 TELEGU
 http://103.31.178.157:8839/play/a001/index.m3u8
+#EXTINF:-1 group-title="103.31.178.157",STAR SPORTS S1 HD
+http://103.31.178.157:8839/play/a00e/index.m3u8
 #EXTINF:-1 group-title="103.31.178.157",STAR SPORTS S2 HD
 http://103.31.178.157:8839/play/a00c/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Star Suvarna HD - Rs 25.00
