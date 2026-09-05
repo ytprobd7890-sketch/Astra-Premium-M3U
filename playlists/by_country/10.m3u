@@ -45,10 +45,10 @@ http://103.183.69.179:8000/play/a0ak/index.m3u8
 http://103.183.69.179:8000/play/a0ac/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Ekushey TV
 http://103.183.69.179:8000/play/a0as/index.m3u8
+#EXTINF:-1 group-title="103.31.178.157",ENTERR 10 BANGLA
+http://103.31.178.157:8839/play/a00w/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",GLOBAL TV HD
 http://103.183.69.179:8000/play/a0ad/index.m3u8
-#EXTINF:-1 group-title="103.31.178.157",GOOD TIMES
-http://103.31.178.157:8839/play/a00g/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Jamuna Television
 http://103.183.69.179:8000/play/a0at/index.m3u8
 #EXTINF:-1 group-title="103.76.111.178",kids_zone (raw TS)
@@ -75,18 +75,22 @@ http://103.183.69.179:8000/play/a0a9/index.m3u8
 http://103.31.178.157:8839/play/a022/index.m3u8
 #EXTINF:-1 group-title="103.31.178.157",SONY MAX 1
 http://103.31.178.157:8839/play/a00t/index.m3u8
+#EXTINF:-1 group-title="103.31.178.157",SONY PIX
+http://103.31.178.157:8839/play/a014/index.m3u8
+#EXTINF:-1 group-title="103.31.178.157",SONY SPORTS 1 HD
+http://103.31.178.157:8839/play/a020/index.m3u8
+#EXTINF:-1 group-title="103.31.178.157",SONY SPORTS 2 HD
+http://103.31.178.157:8839/play/a01t/index.m3u8
 #EXTINF:-1 group-title="103.31.178.157",SONY SPORTS 5 HD
 http://103.31.178.157:8839/play/a021/index.m3u8
-#EXTINF:-1 group-title="103.31.178.157",STAR GOLD THRILLS
-http://103.31.178.157:8839/play/a011/index.m3u8
 #EXTINF:-1 group-title="103.31.178.157",STAR JALSHA
 http://103.31.178.157:8839/play/a018/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Star Maa Gold - Rs 12.00
 http://103.183.69.179:8000/play/a0gi/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Star Sports 1 Telugu - Rs 19.00
 http://103.183.69.179:8000/play/a0nk/index.m3u8
-#EXTINF:-1 group-title="103.31.178.157",STAR SPORTS 2 TELEGU
-http://103.31.178.157:8839/play/a001/index.m3u8
+#EXTINF:-1 group-title="103.31.178.157",STAR SPORTS S1 HD
+http://103.31.178.157:8839/play/a00e/index.m3u8
 #EXTINF:-1 group-title="103.31.178.157",STAR SPORTS S2 HD
 http://103.31.178.157:8839/play/a00c/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Star Suvarna HD - Rs 25.00
@@ -95,8 +99,12 @@ http://103.183.69.179:8000/play/a0l3/index.m3u8
 http://103.183.69.179:8000/play/a0nn/index.m3u8
 #EXTINF:-1 group-title="103.31.178.157",SUN BANGLA
 http://103.31.178.157:8839/play/a00k/index.m3u8
+#EXTINF:-1 group-title="103.31.178.157",SUN MUSIC
+http://103.31.178.157:8839/play/a006/index.m3u8
 #EXTINF:-1 group-title="103.31.178.157",TATA FANCODE HD
 http://103.31.178.157:8839/play/a01e/index.m3u8
+#EXTINF:-1 group-title="103.31.178.157",TRAVEL XP HD
+http://103.31.178.157:8839/play/a00h/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Zee Business - Rs 0.10
 http://103.183.69.179:8000/play/a0kb/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Zee Kannada HD - Rs 19.00
