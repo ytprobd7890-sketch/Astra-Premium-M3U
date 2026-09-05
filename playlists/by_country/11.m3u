@@ -17,12 +17,16 @@ http://110.39.15.114:8000/play/a038/index.m3u8
 http://110.39.15.114:8000/play/a035/index.m3u8
 #EXTINF:-1 group-title="110.39.15.114",HBO3 HD
 http://110.39.15.114:8000/play/a03i/index.m3u8
+#EXTINF:-1 group-title="110.39.15.114",ID Poland HD
+http://110.39.15.114:8000/play/a03n/index.m3u8
 #EXTINF:-1 group-title="110.39.15.114",Ocean
 http://110.39.15.114:8000/play/a05p/index.m3u8
 #EXTINF:-1 group-title="110.39.15.114",OSN Comedy
 http://110.39.15.114:8000/play/a005/index.m3u8
 #EXTINF:-1 group-title="110.39.15.114",OSN CRIME
 http://110.39.15.114:8000/play/a02n/index.m3u8
+#EXTINF:-1 group-title="110.39.15.114",OSN MOVIES ACTION
+http://110.39.15.114:8000/play/a060/index.m3u8
 #EXTINF:-1 group-title="110.39.15.114",OSN MOVIES HOLLYWOOD
 http://110.39.15.114:8000/play/a004/index.m3u8
 #EXTINF:-1 group-title="110.39.15.114",OUTDOOR
@@ -35,6 +39,8 @@ http://110.39.15.114:8000/play/a05d/index.m3u8
 http://110.39.15.114:8000/play/a04a/index.m3u8
 #EXTINF:-1 group-title="110.39.15.114",RTG TV
 http://110.39.15.114:8000/play/a05n/index.m3u8
+#EXTINF:-1 group-title="110.39.15.114",SciFi HD
+http://110.39.15.114:8000/play/a034/index.m3u8
 #EXTINF:-1 group-title="110.39.15.114",TV XXI
 http://110.39.15.114:8000/play/a04o/index.m3u8
 #EXTINF:-1 group-title="110.39.15.114",viju Explore
