@@ -3,6 +3,8 @@
 http://110.39.15.114:8000/play/a04n/index.m3u8
 #EXTINF:-1 group-title="110.39.15.114",.Red
 http://110.39.15.114:8000/play/a04l/index.m3u8
+#EXTINF:-1 group-title="110.39.15.114",.Sci-Fi
+http://110.39.15.114:8000/play/a04m/index.m3u8
 #EXTINF:-1 group-title="110.39.15.114",Amedia 1
 http://110.39.15.114:8000/play/a05m/index.m3u8
 #EXTINF:-1 group-title="110.39.15.114",Amedia 2
@@ -19,10 +21,10 @@ http://110.39.15.114:8000/play/a038/index.m3u8
 http://110.39.15.114:8000/play/a035/index.m3u8
 #EXTINF:-1 group-title="110.39.15.114",HBO3 HD
 http://110.39.15.114:8000/play/a03i/index.m3u8
+#EXTINF:-1 group-title="110.39.15.114",ID Poland HD
+http://110.39.15.114:8000/play/a03n/index.m3u8
 #EXTINF:-1 group-title="110.39.15.114",Ocean
 http://110.39.15.114:8000/play/a05p/index.m3u8
-#EXTINF:-1 group-title="110.39.15.114",OSN Comedy
-http://110.39.15.114:8000/play/a005/index.m3u8
 #EXTINF:-1 group-title="110.39.15.114",OSN CRIME
 http://110.39.15.114:8000/play/a02n/index.m3u8
 #EXTINF:-1 group-title="110.39.15.114",OSN MOVIES ACTION
