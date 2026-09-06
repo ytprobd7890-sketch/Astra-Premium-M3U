@@ -23,8 +23,6 @@ http://115.42.65.142:8000/play/a008/index.m3u8
 http://115.42.65.142:8000/play/a04u/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",AJJ ENTERTAINMENT
 http://115.42.65.142:8000/play/a01q/index.m3u8
-#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Al Jazeera English HD
-http://115.42.65.142:8000/play/a00a/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",AL QURAN
 http://115.42.65.142:8000/play/a00b/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Alief TV
@@ -73,10 +71,6 @@ http://115.42.65.142:8000/play/a00i/index.m3u8
 http://115.42.65.142:8000/play/a00j/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",DAWN NEWS
 http://115.42.65.142:8000/play/a00k/index.m3u8
-#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Discover Pakistan
-http://115.42.65.142:8000/play/a04c/index.m3u8
-#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Dunya News HD
-http://115.42.65.142:8000/play/a01f/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",EWTN Africa
 http://115.42.65.142:8000/play/a03g/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",EXP ENTERTAINMENT
@@ -139,6 +133,8 @@ http://115.42.65.142:8000/play/a01x/index.m3u8
 http://115.42.65.142:8000/play/a00o/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Kay-2 HD
 http://115.42.65.142:8000/play/a03d/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Khyber News HD
+http://115.42.65.142:8000/play/a03f/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Kohenoor TV
 http://115.42.65.142:8000/play/a02f/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",KSA SPORT1 HD
@@ -149,6 +145,8 @@ http://115.42.65.142:8000/play/a02w/index.m3u8
 http://115.42.65.142:8000/play/a02x/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Lahore News
 http://115.42.65.142:8000/play/a01h/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Lahore Rang HD
+http://115.42.65.142:8000/play/a03c/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",LotusTV
 http://115.42.65.142:8000/play/a03q/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",LTN FAMILY
@@ -165,8 +163,6 @@ http://115.42.65.142:8000/play/a04r/index.m3u8
 http://115.42.65.142:8000/play/a04v/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",MINIMAX 2
 http://115.42.65.142:8000/play/a01l/index.m3u8
-#EXTINF:-1 group-title="india_new_59.103.38.45_8000.m3u",MNX - Rs 5.00
-http://59.103.38.45:8000/play/a052/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",NEO NEWS HD
 http://115.42.65.142:8000/play/a03b/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",NEWS ONE
@@ -193,6 +189,8 @@ http://115.42.65.142:8000/play/a045/index.m3u8
 http://115.42.65.142:8000/play/a01d/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Pashto 1 2nd
 http://115.42.65.142:8000/play/a02g/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Planet Fun
+http://115.42.65.142:8000/play/a046/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Play Entertainment 2
 http://115.42.65.142:8000/play/a04a/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Play TV
@@ -213,6 +211,8 @@ http://115.42.65.142:8000/play/a031/index.m3u8
 http://115.42.65.142:8000/play/a032/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",PTV-World
 http://115.42.65.142:8000/play/a033/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Public News
+http://115.42.65.142:8000/play/a041/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",ROHI TV
 http://115.42.65.142:8000/play/a04l/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Roze TV
@@ -241,8 +241,6 @@ http://115.42.65.142:8000/play/a02h/index.m3u8
 http://115.42.65.142:8000/play/a03k/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Star News Asia
 http://115.42.65.142:8000/play/a02l/index.m3u8
-#EXTINF:-1 group-title="india_new_59.103.38.45_8000.m3u",STAR Plus HD - Rs 22.00
-http://59.103.38.45:8000/play/a009/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",SUCH TV HD
 http://115.42.65.142:8000/play/a00z/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",SUNO TV
