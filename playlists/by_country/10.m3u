@@ -27,8 +27,6 @@ http://103.183.69.179:8000/play/a0a5/index.m3u8
 http://103.183.69.179:8000/play/a0ab/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Channel I HD
 http://103.183.69.179:8000/play/a0aj/index.m3u8
-#EXTINF:-1 group-title="103.31.178.157",COLORS BANGLA
-http://103.31.178.157:8839/play/a012/index.m3u8
 #EXTINF:-1 group-title="103.31.178.157",COLORS BANGLA CINEMA
 http://103.31.178.157:8839/play/a00v/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Colors Gujarati - Rs 7.00
@@ -41,8 +39,6 @@ http://103.183.69.179:8000/play/a0g0/index.m3u8
 http://103.183.69.179:8000/play/a0am/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Desh TV
 http://103.183.69.179:8000/play/a0ao/index.m3u8
-#EXTINF:-1 group-title="103.31.178.157",DISCOVERY
-http://103.31.178.157:8839/play/a00r/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Ekattor TV HD
 http://103.183.69.179:8000/play/a0ak/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",EKHON TV
@@ -55,8 +51,6 @@ http://103.31.178.157:8839/play/a00w/index.m3u8
 http://103.183.69.179:8000/play/a0ad/index.m3u8
 #EXTINF:-1 group-title="103.31.178.157",GOOD TIMES
 http://103.31.178.157:8839/play/a00g/index.m3u8
-#EXTINF:-1 group-title="103.31.178.157",JALSHA MOVIES
-http://103.31.178.157:8839/play/a019/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Jamuna Television
 http://103.183.69.179:8000/play/a0at/index.m3u8
 #EXTINF:-1 group-title="103.76.111.178",kids_zone (raw TS)
@@ -87,22 +81,18 @@ http://103.183.69.179:8000/play/a0a9/index.m3u8
 http://103.31.178.157:8839/play/a022/index.m3u8
 #EXTINF:-1 group-title="103.31.178.157",SONY MAX 1
 http://103.31.178.157:8839/play/a00t/index.m3u8
-#EXTINF:-1 group-title="103.31.178.157",SONY SPORTS 1 HD
-http://103.31.178.157:8839/play/a020/index.m3u8
-#EXTINF:-1 group-title="103.31.178.157",SONY SPORTS 2 HD
-http://103.31.178.157:8839/play/a01t/index.m3u8
-#EXTINF:-1 group-title="103.31.178.157",SONY SPORTS 5 HD
-http://103.31.178.157:8839/play/a021/index.m3u8
 #EXTINF:-1 group-title="103.31.178.157",STAR GOLD THRILLS
 http://103.31.178.157:8839/play/a011/index.m3u8
 #EXTINF:-1 group-title="103.31.178.157",STAR JALSHA
 http://103.31.178.157:8839/play/a018/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Star Maa Gold - Rs 12.00
 http://103.183.69.179:8000/play/a0gi/index.m3u8
-#EXTINF:-1 group-title="103.183.69.179",Star Sports 1 Telugu - Rs 19.00
-http://103.183.69.179:8000/play/a0nk/index.m3u8
+#EXTINF:-1 group-title="103.183.69.179",Star Sports 1 Telugu HD - Rs 19.00
+http://103.183.69.179:8000/play/a0kz/index.m3u8
 #EXTINF:-1 group-title="103.31.178.157",STAR SPORTS 2 TELEGU
 http://103.31.178.157:8839/play/a001/index.m3u8
+#EXTINF:-1 group-title="103.31.178.157",STAR SPORTS 3
+http://103.31.178.157:8839/play/a00x/index.m3u8
 #EXTINF:-1 group-title="103.31.178.157",STAR SPORTS S1 HD
 http://103.31.178.157:8839/play/a00e/index.m3u8
 #EXTINF:-1 group-title="103.31.178.157",STAR SPORTS S2 HD
@@ -119,6 +109,8 @@ http://103.31.178.157:8839/play/a006/index.m3u8
 http://103.31.178.157:8839/play/a01e/index.m3u8
 #EXTINF:-1 group-title="103.31.178.157",TRAVEL XP HD
 http://103.31.178.157:8839/play/a00h/index.m3u8
+#EXTINF:-1 group-title="103.183.69.179",Unite8 Sports 2 - Rs 8.00
+http://103.183.69.179:8000/play/a0n0/index.m3u8
 #EXTINF:-1 group-title="103.31.178.157",VIJAY SUPER HD
 http://103.31.178.157:8839/play/a00u/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Zee Business - Rs 0.10
