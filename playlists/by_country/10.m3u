@@ -34,7 +34,7 @@ http://103.183.69.179:8000/play/a0ns/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Colors Kannada HD - Rs 30.00
 http://103.183.69.179:8000/play/a0g3/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Colors Marathi HD - Rs 19.00
-http://103.183.69.179:8000/play/a0g7/index.m3u8
+http://103.183.69.179:8000/play/a0g0/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",DBC NEWS
 http://103.183.69.179:8000/play/a0am/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Desh TV
@@ -83,8 +83,8 @@ http://103.31.178.157:8839/play/a022/index.m3u8
 http://103.31.178.157:8839/play/a00t/index.m3u8
 #EXTINF:-1 group-title="103.31.178.157",SONY SPORTS 1 HD
 http://103.31.178.157:8839/play/a020/index.m3u8
-#EXTINF:-1 group-title="103.31.178.157",SONY SPORTS 5 HD
-http://103.31.178.157:8839/play/a021/index.m3u8
+#EXTINF:-1 group-title="103.31.178.157",SONY SPORTS 2 HD
+http://103.31.178.157:8839/play/a01t/index.m3u8
 #EXTINF:-1 group-title="103.31.178.157",STAR GOLD THRILLS
 http://103.31.178.157:8839/play/a011/index.m3u8
 #EXTINF:-1 group-title="103.31.178.157",STAR JALSHA
