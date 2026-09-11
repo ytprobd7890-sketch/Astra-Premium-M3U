@@ -42,7 +42,7 @@ http://103.31.178.157:8839/play/a009/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Colors Kannada HD - Rs 30.00
 http://103.183.69.179:8000/play/a0g3/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Colors Marathi HD - Rs 19.00
-http://103.183.69.179:8000/play/a0g0/index.m3u8
+http://103.183.69.179:8000/play/a0g7/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",DBC NEWS
 http://103.183.69.179:8000/play/a0am/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Desh TV
@@ -93,6 +93,10 @@ http://103.31.178.157:8839/play/a022/index.m3u8
 http://103.31.178.157:8839/play/a00t/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",SONY MAX HD - Rs 19.00
 http://103.183.69.179:8000/play/a0fu/index.m3u8
+#EXTINF:-1 group-title="103.31.178.157",SONY PIX
+http://103.31.178.157:8839/play/a014/index.m3u8
+#EXTINF:-1 group-title="103.31.178.157",SONY SPORTS 5 HD
+http://103.31.178.157:8839/play/a021/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",SONY SPORTS TEN 1 - Rs 19.00
 http://103.183.69.179:8000/play/a0h8/index.m3u8
 #EXTINF:-1 group-title="103.31.178.157",STAR GOLD THRILLS
@@ -121,8 +125,8 @@ http://103.31.178.157:8839/play/a006/index.m3u8
 http://103.31.178.157:8839/play/a01e/index.m3u8
 #EXTINF:-1 group-title="103.31.178.157",TRAVEL XP HD
 http://103.31.178.157:8839/play/a00h/index.m3u8
-#EXTINF:-1 group-title="103.183.69.179",Unite8 Sports 1 HD - Rs 9.00
-http://103.183.69.179:8000/play/a0fx/index.m3u8
+#EXTINF:-1 group-title="103.31.178.157",UNITE8 SPORTS 1 HD
+http://103.31.178.157:8839/play/a00i/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Unite8 Sports 2 - Rs 8.00
 http://103.183.69.179:8000/play/a0n0/index.m3u8
 #EXTINF:-1 group-title="103.31.178.157",VIJAY SUPER HD
