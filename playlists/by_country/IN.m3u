@@ -35,6 +35,8 @@ http://115.42.65.142:8000/play/a03t/index.m3u8
 http://115.42.65.142:8000/play/a01u/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",ARUJ TV
 http://115.42.65.142:8000/play/a023/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",ARYDigitalAsia HD
+http://115.42.65.142:8000/play/a019/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",ARYMusik
 http://115.42.65.142:8000/play/a018/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",ARYNewsAsia
@@ -51,6 +53,8 @@ http://115.42.65.142:8000/play/a044/index.m3u8
 http://115.42.65.142:8000/play/a03e/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",BOL Entertainment
 http://115.42.65.142:8000/play/a03z/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",BOL News Urdu
+http://115.42.65.142:8000/play/a040/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",ByPass 16
 http://115.42.65.142:8000/play/a03y/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",CGTN
@@ -81,8 +85,8 @@ http://115.42.65.142:8000/play/a01n/index.m3u8
 http://115.42.65.142:8000/play/a01m/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",EXPRESS 24/7
 http://115.42.65.142:8000/play/a01t/index.m3u8
-#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",FASHIONTV
-http://115.42.65.142:8000/play/a03s/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",FASHIONTV HD
+http://115.42.65.142:8000/play/a03r/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",FASTSPORTS HD
 http://115.42.65.142:8000/play/a01g/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",FILMAX
@@ -105,8 +109,6 @@ http://115.42.65.142:8000/play/a012/index.m3u8
 http://115.42.65.142:8000/play/a015/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Geo Super
 http://115.42.65.142:8000/play/a013/index.m3u8
-#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Geo Tez
-http://115.42.65.142:8000/play/a014/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",GNNHD
 http://115.42.65.142:8000/play/a01o/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",GNNHD 2nd
@@ -217,6 +219,8 @@ http://115.42.65.142:8000/play/a032/index.m3u8
 http://115.42.65.142:8000/play/a033/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Public News
 http://115.42.65.142:8000/play/a041/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",ROHI TV
+http://115.42.65.142:8000/play/a04l/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Roze TV
 http://115.42.65.142:8000/play/a02z/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",RT English
@@ -235,14 +239,14 @@ http://115.42.65.142:8000/play/a00w/index.m3u8
 http://115.42.65.142:8000/play/a029/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Sindh News 2nd
 http://115.42.65.142:8000/play/a02i/index.m3u8
-#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Sindh TV
-http://115.42.65.142:8000/play/a00y/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Sindh TV 2nd
 http://115.42.65.142:8000/play/a02h/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Special TV
 http://115.42.65.142:8000/play/a03k/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Star News Asia
 http://115.42.65.142:8000/play/a02l/index.m3u8
+#EXTINF:-1 group-title="india_new_59.103.38.45_8000.m3u",Star Sports 1 HD - Rs 19.00
+http://59.103.38.45:8000/play/a00a/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",SUCH TV HD
 http://115.42.65.142:8000/play/a00z/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",SUNO TV
@@ -275,3 +279,5 @@ http://115.42.65.142:8000/play/a02j/index.m3u8
 http://115.42.65.142:8000/play/a01k/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",WASEB
 http://115.42.65.142:8000/play/a039/index.m3u8
+#EXTINF:-1 group-title="india_new_59.103.38.45_8000.m3u",Zee Cafe HD - Rs 10.00
+http://59.103.38.45:8000/play/a04n/index.m3u8

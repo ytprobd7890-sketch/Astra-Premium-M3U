@@ -17,8 +17,6 @@ http://110.39.15.114:8000/play/a038/index.m3u8
 http://110.39.15.114:8000/play/a035/index.m3u8
 #EXTINF:-1 group-title="110.39.15.114",HBO3 HD
 http://110.39.15.114:8000/play/a03i/index.m3u8
-#EXTINF:-1 group-title="110.39.15.114",ID Poland HD
-http://110.39.15.114:8000/play/a03n/index.m3u8
 #EXTINF:-1 group-title="110.39.15.114",Ocean
 http://110.39.15.114:8000/play/a05p/index.m3u8
 #EXTINF:-1 group-title="110.39.15.114",OSN Comedy
