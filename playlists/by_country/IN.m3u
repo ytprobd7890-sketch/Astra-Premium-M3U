@@ -57,6 +57,8 @@ http://115.42.65.142:8000/play/a040/index.m3u8
 http://115.42.65.142:8000/play/a03y/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",CGTN
 http://115.42.65.142:8000/play/a03h/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Channel5
+http://115.42.65.142:8000/play/a04b/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",CHAUPAAL
 http://115.42.65.142:8000/play/a01s/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",CITY-21
@@ -131,8 +133,6 @@ http://115.42.65.142:8000/play/a04k/index.m3u8
 http://115.42.65.142:8000/play/a048/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",JALWA HD
 http://115.42.65.142:8000/play/a01x/index.m3u8
-#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",JOO Music
-http://115.42.65.142:8000/play/a00o/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Kay-2 HD
 http://115.42.65.142:8000/play/a03d/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Khyber News HD
@@ -217,6 +217,8 @@ http://115.42.65.142:8000/play/a033/index.m3u8
 http://115.42.65.142:8000/play/a041/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",ROHI TV
 http://115.42.65.142:8000/play/a04l/index.m3u8
+#EXTINF:-1 group-title="india_new_59.103.38.45_8000.m3u",Romedy Now - Rs 5.00
+http://59.103.38.45:8000/play/a05x/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Roze TV
 http://115.42.65.142:8000/play/a02z/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",RT English
