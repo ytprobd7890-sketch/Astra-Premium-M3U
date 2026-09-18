@@ -43,8 +43,6 @@ http://103.183.69.179:8000/play/a0ao/index.m3u8
 http://103.183.69.179:8000/play/a0ak/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",EKHON TV
 http://103.183.69.179:8000/play/a0ac/index.m3u8
-#EXTINF:-1 group-title="103.183.69.179",Ekushey TV
-http://103.183.69.179:8000/play/a0as/index.m3u8
 #EXTINF:-1 group-title="103.31.178.157",ENTERR 10 BANGLA
 http://103.31.178.157:8839/play/a00w/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",GLOBAL TV HD
@@ -87,6 +85,8 @@ http://103.31.178.157:8839/play/a020/index.m3u8
 http://103.31.178.157:8839/play/a01t/index.m3u8
 #EXTINF:-1 group-title="103.31.178.157",SONY SPORTS 5 HD
 http://103.31.178.157:8839/play/a021/index.m3u8
+#EXTINF:-1 group-title="103.31.178.157",STAR GOLD
+http://103.31.178.157:8839/play/a017/index.m3u8
 #EXTINF:-1 group-title="103.31.178.157",STAR GOLD THRILLS
 http://103.31.178.157:8839/play/a011/index.m3u8
 #EXTINF:-1 group-title="103.31.178.157",STAR JALSHA
