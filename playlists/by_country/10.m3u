@@ -43,8 +43,8 @@ http://103.183.69.179:8000/play/a0ao/index.m3u8
 http://103.183.69.179:8000/play/a0ak/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",EKHON TV
 http://103.183.69.179:8000/play/a0ac/index.m3u8
-#EXTINF:-1 group-title="103.31.178.157",ENTERR 10 BANGLA
-http://103.31.178.157:8839/play/a00w/index.m3u8
+#EXTINF:-1 group-title="103.183.69.179",Ekushey TV
+http://103.183.69.179:8000/play/a0as/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",GLOBAL TV HD
 http://103.183.69.179:8000/play/a0ad/index.m3u8
 #EXTINF:-1 group-title="103.31.178.157",GOOD TIMES
@@ -53,8 +53,8 @@ http://103.31.178.157:8839/play/a00g/index.m3u8
 http://103.183.69.179:8000/play/a0at/index.m3u8
 #EXTINF:-1 group-title="103.76.111.178",kids_zone (raw TS)
 http://103.76.111.180:8000/play/a08t
-#EXTINF:-1 group-title="103.31.178.157",MNX HD
-http://103.31.178.157:8839/play/a00b/index.m3u8
+#EXTINF:-1 group-title="103.183.69.179",Madani TV
+http://103.183.69.179:8000/play/a0ae/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Mohona TV
 http://103.183.69.179:8000/play/a0ap/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",MYTV HD
@@ -79,18 +79,12 @@ http://103.183.69.179:8000/play/a0a9/index.m3u8
 http://103.31.178.157:8839/play/a022/index.m3u8
 #EXTINF:-1 group-title="103.31.178.157",SONY MAX 1
 http://103.31.178.157:8839/play/a00t/index.m3u8
-#EXTINF:-1 group-title="103.31.178.157",SONY SPORTS 1 HD
-http://103.31.178.157:8839/play/a020/index.m3u8
-#EXTINF:-1 group-title="103.31.178.157",STAR GOLD
-http://103.31.178.157:8839/play/a017/index.m3u8
 #EXTINF:-1 group-title="103.31.178.157",STAR GOLD THRILLS
 http://103.31.178.157:8839/play/a011/index.m3u8
 #EXTINF:-1 group-title="103.31.178.157",STAR JALSHA
 http://103.31.178.157:8839/play/a018/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Star Maa Gold - Rs 12.00
 http://103.183.69.179:8000/play/a0gi/index.m3u8
-#EXTINF:-1 group-title="103.31.178.157",STAR PLUS HD
-http://103.31.178.157:8839/play/a00n/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Star Sports 1 Telugu HD - Rs 19.00
 http://103.183.69.179:8000/play/a0kz/index.m3u8
 #EXTINF:-1 group-title="103.31.178.157",STAR SPORTS 2 TELEGU
@@ -119,3 +113,5 @@ http://103.183.69.179:8000/play/a0kb/index.m3u8
 http://103.31.178.157:8839/play/a002/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Zee Kannada HD - Rs 19.00
 http://103.183.69.179:8000/play/a0l5/index.m3u8
+#EXTINF:-1 group-title="103.183.69.179",Zee TV - Rs 19.00
+http://103.183.69.179:8000/play/a0i0/index.m3u8
