@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="103.155.18.184:8000",&pictures HD - Rs 19.00
-http://103.155.18.184:8000/play/a06b/index.m3u8
 #EXTINF:-1 group-title="8.243.126.131:8000" tvg-name="05-SD Golden",05-SD Golden
 http://38.52.182.236:9000/play/a0g4/index.m3u8
 #EXTINF:-1 group-title="8.243.126.131:8000" tvg-name="05-SD Golden Edge",05-SD Golden Edge
@@ -91,6 +89,8 @@ http://181.78.14.26:4000/play/a044/index.m3u8
 http://181.78.14.26:4000/play/a01j/index.m3u8
 #EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="@DIG - CANAL CAPITAL SD",@DIG - CANAL CAPITAL SD
 http://181.78.14.26:4000/play/a01w/index.m3u8
+#EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="@DIG - CANAL CONGRESO SD",@DIG - CANAL CONGRESO SD
+http://181.78.14.26:4000/play/a01v/index.m3u8
 #EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="@DIG - CANAL DE LAS ESTRELLAS HD",@DIG - CANAL DE LAS ESTRELLAS HD
 http://181.78.14.26:4000/play/a07r/index.m3u8
 #EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="@DIG - CANAL INFANTIL HD",@DIG - CANAL INFANTIL HD
@@ -99,14 +99,16 @@ http://181.78.14.26:4000/play/a048/index.m3u8
 http://181.78.14.26:4000/play/a01t/index.m3u8
 #EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="@DIG - CANAL UNO SD",@DIG - CANAL UNO SD
 http://181.78.14.26:4000/play/a01s/index.m3u8
-#EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="@DIG - CARACOL TV HD",@DIG - CARACOL TV HD
-http://181.78.14.26:4000/play/a02r/index.m3u8
 #EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="@DIG -  CARACOL TV HD2",@DIG - CARACOL TV HD2
 http://181.78.14.26:4000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="@DIG - CARACOL TV SD",@DIG - CARACOL TV SD
+http://181.78.14.26:4000/play/a071/index.m3u8
 #EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="@DIG - CARTOON NETWORKS SD",@DIG - CARTOON NETWORKS SD
 http://181.78.14.26:4000/play/a046/index.m3u8
 #EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="@DIG - CARTOONITO SD",@DIG - CARTOONITO SD
 http://181.78.14.26:4000/play/a01f/index.m3u8
+#EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="@DIG - CINE CANAL HD",@DIG - CINE CANAL HD
+http://181.78.14.26:4000/play/a04f/index.m3u8
 #EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="@DIG - CINE FAMILIAR HD",@DIG - CINE FAMILIAR HD
 http://181.78.14.26:4000/play/a03l/index.m3u8
 #EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="@DIG - CINE HISPANO HD",@DIG - CINE HISPANO HD
@@ -115,10 +117,10 @@ http://181.78.14.26:4000/play/a04j/index.m3u8
 http://181.78.14.26:4000/play/a03k/index.m3u8
 #EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="@DIG - CITYTV SD",@DIG - CITYTV SD
 http://181.78.14.26:4000/play/a01q/index.m3u8
+#EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="@DIG - CNC SD",@DIG - CNC SD
+http://181.78.14.26:4000/play/a07n/index.m3u8
 #EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="@DIG - CNN ESPANOL SD",@DIG - CNN ESPANOL SD
 http://181.78.14.26:4000/play/a03g/index.m3u8
-#EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="@DIG - COSMOVISION HD",@DIG - COSMOVISION HD
-http://181.78.14.26:4000/play/a07u/index.m3u8
 #EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="@DIG - CRISTOVISION SD",@DIG - CRISTOVISION SD
 http://181.78.14.26:4000/play/a01n/index.m3u8
 #EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="@DIG - DEPELICULA HD",@DIG - DEPELICULA HD
@@ -139,18 +141,22 @@ http://181.78.14.26:4000/play/a02z/index.m3u8
 http://181.78.14.26:4000/play/a010/index.m3u8
 #EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="@DIG - DISNEY JR HD",@DIG - DISNEY JR HD
 http://181.78.14.26:4000/play/a073/index.m3u8
-#EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="@DIG - DREAMWORKS HD",@DIG - DREAMWORKS HD
-http://181.78.14.26:4000/play/a047/index.m3u8
 #EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="@DIG - DW HD",@DIG - DW HD
 http://181.78.14.26:4000/play/a03n/index.m3u8
+#EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="@DIG - E! HD",@DIG - E! HD
+http://181.78.14.26:4000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="@DIG - E! HD IN",@DIG - E! HD IN
+http://181.78.14.26:4000/play/a09u/index.m3u8
 #EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="@DIG - ENLACE HD",@DIG - ENLACE HD
 http://181.78.14.26:4000/play/a01o/index.m3u8
 #EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="@DIG - ESPN 2 HD",@DIG - ESPN 2 HD
 http://181.78.14.26:4000/play/a02p/index.m3u8
 #EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="@DIG - ESPN 3 HD",@DIG - ESPN 3 HD
 http://181.78.14.26:4000/play/a02q/index.m3u8
-#EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="@DIG - ESPN 7 HD",@DIG - ESPN 7 HD
-http://181.78.14.26:4000/play/a042/index.m3u8
+#EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="@DIG - ESPN 5 HD",@DIG - ESPN 5 HD
+http://181.78.14.26:4000/play/a03x/index.m3u8
+#EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="@DIG - ESPN 6 HD",@DIG - ESPN 6 HD
+http://181.78.14.26:4000/play/a03y/index.m3u8
 #EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="@DIG - ESPN HD",@DIG - ESPN HD
 http://181.78.14.26:4000/play/a009/index.m3u8
 #EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="@DIG - EWTN SD",@DIG - EWTN SD
@@ -205,8 +211,6 @@ http://181.78.14.26:4000/play/a07m/index.m3u8
 http://181.78.14.26:4000/play/a03b/index.m3u8
 #EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="@DIG - RCN NOVELAS HD",@DIG - RCN NOVELAS HD
 http://181.78.14.26:4000/play/a03c/index.m3u8
-#EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="@DIG - RUMBA TV HD",@DIG - RUMBA TV HD
-http://181.78.14.26:4000/play/a032/index.m3u8
 #EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="@DIG - SENAL COLOMBIA SD",@DIG - SENAL COLOMBIA SD
 http://181.78.14.26:4000/play/a01u/index.m3u8
 #EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="@DIG - SONY CHANNEL HD",@DIG - SONY CHANNEL HD
@@ -228,7 +232,7 @@ http://181.78.14.26:4000/play/a024/index.m3u8
 #EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="@DIG - TELE AMIGA SD IN",@DIG - TELE AMIGA SD IN
 http://181.78.14.26:4000/play/a09s/index.m3u8
 #EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="@DIG - TELEANTIOQUIA SD",@DIG - TELEANTIOQUIA SD
-http://181.78.14.26:4000/play/a01y/index.m3u8
+http://181.78.14.26:4000/play/a041/index.m3u8
 #EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="@DIG - TELECAFE",@DIG - TELECAFE
 http://181.78.14.26:4000/play/a021/index.m3u8
 #EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="@DIG - TELECARIBE",@DIG - TELECARIBE
@@ -255,6 +259,8 @@ http://181.78.14.26:4000/play/a07p/index.m3u8
 http://181.78.14.26:4000/play/a01k/index.m3u8
 #EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="@DIG - TNT SERIES SD",@DIG - TNT SERIES SD
 http://181.78.14.26:4000/play/a01c/index.m3u8
+#EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="@DIG - TOONCAST SD",@DIG - TOONCAST SD
+http://181.78.14.26:4000/play/a045/index.m3u8
 #EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="@DIG - TRECE SD",@DIG - TRECE SD
 http://181.78.14.26:4000/play/a01x/index.m3u8
 #EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="@DIG - TRO SD",@DIG - TRO SD
@@ -279,8 +285,6 @@ http://181.78.14.26:4000/play/a01m/index.m3u8
 http://190.108.83.69:8000/play/a0c9/index.m3u8
 #EXTINF:-1 group-title="190.61.117.35:8000" tvg-name="A H L1MAX",A H L1MAX
 http://190.108.83.69:8000/play/a0bl/index.m3u8
-#EXTINF:-1 group-title="103.147.87.152:18008",A SportsHD
-http://103.147.87.152:18008/play/a05s/index.m3u8
 #EXTINF:-1 group-title="200.125.170.123:8000" tvg-name="A&E",A&E
 http://45.166.93.156:9999/play/a08b/index.m3u8
 #EXTINF:-1 group-title="200.125.170.123:8000" tvg-name="A3CINE",A3CINE
@@ -299,8 +303,8 @@ http://190.61.90.17:40000/play/a051/index.m3u8
 http://45.166.93.156:9999/play/a0h2/index.m3u8
 #EXTINF:-1 group-title="190.61.117.35:8000" tvg-name="AMC SERIES",AMC SERIES
 http://190.108.83.69:8000/play/a00p/index.m3u8
-#EXTINF:-1 group-title="186.148.196.100:8000" tvg-name="AMERICA HD",AMERICA HD
-http://186.148.196.100:8000/play/a015
+#EXTINF:-1 group-title="186.148.196.100:8000" tvg-name="AMERICA FULL HD",AMERICA FULL HD
+http://186.148.196.100:8000/play/a06i
 #EXTINF:-1 group-title="190.61.117.35:8000" tvg-name="America TV HD",America TV HD
 http://190.108.83.69:8000/play/a00f/index.m3u8
 #EXTINF:-1 group-title="45.170.130.224:8000" tvg-name="America TV PY",America TV PY
@@ -311,20 +315,12 @@ http://45.166.93.156:9999/play/a0j2/index.m3u8
 http://45.166.93.156:9999/play/a0bp/index.m3u8
 #EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="Animal Planet Latin HD IN",Animal Planet Latin HD IN
 http://181.78.14.26:4000/play/a00v/index.m3u8
-#EXTINF:-1 group-title="119.155.143.222:4600",Animal Planet Poland HD
-http://119.155.143.222:4600/play/a03g/index.m3u8
 #EXTINF:-1 group-title="200.125.170.123:8000" tvg-name="Antena 3",Antena 3
 http://45.166.93.156:9999/play/a0fo/index.m3u8
 #EXTINF:-1 group-title="200.125.170.123:8000" tvg-name="Antena 7- RD",Antena 7- RD
 http://45.166.93.156:9999/play/a0gd/index.m3u8
-#EXTINF:-1 group-title="103.147.87.152:18008",APlus Pakistan
-http://103.147.87.152:18008/play/a05d/index.m3u8
-#EXTINF:-1 group-title="103.147.87.152:18008",ARYDigitalAsia HD
-http://103.147.87.152:18008/play/a05k/index.m3u8
-#EXTINF:-1 group-title="103.147.87.152:18008",ARYMusik
-http://103.147.87.152:18008/play/a05o/index.m3u8
-#EXTINF:-1 group-title="103.147.87.152:18008",ARYNewsAsia
-http://103.147.87.152:18008/play/a05r/index.m3u8
+#EXTINF:-1 group-title="103.147.87.152:18008",ARYQTV
+http://103.147.87.152:18008/play/a05n/index.m3u8
 #EXTINF:-1 group-title="200.125.170.123:8000" tvg-name="Atres Series",Atres Series
 http://45.166.93.156:9999/play/a0hl/index.m3u8
 #EXTINF:-1 group-title="200.125.170.123:8000" tvg-name="ATV",ATV
@@ -333,8 +329,8 @@ http://45.166.93.156:9999/play/a009/index.m3u8
 http://186.148.196.100:8000/play/a029
 #EXTINF:-1 group-title="103.147.87.152:18008",AUR TV
 http://103.147.87.152:18008/play/a05h/index.m3u8
-#EXTINF:-1 group-title="200.125.170.123:8000" tvg-name="AXN HD",AXN HD
-http://45.166.93.156:9999/play/a0fg/index.m3u8
+#EXTINF:-1 group-title="200.125.170.123:8000" tvg-name="AXN",AXN
+http://45.166.93.156:9999/play/a0h0/index.m3u8
 #EXTINF:-1 group-title="119.155.143.222:4600",AXN SPIN HD tes
 http://119.155.143.222:4600/play/a020/index.m3u8
 #EXTINF:-1 group-title="186.148.196.100:8000" tvg-name="AZ CINEMA",AZ CINEMA
@@ -345,14 +341,12 @@ http://190.61.90.17:40000/play/a0gz/index.m3u8
 http://186.148.196.100:8000/play/a014
 #EXTINF:-1 group-title="186.148.196.100:8000" tvg-name="AZ MUNDO",AZ MUNDO
 http://186.148.196.100:8000/play/a02j
+#EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="Azcorazon",Azcorazon
+http://190.61.90.17:40000/play/a0g6/index.m3u8
 #EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="Azmundo",Azmundo
 http://190.61.90.17:40000/play/a0h8/index.m3u8
 #EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="Azteca Gua",Azteca Gua
 http://190.61.90.17:40000/play/a0h3/index.m3u8
-#EXTINF:-1 group-title="103.147.87.152:18008",B4U KADAK
-http://103.147.87.152:18008/play/a06p/index.m3u8
-#EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="Baby First",Baby First
-http://190.61.90.17:40000/play/a03i/index.m3u8
 #EXTINF:-1 group-title="200.125.170.123:8000" tvg-name="Baby TV",Baby TV
 http://45.166.93.156:9999/play/a0hc/index.m3u8
 #EXTINF:-1 group-title="45.170.130.224:8000" tvg-name="BabyFirst",BabyFirst
@@ -369,8 +363,8 @@ http://190.60.32.178:8178/play/a0hp/index.m3u8
 http://103.147.87.152:18008/play/a065/index.m3u8
 #EXTINF:-1 group-title="103.147.87.152:18008",Big Magic
 http://103.147.87.152:18008/play/a06o/index.m3u8
-#EXTINF:-1 group-title="181.78.78.66:8000" tvg-name="Bitme",Bitme
-http://181.78.78.66:8000/play/a0cz
+#EXTINF:-1 group-title="186.148.196.100:8000" tvg-name="BITME",BITME
+http://186.148.196.100:8000/play/a00h
 #EXTINF:-1 group-title="45.170.130.224:8000" tvg-name="C9N",C9N
 http://45.170.130.224:8000/play/a033/index.m3u8
 #EXTINF:-1 group-title="186.148.196.82:8001" tvg-name="CABLE TACNA TV",CABLE TACNA TV
@@ -397,6 +391,8 @@ http://190.60.37.118:4000/play/a0ag
 http://45.166.93.156:9999/play/a0jc/index.m3u8
 #EXTINF:-1 group-title="200.125.170.123:8000" tvg-name="Canal 3 - GUA",Canal 3 - GUA
 http://45.166.93.156:9999/play/a07j/index.m3u8
+#EXTINF:-1 group-title="200.125.170.123:8000" tvg-name="Canal 3 Telesistemas HND",Canal 3 Telesistemas HND
+http://45.166.93.156:9999/play/a0ez/index.m3u8
 #EXTINF:-1 group-title="179.51.136.19:8000" tvg-name="Canal 4 - NIC",Canal 4 - NIC
 http://179.51.136.19:8000/play/a188/index.m3u8
 #EXTINF:-1 group-title="200.125.170.123:8000" tvg-name="Canal 4 HD ESA",Canal 4 HD ESA
@@ -413,8 +409,8 @@ http://45.166.93.156:9999/play/a07i/index.m3u8
 http://45.166.93.156:9999/play/a08s/index.m3u8
 #EXTINF:-1 group-title="200.125.170.123:8000" tvg-name="Canal 8 TNH HN",Canal 8 TNH HN
 http://45.166.93.156:9999/play/a0hb/index.m3u8
-#EXTINF:-1 group-title="179.51.136.19:8000" tvg-name="Canal Antigua - GUA",Canal Antigua - GUA
-http://179.51.136.19:8000/play/a0w4/index.m3u8
+#EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="Canal Antigua - GUA",Canal Antigua - GUA
+http://190.61.90.17:40000/play/a0h2/index.m3u8
 #EXTINF:-1 group-title="181.78.78.66:8000" tvg-name="Canal  Capital",Canal Capital
 http://181.78.78.66:8000/play/a0en
 #EXTINF:-1 group-title="181.78.197.59:8000" tvg-name="Canal Caracol",Canal Caracol
@@ -437,8 +433,8 @@ http://190.108.83.69:8000/play/a07r/index.m3u8
 http://181.78.197.59:8000/play/a09q/index.m3u8
 #EXTINF:-1 group-title="181.78.78.66:8000" tvg-name="Canal TRO",Canal TRO
 http://181.78.78.66:8000/play/a0eh
-#EXTINF:-1 group-title="181.205.130.194:4000" tvg-name="Canal Uno",Canal Uno
-http://181.205.130.194:4000/play/a0az
+#EXTINF:-1 group-title="190.60.37.118:4000" tvg-name="Canal Uno",Canal Uno
+http://190.60.37.118:4000/play/a0au
 #EXTINF:-1 group-title="200.125.170.123:8000" tvg-name="Canal VTV HND",Canal VTV HND
 http://45.166.93.156:9999/play/a0f0/index.m3u8
 #EXTINF:-1 group-title="200.125.170.123:8000" tvg-name="Canal5 COMPAY",Canal5 COMPAY
@@ -451,12 +447,14 @@ http://45.166.93.156:9999/play/a0f5/index.m3u8
 http://190.60.32.178:8178/play/a0aj/index.m3u8
 #EXTINF:-1 group-title="190.60.32.178:8178" tvg-name="CARACOL TV HD (EL TARRA)",CARACOL TV HD (EL TARRA)
 http://190.60.32.178:8178/play/a0b1/index.m3u8
-#EXTINF:-1 group-title="200.125.170.123:8000" tvg-name="CARTOON NETWORK HD",CARTOON NETWORK HD
-http://45.166.93.156:9999/play/a0iu/index.m3u8
+#EXTINF:-1 group-title="200.125.170.123:8000" tvg-name="Cartoon Network",Cartoon Network
+http://45.166.93.156:9999/play/a0gh/index.m3u8
 #EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="CARTOON NT HD",CARTOON NT HD
 http://190.61.90.17:40000/play/a0l0/index.m3u8
 #EXTINF:-1 group-title="200.125.170.123:8000" tvg-name="Cartoonito",Cartoonito
 http://45.166.93.156:9999/play/a0gj/index.m3u8
+#EXTINF:-1 group-title="59.103.38.46:8000" tvg-name="CBeebies - Rs 3.00",CBeebies - Rs 3.00
+http://59.103.38.46:8000/play/a0a2/index.m3u8
 #EXTINF:-1 group-title="200.125.170.123:8000" tvg-name="CERTV",CERTV
 http://45.166.93.156:9999/play/a0ew/index.m3u8
 #EXTINF:-1 group-title="59.103.38.17:8000",chanel 11
@@ -467,10 +465,8 @@ http://59.103.38.17:8000/play/a00p/index.m3u8
 http://59.103.38.17:8000/play/a014/index.m3u8
 #EXTINF:-1 group-title="59.103.38.17:8000",Chanel One
 http://59.103.38.17:8000/play/a03t/index.m3u8
-#EXTINF:-1 group-title="103.147.87.152:18008",Channel5
-http://103.147.87.152:18008/play/a05e/index.m3u8
-#EXTINF:-1 group-title="38.52.182.236:9000" tvg-name="CHILE [02]HD CHV",CHILE
-http://38.52.182.236:9000/play/a0bp/index.m3u8
+#EXTINF:-1 group-title="38.52.182.236:9000" tvg-name="CHILE [02]HD MEGA",CHILE
+http://38.52.182.236:9000/play/a0bw/index.m3u8
 #EXTINF:-1 group-title="200.125.170.123:8000" tvg-name="CHTV",CHTV
 http://45.166.93.156:9999/play/a0jb/index.m3u8
 #EXTINF:-1 group-title="59.103.38.17:8000",Chupal Punjabi
@@ -501,6 +497,8 @@ http://59.103.38.17:8000/play/a00o/index.m3u8
 http://59.103.38.17:8000/play/a007/index.m3u8
 #EXTINF:-1 group-title="59.103.38.17:8000",City Tv
 http://59.103.38.17:8000/play/a043/index.m3u8
+#EXTINF:-1 group-title="179.51.136.19:8000" tvg-name="Claro Sports 2 SD",Claro Sports 2 SD
+http://179.51.136.19:8000/play/a16q/index.m3u8
 #EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="Claro Sports  HD",Claro Sports HD
 http://190.61.90.17:40000/play/a0kz/index.m3u8
 #EXTINF:-1 group-title="186.148.196.82:8001" tvg-name="Clover",Clover
@@ -509,24 +507,12 @@ http://186.148.196.82:8001/play/a0cj
 http://45.166.93.156:9999/play/a0fd/index.m3u8
 #EXTINF:-1 group-title="45.170.130.224:8000" tvg-name="CNN Chile",CNN Chile
 http://45.170.130.224:8000/play/a00y/index.m3u8
-#EXTINF:-1 group-title="190.61.117.35:8000" tvg-name="CNN Espanol",CNN Espanol
-http://190.108.83.69:8000/play/a023/index.m3u8
-#EXTINF:-1 group-title="190.60.32.178:8178" tvg-name="CNN Espaæol",CNN Espaæol
-http://190.60.32.178:8178/play/a0gh/index.m3u8
 #EXTINF:-1 group-title="200.125.170.123:8000" tvg-name="CNN Internacional",CNN Internacional
 http://45.166.93.156:9999/play/a0hn/index.m3u8
 #EXTINF:-1 group-title="200.125.170.123:8000" tvg-name="CNNE",CNNE
 http://45.166.93.156:9999/play/a0h3/index.m3u8
 #EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="CNNes",CNNes
 http://190.61.90.17:40000/play/a0gi/index.m3u8
-#EXTINF:-1 group-title="59.103.38.47:8000",Colors Cineplex Bollywood - Rs 0.10
-http://59.103.38.47:8000/play/a058/index.m3u8
-#EXTINF:-1 group-title="103.147.87.152:18008",COLORS CINEPLEX SUPERHITS
-http://103.147.87.152:18008/play/a06l/index.m3u8
-#EXTINF:-1 group-title="103.11.0.215:8000",Colors HD - Rs 19.00
-http://103.155.18.189:8000/play/a00b/index.m3u8
-#EXTINF:-1 group-title="103.147.87.152:18008",COLORS RISHTEY
-http://103.147.87.152:18008/play/a06x/index.m3u8
 #EXTINF:-1 group-title="186.148.196.100:8000" tvg-name="COMEDY CENTER !!!",COMEDY CENTER !!!
 http://186.148.196.100:8000/play/a02x
 #EXTINF:-1 group-title="190.60.32.178:8178" tvg-name="Comedy Central HD",Comedy Central HD
@@ -541,10 +527,8 @@ http://190.60.32.178:8178/play/a0n8/index.m3u8
 http://181.78.78.66:8000/play/a0fz
 #EXTINF:-1 group-title="186.148.196.82:8001" tvg-name="CT DEPORTES HD",CT DEPORTES HD
 http://186.148.196.82:8001/play/a09o
-#EXTINF:-1 group-title="59.103.38.17:8000",Dangal
-http://59.103.38.17:8000/play/a03b/index.m3u8
-#EXTINF:-1 group-title="59.103.38.17:8000",Dangal 2
-http://59.103.38.17:8000/play/a037/index.m3u8
+#EXTINF:-1 group-title="103.147.87.152:18008",Dangal
+http://103.147.87.152:18008/play/a064/index.m3u8
 #EXTINF:-1 group-title="59.103.38.17:8000",Dawn N
 http://59.103.38.17:8000/play/a07a/index.m3u8
 #EXTINF:-1 group-title="103.147.87.152:18008",DD Punjabi
@@ -575,8 +559,6 @@ http://190.61.90.17:40000/play/a0kn/index.m3u8
 http://190.60.32.178:8178/play/a0my/index.m3u8
 #EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="Discovery H&H Latin HD IN",Discovery H&H Latin HD IN
 http://181.78.14.26:4000/play/a00u/index.m3u8
-#EXTINF:-1 group-title="103.11.0.215:8000",Discovery HD - Rs 8.00
-http://103.155.18.189:8000/play/a05z/index.m3u8
 #EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="Discovery ID HD",Discovery ID HD
 http://190.61.90.17:40000/play/a0ks/index.m3u8
 #EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="Discovery Kids",Discovery Kids
@@ -589,10 +571,8 @@ http://179.51.136.19:8000/play/a1m8/index.m3u8
 http://190.61.90.17:40000/play/a0hv/index.m3u8
 #EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="Discovery Turbo",Discovery Turbo
 http://190.61.90.17:40000/play/a0ia/index.m3u8
-#EXTINF:-1 group-title="181.78.197.59:8000" tvg-name="Discovery World HD",Discovery World HD
-http://181.78.197.59:8000/play/a087/index.m3u8
-#EXTINF:-1 group-title="119.155.143.222:4600",Disney Junior
-http://119.155.143.222:4600/play/a01c/index.m3u8
+#EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="Discovery World HD",Discovery World HD
+http://190.61.90.17:40000/play/a0kp/index.m3u8
 #EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="Disney Junior Norte  (JNRO52)",Disney Junior Norte (JNRO52)
 http://181.78.14.26:4000/play/a06k/index.m3u8
 #EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="Disney Multicountry (DCM04)",Disney Multicountry (DCM04)
@@ -615,14 +595,14 @@ http://190.61.90.17:40000/play/a00j/index.m3u8
 http://179.51.136.19:8000/play/a1sb/index.m3u8
 #EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="E! Entertairment HD",E! Entertairment HD
 http://190.61.90.17:40000/play/a0gr/index.m3u8
+#EXTINF:-1 group-title="181.78.197.59:8000" tvg-name="Ecuador TV",Ecuador TV
+http://181.78.197.59:8000/play/a0ed/index.m3u8
 #EXTINF:-1 group-title="181.78.197.59:8000" tvg-name="Ecuavisa",Ecuavisa
-http://181.78.197.59:8000/play/a09s/index.m3u8
+http://181.78.197.59:8000/play/a04e/index.m3u8
 #EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="EJTV IXP",EJTV IXP
 http://190.61.90.17:40000/play/a011/index.m3u8
 #EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="El Gourmet",El Gourmet
 http://190.61.90.17:40000/play/a04v/index.m3u8
-#EXTINF:-1 group-title="181.78.197.59:8000" tvg-name="Enlace",Enlace
-http://181.78.197.59:8000/play/a08h/index.m3u8
 #EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="Enlace Juvenil",Enlace Juvenil
 http://190.61.90.17:40000/play/a00v/index.m3u8
 #EXTINF:-1 group-title="190.60.37.118:4000" tvg-name="Esne",Esne
@@ -635,6 +615,8 @@ http://190.61.90.17:40000/play/a053/index.m3u8
 http://45.170.130.224:8000/play/a01x/index.m3u8
 #EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="ESPN 3 HD",ESPN 3 HD
 http://190.61.90.17:40000/play/a054/index.m3u8
+#EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="ESPN  4 HD",ESPN 4 HD
+http://190.61.90.17:40000/play/a00g/index.m3u8
 #EXTINF:-1 group-title="179.51.136.19:8000" tvg-name="ESPN 4HD",ESPN 4HD
 http://179.51.136.19:8000/play/a1kr/index.m3u8
 #EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="ESPN 5 HD",ESPN 5 HD
@@ -649,12 +631,12 @@ http://190.61.90.17:40000/play/a0kj/index.m3u8
 http://181.78.14.26:4000/play/a06d/index.m3u8
 #EXTINF:-1 group-title="179.51.136.19:8000" tvg-name="ESPN 6HD",ESPN 6HD
 http://179.51.136.19:8000/play/a1l3/index.m3u8
-#EXTINF:-1 group-title="179.51.136.19:8000" tvg-name="ESPN 7 HD",ESPN 7 HD
-http://179.51.136.19:8000/play/a1t2/index.m3u8
+#EXTINF:-1 group-title="181.78.197.59:8000" tvg-name="ESPN 7 HD",ESPN 7 HD
+http://181.78.197.59:8000/play/a06a/index.m3u8
 #EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="ESPN 7 Sur (ESPN 10)",ESPN 7 Sur (ESPN 10)
 http://181.78.14.26:4000/play/a06e/index.m3u8
-#EXTINF:-1 group-title="179.51.136.19:8000" tvg-name="ESPN 7HD",ESPN 7HD
-http://179.51.136.19:8000/play/a1kj/index.m3u8
+#EXTINF:-1 group-title="190.60.32.178:8178" tvg-name="ESPN 7HD",ESPN 7HD
+http://190.60.32.178:8178/play/a0hs/index.m3u8
 #EXTINF:-1 group-title="181.205.130.194:4000" tvg-name="ESPN CO",ESPN CO
 http://181.205.130.194:4000/play/a08n
 #EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="ESPN HD",ESPN HD
@@ -695,28 +677,26 @@ http://59.103.38.17:8000/play/a077/index.m3u8
 http://59.103.38.17:8000/play/a075/index.m3u8
 #EXTINF:-1 group-title="59.103.38.17:8000",Express N
 http://59.103.38.17:8000/play/a076/index.m3u8
-#EXTINF:-1 group-title="119.155.143.222:4600",Extreme Sports HD
-http://119.155.143.222:4600/play/a01b/index.m3u8
 #EXTINF:-1 group-title="103.147.87.152:18008",Fakt Marathi
 http://103.147.87.152:18008/play/a05z/index.m3u8
 #EXTINF:-1 group-title="59.103.38.17:8000",Fast Sports
 http://59.103.38.17:8000/play/a06y/index.m3u8
+#EXTINF:-1 group-title="103.147.87.152:18008",FILAMCHI BHOJPURI
+http://103.147.87.152:18008/play/a06t/index.m3u8
 #EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="Film & arts HD",Film & arts HD
 http://190.61.90.17:40000/play/a0gs/index.m3u8
-#EXTINF:-1 group-title="190.60.37.118:4000" tvg-name="Film&Arts",Film&Arts
-http://190.60.37.118:4000/play/a0ak
-#EXTINF:-1 group-title="59.103.38.17:8000",Filmazia
-http://59.103.38.17:8000/play/a04g/index.m3u8
 #EXTINF:-1 group-title="190.60.32.178:8178" tvg-name="Food Network",Food Network
 http://190.60.32.178:8178/play/a0l3/index.m3u8
 #EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="Food Network Latin HD SPA",Food Network Latin HD SPA
 http://181.78.14.26:4000/play/a00r/index.m3u8
-#EXTINF:-1 group-title="113.192.47.107:7997",FOX SPORTS 1
-http://119.152.22.162:4389/play/a02w/index.m3u8
+#EXTINF:-1 group-title="115.42.65.142:8000",FOX SPORTS 1
+http://119.152.22.166:4389/play/a02w/index.m3u8
 #EXTINF:-1 group-title="38.52.182.236:9000" tvg-name="FR Kanal D Drama SD",FR Kanal D Drama SD
 http://38.52.182.236:9000/play/a00d/index.m3u8
 #EXTINF:-1 group-title="38.52.182.236:9000" tvg-name="FR Tl Nonelas HD",FR Tl Nonelas HD
 http://38.52.182.236:9000/play/a0ki/index.m3u8
+#EXTINF:-1 group-title="190.60.32.178:8178" tvg-name="France 24",France 24
+http://190.60.32.178:8178/play/a0mk/index.m3u8
 #EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="France24",France24
 http://190.61.90.17:40000/play/a01l/index.m3u8
 #EXTINF:-1 group-title="181.78.78.66:8000" tvg-name="FreeTv Accion",FreeTv Accion
@@ -729,8 +709,6 @@ http://181.78.78.66:8000/play/a09o
 http://181.78.78.66:8000/play/a04b
 #EXTINF:-1 group-title="181.78.78.66:8000" tvg-name="FreeTv Live",FreeTv Live
 http://181.78.78.66:8000/play/a02y
-#EXTINF:-1 group-title="181.78.78.66:8000" tvg-name="FreeTv Terror",FreeTv Terror
-http://181.78.78.66:8000/play/a02w
 #EXTINF:-1 group-title="186.148.196.100:8000" tvg-name="FUNBOX",FUNBOX
 http://186.148.196.100:8000/play/a00d
 #EXTINF:-1 group-title="190.60.32.178:8178" tvg-name="FUTBOL TOTAL (RES)",FUTBOL TOTAL (RES)
@@ -747,10 +725,6 @@ http://59.103.38.17:8000/play/a03x/index.m3u8
 http://45.170.130.224:8000/play/a04j/index.m3u8
 #EXTINF:-1 group-title="59.103.38.17:8000",Geo HD
 http://59.103.38.17:8000/play/a059/index.m3u8
-#EXTINF:-1 group-title="59.103.38.17:8000",Geo Super
-http://59.103.38.17:8000/play/a05b/index.m3u8
-#EXTINF:-1 group-title="103.147.87.152:18008",Geo Tez
-http://103.147.87.152:18008/play/a19a/index.m3u8
 #EXTINF:-1 group-title="59.103.38.17:8000",Geo Tezz
 http://59.103.38.17:8000/play/a005/index.m3u8
 #EXTINF:-1 group-title="186.148.196.100:8000" tvg-name="GLOBAL",GLOBAL
@@ -771,8 +745,6 @@ http://190.60.32.178:8178/play/a0mc/index.m3u8
 http://103.147.87.152:18008/play/a068/index.m3u8
 #EXTINF:-1 group-title="103.147.87.152:18008",Goldmines Bollywood
 http://103.147.87.152:18008/play/a06b/index.m3u8
-#EXTINF:-1 group-title="103.147.87.152:18008",GOLDMINES MOVIES
-http://103.147.87.152:18008/play/a06z/index.m3u8
 #EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="Golf Channel HD",Golf Channel HD
 http://190.61.90.17:40000/play/a0h1/index.m3u8
 #EXTINF:-1 group-title="186.148.196.82:8001" tvg-name="GOLPERU 714 HD",GOLPERU 714 HD
@@ -793,6 +765,10 @@ http://186.148.196.82:8001/play/a0cu
 http://179.51.136.19:8000/play/a1me/index.m3u8
 #EXTINF:-1 group-title="186.148.196.82:8001" tvg-name="HBO Signature",HBO Signature
 http://186.148.196.82:8001/play/a0ct
+#EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="HBO XTREME HD",HBO XTREME HD
+http://190.61.90.17:40000/play/a0l6/index.m3u8
+#EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="HBO2 HD",HBO2 HD
+http://190.61.90.17:40000/play/a00c/index.m3u8
 #EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="HCH- HON",HCH- HON
 http://190.61.90.17:40000/play/a015/index.m3u8
 #EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="HGLA HD SPA",HGLA HD SPA
@@ -803,26 +779,22 @@ http://179.51.136.19:8000/play/a1se/index.m3u8
 http://190.61.90.17:40000/play/a0jp/index.m3u8
 #EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="History Channel HD",History Channel HD
 http://190.61.90.17:40000/play/a0gk/index.m3u8
-#EXTINF:-1 group-title="103.155.18.184:8000",History TV18 HD - Rs 7.00
-http://103.155.18.184:8000/play/a065/index.m3u8
 #EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="HOGARTV_SRT",HOGARTV_SRT
 http://181.78.14.26:4000/play/a0bi/index.m3u8
 #EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="HOLA! TV HD",HOLA! TV HD
 http://190.61.90.17:40000/play/a0hx/index.m3u8
+#EXTINF:-1 group-title="45.185.163.75:8000" tvg-name="Hola!TV",Hola!TV
+http://45.185.163.75:8000/play/a0fl/index.m3u8
 #EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="Home & Health HD",Home & Health HD
 http://190.61.90.17:40000/play/a0hw/index.m3u8
 #EXTINF:-1 group-title="45.185.163.75:8000" tvg-name="Home and Health",Home and Health
 http://45.185.163.75:8000/play/a0h3/index.m3u8
 #EXTINF:-1 group-title="59.103.38.17:8000",Hoora
 http://59.103.38.17:8000/play/a04j/index.m3u8
-#EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="HTV",HTV
-http://190.61.90.17:40000/play/a024/index.m3u8
 #EXTINF:-1 group-title="59.103.38.17:8000",Hum HD
 http://59.103.38.17:8000/play/a058/index.m3u8
-#EXTINF:-1 group-title="59.103.38.17:8000",Hum News Hd
-http://59.103.38.17:8000/play/a01a/index.m3u8
-#EXTINF:-1 group-title="179.51.136.19:8000" tvg-name="ID",ID
-http://179.51.136.19:8000/play/a0xi/index.m3u8
+#EXTINF:-1 group-title="45.185.163.75:8000" tvg-name="ID",ID
+http://45.185.163.75:8000/play/a0ca/index.m3u8
 #EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="ID Latin HD",ID Latin HD
 http://181.78.14.26:4000/play/a00x/index.m3u8
 #EXTINF:-1 group-title="59.103.38.17:8000",Imam hussain 1HD
@@ -843,8 +815,8 @@ http://38.52.182.236:9000/play/a0a4/index.m3u8
 http://59.103.38.17:8000/play/a06m/index.m3u8
 #EXTINF:-1 group-title="186.148.196.100:8000" tvg-name="KANAL D-DRAMA",KANAL D-DRAMA
 http://186.148.196.100:8000/play/a02i
-#EXTINF:-1 group-title="181.78.197.59:8000" tvg-name="KDrama HD",KDrama HD
-http://181.78.197.59:8000/play/a07x/index.m3u8
+#EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="KDrama HD",KDrama HD
+http://190.61.90.17:40000/play/a03t/index.m3u8
 #EXTINF:-1 group-title="59.103.38.17:8000",Kid Zone
 http://59.103.38.17:8000/play/a01y/index.m3u8
 #EXTINF:-1 group-title="59.103.38.17:8000",Kohe Noor
@@ -855,32 +827,30 @@ http://59.103.38.17:8000/play/a03h/index.m3u8
 http://59.103.38.17:8000/play/a03i/index.m3u8
 #EXTINF:-1 group-title="190.108.83.69:8000" tvg-name="L1",L1
 http://190.108.83.69:8000/play/a08s/index.m3u8
-#EXTINF:-1 group-title="190.108.83.69:8000" tvg-name="L1 MAX",L1 MAX
-http://190.108.83.69:8000/play/a083/index.m3u8
+#EXTINF:-1 group-title="45.185.163.75:8000" tvg-name="L1 MAX",L1 MAX
+http://45.185.163.75:8000/play/a0g6/index.m3u8
 #EXTINF:-1 group-title="186.148.196.100:8000" tvg-name="LA EXITOSA",LA EXITOSA
 http://186.148.196.100:8000/play/a02b
 #EXTINF:-1 group-title="190.60.32.178:8178" tvg-name="la kalle",la kalle
 http://190.60.32.178:8178/play/a09w/index.m3u8
 #EXTINF:-1 group-title="45.185.163.75:8000" tvg-name="La Red",La Red
 http://45.185.163.75:8000/play/a06p/index.m3u8
-#EXTINF:-1 group-title="186.148.196.100:8000" tvg-name="LA TELE",LA TELE
-http://186.148.196.100:8000/play/a022
+#EXTINF:-1 group-title="45.170.130.224:8000" tvg-name="La Tele",La Tele
+http://45.170.130.224:8000/play/a03u/index.m3u8
 #EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="La voz de Maria",La voz de Maria
 http://190.61.90.17:40000/play/a0id/index.m3u8
 #EXTINF:-1 group-title="181.78.197.59:8000" tvg-name="Las Estrellas HD",Las Estrellas HD
 http://181.78.197.59:8000/play/a09j/index.m3u8
-#EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="Latin America Sport",Latin America Sport
-http://190.61.90.17:40000/play/a02e/index.m3u8
-#EXTINF:-1 group-title="45.185.163.75:8000" tvg-name="Latina",Latina
-http://45.185.163.75:8000/play/a05s/index.m3u8
 #EXTINF:-1 group-title="45.185.163.75:8000" tvg-name="LATINA +18",LATINA +18
 http://45.185.163.75:8000/play/a0i1/index.m3u8
+#EXTINF:-1 group-title="190.108.83.69:8000" tvg-name="Latina HD",Latina HD
+http://190.108.83.69:8000/play/a00g/index.m3u8
 #EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="LIFE TIME",LIFE TIME
 http://190.61.90.17:40000/play/a0gb/index.m3u8
 #EXTINF:-1 group-title="185.228.163.146:8000" tvg-name="life tv",life tv
 http://185.228.163.146:8000/play/a02p/index.m3u8
-#EXTINF:-1 group-title="179.51.136.19:8000" tvg-name="Lifetime",Lifetime
-http://179.51.136.19:8000/play/a1sg/index.m3u8
+#EXTINF:-1 group-title="45.185.163.75:8000" tvg-name="Lifetime",Lifetime
+http://45.185.163.75:8000/play/a01j/index.m3u8
 #EXTINF:-1 group-title="186.148.196.100:8000" tvg-name="LIGA 1 MAX",LIGA 1 MAX
 http://186.148.196.100:8000/play/a030
 #EXTINF:-1 group-title="185.228.163.146:8000" tvg-name="lol",lol
@@ -915,16 +885,18 @@ http://59.103.38.17:8000/play/a03p/index.m3u8
 http://59.103.38.17:8000/play/a01b/index.m3u8
 #EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="Max Anime",Max Anime
 http://190.61.90.17:40000/play/a02x/index.m3u8
-#EXTINF:-1 group-title="45.185.163.75:8000" tvg-name="MEGA HD",MEGA HD
-http://45.185.163.75:8000/play/a032/index.m3u8
+#EXTINF:-1 group-title="45.185.163.75:8000" tvg-name="Mega",Mega
+http://45.185.163.75:8000/play/a06r/index.m3u8
 #EXTINF:-1 group-title="59.103.38.17:8000",Mi Tv
 http://59.103.38.17:8000/play/a040/index.m3u8
 #EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="MOMOVISION",MOMOVISION
 http://190.61.90.17:40000/play/a005/index.m3u8
-#EXTINF:-1 group-title="113.192.47.107:7997",MOTOR TREND
-http://119.152.22.162:4389/play/a00g/index.m3u8
+#EXTINF:-1 group-title="115.42.65.142:8000",MOTOR TREND
+http://119.152.22.166:4389/play/a00g/index.m3u8
 #EXTINF:-1 group-title="45.185.163.75:8000" tvg-name="Movistar Deportes",Movistar Deportes
 http://45.185.163.75:8000/play/a0i9/index.m3u8
+#EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="Multicinema",Multicinema
+http://190.61.90.17:40000/play/a02g/index.m3u8
 #EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="Multipremier",Multipremier
 http://190.61.90.17:40000/play/a0ij/index.m3u8
 #EXTINF:-1 group-title="59.103.38.17:8000",Mun HD
@@ -937,18 +909,16 @@ http://59.103.38.17:8000/play/a01r/index.m3u8
 http://190.60.32.178:8178/play/a07e/index.m3u8
 #EXTINF:-1 group-title="181.78.197.59:8000" tvg-name="Nat Geo HD",Nat Geo HD
 http://181.78.197.59:8000/play/a083/index.m3u8
-#EXTINF:-1 group-title="119.155.143.222:4600",Nat Geo People HD
-http://119.155.143.222:4600/play/a01a/index.m3u8
-#EXTINF:-1 group-title="202.70.146.135:8000" tvg-name="Nat Geo Wild HD - Rs 8.00",Nat Geo Wild HD - Rs 8.00
-http://202.70.146.135:8000/play/a05j/index.m3u8
 #EXTINF:-1 group-title="119.155.143.222:4600",NATIONAL GEO HD TES
 http://119.155.143.222:4600/play/a021/index.m3u8
+#EXTINF:-1 group-title="119.155.143.222:4600",National Geographic Wild HD
+http://119.155.143.222:4600/play/a01l/index.m3u8
 #EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="NG Latam",NG Latam
 http://181.78.14.26:4000/play/a06f/index.m3u8
 #EXTINF:-1 group-title="179.51.136.19:8000" tvg-name="Nick HD",Nick HD
 http://179.51.136.19:8000/play/a1mf/index.m3u8
-#EXTINF:-1 group-title="190.60.32.178:8178" tvg-name="Nick Jr.",Nick Jr.
-http://190.60.32.178:8178/play/a0n4/index.m3u8
+#EXTINF:-1 group-title="45.185.163.75:8000" tvg-name="Nick Jr",Nick Jr
+http://45.185.163.75:8000/play/a0e1/index.m3u8
 #EXTINF:-1 group-title="45.185.163.75:8000" tvg-name="Nick Music",Nick Music
 http://45.185.163.75:8000/play/a0ap/index.m3u8
 #EXTINF:-1 group-title="113.192.47.107:7997",NICKEOLODEN
@@ -965,8 +935,8 @@ http://59.103.38.17:8000/play/a042/index.m3u8
 http://190.60.32.178:8178/play/a0h8/index.m3u8
 #EXTINF:-1 group-title="190.108.83.69:8000" tvg-name="NTN 24 Horas",NTN 24 Horas
 http://190.108.83.69:8000/play/a00r/index.m3u8
-#EXTINF:-1 group-title="45.185.163.75:8000" tvg-name="NTN24",NTN24
-http://45.185.163.75:8000/play/a0av/index.m3u8
+#EXTINF:-1 group-title="190.60.32.178:8178" tvg-name="NTN24",NTN24
+http://190.60.32.178:8178/play/a0ne/index.m3u8
 #EXTINF:-1 group-title="45.185.163.75:8000" tvg-name="Nuestra Tele",Nuestra Tele
 http://45.185.163.75:8000/play/a0ao/index.m3u8
 #EXTINF:-1 group-title="103.31.103.218:4000",O11| AMC HD
@@ -989,8 +959,8 @@ http://59.103.38.17:8000/play/a03w/index.m3u8
 http://181.78.78.66:8000/play/a056
 #EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="Oromar 2",Oromar 2
 http://190.61.90.17:40000/play/a02m/index.m3u8
-#EXTINF:-1 group-title="190.108.83.69:8000" tvg-name="OROMAR TV",OROMAR TV
-http://190.108.83.69:8000/play/a017/index.m3u8
+#EXTINF:-1 group-title="45.185.163.75:8000" tvg-name="OROMAR TV",OROMAR TV
+http://45.185.163.75:8000/play/a0bb/index.m3u8
 #EXTINF:-1 group-title="179.51.136.19:8000" tvg-name="OROMARTV",OROMARTV
 http://179.51.136.19:8000/play/a1ov/index.m3u8
 #EXTINF:-1 group-title="59.103.38.17:8000",Osion news
@@ -1007,8 +977,8 @@ http://45.185.163.75:8000/play/a093/index.m3u8
 http://45.185.163.75:8000/play/a05u/index.m3u8
 #EXTINF:-1 group-title="181.78.78.66:8000" tvg-name="Panico",Panico
 http://181.78.78.66:8000/play/a0g1
-#EXTINF:-1 group-title="45.170.130.224:8000" tvg-name="ParaguayTV",ParaguayTV
-http://45.170.130.224:8000/play/a02r/index.m3u8
+#EXTINF:-1 group-title="45.185.163.75:8000" tvg-name="ParaguayTV",ParaguayTV
+http://45.185.163.75:8000/play/a063/index.m3u8
 #EXTINF:-1 group-title="45.185.163.75:8000" tvg-name="PARAVISION",PARAVISION
 http://45.185.163.75:8000/play/a05a/index.m3u8
 #EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="Pasiones HD",Pasiones HD
@@ -1023,10 +993,6 @@ http://115.42.65.142:8000/play/a036/index.m3u8
 http://115.42.65.142:8000/play/a037/index.m3u8
 #EXTINF:-1 group-title="59.103.38.17:8000",Pitara
 http://59.103.38.17:8000/play/a01k/index.m3u8
-#EXTINF:-1 group-title="59.103.38.17:8000",Planet Fun
-http://59.103.38.17:8000/play/a01z/index.m3u8
-#EXTINF:-1 group-title="103.147.87.152:18008",Play TV
-http://103.147.87.152:18008/play/a05f/index.m3u8
 #EXTINF:-1 group-title="190.108.83.69:8000" tvg-name="Plim Plim TV",Plim Plim TV
 http://190.108.83.69:8000/play/a07n/index.m3u8
 #EXTINF:-1 group-title="190.108.83.69:8000" tvg-name="Plus TV Life",Plus TV Life
@@ -1047,10 +1013,6 @@ http://59.103.38.17:8000/play/a04e/index.m3u8
 http://59.103.38.17:8000/play/a04m/index.m3u8
 #EXTINF:-1 group-title="103.147.87.152:18008",PTV-Global
 http://103.147.87.152:18008/play/a08e/index.m3u8
-#EXTINF:-1 group-title="59.103.38.17:8000",Public News
-http://59.103.38.17:8000/play/a07u/index.m3u8
-#EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="PXTV",PXTV
-http://190.61.90.17:40000/play/a02d/index.m3u8
 #EXTINF:-1 group-title="59.103.38.17:8000",Qtv
 http://59.103.38.17:8000/play/a023/index.m3u8
 #EXTINF:-1 group-title="190.108.83.69:8000" tvg-name="R ALPHA",R ALPHA
@@ -1077,8 +1039,6 @@ http://190.61.90.17:40000/play/a03x/index.m3u8
 http://186.148.196.82:8001/play/a087
 #EXTINF:-1 group-title="190.60.32.178:8178" tvg-name="RCN HD 2 (PEL)",RCN HD 2 (PEL)
 http://190.60.32.178:8178/play/a0ga/index.m3u8
-#EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="RCN Novelas",RCN Novelas
-http://190.61.90.17:40000/play/a0jn/index.m3u8
 #EXTINF:-1 group-title="45.185.163.75:8000" tvg-name="REC TV",REC TV
 http://45.185.163.75:8000/play/a0gw/index.m3u8
 #EXTINF:-1 group-title="45.185.163.75:8000" tvg-name="REY TV",REY TV
@@ -1087,12 +1047,12 @@ http://45.185.163.75:8000/play/a0hv/index.m3u8
 http://190.61.90.17:40000/play/a0iw/index.m3u8
 #EXTINF:-1 group-title="59.103.38.17:8000",Rishtey CinePlex
 http://59.103.38.17:8000/play/a02n/index.m3u8
-#EXTINF:-1 group-title="59.103.38.44:8000",Romedy Now - Rs 5.00
-http://59.103.38.44:8000/play/a05x/index.m3u8
+#EXTINF:-1 group-title="59.103.38.46:8000" tvg-name="Romedy Now - Rs 5.00",Romedy Now - Rs 5.00
+http://59.103.38.46:8000/play/a05x/index.m3u8
 #EXTINF:-1 group-title="45.185.163.75:8000" tvg-name="ROUGH",ROUGH
 http://45.185.163.75:8000/play/a0i0/index.m3u8
-#EXTINF:-1 group-title="45.185.163.75:8000" tvg-name="RPP",RPP
-http://45.185.163.75:8000/play/a095/index.m3u8
+#EXTINF:-1 group-title="190.108.83.69:8000" tvg-name="RPP",RPP
+http://190.108.83.69:8000/play/a01a/index.m3u8
 #EXTINF:-1 group-title="181.205.130.194:4000" tvg-name="RT - ESPAÑOL",RT - ESPAÑOL
 http://181.205.130.194:4000/play/a0f8
 #EXTINF:-1 group-title="45.185.163.75:8000" tvg-name="RTU",RTU
@@ -1105,8 +1065,8 @@ http://181.78.14.26:4000/play/a0bg/index.m3u8
 http://45.185.163.75:8000/play/a0dq/index.m3u8
 #EXTINF:-1 group-title="59.103.38.17:8000",Sama News
 http://59.103.38.17:8000/play/a00i/index.m3u8
-#EXTINF:-1 group-title="103.147.87.152:18008",SANSAD TV
-http://103.147.87.152:18008/play/a061/index.m3u8
+#EXTINF:-1 group-title="103.147.87.152:18008",SANSAD TV (RAJYA SABHA)
+http://103.147.87.152:18008/play/a062/index.m3u8
 #EXTINF:-1 group-title="103.147.87.152:18008",Sanskar TV
 http://103.147.87.152:18008/play/a071/index.m3u8
 #EXTINF:-1 group-title="59.103.38.17:8000",Saudi Quran
@@ -1115,8 +1075,6 @@ http://59.103.38.17:8000/play/a033/index.m3u8
 http://59.103.38.17:8000/play/a034/index.m3u8
 #EXTINF:-1 group-title="59.103.38.17:8000",Saudia Alaan Tv
 http://59.103.38.17:8000/play/a03g/index.m3u8
-#EXTINF:-1 group-title="119.155.143.222:4600",Science Poland HD
-http://119.155.143.222:4600/play/a01h/index.m3u8
 #EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="Science SPA HD",Science SPA HD
 http://181.78.14.26:4000/play/a00o/index.m3u8
 #EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="Sembrador",Sembrador
@@ -1131,26 +1089,22 @@ http://45.185.163.75:8000/play/a0i8/index.m3u8
 http://59.103.38.17:8000/play/a03k/index.m3u8
 #EXTINF:-1 group-title="103.147.87.152:18008",Shemaroo JOSH
 http://103.147.87.152:18008/play/a070/index.m3u8
-#EXTINF:-1 group-title="59.103.38.17:8000",Shemaroo Tv
-http://59.103.38.17:8000/play/a01t/index.m3u8
+#EXTINF:-1 group-title="103.147.87.152:18008",SHEMAROO TV
+http://103.147.87.152:18008/play/a063/index.m3u8
 #EXTINF:-1 group-title="59.103.38.17:8000",Shemaroo Tv 2
 http://59.103.38.17:8000/play/a07e/index.m3u8
 #EXTINF:-1 group-title="59.103.38.17:8000",Shemaroo Umang
 http://59.103.38.17:8000/play/a02g/index.m3u8
 #EXTINF:-1 group-title="59.103.38.17:8000",Show Box
 http://59.103.38.17:8000/play/a02c/index.m3u8
-#EXTINF:-1 group-title="59.103.38.17:8000",Sindh News
-http://59.103.38.17:8000/play/a06d/index.m3u8
-#EXTINF:-1 group-title="113.192.47.107:7997",SKY GOLF
-http://119.152.22.162:4389/play/a00p/index.m3u8
-#EXTINF:-1 group-title="113.192.47.107:7997",SKY NEWS
-http://119.152.22.162:4389/play/a03p/index.m3u8
-#EXTINF:-1 group-title="113.192.47.107:7997",SKY SPORTS F1
-http://119.152.22.162:4389/play/a02f/index.m3u8
+#EXTINF:-1 group-title="115.42.65.142:8000",SKY GOLF
+http://119.152.22.166:4389/play/a00p/index.m3u8
+#EXTINF:-1 group-title="115.42.65.142:8000",SKY NEWS
+http://119.152.22.166:4389/play/a03p/index.m3u8
+#EXTINF:-1 group-title="115.42.65.142:8000",SKY SPORTS F1
+http://119.152.22.166:4389/play/a02f/index.m3u8
 #EXTINF:-1 group-title="179.51.136.19:8000" tvg-name="SNT HD",SNT HD
 http://179.51.136.19:8000/play/a1o9/index.m3u8
-#EXTINF:-1 group-title="103.155.18.184:8000",Sonic - Rs 1.00
-http://103.155.18.184:8000/play/a02t/index.m3u8
 #EXTINF:-1 group-title="190.108.83.69:8000" tvg-name="SONY CHANNEL HD",SONY CHANNEL HD
 http://190.108.83.69:8000/play/a04a/index.m3u8
 #EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="SONY HD",SONY HD
@@ -1158,41 +1112,31 @@ http://190.61.90.17:40000/play/a0hp/index.m3u8
 #EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="SONY MOVIES HD",SONY MOVIES HD
 http://190.61.90.17:40000/play/a03s/index.m3u8
 #EXTINF:-1 group-title="181.78.8.199:8000" tvg-name="SONY MUVIES",SONY MUVIES
-http://181.78.8.199:8000/play/a0ap/index.m3u8
+http://181.78.8.199:8000/play/a0e7/index.m3u8
 #EXTINF:-1 group-title="103.147.87.152:18008",SONY PAL
 http://103.147.87.152:18008/play/a06m/index.m3u8
-#EXTINF:-1 group-title="59.103.38.17:8000",Sony Wah
-http://59.103.38.17:8000/play/a045/index.m3u8
-#EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="SPACE",SPACE
-http://190.61.90.17:40000/play/a01b/index.m3u8
+#EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="SPACE HD",SPACE HD
+http://190.61.90.17:40000/play/a0iz/index.m3u8
+#EXTINF:-1 group-title="181.78.8.199:8000" tvg-name="SPACE SRT EN",SPACE SRT EN
+http://181.78.8.199:8000/play/a096/index.m3u8
 #EXTINF:-1 group-title="59.103.38.17:8000",Special News
 http://59.103.38.17:8000/play/a00t/index.m3u8
-#EXTINF:-1 group-title="115.42.65.142:8000",SS Football
-http://119.152.22.166:4389/play/a025/index.m3u8
+#EXTINF:-1 group-title="113.192.47.107:7997",SS Football
+http://119.152.22.162:4389/play/a025/index.m3u8
 #EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="STAR Colombia",STAR Colombia
 http://181.78.14.26:4000/play/a06g/index.m3u8
-#EXTINF:-1 group-title="202.70.146.135:8000" tvg-name="Star Gold 2 - Rs 3.00",Star Gold 2 - Rs 3.00
-http://202.70.146.135:8000/play/a02d/index.m3u8
-#EXTINF:-1 group-title="103.155.18.184:8000",STAR GOLD HD - Rs 19.00
-http://103.155.18.184:8000/play/a02a/index.m3u8
 #EXTINF:-1 group-title="59.103.38.17:8000",Star Gold Thrill
 http://59.103.38.17:8000/play/a02z/index.m3u8
 #EXTINF:-1 group-title="185.228.163.146:8000" tvg-name="STAR HD",STAR HD
 http://185.228.163.146:8000/play/a02c/index.m3u8
 #EXTINF:-1 group-title="185.228.163.146:8000" tvg-name="STAR Movies HD",STAR Movies HD
 http://185.228.163.146:8000/play/a02b/index.m3u8
-#EXTINF:-1 group-title="103.11.0.215:8000",STAR Plus HD - Rs 22.00
-http://103.155.18.189:8000/play/a009/index.m3u8
-#EXTINF:-1 group-title="103.155.18.189:8000",Star Sports 1 HD - Rs 19.00
-http://103.155.18.189:8000/play/a00a/index.m3u8
 #EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="Star TVE HD",Star TVE HD
 http://190.61.90.17:40000/play/a0h0/index.m3u8
 #EXTINF:-1 group-title="103.147.87.152:18008",STAR UTSAV
 http://103.147.87.152:18008/play/a060/index.m3u8
-#EXTINF:-1 group-title="103.147.87.152:18008",STAR UTSAV MOVIES
-http://103.147.87.152:18008/play/a05v/index.m3u8
-#EXTINF:-1 group-title="181.78.8.199:8000" tvg-name="starchannel",starchannel
-http://181.78.8.199:8000/play/a0c9/index.m3u8
+#EXTINF:-1 group-title="181.78.8.199:8000" tvg-name="STARCHANNEL",STARCHANNEL
+http://181.78.8.199:8000/play/a0i9/index.m3u8
 #EXTINF:-1 group-title="190.108.83.69:8000" tvg-name="Stingray Concerts HD",Stingray Concerts HD
 http://190.108.83.69:8000/play/a00d/index.m3u8
 #EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="Studio Universal HD",Studio Universal HD
@@ -1207,16 +1151,16 @@ http://103.147.87.152:18008/play/a067/index.m3u8
 http://59.103.38.17:8000/play/a046/index.m3u8
 #EXTINF:-1 group-title="113.192.47.107:7997",SUPER SPORTS 2
 http://119.152.22.162:4389/play/a01l/index.m3u8
-#EXTINF:-1 group-title="113.192.47.107:7997",SUPER SPORTS 3
-http://119.152.22.162:4389/play/a01m/index.m3u8
-#EXTINF:-1 group-title="115.42.65.142:8000",SUPER SPORTS ACTION
-http://119.152.22.166:4389/play/a032/index.m3u8
-#EXTINF:-1 group-title="113.192.47.107:7997",Super Sports Cricket
-http://119.152.22.162:4389/play/a008/index.m3u8
-#EXTINF:-1 group-title="113.192.47.107:7997",super sports premium league
-http://119.152.22.162:4389/play/a02x/index.m3u8
-#EXTINF:-1 group-title="113.192.47.107:7997",SUPER TENNIES
-http://119.152.22.162:4389/play/a002/index.m3u8
+#EXTINF:-1 group-title="115.42.65.142:8000",SUPER SPORTS 3
+http://119.152.22.166:4389/play/a01m/index.m3u8
+#EXTINF:-1 group-title="113.192.47.107:7997",SUPER SPORTS ACTION
+http://119.152.22.162:4389/play/a032/index.m3u8
+#EXTINF:-1 group-title="115.42.65.142:8000",Super Sports Cricket
+http://119.152.22.166:4389/play/a008/index.m3u8
+#EXTINF:-1 group-title="115.42.65.142:8000",super sports premium league
+http://119.152.22.166:4389/play/a02x/index.m3u8
+#EXTINF:-1 group-title="115.42.65.142:8000",SUPER TENNIES
+http://119.152.22.166:4389/play/a002/index.m3u8
 #EXTINF:-1 group-title="103.31.103.218:4000",SUR | Baby TV HD
 http://103.31.103.218:4000/play/a00v/index.m3u8
 #EXTINF:-1 group-title="45.185.163.75:8000" tvg-name="SURTV",SURTV
@@ -1241,6 +1185,8 @@ http://181.78.197.59:8000/play/a04i/index.m3u8
 http://190.61.90.17:40000/play/a0jw/index.m3u8
 #EXTINF:-1 group-title="181.78.78.66:8000" tvg-name="TCY Sport",TCY Sport
 http://181.78.78.66:8000/play/a001
+#EXTINF:-1 group-title="45.185.163.75:8000" tvg-name="TD+2 HD CR",TD+2 HD CR
+http://45.185.163.75:8000/play/a0ft/index.m3u8
 #EXTINF:-1 group-title="45.185.163.75:8000" tvg-name="TEEN",TEEN
 http://45.185.163.75:8000/play/a0hz/index.m3u8
 #EXTINF:-1 group-title="45.185.163.75:8000" tvg-name="Teen Nick",Teen Nick
@@ -1250,7 +1196,7 @@ http://190.61.90.17:40000/play/a013/index.m3u8
 #EXTINF:-1 group-title="181.78.78.66:8000" tvg-name="Tele Antioquia",Tele Antioquia
 http://181.78.78.66:8000/play/a0et
 #EXTINF:-1 group-title="181.78.197.59:8000" tvg-name="Teleamazonas",Teleamazonas
-http://181.78.197.59:8000/play/a062/index.m3u8
+http://181.78.197.59:8000/play/a09t/index.m3u8
 #EXTINF:-1 group-title="181.78.8.199:8000" tvg-name="TELEAMIGA",TELEAMIGA
 http://181.78.8.199:8000/play/a0dv/index.m3u8
 #EXTINF:-1 group-title="181.78.8.199:8000" tvg-name="TELEAMIGA ENVIADO",TELEAMIGA ENVIADO
@@ -1269,12 +1215,16 @@ http://181.78.8.199:8000/play/a0d8/index.m3u8
 http://45.185.163.75:8000/play/a04w/index.m3u8
 #EXTINF:-1 group-title="181.78.8.199:8000" tvg-name="TELECARIBE NACIONAL SIN TRANS",TELECARIBE NACIONAL SIN TRANS
 http://181.78.8.199:8000/play/a0d6/index.m3u8
+#EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="Telecentro - RD",Telecentro - RD
+http://190.61.90.17:40000/play/a03b/index.m3u8
 #EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="Telefe",Telefe
 http://190.61.90.17:40000/play/a044/index.m3u8
 #EXTINF:-1 group-title="179.51.136.19:8000" tvg-name="Telefuturo HD",Telefuturo HD
 http://179.51.136.19:8000/play/a1oa/index.m3u8
 #EXTINF:-1 group-title="190.108.83.69:8000" tvg-name="TelefØ",TelefØ
 http://190.108.83.69:8000/play/a08l/index.m3u8
+#EXTINF:-1 group-title="181.78.78.66:8000" tvg-name="TELEHIT",TELEHIT
+http://181.78.78.66:8000/play/a0e6
 #EXTINF:-1 group-title="186.148.196.100:8000" tvg-name="TELEHIT MUSIC",TELEHIT MUSIC
 http://186.148.196.100:8000/play/a01r
 #EXTINF:-1 group-title="181.78.8.199:8000" tvg-name="TELEHIT MUSICA",TELEHIT MUSICA
@@ -1283,6 +1233,8 @@ http://181.78.8.199:8000/play/a0g7/index.m3u8
 http://45.185.163.75:8000/play/a05h/index.m3u8
 #EXTINF:-1 group-title="181.78.8.199:8000" tvg-name="TELEMETRO",TELEMETRO
 http://181.78.8.199:8000/play/a0ii/index.m3u8
+#EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="TeleMicro - RD",TeleMicro - RD
+http://190.61.90.17:40000/play/a02h/index.m3u8
 #EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="Telemundo HD",Telemundo HD
 http://190.61.90.17:40000/play/a0gv/index.m3u8
 #EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="Telemundo Internacional",Telemundo Internacional
@@ -1311,8 +1263,8 @@ http://186.148.196.100:8000/play/a01i
 http://190.61.90.17:40000/play/a03c/index.m3u8
 #EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="Teleuniverso - RD",Teleuniverso - RD
 http://190.61.90.17:40000/play/a038/index.m3u8
-#EXTINF:-1 group-title="181.78.8.199:8000" tvg-name="televen",televen
-http://181.78.8.199:8000/play/a0cd/index.m3u8
+#EXTINF:-1 group-title="181.78.8.199:8000" tvg-name="TELEVEN",TELEVEN
+http://181.78.8.199:8000/play/a09j/index.m3u8
 #EXTINF:-1 group-title="181.78.197.59:8000" tvg-name="Televicentro",Televicentro
 http://181.78.197.59:8000/play/a03v/index.m3u8
 #EXTINF:-1 group-title="181.78.8.199:8000" tvg-name="TELEVISA 1",TELEVISA 1
@@ -1325,8 +1277,8 @@ http://181.78.8.199:8000/play/a0at/index.m3u8
 http://186.148.196.82:8001/play/a0a3
 #EXTINF:-1 group-title="103.31.103.218:4000",TEST
 http://103.31.103.218:4000/play/a01l/index.m3u8
-#EXTINF:-1 group-title="103.147.87.152:18008",THE Q
-http://103.147.87.152:18008/play/a069/index.m3u8
+#EXTINF:-1 group-title="59.103.38.17:8000",The Q
+http://59.103.38.17:8000/play/a02l/index.m3u8
 #EXTINF:-1 group-title="59.103.38.17:8000",Thikrayat HD
 http://59.103.38.17:8000/play/a03d/index.m3u8
 #EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="Tigo Sports HD",Tigo Sports HD
@@ -1349,8 +1301,8 @@ http://190.61.90.17:40000/play/a0g9/index.m3u8
 http://190.61.90.17:40000/play/a0km/index.m3u8
 #EXTINF:-1 group-title="181.78.8.199:8000" tvg-name="TNT SERIES SRT EN",TNT SERIES SRT EN
 http://181.78.8.199:8000/play/a098/index.m3u8
-#EXTINF:-1 group-title="45.185.163.75:8000" tvg-name="TNT Sports",TNT Sports
-http://45.185.163.75:8000/play/a06e/index.m3u8
+#EXTINF:-1 group-title="45.185.163.75:8000" tvg-name="TNT SPORTS",TNT SPORTS
+http://45.185.163.75:8000/play/a03q/index.m3u8
 #EXTINF:-1 group-title="45.185.163.75:8000" tvg-name="TNT Sports Premium",TNT Sports Premium
 http://45.185.163.75:8000/play/a06u/index.m3u8
 #EXTINF:-1 group-title="45.185.163.75:8000" tvg-name="TNT Sports Premiun HD",TNT Sports Premiun HD
@@ -1363,8 +1315,6 @@ http://190.61.90.17:40000/play/a03k/index.m3u8
 http://181.78.8.199:8000/play/a09g/index.m3u8
 #EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="Totovision",Totovision
 http://190.61.90.17:40000/play/a00q/index.m3u8
-#EXTINF:-1 group-title="103.155.18.184:8000",Travelxp HD - Rs 9.00
-http://103.155.18.184:8000/play/a04o/index.m3u8
 #EXTINF:-1 group-title="45.185.163.75:8000" tvg-name="Trece",Trece
 http://45.185.163.75:8000/play/a04z/index.m3u8
 #EXTINF:-1 group-title="45.185.163.75:8000" tvg-name="TRO",TRO
@@ -1415,8 +1365,6 @@ http://103.31.103.218:4000/play/a00j/index.m3u8
 http://181.78.8.199:8000/play/a0a5/index.m3u8
 #EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="Turbo Latin HD",Turbo Latin HD
 http://181.78.14.26:4000/play/a066/index.m3u8
-#EXTINF:-1 group-title="119.155.143.222:4600",Turbo Xtra Poland HD
-http://119.155.143.222:4600/play/a014/index.m3u8
 #EXTINF:-1 group-title="59.103.38.17:8000",Tv 2day
 http://59.103.38.17:8000/play/a06f/index.m3u8
 #EXTINF:-1 group-title="181.78.8.199:8000" tvg-name="TV AGRO HD",TV AGRO HD
@@ -1431,6 +1379,8 @@ http://185.228.163.146:8000/play/a00p/index.m3u8
 http://181.78.8.199:8000/play/a0ij/index.m3u8
 #EXTINF:-1 group-title="185.228.163.146:8000" tvg-name="Tv Natal",Tv Natal
 http://185.228.163.146:8000/play/a01y/index.m3u8
+#EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="TV Oriente ESA",TV Oriente ESA
+http://190.61.90.17:40000/play/a03w/index.m3u8
 #EXTINF:-1 group-title="186.148.196.100:8000" tvg-name="TV PERU NOTICIAS",TV PERU NOTICIAS
 http://186.148.196.100:8000/play/a024
 #EXTINF:-1 group-title="45.185.163.75:8000" tvg-name="TV Peru SD",TV Peru SD
@@ -1443,8 +1393,8 @@ http://45.185.163.75:8000/play/a034/index.m3u8
 http://185.228.163.146:8000/play/a00r/index.m3u8
 #EXTINF:-1 group-title="103.147.87.152:18008",TV9 Bharatvarsh
 http://103.147.87.152:18008/play/a06r/index.m3u8
-#EXTINF:-1 group-title="181.78.8.199:8000" tvg-name="TVAGRO",TVAGRO
-http://181.78.8.199:8000/play/a0e5/index.m3u8
+#EXTINF:-1 group-title="190.60.37.118:4000" tvg-name="TVAGRO",TVAGRO
+http://190.60.37.118:4000/play/a021
 #EXTINF:-1 group-title="185.228.163.146:8000" tvg-name="TVC NEWS",TVC NEWS
 http://185.228.163.146:8000/play/a01s/index.m3u8
 #EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="TVE",TVE
@@ -1459,10 +1409,10 @@ http://181.78.8.199:8000/play/a0fp/index.m3u8
 http://185.228.163.146:8000/play/a005/index.m3u8
 #EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="TVM25 -  ESA",TVM25 - ESA
 http://190.61.90.17:40000/play/a040/index.m3u8
-#EXTINF:-1 group-title="45.185.163.75:8000" tvg-name="TVN HD",TVN HD
-http://45.185.163.75:8000/play/a02v/index.m3u8
-#EXTINF:-1 group-title="45.170.130.224:8000" tvg-name="TyC",TyC
-http://45.170.130.224:8000/play/a020/index.m3u8
+#EXTINF:-1 group-title="179.51.136.19:8000" tvg-name="TVN HD",TVN HD
+http://179.51.136.19:8000/play/a1m9/index.m3u8
+#EXTINF:-1 group-title="45.185.163.75:8000" tvg-name="TyC",TyC
+http://45.185.163.75:8000/play/a06d/index.m3u8
 #EXTINF:-1 group-title="181.78.78.66:8000" tvg-name="TyC Sport",TyC Sport
 http://181.78.78.66:8000/play/a01n
 #EXTINF:-1 group-title="186.148.196.82:8001" tvg-name="TyC Sports HD",TyC Sports HD
@@ -1477,8 +1427,8 @@ http://179.51.136.19:8000/play/a1sp/index.m3u8
 http://103.147.87.152:18008/play/a06u/index.m3u8
 #EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="Universal",Universal
 http://190.61.90.17:40000/play/a0ih/index.m3u8
-#EXTINF:-1 group-title="179.51.136.19:8000" tvg-name="UNIVERSAL CHANNEL HD",UNIVERSAL CHANNEL HD
-http://179.51.136.19:8000/play/a1l8/index.m3u8
+#EXTINF:-1 group-title="45.185.163.75:8000" tvg-name="UNIVERSAL CHANNEL HD",UNIVERSAL CHANNEL HD
+http://45.185.163.75:8000/play/a043/index.m3u8
 #EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="UNIVERSAL CINEMA HD",UNIVERSAL CINEMA HD
 http://190.61.90.17:40000/play/a0kt/index.m3u8
 #EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="UNIVERSAL COMEDY HD",UNIVERSAL COMEDY HD
@@ -1498,7 +1448,7 @@ http://190.61.90.17:40000/play/a0kr/index.m3u8
 #EXTINF:-1 group-title="185.228.163.146:8000" tvg-name="Upchannel",Upchannel
 http://185.228.163.146:8000/play/a02s/index.m3u8
 #EXTINF:-1 group-title="45.185.163.75:8000" tvg-name="USA",USA
-http://45.185.163.75:8000/play/a0az/index.m3u8
+http://45.185.163.75:8000/play/a0gp/index.m3u8
 #EXTINF:-1 group-title="186.148.196.100:8000" tvg-name="VCLASSICTV",VCLASSICTV
 http://186.148.196.100:8000/play/a02z
 #EXTINF:-1 group-title="186.148.196.100:8000" tvg-name="VE PLUS",VE PLUS
@@ -1523,12 +1473,10 @@ http://45.185.163.75:8000/play/a06i/index.m3u8
 http://181.78.78.66:8000/play/a0e9
 #EXTINF:-1 group-title="181.78.8.199:8000" tvg-name="VTV",VTV
 http://181.78.8.199:8000/play/a0jl/index.m3u8
-#EXTINF:-1 group-title="190.61.90.17:40000" tvg-name="VTV Canal 35 ESA",VTV Canal 35 ESA
-http://190.61.90.17:40000/play/a020/index.m3u8
 #EXTINF:-1 group-title="179.51.136.19:8000" tvg-name="Warner Channel HD",Warner Channel HD
 http://179.51.136.19:8000/play/a1kl/index.m3u8
-#EXTINF:-1 group-title="190.60.32.178:8178" tvg-name="Warner TV HD",Warner TV HD
-http://190.60.32.178:8178/play/a0lj/index.m3u8
+#EXTINF:-1 group-title="45.185.163.75:8000" tvg-name="Warner TV HD",Warner TV HD
+http://45.185.163.75:8000/play/a02f/index.m3u8
 #EXTINF:-1 group-title="59.103.38.17:8000",waseeb
 http://59.103.38.17:8000/play/a03n/index.m3u8
 #EXTINF:-1 group-title="45.185.163.75:8000" tvg-name="Willax",Willax
@@ -1545,18 +1493,16 @@ http://181.78.8.199:8000/play/a0hz/index.m3u8
 http://181.205.130.194:4000/play/a0f1
 #EXTINF:-1 group-title="181.78.8.199:8000" tvg-name="WINSPORT",WINSPORT
 http://181.78.8.199:8000/play/a0cc/index.m3u8
-#EXTINF:-1 group-title="103.147.87.152:18008",ZEE ANMOL CINEMA
-http://103.147.87.152:18008/play/a06v/index.m3u8
+#EXTINF:-1 group-title="59.103.38.17:8000",Zee Anmol Cinema
+http://59.103.38.17:8000/play/a02y/index.m3u8
 #EXTINF:-1 group-title="103.147.87.152:18008",Zee Biskope
 http://103.147.87.152:18008/play/a066/index.m3u8
-#EXTINF:-1 group-title="59.103.38.47:8000",Zee Cafe HD - Rs 10.00
-http://59.103.38.47:8000/play/a04n/index.m3u8
-#EXTINF:-1 group-title="103.147.87.152:18008",ZEE NEWS
-http://103.147.87.152:18008/play/a06y/index.m3u8
 #EXTINF:-1 group-title="45.170.130.224:8000" tvg-name="Zona Latina",Zona Latina
 http://45.170.130.224:8000/play/a00x/index.m3u8
 #EXTINF:-1 group-title="45.185.163.75:8000" tvg-name="Zoom",Zoom
 http://45.185.163.75:8000/play/a05f/index.m3u8
+#EXTINF:-1 group-title="45.185.163.75:8000" tvg-name="ZooMoo",ZooMoo
+http://45.185.163.75:8000/play/a0ff/index.m3u8
 #EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="ZXA&E",ZXA&E
 http://181.78.14.26:4000/play/a0ai/index.m3u8
 #EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="ZXAXN",ZXAXN
@@ -1577,6 +1523,10 @@ http://181.78.14.26:4000/play/a0a4/index.m3u8
 http://181.78.14.26:4000/play/a0a5/index.m3u8
 #EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="ZXHISTORY",ZXHISTORY
 http://181.78.14.26:4000/play/a0aj/index.m3u8
+#EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="ZXHISTORY2",ZXHISTORY2
+http://181.78.14.26:4000/play/a0an/index.m3u8
+#EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="ZXLIFETIME",ZXLIFETIME
+http://181.78.14.26:4000/play/a0ao/index.m3u8
 #EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="ZXSONY CHANNEL",ZXSONY CHANNEL
 http://181.78.14.26:4000/play/a0al/index.m3u8
 #EXTINF:-1 group-title="181.78.14.26:4000" tvg-name="ZXSONY MOVIES",ZXSONY MOVIES
