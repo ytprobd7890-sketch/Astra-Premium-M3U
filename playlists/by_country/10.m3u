@@ -21,30 +21,22 @@ http://103.183.69.179:8000/play/a0a7/index.m3u8
 http://103.183.69.179:8000/play/a0a1/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",BTV HD
 http://103.183.69.179:8000/play/a0a4/index.m3u8
-#EXTINF:-1 group-title="103.183.69.179",BTV NEWS HD
-http://103.183.69.179:8000/play/a0a5/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Channel 24HD
 http://103.183.69.179:8000/play/a0ab/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Channel I HD
 http://103.183.69.179:8000/play/a0aj/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Colors Gujarati - Rs 7.00
 http://103.183.69.179:8000/play/a0ns/index.m3u8
-#EXTINF:-1 group-title="103.183.69.179",Colors Kannada HD - Rs 30.00
-http://103.183.69.179:8000/play/a0g3/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Colors Marathi HD - Rs 19.00
-http://103.183.69.179:8000/play/a0g7/index.m3u8
+http://103.183.69.179:8000/play/a0g0/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",DBC NEWS
 http://103.183.69.179:8000/play/a0am/index.m3u8
-#EXTINF:-1 group-title="103.183.69.179",Desh TV
-http://103.183.69.179:8000/play/a0ao/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Ekattor TV HD
 http://103.183.69.179:8000/play/a0ak/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",EKHON TV
 http://103.183.69.179:8000/play/a0ac/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Ekushey TV
 http://103.183.69.179:8000/play/a0as/index.m3u8
-#EXTINF:-1 group-title="103.183.69.179",GLOBAL TV HD
-http://103.183.69.179:8000/play/a0ad/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Jamuna Television
 http://103.183.69.179:8000/play/a0at/index.m3u8
 #EXTINF:-1 group-title="103.76.111.178",kids_zone (raw TS)
@@ -71,8 +63,6 @@ http://103.183.69.179:8000/play/a0a9/index.m3u8
 http://103.183.69.179:8000/play/a0gi/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Star Sports 1 Telugu HD - Rs 19.00
 http://103.183.69.179:8000/play/a0kz/index.m3u8
-#EXTINF:-1 group-title="103.183.69.179",Star Suvarna HD - Rs 25.00
-http://103.183.69.179:8000/play/a0l3/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Star Suvarna Plus - Rs 12.00
 http://103.183.69.179:8000/play/a0nn/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Zee Business - Rs 0.10
