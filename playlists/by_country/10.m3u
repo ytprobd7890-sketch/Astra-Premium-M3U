@@ -27,12 +27,14 @@ http://103.183.69.179:8000/play/a0a5/index.m3u8
 http://103.183.69.179:8000/play/a0ab/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Channel I HD
 http://103.183.69.179:8000/play/a0aj/index.m3u8
+#EXTINF:-1 group-title="103.183.69.179",Channel S
+http://103.183.69.179:8000/play/a0av/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Colors Gujarati - Rs 7.00
 http://103.183.69.179:8000/play/a0ns/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Colors Kannada HD - Rs 30.00
 http://103.183.69.179:8000/play/a0g3/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Colors Marathi HD - Rs 19.00
-http://103.183.69.179:8000/play/a0g7/index.m3u8
+http://103.183.69.179:8000/play/a0g0/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",DBC NEWS
 http://103.183.69.179:8000/play/a0am/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Desh TV
@@ -67,14 +69,36 @@ http://103.183.69.179:8000/play/a0a8/index.m3u8
 http://103.183.69.179:8000/play/a0a2/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",SANGSAD TV HD
 http://103.183.69.179:8000/play/a0a9/index.m3u8
+#EXTINF:-1 group-title="103.183.69.179",SET HD - Rs 30.00
+http://103.183.69.179:8000/play/a0kf/index.m3u8
+#EXTINF:-1 group-title="103.183.69.179",SONY MAX HD - Rs 19.00
+http://103.183.69.179:8000/play/a0fu/index.m3u8
+#EXTINF:-1 group-title="103.183.69.179",SONY SAB - Rs 19.00
+http://103.183.69.179:8000/play/a0kd/index.m3u8
+#EXTINF:-1 group-title="103.183.69.179",SONY SPORTS TEN 1 - Rs 19.00
+http://103.183.69.179:8000/play/a0h8/index.m3u8
+#EXTINF:-1 group-title="103.183.69.179",SONY SPORTS TEN 3 Hindi - Rs 19.00
+http://103.183.69.179:8000/play/a0k9/index.m3u8
+#EXTINF:-1 group-title="103.183.69.179",Star Bharat HD - Rs 19.00
+http://103.183.69.179:8000/play/a0g5/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Star Maa Gold - Rs 12.00
 http://103.183.69.179:8000/play/a0gi/index.m3u8
-#EXTINF:-1 group-title="103.183.69.179",Star Sports 1 Telugu HD - Rs 19.00
-http://103.183.69.179:8000/play/a0kz/index.m3u8
+#EXTINF:-1 group-title="103.183.69.179",STAR PLUS - Rs 19.00
+http://103.183.69.179:8000/play/a0k8/index.m3u8
+#EXTINF:-1 group-title="103.183.69.179",Star Sports 1 Hindi HD - Rs 19.00
+http://103.183.69.179:8000/play/a0gd/index.m3u8
+#EXTINF:-1 group-title="103.183.69.179",Star Sports 1 Telugu - Rs 19.00
+http://103.183.69.179:8000/play/a0nk/index.m3u8
+#EXTINF:-1 group-title="103.183.69.179",Star Sports 2 HD - Rs 19.00
+http://103.183.69.179:8000/play/a0fz/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Star Suvarna HD - Rs 25.00
 http://103.183.69.179:8000/play/a0l3/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Star Suvarna Plus - Rs 12.00
 http://103.183.69.179:8000/play/a0nn/index.m3u8
+#EXTINF:-1 group-title="103.183.69.179",Unite8 Sports 1 HD - Rs 9.00
+http://103.183.69.179:8000/play/a0fx/index.m3u8
+#EXTINF:-1 group-title="103.183.69.179",Unite8 Sports 2 - Rs 8.00
+http://103.183.69.179:8000/play/a0n0/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Zee Business - Rs 0.10
 http://103.183.69.179:8000/play/a0kb/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Zee Kannada HD - Rs 19.00
