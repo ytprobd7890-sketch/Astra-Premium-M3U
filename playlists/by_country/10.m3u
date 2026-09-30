@@ -53,11 +53,7 @@ http://103.183.69.179:8000/play/a0a8/index.m3u8
 http://103.183.69.179:8000/play/a0a2/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",SANGSAD TV HD
 http://103.183.69.179:8000/play/a0a9/index.m3u8
-#EXTINF:-1 group-title="103.183.69.179",Star Sports 1 - Rs 19.00
-http://103.183.69.179:8000/play/a0np/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Star Sports 1 Telugu - Rs 19.00
 http://103.183.69.179:8000/play/a0nk/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Star Suvarna Plus - Rs 12.00
 http://103.183.69.179:8000/play/a0nn/index.m3u8
-#EXTINF:-1 group-title="103.183.69.179",Unite8 Sports 2 - Rs 8.00
-http://103.183.69.179:8000/play/a0n0/index.m3u8
