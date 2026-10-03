@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="103.183.69.179",0001_TSPORTS
 http://103.183.69.179:8000/play/a09w/index.m3u8
-#EXTINF:-1 group-title="103.183.69.179",Ananda TV
-http://103.183.69.179:8000/play/a0ar/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",asiantvHD
 http://103.183.69.179:8000/play/a0a3/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",ATN Bangla
@@ -25,10 +23,10 @@ http://103.183.69.179:8000/play/a0a4/index.m3u8
 http://103.183.69.179:8000/play/a0a5/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Channel I HD
 http://103.183.69.179:8000/play/a0aj/index.m3u8
-#EXTINF:-1 group-title="103.183.69.179",Channel S
-http://103.183.69.179:8000/play/a0av/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Colors Gujarati - Rs 7.00
 http://103.183.69.179:8000/play/a0ns/index.m3u8
+#EXTINF:-1 group-title="103.183.69.179",DBC NEWS
+http://103.183.69.179:8000/play/a0am/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Desh TV
 http://103.183.69.179:8000/play/a0ao/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Ekattor TV HD
@@ -51,6 +49,8 @@ http://103.183.69.179:8000/play/a0al/index.m3u8
 http://103.183.69.179:8000/play/a0a8/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",SA TV HD
 http://103.183.69.179:8000/play/a0a2/index.m3u8
+#EXTINF:-1 group-title="103.183.69.179",SANGSAD TV HD
+http://103.183.69.179:8000/play/a0a9/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Star Sports 1 Telugu - Rs 19.00
 http://103.183.69.179:8000/play/a0nk/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Star Suvarna Plus - Rs 12.00
