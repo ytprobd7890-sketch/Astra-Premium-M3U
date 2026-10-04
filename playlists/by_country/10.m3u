@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="103.183.69.179",0001_TSPORTS
 http://103.183.69.179:8000/play/a09w/index.m3u8
+#EXTINF:-1 group-title="103.183.69.179",Ananda TV
+http://103.183.69.179:8000/play/a0ar/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",asiantvHD
 http://103.183.69.179:8000/play/a0a3/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",ATN Bangla
