@@ -39,8 +39,6 @@ http://103.183.69.179:8000/play/a0ak/index.m3u8
 http://103.183.69.179:8000/play/a0ac/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Ekushey TV
 http://103.183.69.179:8000/play/a0as/index.m3u8
-#EXTINF:-1 group-title="103.183.69.179",GLOBAL TV HD
-http://103.183.69.179:8000/play/a0ad/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Jamuna Television
 http://103.183.69.179:8000/play/a0at/index.m3u8
 #EXTINF:-1 group-title="103.76.111.178",kids_zone (raw TS)
@@ -65,5 +63,3 @@ http://103.183.69.179:8000/play/a0a2/index.m3u8
 http://103.183.69.179:8000/play/a0a9/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Star Sports 1 Telugu - Rs 19.00
 http://103.183.69.179:8000/play/a0nk/index.m3u8
-#EXTINF:-1 group-title="103.183.69.179",Star Suvarna Plus - Rs 12.00
-http://103.183.69.179:8000/play/a0nn/index.m3u8
