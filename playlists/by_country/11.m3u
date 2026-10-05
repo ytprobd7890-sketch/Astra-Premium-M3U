@@ -11,6 +11,8 @@ http://110.39.15.114:8000/play/a05o/index.m3u8
 http://110.39.15.114:8000/play/a05f/index.m3u8
 #EXTINF:-1 group-title="110.39.15.114",Da Vinci
 http://110.39.15.114:8000/play/a04s/index.m3u8
+#EXTINF:-1 group-title="110.39.15.114",Discovery Life
+http://110.39.15.114:8000/play/a03a/index.m3u8
 #EXTINF:-1 group-title="110.39.15.114",Discovery Poland HD
 http://110.39.15.114:8000/play/a038/index.m3u8
 #EXTINF:-1 group-title="110.39.15.114",Golf Zone
@@ -19,6 +21,8 @@ http://110.39.15.114:8000/play/a035/index.m3u8
 http://110.39.15.114:8000/play/a03i/index.m3u8
 #EXTINF:-1 group-title="110.39.15.114",Ocean
 http://110.39.15.114:8000/play/a05p/index.m3u8
+#EXTINF:-1 group-title="110.39.15.114",OSN Comedy
+http://110.39.15.114:8000/play/a005/index.m3u8
 #EXTINF:-1 group-title="110.39.15.114",OSN CRIME
 http://110.39.15.114:8000/play/a02n/index.m3u8
 #EXTINF:-1 group-title="110.39.15.114",OSN MOVIES ACTION
@@ -37,6 +41,8 @@ http://110.39.15.114:8000/play/a05d/index.m3u8
 http://110.39.15.114:8000/play/a04a/index.m3u8
 #EXTINF:-1 group-title="110.39.15.114",RTG TV
 http://110.39.15.114:8000/play/a05n/index.m3u8
+#EXTINF:-1 group-title="110.39.15.114",SciFi HD
+http://110.39.15.114:8000/play/a034/index.m3u8
 #EXTINF:-1 group-title="110.39.15.114",TV XXI
 http://110.39.15.114:8000/play/a04o/index.m3u8
 #EXTINF:-1 group-title="110.39.15.114",viju Explore
@@ -53,5 +59,7 @@ http://110.39.15.114:8000/play/a04t/index.m3u8
 http://110.39.15.114:8000/play/a04y/index.m3u8
 #EXTINF:-1 group-title="110.39.15.114",World Fishing Network
 http://110.39.15.114:8000/play/a05h/index.m3u8
+#EXTINF:-1 group-title="110.39.15.114",СТС Kids
+http://110.39.15.114:8000/play/a05r/index.m3u8
 #EXTINF:-1 group-title="110.39.15.114",ТНТ Music
 http://110.39.15.114:8000/play/a04r/index.m3u8
