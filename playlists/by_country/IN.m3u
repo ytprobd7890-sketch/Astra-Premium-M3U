@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",24 News HD
-http://115.42.65.142:8000/play/a002/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",24B HD
 http://115.42.65.142:8000/play/a003/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",8XM HD
@@ -63,12 +61,6 @@ http://115.42.65.142:8000/play/a03h/index.m3u8
 http://115.42.65.142:8000/play/a04b/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",CHAUPAAL
 http://115.42.65.142:8000/play/a01s/index.m3u8
-#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",CITY-21
-http://115.42.65.142:8000/play/a00g/index.m3u8
-#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",CITY-41
-http://115.42.65.142:8000/play/a00h/index.m3u8
-#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",CITY-42 HD
-http://115.42.65.142:8000/play/a00i/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",CN
 http://115.42.65.142:8000/play/a00j/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",DAWN NEWS
@@ -105,8 +97,6 @@ http://115.42.65.142:8000/play/a04q/index.m3u8
 http://115.42.65.142:8000/play/a001/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Geo Kahani
 http://115.42.65.142:8000/play/a012/index.m3u8
-#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Geo News
-http://115.42.65.142:8000/play/a015/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Geo Super
 http://115.42.65.142:8000/play/a013/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Geo Tez
@@ -219,8 +209,6 @@ http://115.42.65.142:8000/play/a032/index.m3u8
 http://115.42.65.142:8000/play/a033/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Public News
 http://115.42.65.142:8000/play/a041/index.m3u8
-#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",ROHI TV
-http://115.42.65.142:8000/play/a04l/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Roze TV
 http://115.42.65.142:8000/play/a02z/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",RT English
