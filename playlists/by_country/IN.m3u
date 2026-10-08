@@ -25,8 +25,6 @@ http://115.42.65.142:8000/play/a008/index.m3u8
 http://115.42.65.142:8000/play/a04u/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",AJJ ENTERTAINMENT
 http://115.42.65.142:8000/play/a01q/index.m3u8
-#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Al Jazeera English HD
-http://115.42.65.142:8000/play/a00a/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",AL QURAN
 http://115.42.65.142:8000/play/a00b/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Alief TV
@@ -61,6 +59,8 @@ http://115.42.65.142:8000/play/a040/index.m3u8
 http://115.42.65.142:8000/play/a03y/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",CGTN
 http://115.42.65.142:8000/play/a03h/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Channel5
+http://115.42.65.142:8000/play/a04b/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",CHAUPAAL
 http://115.42.65.142:8000/play/a01s/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",CITY-21
@@ -209,8 +209,8 @@ http://115.42.65.142:8000/play/a03u/index.m3u8
 http://115.42.65.142:8000/play/a03w/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",PTV NATIONAL
 http://115.42.65.142:8000/play/a00v/index.m3u8
-#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",PTV-Home
-http://115.42.65.142:8000/play/a030/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",PTV-NEWS HD
+http://115.42.65.142:8000/play/a031/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",PTV-SPORTS-HD
 http://115.42.65.142:8000/play/a032/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",PTV-World
@@ -253,6 +253,8 @@ http://115.42.65.142:8000/play/a011/index.m3u8
 http://115.42.65.142:8000/play/a04n/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",TV ONE
 http://115.42.65.142:8000/play/a038/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",TV2DAY
+http://115.42.65.142:8000/play/a03o/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",TV5
 http://115.42.65.142:8000/play/a04m/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Unknown
