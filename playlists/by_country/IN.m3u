@@ -25,10 +25,14 @@ http://115.42.65.142:8000/play/a008/index.m3u8
 http://115.42.65.142:8000/play/a04u/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",AJJ ENTERTAINMENT
 http://115.42.65.142:8000/play/a01q/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Al Jazeera English HD
+http://115.42.65.142:8000/play/a00a/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",AL QURAN
 http://115.42.65.142:8000/play/a00b/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Alief TV
 http://115.42.65.142:8000/play/a042/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",APlus Pakistan
+http://115.42.65.142:8000/play/a03t/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",APNA HD
 http://115.42.65.142:8000/play/a01u/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",ARUJ TV
@@ -39,6 +43,8 @@ http://115.42.65.142:8000/play/a019/index.m3u8
 http://115.42.65.142:8000/play/a018/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",ARYNewsAsia
 http://115.42.65.142:8000/play/a01a/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",ARYQTV
+http://115.42.65.142:8000/play/a017/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",ARYZindagi
 http://115.42.65.142:8000/play/a016/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",AsiaOne
@@ -105,6 +111,8 @@ http://115.42.65.142:8000/play/a012/index.m3u8
 http://115.42.65.142:8000/play/a015/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Geo Super
 http://115.42.65.142:8000/play/a013/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Geo Tez
+http://115.42.65.142:8000/play/a014/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",GNNHD
 http://115.42.65.142:8000/play/a01o/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",GNNHD 2nd
@@ -165,8 +173,6 @@ http://115.42.65.142:8000/play/a04v/index.m3u8
 http://115.42.65.142:8000/play/a01l/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",NEO NEWS HD
 http://115.42.65.142:8000/play/a03b/index.m3u8
-#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",NEWS ONE
-http://115.42.65.142:8000/play/a03a/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",NEXT DARAMA
 http://115.42.65.142:8000/play/a04w/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",NEXT FILMI
@@ -205,8 +211,6 @@ http://115.42.65.142:8000/play/a03w/index.m3u8
 http://115.42.65.142:8000/play/a00v/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",PTV-Home
 http://115.42.65.142:8000/play/a030/index.m3u8
-#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",PTV-NEWS HD
-http://115.42.65.142:8000/play/a031/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",PTV-SPORTS-HD
 http://115.42.65.142:8000/play/a032/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",PTV-World
@@ -249,6 +253,8 @@ http://115.42.65.142:8000/play/a011/index.m3u8
 http://115.42.65.142:8000/play/a04n/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",TV ONE
 http://115.42.65.142:8000/play/a038/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",TV2DAY
+http://115.42.65.142:8000/play/a03o/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",TV5
 http://115.42.65.142:8000/play/a04m/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Unknown
