@@ -21,6 +21,8 @@ http://103.183.69.179:8000/play/a0a7/index.m3u8
 http://103.183.69.179:8000/play/a0a1/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",BTV HD
 http://103.183.69.179:8000/play/a0a4/index.m3u8
+#EXTINF:-1 group-title="103.183.69.179",BTV NEWS HD
+http://103.183.69.179:8000/play/a0a5/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Channel 24HD
 http://103.183.69.179:8000/play/a0ab/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Channel I HD
@@ -41,8 +43,6 @@ http://103.183.69.179:8000/play/a0ad/index.m3u8
 http://103.183.69.179:8000/play/a0at/index.m3u8
 #EXTINF:-1 group-title="103.76.111.178",kids_zone (raw TS)
 http://103.76.111.180:8000/play/a08t
-#EXTINF:-1 group-title="103.183.69.179",Madani TV
-http://103.183.69.179:8000/play/a0ae/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Mohona TV
 http://103.183.69.179:8000/play/a0ap/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",MYTV HD
