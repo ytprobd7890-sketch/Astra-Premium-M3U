@@ -7,6 +7,8 @@ http://103.183.69.179:8000/play/a0ar/index.m3u8
 http://103.183.69.179:8000/play/a0a3/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",ATN Bangla
 http://103.183.69.179:8000/play/a0ag/index.m3u8
+#EXTINF:-1 group-title="103.183.69.179",ATN News
+http://103.183.69.179:8000/play/a0aq/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",Bangla Vision
 http://103.183.69.179:8000/play/a0ai/index.m3u8
 #EXTINF:-1 group-title="103.183.69.179",BanglaTV HD
