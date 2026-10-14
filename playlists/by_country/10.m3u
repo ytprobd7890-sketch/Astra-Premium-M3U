@@ -1,17 +1,3 @@
 #EXTM3U
-#EXTINF:-1 group-title="103.183.69.179",ATN Bangla
-http://103.183.69.179:8000/play/a0ag/index.m3u8
-#EXTINF:-1 group-title="103.183.69.179",BanglaTV HD
-http://103.183.69.179:8000/play/a0ah/index.m3u8
-#EXTINF:-1 group-title="103.183.69.179",BijoyTV
-http://103.183.69.179:8000/play/a0a6/index.m3u8
-#EXTINF:-1 group-title="103.183.69.179",DBC NEWS
-http://103.183.69.179:8000/play/a0am/index.m3u8
-#EXTINF:-1 group-title="103.183.69.179",Desh TV
-http://103.183.69.179:8000/play/a0ao/index.m3u8
-#EXTINF:-1 group-title="103.183.69.179",Ekushey TV
-http://103.183.69.179:8000/play/a0as/index.m3u8
 #EXTINF:-1 group-title="103.76.111.178",kids_zone (raw TS)
 http://103.76.111.180:8000/play/a08t
-#EXTINF:-1 group-title="103.183.69.179",NTV HD EN-1
-http://103.183.69.179:8000/play/a0al/index.m3u8
