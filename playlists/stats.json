@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-10-18T11:18:58.316005",
+  "timestamp": "2026-10-18T18:26:44.995417",
   "input_file": "/home/runner/work/Astra-Premium-M3U/Astra-Premium-M3U/playlists/ULTIMATE_LIVE_5261.m3u",
   "total_entries": 5261,
   "unique_urls": 5261,
   "checked": 5261,
-  "live": 2185,
-  "dead": 3076,
-  "live_pct": 41.5,
+  "live": 2027,
+  "dead": 3234,
+  "live_pct": 38.5,
   "unique_normalized": 2079,
-  "after_dedup_best": 1063,
+  "after_dedup_best": 1033,
   "duplicate_groups": 685,
-  "elapsed_sec": 9693.7,
+  "elapsed_sec": 10619.2,
   "proxy_used": true
 }
