@@ -5,6 +5,8 @@ http://115.42.65.142:8000/play/a002/index.m3u8
 http://115.42.65.142:8000/play/a003/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",92 News HD
 http://115.42.65.142:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",A SportsHD
+http://115.42.65.142:8000/play/a01b/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",AAJ News
 http://115.42.65.142:8000/play/a01p/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",AAN TV - HD
@@ -19,8 +21,6 @@ http://115.42.65.142:8000/play/a008/index.m3u8
 http://115.42.65.142:8000/play/a04u/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",AJJ ENTERTAINMENT
 http://115.42.65.142:8000/play/a01q/index.m3u8
-#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Al Jazeera English HD
-http://115.42.65.142:8000/play/a00a/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",AL QURAN
 http://115.42.65.142:8000/play/a00b/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Alief TV
@@ -29,6 +29,10 @@ http://115.42.65.142:8000/play/a042/index.m3u8
 http://115.42.65.142:8000/play/a03t/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",ARUJ TV
 http://115.42.65.142:8000/play/a023/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",ARYDigitalAsia HD
+http://115.42.65.142:8000/play/a019/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",ARYMusik
+http://115.42.65.142:8000/play/a018/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",ARYNewsAsia
 http://115.42.65.142:8000/play/a01a/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",ARYQTV
@@ -67,8 +71,6 @@ http://115.42.65.142:8000/play/a00k/index.m3u8
 http://115.42.65.142:8000/play/a04c/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Dunya News HD
 http://115.42.65.142:8000/play/a01f/index.m3u8
-#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",DW
-http://115.42.65.142:8000/play/a00l/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",EWTN Africa
 http://115.42.65.142:8000/play/a03g/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",EXP ENTERTAINMENT
