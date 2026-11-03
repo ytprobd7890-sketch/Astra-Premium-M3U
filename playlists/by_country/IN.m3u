@@ -29,6 +29,8 @@ http://115.42.65.142:8000/play/a00b/index.m3u8
 http://115.42.65.142:8000/play/a042/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",APlus Pakistan
 http://115.42.65.142:8000/play/a03t/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",ARUJ TV
+http://115.42.65.142:8000/play/a023/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",ARYDigitalAsia HD
 http://115.42.65.142:8000/play/a019/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",ARYMusik
@@ -53,8 +55,6 @@ http://115.42.65.142:8000/play/a040/index.m3u8
 http://115.42.65.142:8000/play/a03y/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",CGTN
 http://115.42.65.142:8000/play/a03h/index.m3u8
-#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Channel5
-http://115.42.65.142:8000/play/a04b/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",CHAUPAAL
 http://115.42.65.142:8000/play/a01s/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",CITY-21
@@ -101,8 +101,12 @@ http://115.42.65.142:8000/play/a04q/index.m3u8
 http://115.42.65.142:8000/play/a001/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Geo Kahani
 http://115.42.65.142:8000/play/a012/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Geo News
+http://115.42.65.142:8000/play/a015/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Geo Super
 http://115.42.65.142:8000/play/a013/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Geo Tez
+http://115.42.65.142:8000/play/a014/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",GNNHD
 http://115.42.65.142:8000/play/a01o/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",GNNHD 2nd
