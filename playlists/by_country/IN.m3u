@@ -29,8 +29,6 @@ http://115.42.65.142:8000/play/a00b/index.m3u8
 http://115.42.65.142:8000/play/a042/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",APlus Pakistan
 http://115.42.65.142:8000/play/a03t/index.m3u8
-#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",ARUJ TV
-http://115.42.65.142:8000/play/a023/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",ARYDigitalAsia HD
 http://115.42.65.142:8000/play/a019/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",ARYMusik
@@ -73,6 +71,8 @@ http://115.42.65.142:8000/play/a00k/index.m3u8
 http://115.42.65.142:8000/play/a04c/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Dunya News HD
 http://115.42.65.142:8000/play/a01f/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",DW
+http://115.42.65.142:8000/play/a00l/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",EWTN Africa
 http://115.42.65.142:8000/play/a03g/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",EXP ENTERTAINMENT
@@ -103,8 +103,6 @@ http://115.42.65.142:8000/play/a001/index.m3u8
 http://115.42.65.142:8000/play/a012/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Geo Super
 http://115.42.65.142:8000/play/a013/index.m3u8
-#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Geo Tez
-http://115.42.65.142:8000/play/a014/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",GNNHD
 http://115.42.65.142:8000/play/a01o/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",GNNHD 2nd
@@ -179,6 +177,8 @@ http://115.42.65.142:8000/play/a04j/index.m3u8
 http://115.42.65.142:8000/play/a00r/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",ONYX HD
 http://115.42.65.142:8000/play/a00u/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",PAIGHAM TV
+http://115.42.65.142:8000/play/a045/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Pashto 1
 http://115.42.65.142:8000/play/a01d/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Pashto 1 2nd
