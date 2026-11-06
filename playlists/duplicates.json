@@ -157,8 +157,8 @@
       "http://103.221.246.97:7505/play/a1yi/index.m3u8",
       "http://59.103.38.17:8000/play/a001/index.m3u8"
     ],
-    "best_url": "http://103.147.87.152:18008/play/a196/index.m3u8",
-    "best_latency": 453
+    "best_url": "http://103.147.87.152:18008/play/a08r/index.m3u8",
+    "best_latency": 457
   },
   "geo tez": {
     "original_name": "Geo Tez",
@@ -175,7 +175,7 @@
       "http://103.221.246.97:7505/play/a1y2/index.m3u8"
     ],
     "best_url": "http://103.147.87.152:18008/play/a08t/index.m3u8",
-    "best_latency": 451
+    "best_latency": 455
   },
   "goldmines bollywood": {
     "original_name": "Goldmines Bollywood",
@@ -194,7 +194,7 @@
       "http://103.221.246.97:7505/play/a0pe/index.m3u8"
     ],
     "best_url": "http://103.147.87.152:18008/play/a06b/index.m3u8",
-    "best_latency": 470
+    "best_latency": 440
   },
   "greenent": {
     "original_name": "GreenEnt - HD",
@@ -290,8 +290,8 @@
       "http://103.253.18.58:8000/play/a09f",
       "http://115.42.65.142:8000/play/a03d/index.m3u8"
     ],
-    "best_url": null,
-    "best_latency": null
+    "best_url": "http://115.42.65.142:8000/play/a03d/index.m3u8",
+    "best_latency": 428
   },
   "khyber news": {
     "original_name": "Khyber News HD",
@@ -346,8 +346,8 @@
       "http://103.221.246.97:7505/play/a12w/index.m3u8",
       "http://59.103.38.17:8000/play/a04b/index.m3u8"
     ],
-    "best_url": null,
-    "best_latency": null
+    "best_url": "http://115.42.65.142:8000/play/a021/index.m3u8",
+    "best_latency": 442
   },
   "madani tv cband": {
     "original_name": "MADANI TV C-Band",
@@ -376,7 +376,7 @@
       "http://59.103.38.17:8000/play/a039/index.m3u8"
     ],
     "best_url": "http://103.147.87.152:18008/play/a05u/index.m3u8",
-    "best_latency": 460
+    "best_latency": 463
   },
   "masala tv": {
     "original_name": "MASALA TV",
@@ -413,8 +413,8 @@
       "http://103.119.94.1:7080/play/a0s6/index.m3u8",
       "http://103.198.154.67:8000/play/a024/index.m3u8"
     ],
-    "best_url": "http://186.33.47.113:8000/play/a03b/index.m3u8",
-    "best_latency": 219
+    "best_url": "http://179.51.136.19:8000/play/a1li/index.m3u8",
+    "best_latency": 222
   },
   "mun tv": {
     "original_name": "MUN TV",
@@ -449,7 +449,7 @@
       "http://59.103.38.47:8000/play/a057/index.m3u8"
     ],
     "best_url": "http://103.119.94.1:7080/play/a0sz/index.m3u8",
-    "best_latency": 499
+    "best_latency": 497
   },
   "national geographic": {
     "original_name": "NATIONAL GEOGRAPHIC HD",
@@ -478,8 +478,8 @@
       "http://59.103.38.44:8000/play/a05o/index.m3u8",
       "http://59.103.38.47:8000/play/a05o/index.m3u8"
     ],
-    "best_url": "http://186.33.47.113:8000/play/a08h/index.m3u8",
-    "best_latency": 220
+    "best_url": "http://45.185.163.75:8000/play/a0ed/index.m3u8",
+    "best_latency": 230
   },
   "news one": {
     "original_name": "NEWS ONE",
@@ -520,7 +520,7 @@
       "http://59.103.38.47:8000/play/a05j/index.m3u8"
     ],
     "best_url": "http://103.119.94.1:7080/play/a0t3/index.m3u8",
-    "best_latency": 519
+    "best_latency": 505
   },
   "nick": {
     "original_name": "Nick",
@@ -550,7 +550,7 @@
       "http://59.103.38.47:8000/play/a04c/index.m3u8"
     ],
     "best_url": "http://179.51.136.19:8000/play/a1mf/index.m3u8",
-    "best_latency": 216
+    "best_latency": 215
   },
   "pakistan tv": {
     "original_name": "PAKISTAN TV",
@@ -564,7 +564,7 @@
       "http://103.221.246.97:7505/play/a1us/index.m3u8"
     ],
     "best_url": "http://103.147.87.152:18008/play/a08g/index.m3u8",
-    "best_latency": 455
+    "best_latency": 474
   },
   "pitaara": {
     "original_name": "PITAARA",
@@ -605,7 +605,7 @@
       "http://103.221.246.97:7505/play/a020/index.m3u8"
     ],
     "best_url": "http://103.147.87.152:18008/play/a08e/index.m3u8",
-    "best_latency": 456
+    "best_latency": 466
   },
   "ptvhome": {
     "original_name": "PTV-Home",
@@ -620,7 +620,7 @@
       "http://103.221.246.97:7505/play/a01y/index.m3u8"
     ],
     "best_url": "http://103.147.87.152:18008/play/a08c/index.m3u8",
-    "best_latency": 465
+    "best_latency": 473
   },
   "ptvsportshd": {
     "original_name": "PTV-SPORTS-HD",
@@ -650,7 +650,7 @@
       "http://103.221.246.97:7505/play/a01z/index.m3u8"
     ],
     "best_url": "http://103.147.87.152:18008/play/a08d/index.m3u8",
-    "best_latency": 469
+    "best_latency": 455
   },
   "planet fun": {
     "original_name": "Planet Fun",
@@ -690,8 +690,8 @@
       "http://103.147.87.152:18008/play/a05f/index.m3u8",
       "http://59.103.38.17:8000/play/a06h/index.m3u8"
     ],
-    "best_url": "http://103.147.87.152:18008/play/a05f/index.m3u8",
-    "best_latency": 449
+    "best_url": "http://115.42.65.142:8000/play/a03n/index.m3u8",
+    "best_latency": 459
   },
   "public news": {
     "original_name": "Public News",
@@ -775,8 +775,8 @@
       "http://103.221.246.98:7505/play/a0p4/index.m3u8",
       "http://103.221.246.97:7505/play/a0p4/index.m3u8"
     ],
-    "best_url": null,
-    "best_latency": null
+    "best_url": "http://115.42.65.142:8000/play/a02t/index.m3u8",
+    "best_latency": 451
   },
   "saudi ch for sunnah": {
     "original_name": "SAUDI CH For Sunnah HD",
@@ -834,7 +834,7 @@
       "http://59.103.38.17:8000/play/a038/index.m3u8"
     ],
     "best_url": "http://103.147.87.152:18008/play/a06m/index.m3u8",
-    "best_latency": 459
+    "best_latency": 462
   },
   "sony max": {
     "original_name": "SONY MAX",
@@ -847,7 +847,7 @@
       "http://103.183.69.179:8000/play/a0fu/index.m3u8"
     ],
     "best_url": "http://103.119.94.1:7080/play/a09o/index.m3u8",
-    "best_latency": 501
+    "best_latency": 549
   },
   "sony pix": {
     "original_name": "SONY PIX HD",
@@ -875,7 +875,7 @@
       "http://59.103.38.47:8000/play/a06p/index.m3u8"
     ],
     "best_url": "http://103.119.94.1:7080/play/a0s8/index.m3u8",
-    "best_latency": 500
+    "best_latency": 550
   },
   "sony sab": {
     "original_name": "SONY SAB HD - Rs 30.00",
@@ -890,7 +890,7 @@
       "http://103.198.154.67:8000/play/a00x/index.m3u8"
     ],
     "best_url": "http://103.119.94.1:7080/play/a090/index.m3u8",
-    "best_latency": 493
+    "best_latency": 497
   },
   "star gold": {
     "original_name": "STAR GOLD HD",
@@ -918,7 +918,7 @@
       "http://59.103.38.47:8000/play/a02a/index.m3u8"
     ],
     "best_url": "http://103.119.94.1:7080/play/a0ay/index.m3u8",
-    "best_latency": 500
+    "best_latency": 550
   },
   "star movies": {
     "original_name": "STAR Movies HD",
@@ -945,7 +945,7 @@
       "http://59.103.38.47:8000/play/a06r/index.m3u8"
     ],
     "best_url": "http://185.228.163.146:8000/play/a02b/index.m3u8",
-    "best_latency": 267
+    "best_latency": 250
   },
   "star movies select": {
     "original_name": "STAR Movies Select HD",
@@ -958,7 +958,7 @@
       "http://103.198.154.67:8000/play/a028/index.m3u8"
     ],
     "best_url": "http://103.119.94.1:7080/play/a0s9/index.m3u8",
-    "best_latency": 496
+    "best_latency": 637
   },
   "star utsav": {
     "original_name": "STAR UTSAV",
@@ -973,7 +973,7 @@
       "http://59.103.38.17:8000/play/a03a/index.m3u8"
     ],
     "best_url": "http://103.147.87.152:18008/play/a060/index.m3u8",
-    "best_latency": 469
+    "best_latency": 450
   },
   "star plus": {
     "original_name": "STAR Plus HD",
@@ -1006,7 +1006,7 @@
       "http://59.103.38.47:8000/play/a009/index.m3u8"
     ],
     "best_url": "http://103.119.94.1:7080/play/a096/index.m3u8",
-    "best_latency": 496
+    "best_latency": 652
   },
   "star utsav movies": {
     "original_name": "STAR UTSAV MOVIES",
@@ -1021,7 +1021,7 @@
       "http://103.221.246.97:7505/play/a1ug/index.m3u8"
     ],
     "best_url": "http://103.147.87.152:18008/play/a05v/index.m3u8",
-    "best_latency": 454
+    "best_latency": 464
   },
   "sab tv": {
     "original_name": "Sab Tv",
@@ -1055,7 +1055,7 @@
       "http://59.103.38.17:8000/play/a045/index.m3u8"
     ],
     "best_url": "http://103.147.87.152:18008/play/a06w/index.m3u8",
-    "best_latency": 461
+    "best_latency": 463
   },
   "star bharat": {
     "original_name": "Star Bharat",
@@ -1068,8 +1068,8 @@
       "http://103.183.69.179:8000/play/a0g5/index.m3u8",
       "http://103.198.154.67:8000/play/a012/index.m3u8"
     ],
-    "best_url": "http://103.119.94.1:7080/play/a0cy/index.m3u8",
-    "best_latency": 495
+    "best_url": "http://103.119.94.1:7080/play/a0kx/index.m3u8",
+    "best_latency": 512
   },
   "star gold 2": {
     "original_name": "Star Gold 2 HD",
@@ -1112,7 +1112,7 @@
       "http://59.103.38.47:8000/play/a02d/index.m3u8"
     ],
     "best_url": "http://103.119.94.1:7080/play/a0pn/index.m3u8",
-    "best_latency": 502
+    "best_latency": 509
   },
   "star gold romance": {
     "original_name": "Star Gold Romance",
@@ -1148,8 +1148,8 @@
       "http://66.102.126.10:8000/play/a01s/index.m3u8",
       "http://103.119.94.1:7080/play/a0yd/index.m3u8"
     ],
-    "best_url": "http://103.119.94.1:7080/play/a0yd/index.m3u8",
-    "best_latency": 495
+    "best_url": null,
+    "best_latency": null
   },
   "star gold thrills": {
     "original_name": "Star Gold Thrills",
@@ -1208,7 +1208,7 @@
       "http://59.103.38.47:8000/play/a00a/index.m3u8"
     ],
     "best_url": "http://103.119.94.1:7080/play/a0bl/index.m3u8",
-    "best_latency": 495
+    "best_latency": 510
   },
   "star sports 1 hindi": {
     "original_name": "Star Sports 1 Hindi",
@@ -1224,8 +1224,8 @@
       "http://103.183.69.179:8000/play/a0gd/index.m3u8",
       "http://103.198.154.67:8000/play/a010/index.m3u8"
     ],
-    "best_url": "http://103.119.94.1:7080/play/a0b2/index.m3u8",
-    "best_latency": 506
+    "best_url": "http://103.119.94.1:7080/play/a0l1/index.m3u8",
+    "best_latency": 537
   },
   "tlc": {
     "original_name": "TLC HD",
@@ -1265,7 +1265,7 @@
       "http://59.103.38.47:8000/play/a05i/index.m3u8"
     ],
     "best_url": "http://190.61.90.17:40000/play/a0hh/index.m3u8",
-    "best_latency": 149
+    "best_latency": 146
   },
   "tv one": {
     "original_name": "TV ONE",
@@ -1295,7 +1295,7 @@
       "http://103.221.246.97:7505/play/a1mv/index.m3u8"
     ],
     "best_url": "http://103.147.87.152:18008/play/a05g/index.m3u8",
-    "best_latency": 505
+    "best_latency": 455
   },
   "travelxp": {
     "original_name": "Travelxp HD",
@@ -1322,7 +1322,7 @@
       "http://59.103.38.47:8000/play/a04o/index.m3u8"
     ],
     "best_url": "http://103.119.94.1:7080/play/a0pj/index.m3u8",
-    "best_latency": 575
+    "best_latency": 514
   },
   "venus": {
     "original_name": "Venus HD",
@@ -1339,8 +1339,8 @@
       "http://115.42.65.142:8000/play/a03m/index.m3u8",
       "http://38.131.62.104:8000/play/a04l/index.m3u8"
     ],
-    "best_url": "http://190.61.90.17:40000/play/a02u/index.m3u8",
-    "best_latency": 181
+    "best_url": "http://38.131.62.104:8000/play/a04l/index.m3u8",
+    "best_latency": 174
   },
   "waqt news": {
     "original_name": "WAQT NEWS HD",
@@ -1353,8 +1353,8 @@
       "http://103.221.246.98:7505/play/a1yh/index.m3u8",
       "http://103.221.246.97:7505/play/a1yh/index.m3u8"
     ],
-    "best_url": null,
-    "best_latency": null
+    "best_url": "http://115.42.65.142:8000/play/a01k/index.m3u8",
+    "best_latency": 445
   },
   "waseb": {
     "original_name": "WASEB",
@@ -1367,8 +1367,8 @@
       "http://103.221.246.98:7505/play/a1b0/index.m3u8",
       "http://103.221.246.97:7505/play/a1b0/index.m3u8"
     ],
-    "best_url": null,
-    "best_latency": null
+    "best_url": "http://115.42.65.142:8000/play/a039/index.m3u8",
+    "best_latency": 434
   },
   "zee cafe": {
     "original_name": "Zee Cafe FHD",
@@ -1394,7 +1394,7 @@
       "http://59.103.38.47:8000/play/a04n/index.m3u8"
     ],
     "best_url": "http://103.119.94.1:7080/play/a0pl/index.m3u8",
-    "best_latency": 494
+    "best_latency": 578
   },
   "zee tv": {
     "original_name": "Zee TV HD",
@@ -1445,7 +1445,7 @@
       "http://38.44.109.41:8003/play/a0f1/index.m3u8"
     ],
     "best_url": "http://181.78.197.59:8000/play/a098/index.m3u8",
-    "best_latency": 263
+    "best_latency": 236
   },
   "ae": {
     "original_name": "A&E HD",
@@ -1466,7 +1466,7 @@
       "http://38.199.241.110:8000/play/a004/index.m3u8"
     ],
     "best_url": "http://45.166.93.156:9999/play/a08b/index.m3u8",
-    "best_latency": 146
+    "best_latency": 188
   },
   "amc": {
     "original_name": "AMC HD",
@@ -1486,7 +1486,7 @@
       "http://186.33.1.71:8000/play/a0gu/index.m3u8"
     ],
     "best_url": "http://45.166.93.156:9999/play/a0h2/index.m3u8",
-    "best_latency": 147
+    "best_latency": 136
   },
   "america": {
     "original_name": "AMERICA FHD",
@@ -1497,7 +1497,7 @@
       "http://186.148.196.100:8000/play/a015"
     ],
     "best_url": "http://186.148.196.100:8000/play/a015",
-    "best_latency": 1481
+    "best_latency": 1057
   },
   "atv": {
     "original_name": "ATV SD",
@@ -1513,7 +1513,7 @@
       "http://45.166.93.156:9999/play/a009/index.m3u8"
     ],
     "best_url": "http://45.166.93.156:9999/play/a009/index.m3u8",
-    "best_latency": 141
+    "best_latency": 145
   },
   "amc series": {
     "original_name": "AMC Series SD",
@@ -1527,7 +1527,7 @@
       "http://38.44.109.41:8003/play/a0ct/index.m3u8"
     ],
     "best_url": "http://190.108.83.69:8000/play/a00p/index.m3u8",
-    "best_latency": 288
+    "best_latency": 311
   },
   "axn": {
     "original_name": "AXN HD",
@@ -1563,7 +1563,7 @@
       "http://186.148.196.100:8000/play/a029"
     ],
     "best_url": "http://186.148.196.100:8000/play/a029",
-    "best_latency": 1221
+    "best_latency": 1020
   },
   "adult swim": {
     "original_name": "Adult Swim SD",
@@ -1579,7 +1579,7 @@
       "http://186.33.1.71:8000/play/a0g4/index.m3u8"
     ],
     "best_url": "http://190.61.90.17:40000/play/a051/index.m3u8",
-    "best_latency": 138
+    "best_latency": 190
   },
   "america tv": {
     "original_name": "America TV HD",
@@ -1591,7 +1591,7 @@
       "http://186.148.196.82:8001/play/a08c"
     ],
     "best_url": "http://190.108.83.69:8000/play/a00f/index.m3u8",
-    "best_latency": 301
+    "best_latency": 305
   },
   "bbc news": {
     "original_name": "BBC News SD",
@@ -1604,7 +1604,7 @@
       "http://103.151.60.184:8000/play/a0fl/index.m3u8"
     ],
     "best_url": "http://103.119.94.1:7080/play/a0da/index.m3u8",
-    "best_latency": 557
+    "best_latency": 581
   },
   "animal planet": {
     "original_name": "Animal Planet HD",
@@ -1629,8 +1629,8 @@
       "http://103.151.60.184:8000/play/a01l/index.m3u8",
       "http://103.31.178.157:8839/play/a00q/index.m3u8"
     ],
-    "best_url": "http://45.166.93.156:9999/play/a0bp/index.m3u8",
-    "best_latency": 135
+    "best_url": "http://45.166.93.156:9999/play/a09v/index.m3u8",
+    "best_latency": 138
   },
   "antena 3": {
     "original_name": "Antena 3 SD",
@@ -1643,7 +1643,7 @@
       "http://38.131.62.104:8000/play/a00b/index.m3u8"
     ],
     "best_url": "http://45.166.93.156:9999/play/a0fo/index.m3u8",
-    "best_latency": 145
+    "best_latency": 139
   },
   "bethel": {
     "original_name": "BETHEL HD",
@@ -1653,7 +1653,7 @@
       "http://186.148.196.100:8000/play/a016"
     ],
     "best_url": "http://186.148.196.100:8000/play/a016",
-    "best_latency": 1043
+    "best_latency": 1046
   },
   "baby tv": {
     "original_name": "Baby TV SD",
@@ -1673,7 +1673,7 @@
       "http://119.155.143.222:4600/play/a031/index.m3u8"
     ],
     "best_url": "http://45.166.93.156:9999/play/a0hc/index.m3u8",
-    "best_latency": 139
+    "best_latency": 143
   },
   "atres series": {
     "original_name": "Atres Series HD",
@@ -1688,7 +1688,7 @@
       "http://38.131.62.104:8000/play/a0gs/index.m3u8"
     ],
     "best_url": "http://45.166.93.156:9999/play/a0hl/index.m3u8",
-    "best_latency": 140
+    "best_latency": 153
   },
   "cctvcgtn": {
     "original_name": "CCTV-CGTN SD",
@@ -1713,7 +1713,7 @@
       "http://45.181.122.46:8090/play/a01o"
     ],
     "best_url": "http://179.51.136.19:8000/play/a1ma/index.m3u8",
-    "best_latency": 211
+    "best_latency": 217
   },
   "cnn chile": {
     "original_name": "CNN Chile SD",
@@ -1724,8 +1724,8 @@
       "http://38.44.109.41:8003/play/a0h9/index.m3u8",
       "http://45.170.130.224:8000/play/a00y/index.m3u8"
     ],
-    "best_url": "http://45.170.130.224:8000/play/a00y/index.m3u8",
-    "best_latency": 337
+    "best_url": null,
+    "best_latency": null
   },
   "cnn international": {
     "original_name": "CNN International SD",
@@ -1749,7 +1749,7 @@
       "http://186.33.47.113:8000/play/a05p/index.m3u8"
     ],
     "best_url": "http://186.33.47.113:8000/play/a05p/index.m3u8",
-    "best_latency": 239
+    "best_latency": 253
   },
   "canal claro": {
     "original_name": "Canal Claro",
@@ -1761,8 +1761,8 @@
       "http://186.33.47.113:8000/play/a064/index.m3u8",
       "http://186.33.1.71:8000/play/a0fv/index.m3u8"
     ],
-    "best_url": "http://186.33.47.113:8000/play/a064/index.m3u8",
-    "best_latency": 239
+    "best_url": "http://190.61.90.17:40000/play/a0fv/index.m3u8",
+    "best_latency": 149
   },
   "canal 24 horas": {
     "original_name": "Canal 24 Horas SD",
@@ -1773,7 +1773,7 @@
       "http://38.44.109.41:8003/play/a0hb/index.m3u8"
     ],
     "best_url": "http://190.60.37.118:4000/play/a0ag",
-    "best_latency": 3347
+    "best_latency": 1897
   },
   "canal n": {
     "original_name": "Canal N SD",
@@ -1784,7 +1784,7 @@
       "http://186.148.196.82:8001/play/a0cn"
     ],
     "best_url": "http://190.108.83.69:8000/play/a07r/index.m3u8",
-    "best_latency": 293
+    "best_latency": 302
   },
   "canal 13": {
     "original_name": "Canal 13 HD",
@@ -1799,7 +1799,7 @@
       "http://45.181.122.46:8090/play/a00w"
     ],
     "best_url": "http://179.51.136.19:8000/play/a1l2/index.m3u8",
-    "best_latency": 233
+    "best_latency": 222
   },
   "cartoon network": {
     "original_name": "Cartoon Network HD",
@@ -1841,7 +1841,7 @@
       "http://59.103.38.47:8000/play/a0a8/index.m3u8"
     ],
     "best_url": "http://45.166.93.156:9999/play/a0gh/index.m3u8",
-    "best_latency": 134
+    "best_latency": 139
   },
   "cartoonito": {
     "original_name": "Cartoonito SD",
@@ -1860,7 +1860,7 @@
       "http://38.199.241.110:8000/play/a036/index.m3u8"
     ],
     "best_url": "http://45.166.93.156:9999/play/a0gj/index.m3u8",
-    "best_latency": 142
+    "best_latency": 146
   },
   "cinecanal": {
     "original_name": "Cinecanal HD",
@@ -1891,7 +1891,7 @@
       "http://186.33.1.71:8000/play/a0hq/index.m3u8"
     ],
     "best_url": "http://45.166.93.156:9999/play/a0g7/index.m3u8",
-    "best_latency": 200
+    "best_latency": 133
   },
   "comedy central": {
     "original_name": "Comedy Central HD",
@@ -1910,8 +1910,8 @@
       "http://110.39.15.114:8000/play/a03w/index.m3u8",
       "http://119.155.143.222:4600/play/a03d/index.m3u8"
     ],
-    "best_url": "http://190.60.32.178:8178/play/a0eh/index.m3u8",
-    "best_latency": 228
+    "best_url": "http://179.51.136.19:8000/play/a1l6/index.m3u8",
+    "best_latency": 218
   },
   "cinemax": {
     "original_name": "Cinemax SD",
@@ -1934,7 +1934,7 @@
       "http://110.39.15.114:8000/play/a03d/index.m3u8"
     ],
     "best_url": "http://190.61.90.17:40000/play/a0il/index.m3u8",
-    "best_latency": 152
+    "best_latency": 155
   },
   "clover": {
     "original_name": "Clover SD",
@@ -1945,7 +1945,7 @@
       "http://45.181.122.46:8090/play/a03z"
     ],
     "best_url": "http://186.148.196.82:8001/play/a0cj",
-    "best_latency": 3103
+    "best_latency": 5643
   },
   "dhe": {
     "original_name": "DHE HD",
@@ -1965,7 +1965,7 @@
       "http://186.33.1.71:8000/play/a0gy/index.m3u8"
     ],
     "best_url": "http://190.61.90.17:40000/play/a0gy/index.m3u8",
-    "best_latency": 152
+    "best_latency": 156
   },
   "daystar": {
     "original_name": "DAYSTAR SD",
@@ -1986,7 +1986,7 @@
       "http://38.44.109.41:8003/play/a0g1/index.m3u8"
     ],
     "best_url": "http://190.60.32.178:8178/play/a0ml/index.m3u8",
-    "best_latency": 236
+    "best_latency": 242
   },
   "de pelicula": {
     "original_name": "De Pelicula SD",
@@ -1999,7 +1999,7 @@
       "http://186.33.1.71:8000/play/a04z/index.m3u8"
     ],
     "best_url": "http://190.60.32.178:8178/play/a0n6/index.m3u8",
-    "best_latency": 241
+    "best_latency": 242
   },
   "discovery kids": {
     "original_name": "Discovery Kids HD",
@@ -2026,8 +2026,8 @@
       "http://186.33.1.71:8000/play/a03l/index.m3u8",
       "http://103.119.94.1:7080/play/a0b3/index.m3u8"
     ],
-    "best_url": "http://179.51.136.19:8000/play/a1oy/index.m3u8",
-    "best_latency": 216
+    "best_url": "http://190.61.90.17:40000/play/a03l/index.m3u8",
+    "best_latency": 151
   },
   "discovery science": {
     "original_name": "Discovery Science SD",
@@ -2057,7 +2057,7 @@
       "http://59.103.38.47:8000/play/a060/index.m3u8"
     ],
     "best_url": "http://179.51.136.19:8000/play/a1sa/index.m3u8",
-    "best_latency": 220
+    "best_latency": 224
   },
   "discovery channel": {
     "original_name": "Discovery Channel HD",
@@ -2079,7 +2079,7 @@
       "http://186.33.1.71:8000/play/a0kn/index.m3u8"
     ],
     "best_url": "http://190.61.90.17:40000/play/a0kn/index.m3u8",
-    "best_latency": 152
+    "best_latency": 148
   },
   "certv": {
     "original_name": "CERTV",
@@ -2091,7 +2091,7 @@
       "http://38.131.62.104:8000/play/a072/index.m3u8"
     ],
     "best_url": "http://45.166.93.156:9999/play/a0ew/index.m3u8",
-    "best_latency": 148
+    "best_latency": 143
   },
   "cnbc": {
     "original_name": "CNBC",
@@ -2129,7 +2129,7 @@
       "http://38.199.241.110:8000/play/a02l/index.m3u8"
     ],
     "best_url": "http://45.166.93.156:9999/play/a0hn/index.m3u8",
-    "best_latency": 146
+    "best_latency": 148
   },
   "cnne": {
     "original_name": "CNNE",
@@ -2142,7 +2142,7 @@
       "http://38.131.62.104:8000/play/a05c/index.m3u8"
     ],
     "best_url": "http://45.166.93.156:9999/play/a0h3/index.m3u8",
-    "best_latency": 134
+    "best_latency": 146
   },
   "canal 21  esa": {
     "original_name": "Canal 21 - ESA",
@@ -2164,7 +2164,7 @@
       "http://38.131.62.104:8000/play/a0ct/index.m3u8"
     ],
     "best_url": "http://45.166.93.156:9999/play/a07k/index.m3u8",
-    "best_latency": 145
+    "best_latency": 140
   },
   "canal 2  nic": {
     "original_name": "Canal 2 - NIC",
@@ -2174,7 +2174,7 @@
       "http://38.131.62.104:8000/play/a0gg/index.m3u8"
     ],
     "best_url": "http://179.51.136.19:8000/play/a0wb/index.m3u8",
-    "best_latency": 230
+    "best_latency": 210
   },
   "canal 3  gua": {
     "original_name": "Canal 3 - GUA",
@@ -2186,7 +2186,7 @@
       "http://186.33.1.71:8000/play/a0h5/index.m3u8"
     ],
     "best_url": "http://45.166.93.156:9999/play/a07j/index.m3u8",
-    "best_latency": 145
+    "best_latency": 138
   },
   "canal 3 telesistemas hnd": {
     "original_name": "Canal 3 Telesistemas HND",
@@ -2197,7 +2197,7 @@
       "http://38.131.62.104:8000/play/a0dt/index.m3u8"
     ],
     "best_url": "http://45.166.93.156:9999/play/a0ez/index.m3u8",
-    "best_latency": 141
+    "best_latency": 146
   },
   "canal 7  gua": {
     "original_name": "Canal 7 - GUA",
@@ -2208,8 +2208,8 @@
       "http://45.166.93.156:9999/play/a07i/index.m3u8",
       "http://186.33.1.71:8000/play/a0h4/index.m3u8"
     ],
-    "best_url": "http://45.166.93.156:9999/play/a07i/index.m3u8",
-    "best_latency": 145
+    "best_url": "http://190.61.90.17:40000/play/a0h4/index.m3u8",
+    "best_latency": 142
   },
   "canal antigua  gua": {
     "original_name": "Canal Antigua - GUA",
@@ -2220,7 +2220,7 @@
       "http://186.33.1.71:8000/play/a0h2/index.m3u8"
     ],
     "best_url": "http://190.61.90.17:40000/play/a0h2/index.m3u8",
-    "best_latency": 142
+    "best_latency": 148
   },
   "canal vtv hnd": {
     "original_name": "Canal VTV HND",
@@ -2232,7 +2232,7 @@
       "http://38.131.62.104:8000/play/a0du/index.m3u8"
     ],
     "best_url": "http://45.166.93.156:9999/play/a0f0/index.m3u8",
-    "best_latency": 134
+    "best_latency": 163
   },
   "canal del congreso": {
     "original_name": "Canal del Congreso",
@@ -2243,7 +2243,7 @@
       "http://38.44.109.41:8003/play/a0io/index.m3u8"
     ],
     "best_url": "http://179.51.136.19:8000/play/a186/index.m3u8",
-    "best_latency": 246
+    "best_latency": 219
   },
   "cine latino": {
     "original_name": "Cine Latino",
@@ -2257,7 +2257,7 @@
       "http://186.33.1.71:8000/play/a0ik/index.m3u8"
     ],
     "best_url": "http://45.166.93.156:9999/play/a0ix/index.m3u8",
-    "best_latency": 213
+    "best_latency": 157
   },
   "claro sports 2": {
     "original_name": "Claro Sports 2 SD",
@@ -2268,8 +2268,8 @@
       "http://38.131.62.104:8000/play/a08w/index.m3u8",
       "http://186.33.1.71:8000/play/a05h/index.m3u8"
     ],
-    "best_url": "http://179.51.136.19:8000/play/a1pd/index.m3u8",
-    "best_latency": 219
+    "best_url": "http://186.33.1.71:8000/play/a05h/index.m3u8",
+    "best_latency": 144
   },
   "claro sports 1": {
     "original_name": "Claro Sports 1 SD",
@@ -2279,8 +2279,8 @@
       "http://38.131.62.104:8000/play/a0dp/index.m3u8",
       "http://186.33.1.71:8000/play/a05g/index.m3u8"
     ],
-    "best_url": "http://179.51.136.19:8000/play/a18m/index.m3u8",
-    "best_latency": 239
+    "best_url": "http://38.131.62.104:8000/play/a0dp/index.m3u8",
+    "best_latency": 161
   },
   "concert channel": {
     "original_name": "Concert Channel",
@@ -2293,7 +2293,7 @@
       "http://186.33.1.71:8000/play/a02r/index.m3u8"
     ],
     "best_url": "http://190.61.90.17:40000/play/a02r/index.m3u8",
-    "best_latency": 148
+    "best_latency": 153
   },
   "color vision 9  rd": {
     "original_name": "Color Vision 9 - RD",
@@ -2303,7 +2303,7 @@
       "http://38.131.62.104:8000/play/a026/index.m3u8"
     ],
     "best_url": "http://38.131.62.104:8000/play/a026/index.m3u8",
-    "best_latency": 155
+    "best_latency": 161
   },
   "discovery home  health": {
     "original_name": "Discovery Home & Health",
@@ -2312,8 +2312,8 @@
       "http://179.51.136.19:8000/play/a18k/index.m3u8",
       "http://38.131.62.104:8000/play/a08p/index.m3u8"
     ],
-    "best_url": "http://179.51.136.19:8000/play/a18k/index.m3u8",
-    "best_latency": 239
+    "best_url": "http://38.131.62.104:8000/play/a08p/index.m3u8",
+    "best_latency": 164
   },
   "discovery turbo": {
     "original_name": "Discovery Turbo",
@@ -2348,8 +2348,8 @@
       "http://59.103.38.44:8000/play/a050/index.m3u8",
       "http://59.103.38.47:8000/play/a050/index.m3u8"
     ],
-    "best_url": "http://186.33.47.113:8000/play/a04l/index.m3u8",
-    "best_latency": 214
+    "best_url": "http://186.33.1.71:8000/play/a0ia/index.m3u8",
+    "best_latency": 147
   },
   "discovery theater": {
     "original_name": "Discovery Theater HD",
@@ -2364,7 +2364,7 @@
       "http://45.181.122.46:8090/play/a01g"
     ],
     "best_url": "http://179.51.136.19:8000/play/a1m8/index.m3u8",
-    "best_latency": 215
+    "best_latency": 216
   },
   "disney": {
     "original_name": "Disney",
@@ -2379,8 +2379,8 @@
       "http://119.152.22.162:4389/play/a03q/index.m3u8",
       "http://119.152.22.166:4389/play/a03q/index.m3u8"
     ],
-    "best_url": "http://179.51.136.19:8000/play/a1kp/index.m3u8",
-    "best_latency": 211
+    "best_url": "http://38.131.62.104:8000/play/a0f2/index.m3u8",
+    "best_latency": 173
   },
   "discovery world": {
     "original_name": "Discovery World HD",
@@ -2397,7 +2397,7 @@
       "http://186.33.1.71:8000/play/a0kp/index.m3u8"
     ],
     "best_url": "http://190.61.90.17:40000/play/a0kp/index.m3u8",
-    "best_latency": 150
+    "best_latency": 153
   },
   "disney channel": {
     "original_name": "Disney Channel",
@@ -2418,7 +2418,7 @@
       "http://186.33.47.113:8000/play/a03v/index.m3u8"
     ],
     "best_url": "http://179.51.136.19:8000/play/a1t8/index.m3u8",
-    "best_latency": 223
+    "best_latency": 218
   },
   "disney jr": {
     "original_name": "Disney Jr.",
@@ -2440,8 +2440,8 @@
       "http://186.33.47.113:8000/play/a05q/index.m3u8",
       "http://186.33.1.71:8000/play/a0g1/index.m3u8"
     ],
-    "best_url": "http://179.51.136.19:8000/play/a1s7/index.m3u8",
-    "best_latency": 212
+    "best_url": "http://38.131.62.104:8000/play/a021/index.m3u8",
+    "best_latency": 167
   },
   "e entertainment tv": {
     "original_name": "E! Entertainment TV",
@@ -2455,7 +2455,7 @@
       "http://45.181.122.46:8090/play/a033"
     ],
     "best_url": "http://179.51.136.19:8000/play/a1sb/index.m3u8",
-    "best_latency": 230
+    "best_latency": 219
   },
   "espn": {
     "original_name": "ESPN",
@@ -2484,7 +2484,7 @@
       "http://186.33.1.71:8000/play/a0kg/index.m3u8"
     ],
     "best_url": "http://190.61.90.17:40000/play/a052/index.m3u8",
-    "best_latency": 150
+    "best_latency": 147
   },
   "espn 3": {
     "original_name": "ESPN 3",
@@ -2507,7 +2507,7 @@
       "http://186.33.1.71:8000/play/a0kh/index.m3u8"
     ],
     "best_url": "http://181.78.197.59:8000/play/a081/index.m3u8",
-    "best_latency": 226
+    "best_latency": 219
   },
   "espn 4": {
     "original_name": "ESPN 4 HD",
@@ -2534,7 +2534,7 @@
       "http://186.33.1.71:8000/play/a0gl/index.m3u8"
     ],
     "best_url": "http://190.61.90.17:40000/play/a00g/index.m3u8",
-    "best_latency": 152
+    "best_latency": 156
   },
   "espn 4hd": {
     "original_name": "ESPN 4HD",
@@ -2544,7 +2544,7 @@
       "http://45.181.122.46:8090/play/a028"
     ],
     "best_url": "http://179.51.136.19:8000/play/a1kr/index.m3u8",
-    "best_latency": 215
+    "best_latency": 216
   },
   "espn 5": {
     "original_name": "ESPN 5",
@@ -2567,7 +2567,7 @@
       "http://38.199.241.110:8000/play/a03c/index.m3u8",
       "http://186.33.1.71:8000/play/a0ix/index.m3u8"
     ],
-    "best_url": "http://190.61.90.17:40000/play/a0ix/index.m3u8",
+    "best_url": "http://38.131.62.104:8000/play/a0ha/index.m3u8",
     "best_latency": 148
   },
   "espn 5hd": {
@@ -2578,7 +2578,7 @@
       "http://45.181.122.46:8090/play/a01i"
     ],
     "best_url": "http://179.51.136.19:8000/play/a1l9/index.m3u8",
-    "best_latency": 215
+    "best_latency": 217
   },
   "espn 6": {
     "original_name": "ESPN 6",
@@ -2601,7 +2601,7 @@
       "http://186.33.1.71:8000/play/a0kj/index.m3u8"
     ],
     "best_url": "http://190.61.90.17:40000/play/a01f/index.m3u8",
-    "best_latency": 151
+    "best_latency": 150
   },
   "espn 6hd": {
     "original_name": "ESPN 6HD",
@@ -2612,7 +2612,7 @@
       "http://45.181.122.46:8090/play/a01u"
     ],
     "best_url": "http://179.51.136.19:8000/play/a1l3/index.m3u8",
-    "best_latency": 224
+    "best_latency": 220
   },
   "espn 7": {
     "original_name": "ESPN 7 HD",
@@ -2626,7 +2626,7 @@
       "http://38.199.241.110:8000/play/a03e/index.m3u8"
     ],
     "best_url": "http://179.51.136.19:8000/play/a1t2/index.m3u8",
-    "best_latency": 210
+    "best_latency": 218
   },
   "espn 7hd": {
     "original_name": "ESPN 7HD",
@@ -2639,7 +2639,7 @@
       "http://45.181.122.46:8090/play/a01j"
     ],
     "best_url": "http://179.51.136.19:8000/play/a1kj/index.m3u8",
-    "best_latency": 220
+    "best_latency": 215
   },
   "espn premium": {
     "original_name": "ESPN Premium HD",
@@ -2656,7 +2656,7 @@
       "http://45.181.122.46:8090/play/a015"
     ],
     "best_url": "http://179.51.136.19:8000/play/a1ml/index.m3u8",
-    "best_latency": 215
+    "best_latency": 220
   },
   "etc": {
     "original_name": "ETC",
@@ -2666,7 +2666,7 @@
       "http://181.119.93.83:8000/play/a217/index.m3u8"
     ],
     "best_url": "http://179.51.136.19:8000/play/a1ru/index.m3u8",
-    "best_latency": 227
+    "best_latency": 253
   },
   "euro channel": {
     "original_name": "EURO Channel",
@@ -2676,7 +2676,7 @@
       "http://186.33.1.71:8000/play/a00x/index.m3u8"
     ],
     "best_url": "http://179.51.136.19:8000/play/a14r/index.m3u8",
-    "best_latency": 220
+    "best_latency": 224
   },
   "ewtn": {
     "original_name": "EWTN",
@@ -2694,8 +2694,8 @@
       "http://38.199.241.110:8000/play/a010/index.m3u8",
       "http://186.33.1.71:8000/play/a0by/index.m3u8"
     ],
-    "best_url": "http://179.51.136.19:8000/play/a1sf/index.m3u8",
-    "best_latency": 220
+    "best_url": "http://190.61.90.17:40000/play/a04x/index.m3u8",
+    "best_latency": 150
   },
   "ecuador tv": {
     "original_name": "Ecuador TV",
@@ -2706,8 +2706,8 @@
       "http://38.44.109.41:8003/play/a0e9/index.m3u8",
       "http://186.33.47.113:8000/play/a05m/index.m3u8"
     ],
-    "best_url": "http://181.78.197.59:8000/play/a0ed/index.m3u8",
-    "best_latency": 219
+    "best_url": "http://179.51.136.19:8000/play/a1ry/index.m3u8",
+    "best_latency": 224
   },
   "ecuavisa": {
     "original_name": "Ecuavisa",
@@ -2721,7 +2721,7 @@
       "http://186.33.47.113:8000/play/a04s/index.m3u8"
     ],
     "best_url": "http://181.78.197.59:8000/play/a09s/index.m3u8",
-    "best_latency": 211
+    "best_latency": 228
   },
   "el gourmet": {
     "original_name": "El Gourmet",
@@ -2739,8 +2739,8 @@
       "http://38.131.62.104:8000/play/a07i/index.m3u8",
       "http://186.33.1.71:8000/play/a04v/index.m3u8"
     ],
-    "best_url": "http://179.51.136.19:8000/play/a14h/index.m3u8",
-    "best_latency": 216
+    "best_url": "http://190.61.90.17:40000/play/a04v/index.m3u8",
+    "best_latency": 153
   },
   "enlace": {
     "original_name": "Enlace",
@@ -2757,8 +2757,8 @@
       "http://38.199.241.110:8000/play/a00s/index.m3u8",
       "http://186.33.47.113:8000/play/a03g/index.m3u8"
     ],
-    "best_url": "http://186.33.47.113:8000/play/a03g/index.m3u8",
-    "best_latency": 220
+    "best_url": "http://179.51.136.19:8000/play/a1sh/index.m3u8",
+    "best_latency": 216
   },
   "esport max": {
     "original_name": "Esport Max",
@@ -2768,7 +2768,7 @@
       "http://190.61.90.17:40000/play/a03h/index.m3u8"
     ],
     "best_url": "http://190.61.90.17:40000/play/a03h/index.m3u8",
-    "best_latency": 150
+    "best_latency": 159
   },
   "futv cr": {
     "original_name": "FUTV CR",
@@ -2777,8 +2777,8 @@
       "http://179.51.136.19:8000/play/a184/index.m3u8",
       "http://190.61.90.17:40000/play/a03v/index.m3u8"
     ],
-    "best_url": "http://179.51.136.19:8000/play/a184/index.m3u8",
-    "best_latency": 227
+    "best_url": "http://190.61.90.17:40000/play/a03v/index.m3u8",
+    "best_latency": 151
   },
   "exa tv": {
     "original_name": "Exa TV",
@@ -2789,8 +2789,8 @@
       "http://190.61.90.17:40000/play/a0hk/index.m3u8",
       "http://186.33.1.71:8000/play/a0hk/index.m3u8"
     ],
-    "best_url": "http://179.51.136.19:8000/play/a0wu/index.m3u8",
-    "best_latency": 245
+    "best_url": "http://190.61.90.17:40000/play/a0hk/index.m3u8",
+    "best_latency": 148
   },
   "fx": {
     "original_name": "FX HD",
@@ -2814,8 +2814,8 @@
       "http://111.88.7.92:8000/play/a04b/index.m3u8",
       "http://119.155.143.222:4600/play/a01i/index.m3u8"
     ],
-    "best_url": "http://179.51.136.19:8000/play/a1ks/index.m3u8",
-    "best_latency": 225
+    "best_url": "http://179.51.136.19:8000/play/a1ta/index.m3u8",
+    "best_latency": 214
   },
   "food network": {
     "original_name": "Food Network",
@@ -2833,7 +2833,7 @@
       "http://119.152.22.166:4389/play/a03c/index.m3u8"
     ],
     "best_url": "http://179.51.136.19:8000/play/a1sl/index.m3u8",
-    "best_latency": 223
+    "best_latency": 224
   },
   "france24": {
     "original_name": "France24",
@@ -2844,7 +2844,7 @@
       "http://38.131.62.104:8000/play/a08m/index.m3u8"
     ],
     "best_url": "http://190.61.90.17:40000/play/a01l/index.m3u8",
-    "best_latency": 151
+    "best_latency": 152
   },
   "gamavisin": {
     "original_name": "Gamavisi\u00f0n",
@@ -2853,8 +2853,8 @@
       "http://179.51.136.19:8000/play/a1rz/index.m3u8",
       "http://181.78.197.59:8000/play/a039/index.m3u8"
     ],
-    "best_url": "http://181.78.197.59:8000/play/a039/index.m3u8",
-    "best_latency": 218
+    "best_url": "http://179.51.136.19:8000/play/a1rz/index.m3u8",
+    "best_latency": 227
   },
   "golf channel": {
     "original_name": "Golf Channel",
@@ -2866,7 +2866,7 @@
       "http://38.44.109.41:8003/play/a0cx/index.m3u8"
     ],
     "best_url": "http://190.61.90.17:40000/play/a0h1/index.m3u8",
-    "best_latency": 151
+    "best_latency": 157
   },
   "guatevision  gua": {
     "original_name": "Guatevision - GUA",
@@ -2875,8 +2875,8 @@
       "http://179.51.136.19:8000/play/a0ty/index.m3u8",
       "http://38.131.62.104:8000/play/a0i1/index.m3u8"
     ],
-    "best_url": "http://179.51.136.19:8000/play/a0ty/index.m3u8",
-    "best_latency": 225
+    "best_url": "http://38.131.62.104:8000/play/a0i1/index.m3u8",
+    "best_latency": 163
   },
   "h2": {
     "original_name": "H2",
@@ -2885,8 +2885,8 @@
       "http://179.51.136.19:8000/play/a1pb/index.m3u8",
       "http://38.131.62.104:8000/play/a07h/index.m3u8"
     ],
-    "best_url": "http://179.51.136.19:8000/play/a1pb/index.m3u8",
-    "best_latency": 220
+    "best_url": "http://38.131.62.104:8000/play/a07h/index.m3u8",
+    "best_latency": 167
   },
   "hbo family": {
     "original_name": "HBO Family HD",
@@ -2906,8 +2906,8 @@
       "http://38.131.62.104:8000/play/a01u/index.m3u8",
       "http://186.33.1.71:8000/play/a0l5/index.m3u8"
     ],
-    "best_url": "http://179.51.136.19:8000/play/a1mm/index.m3u8",
-    "best_latency": 215
+    "best_url": "http://190.61.90.17:40000/play/a0l5/index.m3u8",
+    "best_latency": 143
   },
   "hbo": {
     "original_name": "HBO HD",
@@ -2932,8 +2932,8 @@
       "http://110.39.15.114:8000/play/a03z/index.m3u8",
       "http://111.88.7.92:8000/play/a03x/index.m3u8"
     ],
-    "best_url": "http://38.131.62.104:8000/play/a0hx/index.m3u8",
-    "best_latency": 160
+    "best_url": "http://190.61.90.17:40000/play/a0l2/index.m3u8",
+    "best_latency": 151
   },
   "hbo xtreme": {
     "original_name": "HBO Xtreme HD",
@@ -2954,8 +2954,8 @@
       "http://38.131.62.104:8000/play/a01v/index.m3u8",
       "http://186.33.1.71:8000/play/a0l6/index.m3u8"
     ],
-    "best_url": "http://179.51.136.19:8000/play/a1o1/index.m3u8",
-    "best_latency": 214
+    "best_url": "http://38.131.62.104:8000/play/a01v/index.m3u8",
+    "best_latency": 174
   },
   "hbo pop": {
     "original_name": "HBO POP HD",
@@ -2968,7 +2968,7 @@
       "http://45.181.122.46:8090/play/a00j"
     ],
     "best_url": "http://179.51.136.19:8000/play/a1me/index.m3u8",
-    "best_latency": 215
+    "best_latency": 218
   },
   "hgtv": {
     "original_name": "HGTV",
@@ -2980,7 +2980,7 @@
       "http://38.199.241.110:8000/play/a016/index.m3u8"
     ],
     "best_url": "http://179.51.136.19:8000/play/a1se/index.m3u8",
-    "best_latency": 239
+    "best_latency": 220
   },
   "hola tv": {
     "original_name": "HOLA TV HD",
@@ -2995,7 +2995,7 @@
       "http://186.33.1.71:8000/play/a0hx/index.m3u8"
     ],
     "best_url": "http://190.61.90.17:40000/play/a0hx/index.m3u8",
-    "best_latency": 153
+    "best_latency": 144
   },
   "htv": {
     "original_name": "HTV",
@@ -3012,8 +3012,8 @@
       "http://38.131.62.104:8000/play/a07n/index.m3u8",
       "http://38.199.241.110:8000/play/a02g/index.m3u8"
     ],
-    "best_url": "http://179.51.136.19:8000/play/a14l/index.m3u8",
-    "best_latency": 214
+    "best_url": "http://38.131.62.104:8000/play/a07n/index.m3u8",
+    "best_latency": 163
   },
   "history channel": {
     "original_name": "History Channel HD",
@@ -3035,8 +3035,8 @@
       "http://186.33.47.113:8000/play/a08d/index.m3u8",
       "http://186.33.1.71:8000/play/a0gk/index.m3u8"
     ],
-    "best_url": "http://179.51.136.19:8000/play/a1sx/index.m3u8",
-    "best_latency": 215
+    "best_url": "http://190.61.90.17:40000/play/a0gk/index.m3u8",
+    "best_latency": 154
   },
   "history": {
     "original_name": "History HD",
@@ -3052,8 +3052,8 @@
       "http://38.199.241.110:8000/play/a018/index.m3u8",
       "http://119.155.143.222:4600/play/a018/index.m3u8"
     ],
-    "best_url": "http://179.51.136.19:8000/play/a1p9/index.m3u8",
-    "best_latency": 215
+    "best_url": "http://38.131.62.104:8000/play/a024/index.m3u8",
+    "best_latency": 164
   },
   "holatv": {
     "original_name": "Hola!TV",
@@ -3064,8 +3064,8 @@
       "http://45.185.163.75:8000/play/a0fl/index.m3u8",
       "http://38.131.62.104:8000/play/a00f/index.m3u8"
     ],
-    "best_url": "http://179.51.136.19:8000/play/a0z3/index.m3u8",
-    "best_latency": 220
+    "best_url": "http://38.131.62.104:8000/play/a00f/index.m3u8",
+    "best_latency": 171
   },
   "id": {
     "original_name": "ID",
@@ -3083,8 +3083,8 @@
       "http://45.185.163.75:8000/play/a0ca/index.m3u8",
       "http://38.199.241.110:8000/play/a01c/index.m3u8"
     ],
-    "best_url": "http://179.51.136.19:8000/play/a18l/index.m3u8",
-    "best_latency": 211
+    "best_url": "http://179.51.136.19:8000/play/a1t6/index.m3u8",
+    "best_latency": 217
   },
   "la voz de maria": {
     "original_name": "La voz de Maria",
@@ -3100,7 +3100,7 @@
       "http://186.33.1.71:8000/play/a0id/index.m3u8"
     ],
     "best_url": "http://38.131.62.104:8000/play/a0lw/index.m3u8",
-    "best_latency": 166
+    "best_latency": 183
   },
   "life time": {
     "original_name": "LIFE TIME",
@@ -3114,7 +3114,7 @@
       "http://186.33.1.71:8000/play/a0gb/index.m3u8"
     ],
     "best_url": "http://190.61.90.17:40000/play/a0gb/index.m3u8",
-    "best_latency": 142
+    "best_latency": 153
   },
   "las estrellas": {
     "original_name": "Las Estrellas HD",
@@ -3135,8 +3135,8 @@
       "http://45.185.163.75:8000/play/a03a/index.m3u8",
       "http://38.199.241.110:8000/play/a02p/index.m3u8"
     ],
-    "best_url": "http://181.78.197.59:8000/play/a09j/index.m3u8",
-    "best_latency": 215
+    "best_url": "http://179.51.136.19:8000/play/a1ny/index.m3u8",
+    "best_latency": 218
   },
   "latin america sport": {
     "original_name": "Latin America Sport",
@@ -3147,8 +3147,8 @@
       "http://38.131.62.104:8000/play/a07m/index.m3u8",
       "http://186.33.1.71:8000/play/a03j/index.m3u8"
     ],
-    "best_url": "http://179.51.136.19:8000/play/a14j/index.m3u8",
-    "best_latency": 216
+    "best_url": "http://190.61.90.17:40000/play/a02e/index.m3u8",
+    "best_latency": 179
   },
   "lifetime": {
     "original_name": "Lifetime",
@@ -3168,7 +3168,7 @@
       "http://38.199.241.110:8000/play/a001/index.m3u8"
     ],
     "best_url": "http://179.51.136.19:8000/play/a1sg/index.m3u8",
-    "best_latency": 221
+    "best_latency": 214
   },
   "mega": {
     "original_name": "MEGA HD",
@@ -3187,8 +3187,8 @@
       "http://45.185.163.75:8000/play/a032/index.m3u8",
       "http://45.185.163.75:8000/play/a06r/index.m3u8"
     ],
-    "best_url": "http://179.51.136.19:8000/play/a1o4/index.m3u8",
-    "best_latency": 215
+    "best_url": "http://179.51.136.19:8000/play/a1mh/index.m3u8",
+    "best_latency": 217
   },
   "mas chic": {
     "original_name": "Mas Chic",
@@ -3198,8 +3198,8 @@
       "http://45.185.163.75:8000/play/a0fg/index.m3u8",
       "http://38.131.62.104:8000/play/a08u/index.m3u8"
     ],
-    "best_url": "http://179.51.136.19:8000/play/a0yy/index.m3u8",
-    "best_latency": 214
+    "best_url": "http://38.131.62.104:8000/play/a08u/index.m3u8",
+    "best_latency": 171
   },
   "nat geo": {
     "original_name": "Nat Geo HD",
@@ -3219,8 +3219,8 @@
       "http://186.33.1.71:8000/play/a0kk/index.m3u8",
       "http://103.31.178.157:8839/play/a01l/index.m3u8"
     ],
-    "best_url": "http://179.51.136.19:8000/play/a1kg/index.m3u8",
-    "best_latency": 215
+    "best_url": "http://179.51.136.19:8000/play/a1sy/index.m3u8",
+    "best_latency": 216
   },
   "multipremier": {
     "original_name": "Multipremier",
@@ -3233,7 +3233,7 @@
       "http://186.33.1.71:8000/play/a0ij/index.m3u8"
     ],
     "best_url": "http://190.61.90.17:40000/play/a0ij/index.m3u8",
-    "best_latency": 151
+    "best_latency": 152
   },
   "popu tv": {
     "original_name": "POPU TV",
@@ -3245,7 +3245,7 @@
       "http://38.44.109.41:8003/play/a0gi/index.m3u8"
     ],
     "best_url": "http://179.51.136.19:8000/play/a1ns/index.m3u8",
-    "best_latency": 239
+    "best_latency": 216
   },
   "pasiones": {
     "original_name": "Pasiones HD",
@@ -3269,7 +3269,7 @@
       "http://186.33.1.71:8000/play/a0kq/index.m3u8"
     ],
     "best_url": "http://190.61.90.17:40000/play/a0kq/index.m3u8",
-    "best_latency": 145
+    "best_latency": 148
   },
   "playboy": {
     "original_name": "Playboy HD",
@@ -3284,7 +3284,7 @@
       "http://38.131.62.104:8000/play/a01w/index.m3u8"
     ],
     "best_url": "http://190.61.90.17:40000/play/a02t/index.m3u8",
-    "best_latency": 152
+    "best_latency": 154
   },
   "radio pbo": {
     "original_name": "RADIO PBO",
@@ -3306,7 +3306,7 @@
       "http://45.185.163.75:8000/play/a0bx/index.m3u8"
     ],
     "best_url": "http://179.51.136.19:8000/play/a187/index.m3u8",
-    "best_latency": 211
+    "best_latency": 218
   },
   "rhema tv": {
     "original_name": "RHEMA TV",
@@ -3318,8 +3318,8 @@
       "http://38.131.62.104:8000/play/a04x/index.m3u8",
       "http://186.33.1.71:8000/play/a0iw/index.m3u8"
     ],
-    "best_url": "http://179.51.136.19:8000/play/a18z/index.m3u8",
-    "best_latency": 214
+    "best_url": "http://190.61.90.17:40000/play/a0iw/index.m3u8",
+    "best_latency": 156
   },
   "rec tv": {
     "original_name": "REC TV",
@@ -3331,7 +3331,7 @@
       "http://45.185.163.75:8000/play/a0gw/index.m3u8"
     ],
     "best_url": "http://179.51.136.19:8000/play/a1sk/index.m3u8",
-    "best_latency": 240
+    "best_latency": 234
   },
   "rts": {
     "original_name": "RTS",
@@ -3345,7 +3345,7 @@
       "http://186.33.47.113:8000/play/a04k/index.m3u8"
     ],
     "best_url": "http://179.51.136.19:8000/play/a1s2/index.m3u8",
-    "best_latency": 215
+    "best_latency": 218
   },
   "rcn novelas": {
     "original_name": "RCN Novelas",
@@ -3360,8 +3360,8 @@
       "http://186.33.47.113:8000/play/a05f/index.m3u8",
       "http://186.33.1.71:8000/play/a0jn/index.m3u8"
     ],
-    "best_url": "http://186.33.47.113:8000/play/a05f/index.m3u8",
-    "best_latency": 220
+    "best_url": "http://190.61.90.17:40000/play/a0jn/index.m3u8",
+    "best_latency": 153
   },
   "semillitas": {
     "original_name": "SEMILLITAS",
@@ -3373,8 +3373,8 @@
       "http://38.131.62.104:8000/play/a063/index.m3u8",
       "http://186.33.1.71:8000/play/a0g3/index.m3u8"
     ],
-    "best_url": "http://179.51.136.19:8000/play/a0uc/index.m3u8",
-    "best_latency": 230
+    "best_url": "http://190.61.90.17:40000/play/a0g3/index.m3u8",
+    "best_latency": 152
   },
   "snt": {
     "original_name": "SNT HD",
@@ -3386,7 +3386,7 @@
       "http://45.170.130.224:8000/play/a04w/index.m3u8"
     ],
     "best_url": "http://179.51.136.19:8000/play/a1o9/index.m3u8",
-    "best_latency": 232
+    "best_latency": 224
   },
   "space": {
     "original_name": "SPACE HD",
@@ -3414,8 +3414,8 @@
       "http://186.33.47.113:8000/play/a04i/index.m3u8",
       "http://186.33.1.71:8000/play/a0iz/index.m3u8"
     ],
-    "best_url": "http://190.61.90.17:40000/play/a0iz/index.m3u8",
-    "best_latency": 152
+    "best_url": "http://190.61.90.17:40000/play/a01b/index.m3u8",
+    "best_latency": 147
   },
   "sony": {
     "original_name": "SONY HD",
@@ -3441,8 +3441,8 @@
       "http://186.33.47.113:8000/play/a04g/index.m3u8",
       "http://186.33.1.71:8000/play/a0hp/index.m3u8"
     ],
-    "best_url": "http://181.78.197.59:8000/play/a07q/index.m3u8",
-    "best_latency": 216
+    "best_url": "http://190.61.90.17:40000/play/a0hp/index.m3u8",
+    "best_latency": 152
   },
   "star channel": {
     "original_name": "STAR CHANNEL",
@@ -3472,8 +3472,8 @@
       "http://186.33.47.113:8000/play/a03c/index.m3u8",
       "http://186.33.1.71:8000/play/a0hn/index.m3u8"
     ],
-    "best_url": "http://179.51.136.19:8000/play/a18i/index.m3u8",
-    "best_latency": 211
+    "best_url": "http://38.131.62.104:8000/play/a09f/index.m3u8",
+    "best_latency": 164
   },
   "sembrador": {
     "original_name": "Sembrador",
@@ -3484,8 +3484,8 @@
       "http://38.131.62.104:8000/play/a06h/index.m3u8",
       "http://186.33.1.71:8000/play/a0k0/index.m3u8"
     ],
-    "best_url": "http://190.61.90.17:40000/play/a025/index.m3u8",
-    "best_latency": 154
+    "best_url": "http://186.33.1.71:8000/play/a0k0/index.m3u8",
+    "best_latency": 158
   },
   "studio universal": {
     "original_name": "Studio Universal",
@@ -3509,7 +3509,7 @@
       "http://186.33.47.113:8000/play/a05s/index.m3u8"
     ],
     "best_url": "http://190.61.90.17:40000/play/a0go/index.m3u8",
-    "best_latency": 150
+    "best_latency": 154
   },
   "sun channel": {
     "original_name": "Sun Channel",
@@ -3529,7 +3529,7 @@
       "http://38.131.62.104:8000/play/a07j/index.m3u8"
     ],
     "best_url": "http://190.61.90.17:40000/play/a050/index.m3u8",
-    "best_latency": 143
+    "best_latency": 167
   },
   "tnt": {
     "original_name": "TNT HD",
@@ -3558,8 +3558,8 @@
       "http://186.33.47.113:8000/play/a03f/index.m3u8",
       "http://186.33.1.71:8000/play/a0hu/index.m3u8"
     ],
-    "best_url": "http://179.51.136.19:8000/play/a1kh/index.m3u8",
-    "best_latency": 215
+    "best_url": "http://190.61.90.17:40000/play/a01i/index.m3u8",
+    "best_latency": 154
   },
   "tdhd cr": {
     "original_name": "TD+HD CR",
@@ -3569,8 +3569,8 @@
       "http://45.185.163.75:8000/play/a0fs/index.m3u8",
       "http://38.131.62.104:8000/play/a0d0/index.m3u8"
     ],
-    "best_url": "http://45.185.163.75:8000/play/a0fs/index.m3u8",
-    "best_latency": 246
+    "best_url": "http://38.131.62.104:8000/play/a0d0/index.m3u8",
+    "best_latency": 165
   },
   "tbn enlace": {
     "original_name": "TBN Enlace",
@@ -3583,8 +3583,8 @@
       "http://38.131.62.104:8000/play/a023/index.m3u8",
       "http://186.33.1.71:8000/play/a0gj/index.m3u8"
     ],
-    "best_url": "http://190.61.90.17:40000/play/a0gj/index.m3u8",
-    "best_latency": 151
+    "best_url": "http://38.131.62.104:8000/play/a023/index.m3u8",
+    "best_latency": 149
   },
   "td2 hd cr": {
     "original_name": "TD+2 HD CR",
@@ -3595,8 +3595,8 @@
       "http://45.185.163.75:8000/play/a0ft/index.m3u8",
       "http://38.131.62.104:8000/play/a00q/index.m3u8"
     ],
-    "best_url": "http://179.51.136.19:8000/play/a0zb/index.m3u8",
-    "best_latency": 215
+    "best_url": "http://38.131.62.104:8000/play/a00q/index.m3u8",
+    "best_latency": 164
   },
   "tnt novelas": {
     "original_name": "TNT Novelas HD",
@@ -3619,8 +3619,8 @@
       "http://38.199.241.110:8000/play/a02a/index.m3u8",
       "http://186.33.1.71:8000/play/a0g9/index.m3u8"
     ],
-    "best_url": "http://190.60.32.178:8178/play/a0k5/index.m3u8",
-    "best_latency": 238
+    "best_url": "http://190.61.90.17:40000/play/a0g9/index.m3u8",
+    "best_latency": 142
   },
   "tc televisin": {
     "original_name": "TC Televisi\u00f0n",
@@ -3632,7 +3632,7 @@
       "http://45.185.163.75:8000/play/a00v/index.m3u8"
     ],
     "best_url": "http://179.51.136.19:8000/play/a1s0/index.m3u8",
-    "best_latency": 239
+    "best_latency": 218
   },
   "tnt series": {
     "original_name": "TNT Series HD",
@@ -3658,7 +3658,7 @@
       "http://186.33.1.71:8000/play/a0km/index.m3u8"
     ],
     "best_url": "http://190.61.90.17:40000/play/a0km/index.m3u8",
-    "best_latency": 140
+    "best_latency": 192
   },
   "tv oriente esa": {
     "original_name": "TV Oriente ESA",
@@ -3670,8 +3670,8 @@
       "http://45.185.163.75:8000/play/a0bv/index.m3u8",
       "http://38.131.62.104:8000/play/a0f3/index.m3u8"
     ],
-    "best_url": "http://179.51.136.19:8000/play/a0x2/index.m3u8",
-    "best_latency": 217
+    "best_url": "http://38.131.62.104:8000/play/a0f3/index.m3u8",
+    "best_latency": 151
   },
   "tnt sports premiun": {
     "original_name": "TNT Sports Premiun HD",
@@ -3686,7 +3686,7 @@
       "http://45.185.163.75:8000/play/a02y/index.m3u8"
     ],
     "best_url": "http://179.51.136.19:8000/play/a1mc/index.m3u8",
-    "best_latency": 241
+    "best_latency": 219
   },
   "tve": {
     "original_name": "TVE",
@@ -3708,7 +3708,7 @@
       "http://45.185.163.75:8000/play/a07o/index.m3u8"
     ],
     "best_url": "http://190.61.90.17:40000/play/a04y/index.m3u8",
-    "best_latency": 149
+    "best_latency": 147
   },
   "tooncast": {
     "original_name": "Tooncast",
@@ -3726,8 +3726,8 @@
       "http://38.199.241.110:8000/play/a035/index.m3u8",
       "http://186.33.1.71:8000/play/a03k/index.m3u8"
     ],
-    "best_url": "http://190.61.90.17:40000/play/a03k/index.m3u8",
-    "best_latency": 150
+    "best_url": "http://38.131.62.104:8000/play/a07p/index.m3u8",
+    "best_latency": 149
   },
   "tvn": {
     "original_name": "TVN HD",
@@ -3745,7 +3745,7 @@
       "http://45.185.163.75:8000/play/a02v/index.m3u8"
     ],
     "best_url": "http://179.51.136.19:8000/play/a1m9/index.m3u8",
-    "best_latency": 233
+    "best_latency": 223
   },
   "telemundo": {
     "original_name": "Telemundo",
@@ -3772,8 +3772,8 @@
       "http://186.33.47.113:8000/play/a04n/index.m3u8",
       "http://186.33.1.71:8000/play/a0gv/index.m3u8"
     ],
-    "best_url": "http://179.51.136.19:8000/play/a0ue/index.m3u8",
-    "best_latency": 211
+    "best_url": "http://179.51.136.19:8000/play/a1sc/index.m3u8",
+    "best_latency": 219
   },
   "teleamazonas": {
     "original_name": "Teleamazonas",
@@ -3789,7 +3789,7 @@
       "http://186.33.47.113:8000/play/a04t/index.m3u8"
     ],
     "best_url": "http://179.51.136.19:8000/play/a1rx/index.m3u8",
-    "best_latency": 220
+    "best_latency": 222
   },
   "tlnovelas": {
     "original_name": "Tlnovelas",
@@ -3806,8 +3806,8 @@
       "http://45.185.163.75:8000/play/a0g4/index.m3u8",
       "http://38.199.241.110:8000/play/a021/index.m3u8"
     ],
-    "best_url": "http://181.78.197.59:8000/play/a09k/index.m3u8",
-    "best_latency": 225
+    "best_url": "http://179.51.136.19:8000/play/a1nu/index.m3u8",
+    "best_latency": 220
   },
   "telefuturo": {
     "original_name": "Telefuturo HD",
@@ -3818,7 +3818,7 @@
       "http://45.170.130.224:8000/play/a04x/index.m3u8"
     ],
     "best_url": "http://179.51.136.19:8000/play/a1oa/index.m3u8",
-    "best_latency": 219
+    "best_latency": 220
   },
   "tru tv": {
     "original_name": "Tru TV",
@@ -3828,8 +3828,8 @@
       "http://200.115.96.66:4000/play/a02s/index.m3u8",
       "http://38.131.62.104:8000/play/a07r/index.m3u8"
     ],
-    "best_url": "http://179.51.136.19:8000/play/a0ud/index.m3u8",
-    "best_latency": 211
+    "best_url": "http://38.131.62.104:8000/play/a07r/index.m3u8",
+    "best_latency": 166
   },
   "tvm25  esa": {
     "original_name": "TVM25 - ESA",
@@ -3840,8 +3840,8 @@
       "http://45.185.163.75:8000/play/a0c0/index.m3u8",
       "http://38.131.62.104:8000/play/a0f0/index.m3u8"
     ],
-    "best_url": "http://179.51.136.19:8000/play/a18c/index.m3u8",
-    "best_latency": 211
+    "best_url": "http://190.61.90.17:40000/play/a040/index.m3u8",
+    "best_latency": 147
   },
   "warner tv": {
     "original_name": "Warner TV HD",
@@ -3856,7 +3856,7 @@
       "http://45.185.163.75:8000/play/a02f/index.m3u8"
     ],
     "best_url": "http://179.51.136.19:8000/play/a1t4/index.m3u8",
-    "best_latency": 227
+    "best_latency": 214
   },
   "universal": {
     "original_name": "Universal",
@@ -3877,8 +3877,8 @@
       "http://186.33.47.113:8000/play/a03a/index.m3u8",
       "http://186.33.1.71:8000/play/a0ih/index.m3u8"
     ],
-    "best_url": "http://190.61.90.17:40000/play/a0ih/index.m3u8",
-    "best_latency": 138
+    "best_url": "http://38.131.62.104:8000/play/a0f8/index.m3u8",
+    "best_latency": 155
   },
   "universal channel": {
     "original_name": "UNIVERSAL CHANNEL HD",
@@ -3894,7 +3894,7 @@
       "http://45.185.163.75:8000/play/a043/index.m3u8"
     ],
     "best_url": "http://179.51.136.19:8000/play/a1l8/index.m3u8",
-    "best_latency": 235
+    "best_latency": 217
   },
   "warner channel": {
     "original_name": "Warner Channel HD",
@@ -3906,7 +3906,7 @@
       "http://45.181.122.46:8090/play/a00f"
     ],
     "best_url": "http://179.51.136.19:8000/play/a1kl/index.m3u8",
-    "best_latency": 220
+    "best_latency": 233
   },
   "zoomoo": {
     "original_name": "ZooMoo",
@@ -3916,8 +3916,8 @@
       "http://45.185.163.75:8000/play/a0ff/index.m3u8",
       "http://38.131.62.104:8000/play/a009/index.m3u8"
     ],
-    "best_url": "http://179.51.136.19:8000/play/a0yx/index.m3u8",
-    "best_latency": 225
+    "best_url": "http://38.131.62.104:8000/play/a009/index.m3u8",
+    "best_latency": 165
   },
   "warner": {
     "original_name": "WARNER HD",
@@ -3936,8 +3936,8 @@
       "http://186.33.47.113:8000/play/a03y/index.m3u8",
       "http://186.33.1.71:8000/play/a0ho/index.m3u8"
     ],
-    "best_url": "http://190.61.90.17:40000/play/a0ho/index.m3u8",
-    "best_latency": 138
+    "best_url": "http://38.131.62.104:8000/play/a042/index.m3u8",
+    "best_latency": 167
   },
   "distrito comedia": {
     "original_name": "Distrito Comedia SD",
@@ -3953,7 +3953,7 @@
       "http://38.199.241.110:8000/play/a02n/index.m3u8"
     ],
     "best_url": "http://190.60.32.178:8178/play/a0mf/index.m3u8",
-    "best_latency": 239
+    "best_latency": 240
   },
   "espn 2": {
     "original_name": "ESPN 2 HD",
@@ -3977,7 +3977,7 @@
       "http://186.33.1.71:8000/play/a0ki/index.m3u8"
     ],
     "best_url": "http://190.61.90.17:40000/play/a053/index.m3u8",
-    "best_latency": 144
+    "best_latency": 141
   },
   "europa europa": {
     "original_name": "Europa Europa SD",
@@ -3988,8 +3988,8 @@
       "http://186.148.196.82:8001/play/a0cb",
       "http://38.44.109.41:8003/play/a0d3/index.m3u8"
     ],
-    "best_url": "http://186.148.196.82:8001/play/a0cb",
-    "best_latency": 2056
+    "best_url": "http://186.148.196.100:8000/play/a01n",
+    "best_latency": 3131
   },
   "filmarts": {
     "original_name": "Film&Arts SD",
@@ -4011,7 +4011,7 @@
       "http://186.148.196.82:8001/play/a0co"
     ],
     "best_url": "http://186.148.196.82:8001/play/a0co",
-    "best_latency": 3152
+    "best_latency": 2370
   },
   "france 24": {
     "original_name": "France 24 SD",
@@ -4025,8 +4025,8 @@
       "http://186.33.47.113:8000/play/a05h/index.m3u8",
       "http://103.119.94.1:7080/play/a00j/index.m3u8"
     ],
-    "best_url": "http://186.33.47.113:8000/play/a05h/index.m3u8",
-    "best_latency": 224
+    "best_url": "http://190.60.32.178:8178/play/a0mk/index.m3u8",
+    "best_latency": 241
   },
   "global": {
     "original_name": "GLOBAL FHD",
@@ -4039,7 +4039,7 @@
       "http://186.148.196.82:8001/play/a0bm"
     ],
     "best_url": "http://186.148.196.100:8000/play/a02e",
-    "best_latency": 2447
+    "best_latency": 2195
   },
   "golden edge": {
     "original_name": "Golden Edge SD",
@@ -4054,7 +4054,7 @@
       "http://45.181.122.46:8090/play/a038"
     ],
     "best_url": "http://190.60.32.178:8178/play/a0mc/index.m3u8",
-    "best_latency": 240
+    "best_latency": 239
   },
   "hbo signature": {
     "original_name": "HBO Signature SD",
@@ -4065,7 +4065,7 @@
       "http://38.44.109.41:8003/play/a0fw/index.m3u8"
     ],
     "best_url": "http://186.148.196.82:8001/play/a0ct",
-    "best_latency": 3767
+    "best_latency": 3670
   },
   "hbo plus": {
     "original_name": "HBO Plus SD",
@@ -4082,8 +4082,8 @@
       "http://38.131.62.104:8000/play/a01t/index.m3u8",
       "http://186.33.1.71:8000/play/a0l4/index.m3u8"
     ],
-    "best_url": "http://190.61.90.17:40000/play/a0l4/index.m3u8",
-    "best_latency": 144
+    "best_url": "http://38.131.62.104:8000/play/a01t/index.m3u8",
+    "best_latency": 162
   },
   "golden": {
     "original_name": "Golden SD",
@@ -4106,8 +4106,8 @@
       "http://38.199.241.110:8000/play/a013/index.m3u8",
       "http://186.33.1.71:8000/play/a0jv/index.m3u8"
     ],
-    "best_url": "http://190.60.32.178:8178/play/a0m8/index.m3u8",
-    "best_latency": 229
+    "best_url": "http://190.61.90.17:40000/play/a0jv/index.m3u8",
+    "best_latency": 145
   },
   "hbo mundi": {
     "original_name": "HBO Mundi SD",
@@ -4118,7 +4118,7 @@
       "http://38.44.109.41:8003/play/a0fx/index.m3u8"
     ],
     "best_url": "http://186.148.196.82:8001/play/a0cu",
-    "best_latency": 2551
+    "best_latency": 3931
   },
   "ipe": {
     "original_name": "IPE SD",
@@ -4128,7 +4128,7 @@
       "http://186.148.196.100:8000/play/a023"
     ],
     "best_url": "http://186.148.196.100:8000/play/a023",
-    "best_latency": 1394
+    "best_latency": 1109
   },
   "history 2": {
     "original_name": "History 2 SD",
@@ -4146,7 +4146,7 @@
       "http://110.39.15.114:8000/play/a042/index.m3u8"
     ],
     "best_url": "http://190.61.90.17:40000/play/a0jp/index.m3u8",
-    "best_latency": 150
+    "best_latency": 151
   },
   "latina": {
     "original_name": "LATINA FHD",
@@ -4160,7 +4160,7 @@
       "http://45.185.163.75:8000/play/a05s/index.m3u8"
     ],
     "best_url": "http://190.108.83.69:8000/play/a00g/index.m3u8",
-    "best_latency": 290
+    "best_latency": 293
   },
   "home  health": {
     "original_name": "Home & Health HD",
@@ -4175,7 +4175,7 @@
       "http://186.33.1.71:8000/play/a0hw/index.m3u8"
     ],
     "best_url": "http://190.61.90.17:40000/play/a0hw/index.m3u8",
-    "best_latency": 147
+    "best_latency": 148
   },
   "kanal d drama": {
     "original_name": "Kanal D Drama SD",
@@ -4187,8 +4187,8 @@
       "http://45.181.122.46:8090/play/a02a",
       "http://38.131.62.104:8000/play/a0n7/index.m3u8"
     ],
-    "best_url": "http://190.108.83.69:8000/play/a084/index.m3u8",
-    "best_latency": 303
+    "best_url": "http://38.131.62.104:8000/play/a0n7/index.m3u8",
+    "best_latency": 151
   },
   "la red": {
     "original_name": "La Red SD",
@@ -4203,7 +4203,7 @@
       "http://45.185.163.75:8000/play/a036/index.m3u8"
     ],
     "best_url": "http://190.60.37.118:4000/play/a0af",
-    "best_latency": 3333
+    "best_latency": 2015
   },
   "love nature": {
     "original_name": "Love Nature SD",
@@ -4218,7 +4218,7 @@
       "http://119.152.22.166:4389/play/a02l/index.m3u8"
     ],
     "best_url": "http://190.108.83.69:8000/play/a085/index.m3u8",
-    "best_latency": 306
+    "best_latency": 308
   },
   "liga 1 max": {
     "original_name": "Liga 1 Max HD",
@@ -4229,7 +4229,7 @@
       "http://186.148.196.82:8001/play/ligamax1"
     ],
     "best_url": "http://186.148.196.100:8000/play/a030",
-    "best_latency": 1099
+    "best_latency": 1071
   },
   "ntn24": {
     "original_name": "NTN24 SD",
@@ -4242,7 +4242,7 @@
       "http://38.199.241.110:8000/play/a01h/index.m3u8"
     ],
     "best_url": "http://190.60.32.178:8178/play/a0ne/index.m3u8",
-    "best_latency": 233
+    "best_latency": 241
   },
   "nuestra tele": {
     "original_name": "Nuestra Tele SD",
@@ -4254,7 +4254,7 @@
       "http://45.185.163.75:8000/play/a0ao/index.m3u8"
     ],
     "best_url": "http://190.108.83.69:8000/play/a00k/index.m3u8",
-    "best_latency": 1298
+    "best_latency": 301
   },
   "panamericana": {
     "original_name": "PANAMERICANA FHD",
@@ -4270,7 +4270,7 @@
       "http://45.185.163.75:8000/play/a093/index.m3u8"
     ],
     "best_url": "http://190.108.83.69:8000/play/a018/index.m3u8",
-    "best_latency": 310
+    "best_latency": 305
   },
   "nick jr": {
     "original_name": "Nick Jr. SD",
@@ -4306,7 +4306,7 @@
       "http://59.103.38.47:8000/play/a02n/index.m3u8"
     ],
     "best_url": "http://190.60.32.178:8178/play/a0n4/index.m3u8",
-    "best_latency": 238
+    "best_latency": 240
   },
   "nickelodeon": {
     "original_name": "Nickelodeon HD",
@@ -4322,7 +4322,7 @@
       "http://186.33.47.113:8000/play/a038/index.m3u8"
     ],
     "best_url": "http://186.33.47.113:8000/play/a038/index.m3u8",
-    "best_latency": 239
+    "best_latency": 238
   },
   "oromar tv": {
     "original_name": "OROMAR TV SD",
@@ -4336,7 +4336,7 @@
       "http://45.185.163.75:8000/play/a0bb/index.m3u8"
     ],
     "best_url": "http://190.108.83.69:8000/play/a017/index.m3u8",
-    "best_latency": 301
+    "best_latency": 302
   },
   "movistar deportes": {
     "original_name": "Movistar Deportes SD",
@@ -4347,7 +4347,7 @@
       "http://45.185.163.75:8000/play/a0i9/index.m3u8"
     ],
     "best_url": "http://190.108.83.69:8000/play/a07o/index.m3u8",
-    "best_latency": 308
+    "best_latency": 301
   },
   "rpp": {
     "original_name": "RPP SD",
@@ -4361,7 +4361,7 @@
       "http://45.185.163.75:8000/play/a095/index.m3u8"
     ],
     "best_url": "http://190.108.83.69:8000/play/a01a/index.m3u8",
-    "best_latency": 301
+    "best_latency": 290
   },
   "plus tv life": {
     "original_name": "Plus TV Life SD",
@@ -4371,7 +4371,7 @@
       "http://190.108.83.69:8000/play/a086/index.m3u8"
     ],
     "best_url": "http://190.108.83.69:8000/play/a086/index.m3u8",
-    "best_latency": 288
+    "best_latency": 300
   },
   "plim plim tv": {
     "original_name": "Plim Plim TV SD",
@@ -4382,7 +4382,7 @@
       "http://186.148.196.82:8001/play/a0cm"
     ],
     "best_url": "http://190.108.83.69:8000/play/a07n/index.m3u8",
-    "best_latency": 298
+    "best_latency": 299
   },
   "sony movies": {
     "original_name": "Sony Movies SD",
@@ -4399,7 +4399,7 @@
       "http://186.33.1.71:8000/play/a03s/index.m3u8"
     ],
     "best_url": "http://190.61.90.17:40000/play/a03s/index.m3u8",
-    "best_latency": 244
+    "best_latency": 151
   },
   "stingray concerts": {
     "original_name": "Stingray Concerts HD",
@@ -4411,7 +4411,7 @@
       "http://38.44.109.41:8003/play/a0c8/index.m3u8"
     ],
     "best_url": "http://190.108.83.69:8000/play/a00d/index.m3u8",
-    "best_latency": 293
+    "best_latency": 298
   },
   "tcm": {
     "original_name": "TCM SD",
@@ -4434,8 +4434,8 @@
       "http://186.33.47.113:8000/play/a03d/index.m3u8",
       "http://186.33.1.71:8000/play/a0jw/index.m3u8"
     ],
-    "best_url": "http://190.61.90.17:40000/play/a0jw/index.m3u8",
-    "best_latency": 147
+    "best_url": "http://38.131.62.104:8000/play/a06f/index.m3u8",
+    "best_latency": 153
   },
   "tv peru": {
     "original_name": "TV PERU FHD",
@@ -4448,7 +4448,7 @@
       "http://45.185.163.75:8000/play/a05x/index.m3u8"
     ],
     "best_url": "http://186.148.196.100:8000/play/a00a",
-    "best_latency": 2879
+    "best_latency": 2618
   },
   "tv": {
     "original_name": "TV+ SD",
@@ -4481,8 +4481,8 @@
       "http://59.103.38.44:8000/play/a06c/index.m3u8",
       "http://59.103.38.47:8000/play/a06c/index.m3u8"
     ],
-    "best_url": "http://190.60.37.118:4000/play/a0ae",
-    "best_latency": 3424
+    "best_url": "http://103.119.94.1:7080/play/a0sj/index.m3u8",
+    "best_latency": 517
   },
   "tnt sports premium": {
     "original_name": "TNT Sports Premium HD",
@@ -4507,7 +4507,7 @@
       "http://45.185.163.75:8000/play/a05q/index.m3u8"
     ],
     "best_url": "http://190.108.83.69:8000/play/a07t/index.m3u8",
-    "best_latency": 303
+    "best_latency": 320
   },
   "telefe": {
     "original_name": "Telefe SD",
@@ -4520,7 +4520,7 @@
       "http://45.185.163.75:8000/play/a04p/index.m3u8"
     ],
     "best_url": "http://190.61.90.17:40000/play/a044/index.m3u8",
-    "best_latency": 181
+    "best_latency": 151
   },
   "usa": {
     "original_name": "USA SD",
@@ -4537,7 +4537,7 @@
       "http://38.199.241.110:8000/play/a025/index.m3u8"
     ],
     "best_url": "http://190.108.83.69:8000/play/a00v/index.m3u8",
-    "best_latency": 309
+    "best_latency": 287
   },
   "zona latina": {
     "original_name": "Zona Latina SD",
@@ -4551,7 +4551,7 @@
       "http://45.181.122.46:8090/play/a04o"
     ],
     "best_url": "http://45.170.130.224:8000/play/a00x/index.m3u8",
-    "best_latency": 339
+    "best_latency": 327
   },
   "ae mundo": {
     "original_name": "AE Mundo",
@@ -4562,7 +4562,7 @@
       "http://186.33.47.113:8000/play/a043/index.m3u8"
     ],
     "best_url": "http://186.33.47.113:8000/play/a043/index.m3u8",
-    "best_latency": 233
+    "best_latency": 222
   },
   "babyfirst": {
     "original_name": "BabyFirst",
@@ -4572,7 +4572,7 @@
       "http://45.170.130.224:8000/play/a017/index.m3u8"
     ],
     "best_url": "http://45.170.130.224:8000/play/a017/index.m3u8",
-    "best_latency": 343
+    "best_latency": 341
   },
   "canal caracol": {
     "original_name": "Canal Caracol",
@@ -4584,7 +4584,7 @@
       "http://38.44.109.41:8003/play/a0ij/index.m3u8"
     ],
     "best_url": "http://181.78.197.59:8000/play/a09p/index.m3u8",
-    "best_latency": 222
+    "best_latency": 229
   },
   "canal rcn": {
     "original_name": "Canal RCN",
@@ -4596,7 +4596,7 @@
       "http://38.44.109.41:8003/play/a0ik/index.m3u8"
     ],
     "best_url": "http://181.78.197.59:8000/play/a09q/index.m3u8",
-    "best_latency": 245
+    "best_latency": 226
   },
   "canal estrellas": {
     "original_name": "Canal Estrellas",
@@ -4607,7 +4607,7 @@
       "http://186.33.47.113:8000/play/a044/index.m3u8"
     ],
     "best_url": "http://186.33.47.113:8000/play/a044/index.m3u8",
-    "best_latency": 229
+    "best_latency": 227
   },
   "canal uno": {
     "original_name": "Canal Uno",
@@ -4616,8 +4616,8 @@
       "http://181.205.130.194:4000/play/a0az",
       "http://190.60.37.118:4000/play/a0au"
     ],
-    "best_url": "http://190.60.37.118:4000/play/a0au",
-    "best_latency": 1609
+    "best_url": "http://181.205.130.194:4000/play/a0az",
+    "best_latency": 2137
   },
   "claro sports": {
     "original_name": "Claro Sports",
@@ -4627,7 +4627,7 @@
       "http://190.61.90.17:40000/play/a0kz/index.m3u8"
     ],
     "best_url": "http://190.61.90.17:40000/play/a0kz/index.m3u8",
-    "best_latency": 152
+    "best_latency": 153
   },
   "e entertainment": {
     "original_name": "E Entertainment",
@@ -4637,8 +4637,8 @@
       "http://45.170.130.224:8000/play/a01v/index.m3u8",
       "http://186.33.47.113:8000/play/a03z/index.m3u8"
     ],
-    "best_url": "http://45.170.130.224:8000/play/a01v/index.m3u8",
-    "best_latency": 342
+    "best_url": "http://186.33.47.113:8000/play/a03z/index.m3u8",
+    "best_latency": 220
   },
   "espn 2 latin": {
     "original_name": "ESPN 2 Latin",
@@ -4648,7 +4648,7 @@
       "http://45.170.130.224:8000/play/a01x/index.m3u8"
     ],
     "best_url": "http://45.170.130.224:8000/play/a01x/index.m3u8",
-    "best_latency": 337
+    "best_latency": 332
   },
   "espn co": {
     "original_name": "ESPN CO",
@@ -4658,7 +4658,7 @@
       "http://45.170.130.224:8000/play/a034/index.m3u8"
     ],
     "best_url": "http://45.170.130.224:8000/play/a034/index.m3u8",
-    "best_latency": 334
+    "best_latency": 342
   },
   "fox sports 2": {
     "original_name": "Fox Sports 2",
@@ -4670,7 +4670,7 @@
       "http://186.33.1.71:8000/play/a0dd/index.m3u8"
     ],
     "best_url": "http://186.33.47.113:8000/play/a045/index.m3u8",
-    "best_latency": 229
+    "best_latency": 224
   },
   "hbo 2": {
     "original_name": "HBO 2",
@@ -4682,7 +4682,7 @@
       "http://111.88.7.92:8000/play/a04x/index.m3u8"
     ],
     "best_url": "http://45.170.130.224:8000/play/a01i/index.m3u8",
-    "best_latency": 339
+    "best_latency": 350
   },
   "fox sports 3": {
     "original_name": "Fox Sports 3",
@@ -4693,7 +4693,7 @@
       "http://186.33.47.113:8000/play/a046/index.m3u8"
     ],
     "best_url": "http://186.33.47.113:8000/play/a046/index.m3u8",
-    "best_latency": 239
+    "best_latency": 233
   },
   "tnt sports": {
     "original_name": "TNT SPORTS",
@@ -4708,7 +4708,7 @@
       "http://45.185.163.75:8000/play/a06e/index.m3u8"
     ],
     "best_url": "http://181.205.130.194:4000/play/a0fp",
-    "best_latency": 1604
+    "best_latency": 2513
   },
   "syfy": {
     "original_name": "SyFy",
@@ -4719,8 +4719,8 @@
       "http://181.78.8.199:8000/play/a09x/index.m3u8",
       "http://186.33.47.113:8000/play/a03i/index.m3u8"
     ],
-    "best_url": "http://186.33.47.113:8000/play/a03i/index.m3u8",
-    "best_latency": 219
+    "best_url": "http://181.78.8.199:8000/play/a0cl/index.m3u8",
+    "best_latency": 240
   },
   "senal colombia": {
     "original_name": "Senal Colombia",
@@ -4732,8 +4732,8 @@
       "http://38.44.109.41:8003/play/a0ip/index.m3u8",
       "http://45.185.163.75:8000/play/a059/index.m3u8"
     ],
-    "best_url": "http://181.78.78.66:8000/play/a0ft",
-    "best_latency": 1289
+    "best_url": "http://181.205.130.194:4000/play/a08k",
+    "best_latency": 1572
   },
   "viax": {
     "original_name": "ViaX",
@@ -4744,7 +4744,7 @@
       "http://45.185.163.75:8000/play/a06i/index.m3u8"
     ],
     "best_url": "http://45.170.130.224:8000/play/a025/index.m3u8",
-    "best_latency": 339
+    "best_latency": 344
   },
   "win sports": {
     "original_name": "WIN SPORTS +",
@@ -4754,7 +4754,7 @@
       "http://190.60.37.118:4000/play/a0bw"
     ],
     "best_url": "http://181.205.130.194:4000/play/a0f1",
-    "best_latency": 1269
+    "best_latency": 1331
   },
   "zoom": {
     "original_name": "Zoom",
@@ -4767,7 +4767,7 @@
       "http://38.199.241.110:8000/play/a027/index.m3u8"
     ],
     "best_url": "http://181.78.8.199:8000/play/a0dw/index.m3u8",
-    "best_latency": 723
+    "best_latency": 491
   },
   "dig  caracol tv": {
     "original_name": "@DIG - CARACOL TV SD",
@@ -4776,8 +4776,8 @@
       "http://181.78.14.26:4000/play/a071/index.m3u8",
       "http://181.78.14.26:4000/play/a02r/index.m3u8"
     ],
-    "best_url": "http://181.78.14.26:4000/play/a071/index.m3u8",
-    "best_latency": 214
+    "best_url": "http://181.78.14.26:4000/play/a02r/index.m3u8",
+    "best_latency": 222
   },
   "dig  rcn": {
     "original_name": "@DIG - RCN SD",
@@ -4787,7 +4787,7 @@
       "http://181.78.14.26:4000/play/a02t/index.m3u8"
     ],
     "best_url": "http://181.78.14.26:4000/play/a072/index.m3u8",
-    "best_latency": 232
+    "best_latency": 226
   },
   "dig  teleantioquia": {
     "original_name": "@DIG - TELEANTIOQUIA SD",
@@ -4797,7 +4797,7 @@
       "http://181.78.14.26:4000/play/a041/index.m3u8"
     ],
     "best_url": "http://181.78.14.26:4000/play/a041/index.m3u8",
-    "best_latency": 604
+    "best_latency": 222
   },
   "caracol": {
     "original_name": "Caracol",
@@ -4811,7 +4811,7 @@
       "http://186.33.1.71:8000/play/a05w/index.m3u8"
     ],
     "best_url": "http://45.166.93.156:9999/play/a0f5/index.m3u8",
-    "best_latency": 134
+    "best_latency": 139
   },
   "cine premium": {
     "original_name": "Cine Premium HD",
@@ -4821,7 +4821,7 @@
       "http://186.33.1.71:8000/play/a0kl/index.m3u8"
     ],
     "best_url": "http://181.78.197.59:8000/play/a084/index.m3u8",
-    "best_latency": 226
+    "best_latency": 225
   },
   "discovery id": {
     "original_name": "Discovery ID HD",
@@ -4834,8 +4834,8 @@
       "http://186.33.47.113:8000/play/a05g/index.m3u8",
       "http://186.33.1.71:8000/play/a0ks/index.m3u8"
     ],
-    "best_url": "http://181.78.197.59:8000/play/a08a/index.m3u8",
-    "best_latency": 217
+    "best_url": "http://190.61.90.17:40000/play/a0ks/index.m3u8",
+    "best_latency": 172
   },
   "golden premiere 2": {
     "original_name": "Golden Premiere 2 HD",
@@ -4844,8 +4844,8 @@
       "http://181.78.197.59:8000/play/a07a/index.m3u8",
       "http://38.131.62.104:8000/play/a0dh/index.m3u8"
     ],
-    "best_url": "http://181.78.197.59:8000/play/a07a/index.m3u8",
-    "best_latency": 225
+    "best_url": "http://38.131.62.104:8000/play/a0dh/index.m3u8",
+    "best_latency": 157
   },
   "golden premiere": {
     "original_name": "Golden Premiere HD",
@@ -4854,8 +4854,8 @@
       "http://181.78.197.59:8000/play/a079/index.m3u8",
       "http://38.131.62.104:8000/play/a0dg/index.m3u8"
     ],
-    "best_url": "http://181.78.197.59:8000/play/a079/index.m3u8",
-    "best_latency": 227
+    "best_url": "http://38.131.62.104:8000/play/a0dg/index.m3u8",
+    "best_latency": 163
   },
   "hbo2": {
     "original_name": "HBO2 HD",
@@ -4867,8 +4867,8 @@
       "http://186.33.1.71:8000/play/a00c/index.m3u8",
       "http://110.39.15.114:8000/play/a03g/index.m3u8"
     ],
-    "best_url": "http://181.78.197.59:8000/play/a07e/index.m3u8",
-    "best_latency": 225
+    "best_url": "http://190.61.90.17:40000/play/a00c/index.m3u8",
+    "best_latency": 148
   },
   "kdrama": {
     "original_name": "KDrama HD",
@@ -4877,8 +4877,8 @@
       "http://181.78.197.59:8000/play/a07x/index.m3u8",
       "http://190.61.90.17:40000/play/a03t/index.m3u8"
     ],
-    "best_url": "http://181.78.197.59:8000/play/a07x/index.m3u8",
-    "best_latency": 217
+    "best_url": "http://190.61.90.17:40000/play/a03t/index.m3u8",
+    "best_latency": 148
   },
   "tc": {
     "original_name": "TC",
@@ -4889,7 +4889,7 @@
       "http://45.185.163.75:8000/play/a052/index.m3u8"
     ],
     "best_url": "http://181.78.197.59:8000/play/a09r/index.m3u8",
-    "best_latency": 223
+    "best_latency": 224
   },
   "tvchile": {
     "original_name": "TVChile",
@@ -4899,8 +4899,8 @@
       "http://45.185.163.75:8000/play/a0fi/index.m3u8",
       "http://38.131.62.104:8000/play/a0aw/index.m3u8"
     ],
-    "best_url": "http://45.185.163.75:8000/play/a0fi/index.m3u8",
-    "best_latency": 216
+    "best_url": "http://38.131.62.104:8000/play/a0aw/index.m3u8",
+    "best_latency": 207
   },
   "televicentro": {
     "original_name": "Televicentro",
@@ -4911,7 +4911,7 @@
       "http://45.185.163.75:8000/play/a00w/index.m3u8"
     ],
     "best_url": "http://181.78.197.59:8000/play/a03v/index.m3u8",
-    "best_latency": 235
+    "best_latency": 268
   },
   "univision": {
     "original_name": "Univision HD",
@@ -4927,7 +4927,7 @@
       "http://186.33.1.71:8000/play/a0kr/index.m3u8"
     ],
     "best_url": "http://190.61.90.17:40000/play/a0kr/index.m3u8",
-    "best_latency": 138
+    "best_latency": 184
   },
   "bandamax": {
     "original_name": "BANDAMAX",
@@ -4936,8 +4936,8 @@
       "http://181.78.78.66:8000/play/a0e8",
       "http://186.33.1.71:8000/play/a0i0/index.m3u8"
     ],
-    "best_url": "http://186.33.1.71:8000/play/a0i0/index.m3u8",
-    "best_latency": 147
+    "best_url": "http://181.78.78.66:8000/play/a0e8",
+    "best_latency": 1167
   },
   "bethel tv": {
     "original_name": "BETHEL TV",
@@ -4949,7 +4949,7 @@
       "http://190.60.37.118:4000/play/a0aj"
     ],
     "best_url": "http://190.60.32.178:8178/play/a0hp/index.m3u8",
-    "best_latency": 237
+    "best_latency": 241
   },
   "bitme": {
     "original_name": "Bitme",
@@ -4960,7 +4960,7 @@
       "http://38.199.241.110:8000/play/a032/index.m3u8"
     ],
     "best_url": "http://181.78.78.66:8000/play/a0cz",
-    "best_latency": 804
+    "best_latency": 1118
   },
   "city tv": {
     "original_name": "City TV",
@@ -4972,7 +4972,7 @@
       "http://59.103.38.17:8000/play/a043/index.m3u8"
     ],
     "best_url": "http://181.78.78.66:8000/play/a0gs",
-    "best_latency": 2084
+    "best_latency": 1567
   },
   "de pelcula": {
     "original_name": "De Pel\u0166cula",
@@ -4984,7 +4984,7 @@
       "http://45.181.122.46:8090/play/a03s"
     ],
     "best_url": "http://190.108.83.69:8000/play/a06o/index.m3u8",
-    "best_latency": 309
+    "best_latency": 296
   },
   "disney junior": {
     "original_name": "Disney Junior",
@@ -4998,7 +4998,7 @@
       "http://119.155.143.222:4600/play/a01c/index.m3u8"
     ],
     "best_url": "http://119.155.143.222:4600/play/a01c/index.m3u8",
-    "best_latency": 433
+    "best_latency": 445
   },
   "ntn 24 horas": {
     "original_name": "NTN 24 Horas",
@@ -5009,7 +5009,7 @@
       "http://190.108.83.69:8000/play/a00r/index.m3u8"
     ],
     "best_url": "http://190.108.83.69:8000/play/a00r/index.m3u8",
-    "best_latency": 294
+    "best_latency": 511
   },
   "rumba tv": {
     "original_name": "Rumba TV",
@@ -5019,7 +5019,7 @@
       "http://186.148.196.100:8000/play/a02h"
     ],
     "best_url": "http://181.78.78.66:8000/play/a02l",
-    "best_latency": 910
+    "best_latency": 876
   },
   "telehit": {
     "original_name": "TELEHIT",
@@ -5029,8 +5029,8 @@
       "http://186.148.196.100:8000/play/a01s",
       "http://186.33.1.71:8000/play/a03w/index.m3u8"
     ],
-    "best_url": "http://181.78.78.66:8000/play/a0e6",
-    "best_latency": 1138
+    "best_url": "http://186.33.1.71:8000/play/a03w/index.m3u8",
+    "best_latency": 197
   },
   "telehit musica": {
     "original_name": "TELEHIT MUSICA",
@@ -5041,7 +5041,7 @@
       "http://38.199.241.110:8000/play/a02i/index.m3u8"
     ],
     "best_url": "http://181.78.8.199:8000/play/a0g7/index.m3u8",
-    "best_latency": 510
+    "best_latency": 294
   },
   "teen nick": {
     "original_name": "Teen Nick",
@@ -5051,7 +5051,7 @@
       "http://45.185.163.75:8000/play/a0aq/index.m3u8"
     ],
     "best_url": "http://181.78.78.66:8000/play/a0co",
-    "best_latency": 1455
+    "best_latency": 4216
   },
   "televid": {
     "original_name": "TeleVid",
@@ -5073,7 +5073,7 @@
       "http://38.199.241.110:8000/play/a01u/index.m3u8"
     ],
     "best_url": "http://181.78.78.66:8000/play/a0er",
-    "best_latency": 1350
+    "best_latency": 1262
   },
   "telenovelas": {
     "original_name": "Telenovelas",
@@ -5085,8 +5085,8 @@
       "http://186.148.196.100:8000/play/a012",
       "http://45.181.122.46:8090/play/a02k"
     ],
-    "best_url": "http://181.78.8.199:8000/play/a0cw/index.m3u8",
-    "best_latency": 811
+    "best_url": "http://181.78.8.199:8000/play/a0ar/index.m3u8",
+    "best_latency": 271
   },
   "tv agro": {
     "original_name": "Tv Agro",
@@ -5096,7 +5096,7 @@
       "http://181.78.8.199:8000/play/a0fj/index.m3u8"
     ],
     "best_url": "http://181.78.8.199:8000/play/a0fj/index.m3u8",
-    "best_latency": 509
+    "best_latency": 402
   },
   "sony muvies": {
     "original_name": "SONY MUVIES",
@@ -5106,7 +5106,7 @@
       "http://181.78.8.199:8000/play/a0e7/index.m3u8"
     ],
     "best_url": "http://181.78.8.199:8000/play/a0ap/index.m3u8",
-    "best_latency": 1249
+    "best_latency": 360
   },
   "starchannel": {
     "original_name": "STARCHANNEL",
@@ -5116,7 +5116,7 @@
       "http://181.78.8.199:8000/play/a0c9/index.m3u8"
     ],
     "best_url": "http://181.78.8.199:8000/play/a0i9/index.m3u8",
-    "best_latency": 481
+    "best_latency": 215
   },
   "teleislas": {
     "original_name": "TELEISLAS",
@@ -5128,7 +5128,7 @@
       "http://38.199.241.110:8000/play/a01v/index.m3u8"
     ],
     "best_url": "http://181.78.8.199:8000/play/a0dx/index.m3u8",
-    "best_latency": 242
+    "best_latency": 217
   },
   "telesur": {
     "original_name": "TELESUR",
@@ -5139,7 +5139,7 @@
       "http://190.61.90.17:40000/play/a001/index.m3u8"
     ],
     "best_url": "http://190.61.90.17:40000/play/a001/index.m3u8",
-    "best_latency": 144
+    "best_latency": 145
   },
   "televen": {
     "original_name": "TELEVEN",
@@ -5149,7 +5149,7 @@
       "http://181.78.8.199:8000/play/a0cd/index.m3u8"
     ],
     "best_url": "http://181.78.8.199:8000/play/a09j/index.m3u8",
-    "best_latency": 265
+    "best_latency": 273
   },
   "turbo": {
     "original_name": "TURBO",
@@ -5160,7 +5160,7 @@
       "http://38.199.241.110:8000/play/a022/index.m3u8"
     ],
     "best_url": "http://181.78.8.199:8000/play/a0ci/index.m3u8",
-    "best_latency": 414
+    "best_latency": 215
   },
   "tvagro": {
     "original_name": "TVAGRO",
@@ -5170,7 +5170,7 @@
       "http://190.60.37.118:4000/play/a021"
     ],
     "best_url": "http://181.78.8.199:8000/play/a0e5/index.m3u8",
-    "best_latency": 2066
+    "best_latency": 323
   },
   "venevision": {
     "original_name": "VENEVISION",
@@ -5180,7 +5180,7 @@
       "http://181.78.8.199:8000/play/a0cp/index.m3u8"
     ],
     "best_url": "http://181.78.8.199:8000/play/a0if/index.m3u8",
-    "best_latency": 1233
+    "best_latency": 300
   },
   "winsport": {
     "original_name": "WINSPORT",
@@ -5190,7 +5190,7 @@
       "http://38.199.241.110:8000/play/a026/index.m3u8"
     ],
     "best_url": "http://181.78.8.199:8000/play/a0cc/index.m3u8",
-    "best_latency": 617
+    "best_latency": 1464
   },
   "az cinema": {
     "original_name": "AZ CINEMA",
@@ -5200,7 +5200,7 @@
       "http://38.199.241.110:8000/play/a02t/index.m3u8"
     ],
     "best_url": "http://186.148.196.100:8000/play/a013",
-    "best_latency": 1068
+    "best_latency": 1199
   },
   "az click": {
     "original_name": "AZ CLICK",
@@ -5211,8 +5211,8 @@
       "http://38.199.241.110:8000/play/a02q/index.m3u8",
       "http://186.33.1.71:8000/play/a0gz/index.m3u8"
     ],
-    "best_url": "http://186.148.196.100:8000/play/a02g",
-    "best_latency": 1068
+    "best_url": "http://190.61.90.17:40000/play/a0gz/index.m3u8",
+    "best_latency": 159
   },
   "az corazon": {
     "original_name": "AZ CORAZON",
@@ -5222,7 +5222,7 @@
       "http://38.199.241.110:8000/play/a02r/index.m3u8"
     ],
     "best_url": "http://186.148.196.100:8000/play/a014",
-    "best_latency": 1416
+    "best_latency": 1417
   },
   "canal de las estrellas": {
     "original_name": "CANAL DE LAS ESTRELLAS",
@@ -5231,8 +5231,8 @@
       "http://186.148.196.100:8000/play/a01g",
       "http://38.131.62.104:8000/play/a0i5/index.m3u8"
     ],
-    "best_url": "http://186.148.196.100:8000/play/a01g",
-    "best_latency": 1854
+    "best_url": "http://38.131.62.104:8000/play/a0i5/index.m3u8",
+    "best_latency": 165
   },
   "cgtn": {
     "original_name": "CGTN",
@@ -5243,7 +5243,7 @@
       "http://115.42.65.142:8000/play/a03h/index.m3u8"
     ],
     "best_url": "http://186.148.196.100:8000/play/a00f",
-    "best_latency": 924
+    "best_latency": 1066
   },
   "clan": {
     "original_name": "CLAN",
@@ -5253,8 +5253,8 @@
       "http://38.131.62.104:8000/play/a0nb/index.m3u8",
       "http://186.33.1.71:8000/play/a0dl/index.m3u8"
     ],
-    "best_url": "http://186.33.1.71:8000/play/a0dl/index.m3u8",
-    "best_latency": 160
+    "best_url": "http://38.131.62.104:8000/play/a0nb/index.m3u8",
+    "best_latency": 254
   },
   "discovery hh": {
     "original_name": "DISCOVERY H&H",
@@ -5265,7 +5265,7 @@
       "http://45.181.122.46:8090/play/a01f"
     ],
     "best_url": "http://190.60.32.178:8178/play/a0my/index.m3u8",
-    "best_latency": 233
+    "best_latency": 244
   },
   "dw": {
     "original_name": "DW",
@@ -5278,7 +5278,7 @@
       "http://103.119.94.1:7080/play/a00i/index.m3u8"
     ],
     "best_url": "http://103.119.94.1:7080/play/a00i/index.m3u8",
-    "best_latency": 536
+    "best_latency": 504
   },
   "e": {
     "original_name": "E!",
@@ -5289,7 +5289,7 @@
       "http://45.181.122.46:8090/play/a01a"
     ],
     "best_url": "http://190.61.90.17:40000/play/a00j/index.m3u8",
-    "best_latency": 246
+    "best_latency": 147
   },
   "la tele": {
     "original_name": "LA TELE",
@@ -5299,7 +5299,7 @@
       "http://45.170.130.224:8000/play/a03u/index.m3u8"
     ],
     "best_url": "http://45.170.130.224:8000/play/a03u/index.m3u8",
-    "best_latency": 342
+    "best_latency": 345
   },
   "maria vision": {
     "original_name": "MARIA VISION",
@@ -5308,8 +5308,8 @@
       "http://186.148.196.100:8000/play/a02d",
       "http://190.61.90.17:40000/play/a00d/index.m3u8"
     ],
-    "best_url": "http://186.148.196.100:8000/play/a02d",
-    "best_latency": 1294
+    "best_url": "http://190.61.90.17:40000/play/a00d/index.m3u8",
+    "best_latency": 151
   },
   "star tve": {
     "original_name": "STAR TVE",
@@ -5320,7 +5320,7 @@
       "http://186.33.1.71:8000/play/a0h0/index.m3u8"
     ],
     "best_url": "http://190.61.90.17:40000/play/a0h0/index.m3u8",
-    "best_latency": 150
+    "best_latency": 191
   },
   "canal congreso": {
     "original_name": "CANAL CONGRESO (EL TARRA)",
@@ -5330,7 +5330,7 @@
       "http://186.148.196.82:8001/play/a0ax"
     ],
     "best_url": "http://190.60.32.178:8178/play/a0g1/index.m3u8",
-    "best_latency": 226
+    "best_latency": 244
   },
   "la kalle": {
     "original_name": "la kalle",
@@ -5340,7 +5340,7 @@
       "http://190.60.37.118:4000/play/a0cc"
     ],
     "best_url": "http://190.60.32.178:8178/play/a09w/index.m3u8",
-    "best_latency": 232
+    "best_latency": 236
   },
   "bbc world": {
     "original_name": "BBC World",
@@ -5349,8 +5349,8 @@
       "http://190.108.83.69:8000/play/a01c/index.m3u8",
       "http://38.131.62.104:8000/play/a08l/index.m3u8"
     ],
-    "best_url": "http://190.108.83.69:8000/play/a01c/index.m3u8",
-    "best_latency": 289
+    "best_url": "http://38.131.62.104:8000/play/a08l/index.m3u8",
+    "best_latency": 170
   },
   "baby first": {
     "original_name": "Baby First",
@@ -5362,7 +5362,7 @@
       "http://186.33.1.71:8000/play/a03i/index.m3u8"
     ],
     "best_url": "http://190.61.90.17:40000/play/a03i/index.m3u8",
-    "best_latency": 152
+    "best_latency": 147
   },
   "canal institucional": {
     "original_name": "Canal Institucional",
@@ -5372,7 +5372,7 @@
       "http://38.44.109.41:8003/play/a0in/index.m3u8"
     ],
     "best_url": "http://190.60.37.118:4000/play/a0ax",
-    "best_latency": 1883
+    "best_latency": 2015
   },
   "telecaribe": {
     "original_name": "Telecaribe",
@@ -5382,7 +5382,7 @@
       "http://45.185.163.75:8000/play/a04w/index.m3u8"
     ],
     "best_url": "http://190.60.37.118:4000/play/a07t",
-    "best_latency": 2423
+    "best_latency": 1626
   },
   "teleantioquia": {
     "original_name": "Teleantioquia",
@@ -5393,7 +5393,7 @@
       "http://38.199.241.110:8000/play/a01t/index.m3u8"
     ],
     "best_url": "http://190.60.37.118:4000/play/a01n",
-    "best_latency": 1821
+    "best_latency": 2327
   },
   "telepacifico": {
     "original_name": "Telepacifico",
@@ -5403,7 +5403,7 @@
       "http://45.185.163.75:8000/play/a04n/index.m3u8"
     ],
     "best_url": "http://190.60.37.118:4000/play/a07m",
-    "best_latency": 2602
+    "best_latency": 2674
   },
   "l1": {
     "original_name": "L1",
@@ -5413,7 +5413,7 @@
       "http://186.148.196.82:8001/play/a0d9"
     ],
     "best_url": "http://190.108.83.69:8000/play/a08s/index.m3u8",
-    "best_latency": 306
+    "best_latency": 315
   },
   "l1 max": {
     "original_name": "L1 MAX",
@@ -5424,7 +5424,7 @@
       "http://45.185.163.75:8000/play/a0g6/index.m3u8"
     ],
     "best_url": "http://45.185.163.75:8000/play/a0g6/index.m3u8",
-    "best_latency": 265
+    "best_latency": 257
   },
   "nick music": {
     "original_name": "Nick Music",
@@ -5446,7 +5446,7 @@
       "http://45.185.163.75:8000/play/a0i8/index.m3u8"
     ],
     "best_url": "http://190.108.83.69:8000/play/a0cj/index.m3u8",
-    "best_latency": 310
+    "best_latency": 306
   },
   "telef": {
     "original_name": "Telef\u00d8",
@@ -5456,7 +5456,7 @@
       "http://38.44.109.41:8003/play/a0ev/index.m3u8"
     ],
     "best_url": "http://190.108.83.69:8000/play/a08l/index.m3u8",
-    "best_latency": 301
+    "best_latency": 303
   },
   "via x esports": {
     "original_name": "Via X Esports",
@@ -5467,7 +5467,7 @@
       "http://45.185.163.75:8000/play/a0ay/index.m3u8"
     ],
     "best_url": "http://190.108.83.69:8000/play/a00u/index.m3u8",
-    "best_latency": 295
+    "best_latency": 325
   },
   "win": {
     "original_name": "Win",
@@ -5477,7 +5477,7 @@
       "http://45.185.163.75:8000/play/a04m/index.m3u8"
     ],
     "best_url": "http://190.60.37.118:4000/play/a0b2",
-    "best_latency": 2334
+    "best_latency": 1744
   },
   "film  arts": {
     "original_name": "Film & Arts HD",
@@ -5487,8 +5487,8 @@
       "http://190.61.90.17:40000/play/a0gs/index.m3u8",
       "http://186.33.1.71:8000/play/a0gs/index.m3u8"
     ],
-    "best_url": "http://186.33.1.71:8000/play/a0gs/index.m3u8",
-    "best_latency": 2982
+    "best_url": "http://190.61.90.17:40000/play/a0gs/index.m3u8",
+    "best_latency": 144
   },
   "canal 11": {
     "original_name": "CANAL 11",
@@ -5498,7 +5498,7 @@
       "http://45.166.93.156:9999/play/a0ck/index.m3u8"
     ],
     "best_url": "http://45.166.93.156:9999/play/a0ck/index.m3u8",
-    "best_latency": 146
+    "best_latency": 142
   },
   "universal comedy": {
     "original_name": "UNIVERSAL COMEDY",
@@ -5510,7 +5510,7 @@
       "http://186.33.1.71:8000/play/a0i5/index.m3u8"
     ],
     "best_url": "http://186.33.1.71:8000/play/a0i5/index.m3u8",
-    "best_latency": 1187
+    "best_latency": 152
   },
   "estrella tv": {
     "original_name": "Estrella TV",
@@ -5530,7 +5530,7 @@
       "http://186.33.1.71:8000/play/a05v/index.m3u8"
     ],
     "best_url": "http://190.61.90.17:40000/play/a01w/index.m3u8",
-    "best_latency": 171
+    "best_latency": 273
   },
   "hch hon": {
     "original_name": "HCH- HON",
@@ -5539,8 +5539,8 @@
       "http://190.61.90.17:40000/play/a015/index.m3u8",
       "http://38.131.62.104:8000/play/a0dv/index.m3u8"
     ],
-    "best_url": "http://190.61.90.17:40000/play/a015/index.m3u8",
-    "best_latency": 149
+    "best_url": "http://38.131.62.104:8000/play/a0dv/index.m3u8",
+    "best_latency": 159
   },
   "multimedios": {
     "original_name": "Multimedios",
@@ -5549,8 +5549,8 @@
       "http://190.61.90.17:40000/play/a00w/index.m3u8",
       "http://38.131.62.104:8000/play/a0a5/index.m3u8"
     ],
-    "best_url": "http://190.61.90.17:40000/play/a00w/index.m3u8",
-    "best_latency": 155
+    "best_url": "http://38.131.62.104:8000/play/a0a5/index.m3u8",
+    "best_latency": 163
   },
   "multicinema": {
     "original_name": "Multicinema",
@@ -5559,8 +5559,8 @@
       "http://190.61.90.17:40000/play/a02g/index.m3u8",
       "http://38.131.62.104:8000/play/a0d9/index.m3u8"
     ],
-    "best_url": null,
-    "best_latency": null
+    "best_url": "http://190.61.90.17:40000/play/a02g/index.m3u8",
+    "best_latency": 149
   },
   "pxtv": {
     "original_name": "PXTV",
@@ -5569,8 +5569,8 @@
       "http://190.61.90.17:40000/play/a02d/index.m3u8",
       "http://38.131.62.104:8000/play/a0d8/index.m3u8"
     ],
-    "best_url": null,
-    "best_latency": null
+    "best_url": "http://190.61.90.17:40000/play/a02d/index.m3u8",
+    "best_latency": 159
   },
   "tele antillas  rd": {
     "original_name": "Tele Antillas - RD",
@@ -5581,7 +5581,7 @@
       "http://38.131.62.104:8000/play/a01x/index.m3u8"
     ],
     "best_url": "http://190.61.90.17:40000/play/a013/index.m3u8",
-    "best_latency": 157
+    "best_latency": 150
   },
   "telemicro  rd": {
     "original_name": "TeleMicro - RD",
@@ -5591,8 +5591,8 @@
       "http://45.185.163.75:8000/play/a0d3/index.m3u8",
       "http://38.131.62.104:8000/play/a025/index.m3u8"
     ],
-    "best_url": "http://38.131.62.104:8000/play/a025/index.m3u8",
-    "best_latency": 170
+    "best_url": "http://190.61.90.17:40000/play/a02h/index.m3u8",
+    "best_latency": 147
   },
   "telecentro  rd": {
     "original_name": "Telecentro - RD",
@@ -5601,8 +5601,8 @@
       "http://190.61.90.17:40000/play/a03b/index.m3u8",
       "http://38.131.62.104:8000/play/a04j/index.m3u8"
     ],
-    "best_url": null,
-    "best_latency": null
+    "best_url": "http://190.61.90.17:40000/play/a03b/index.m3u8",
+    "best_latency": 154
   },
   "telesistema rd": {
     "original_name": "Telesistema RD",
@@ -5612,8 +5612,8 @@
       "http://45.185.163.75:8000/play/a0dx/index.m3u8",
       "http://38.131.62.104:8000/play/a01z/index.m3u8"
     ],
-    "best_url": "http://190.61.90.17:40000/play/a014/index.m3u8",
-    "best_latency": 138
+    "best_url": "http://38.131.62.104:8000/play/a01z/index.m3u8",
+    "best_latency": 188
   },
   "teleuniverso  rd": {
     "original_name": "Teleuniverso - RD",
@@ -5622,8 +5622,8 @@
       "http://190.61.90.17:40000/play/a038/index.m3u8",
       "http://38.131.62.104:8000/play/a07f/index.m3u8"
     ],
-    "best_url": null,
-    "best_latency": null
+    "best_url": "http://38.131.62.104:8000/play/a07f/index.m3u8",
+    "best_latency": 161
   },
   "teleunion  rd": {
     "original_name": "Teleunion - RD",
@@ -5632,8 +5632,8 @@
       "http://190.61.90.17:40000/play/a03c/index.m3u8",
       "http://38.131.62.104:8000/play/a07g/index.m3u8"
     ],
-    "best_url": null,
-    "best_latency": null
+    "best_url": "http://38.131.62.104:8000/play/a07g/index.m3u8",
+    "best_latency": 148
   },
   "vtv canal 35 esa": {
     "original_name": "VTV Canal 35 ESA",
@@ -5643,7 +5643,7 @@
       "http://38.131.62.104:8000/play/a0cn/index.m3u8"
     ],
     "best_url": "http://190.61.90.17:40000/play/a020/index.m3u8",
-    "best_latency": 162
+    "best_latency": 160
   },
   "cartoon nt": {
     "original_name": "CARTOON NT HD",
@@ -5654,7 +5654,7 @@
       "http://186.33.1.71:8000/play/a0l0/index.m3u8"
     ],
     "best_url": "http://190.61.90.17:40000/play/a0l0/index.m3u8",
-    "best_latency": 146
+    "best_latency": 164
   },
   "canal 11  gua": {
     "original_name": "Canal 11 - GUA",
@@ -5665,7 +5665,7 @@
       "http://186.33.1.71:8000/play/a0jk/index.m3u8"
     ],
     "best_url": "http://45.166.93.156:9999/play/a087/index.m3u8",
-    "best_latency": 144
+    "best_latency": 132
   },
   "canal 13gua": {
     "original_name": "Canal 13-GUA",
@@ -5674,8 +5674,8 @@
       "http://190.61.90.17:40000/play/a0jj/index.m3u8",
       "http://186.33.1.71:8000/play/a0jj/index.m3u8"
     ],
-    "best_url": "http://186.33.1.71:8000/play/a0jj/index.m3u8",
-    "best_latency": 1093
+    "best_url": "http://190.61.90.17:40000/play/a0jj/index.m3u8",
+    "best_latency": 151
   },
   "canal guatevision  gua": {
     "original_name": "Canal Guatevision - GUA",
@@ -5696,7 +5696,7 @@
       "http://38.131.62.104:8000/play/a0h0/index.m3u8"
     ],
     "best_url": "http://190.61.90.17:40000/play/a0jt/index.m3u8",
-    "best_latency": 138
+    "best_latency": 157
   },
   "azcorazon": {
     "original_name": "Azcorazon",
@@ -5707,7 +5707,7 @@
       "http://186.33.1.71:8000/play/a0g6/index.m3u8"
     ],
     "best_url": "http://190.61.90.17:40000/play/a0g6/index.m3u8",
-    "best_latency": 147
+    "best_latency": 150
   },
   "azmundo": {
     "original_name": "Azmundo",
@@ -5717,7 +5717,7 @@
       "http://38.131.62.104:8000/play/a0gq/index.m3u8"
     ],
     "best_url": "http://190.61.90.17:40000/play/a0h8/index.m3u8",
-    "best_latency": 158
+    "best_latency": 156
   },
   "discovery theather": {
     "original_name": "DISCOVERY THEATHER HD",
@@ -5727,7 +5727,7 @@
       "http://186.33.1.71:8000/play/a0hv/index.m3u8"
     ],
     "best_url": "http://190.61.90.17:40000/play/a0hv/index.m3u8",
-    "best_latency": 151
+    "best_latency": 149
   },
   "universal crime": {
     "original_name": "UNIVERSAL CRIME HD",
@@ -5737,7 +5737,7 @@
       "http://186.33.1.71:8000/play/a0i4/index.m3u8"
     ],
     "best_url": "http://190.61.90.17:40000/play/a0i4/index.m3u8",
-    "best_latency": 145
+    "best_latency": 141
   },
   "universal premiere": {
     "original_name": "UNIVERSAL PREMIERE HD",
@@ -5747,8 +5747,8 @@
       "http://45.185.163.75:8000/play/a0hb/index.m3u8",
       "http://186.33.1.71:8000/play/a0i1/index.m3u8"
     ],
-    "best_url": "http://186.33.1.71:8000/play/a0i1/index.m3u8",
-    "best_latency": 626
+    "best_url": "http://190.61.90.17:40000/play/a0i1/index.m3u8",
+    "best_latency": 163
   },
   "universal cinema": {
     "original_name": "UNIVERSAL CINEMA HD",
@@ -5758,8 +5758,8 @@
       "http://45.185.163.75:8000/play/a0hc/index.m3u8",
       "http://186.33.1.71:8000/play/a0kt/index.m3u8"
     ],
-    "best_url": "http://186.33.1.71:8000/play/a0kt/index.m3u8",
-    "best_latency": 1472
+    "best_url": "http://190.61.90.17:40000/play/a0kt/index.m3u8",
+    "best_latency": 147
   },
   "universal reality": {
     "original_name": "UNIVERSAL REALITY HD",
@@ -5768,8 +5768,8 @@
       "http://190.61.90.17:40000/play/a0i3/index.m3u8",
       "http://186.33.1.71:8000/play/a0i3/index.m3u8"
     ],
-    "best_url": "http://186.33.1.71:8000/play/a0i3/index.m3u8",
-    "best_latency": 1325
+    "best_url": "http://190.61.90.17:40000/play/a0i3/index.m3u8",
+    "best_latency": 149
   },
   "e entertairment": {
     "original_name": "E! Entertairment HD",
@@ -5778,8 +5778,8 @@
       "http://190.61.90.17:40000/play/a0gr/index.m3u8",
       "http://186.33.1.71:8000/play/a0gr/index.m3u8"
     ],
-    "best_url": "http://190.61.90.17:40000/play/a0gr/index.m3u8",
-    "best_latency": 309
+    "best_url": "http://186.33.1.71:8000/play/a0gr/index.m3u8",
+    "best_latency": 153
   },
   "cbeebies": {
     "original_name": "CBeebies - Rs 3.00",
@@ -5855,7 +5855,7 @@
       "http://59.103.38.47:8000/play/a00b/index.m3u8"
     ],
     "best_url": "http://103.119.94.1:7080/play/a097/index.m3u8",
-    "best_latency": 514
+    "best_latency": 548
   },
   "colors cineplex bollywood": {
     "original_name": "Colors Cineplex Bollywood - Rs 0.10",
@@ -5879,7 +5879,7 @@
       "http://59.103.38.47:8000/play/a058/index.m3u8"
     ],
     "best_url": "http://103.119.94.1:7080/play/a0t0/index.m3u8",
-    "best_latency": 536
+    "best_latency": 596
   },
   "discovery": {
     "original_name": "Discovery HD - Rs 8.00",
@@ -5907,7 +5907,7 @@
       "http://59.103.38.47:8000/play/a05z/index.m3u8"
     ],
     "best_url": "http://103.119.94.1:7080/play/a0sr/index.m3u8",
-    "best_latency": 509
+    "best_latency": 505
   },
   "disney international": {
     "original_name": "Disney International HD - Rs 19.00",
@@ -5930,8 +5930,8 @@
       "http://59.103.38.44:8000/play/a04p/index.m3u8",
       "http://59.103.38.47:8000/play/a04p/index.m3u8"
     ],
-    "best_url": "http://103.119.94.1:7080/play/a0pm/index.m3u8",
-    "best_latency": 502
+    "best_url": null,
+    "best_latency": null
   },
   "mnx": {
     "original_name": "MNX - Rs 5.00",
@@ -5956,7 +5956,7 @@
       "http://59.103.38.47:8000/play/a052/index.m3u8"
     ],
     "best_url": "http://103.119.94.1:7080/play/a0vl/index.m3u8",
-    "best_latency": 499
+    "best_latency": 515
   },
   "history tv18": {
     "original_name": "History TV18 HD - Rs 7.00",
@@ -5979,8 +5979,8 @@
       "http://59.103.38.44:8000/play/a065/index.m3u8",
       "http://59.103.38.47:8000/play/a065/index.m3u8"
     ],
-    "best_url": null,
-    "best_latency": null
+    "best_url": "http://103.119.94.1:7080/play/a0sf/index.m3u8",
+    "best_latency": 501
   },
   "sony sports ten 5": {
     "original_name": "SONY SPORTS TEN 5 HD - Rs 25.00",
@@ -6033,7 +6033,7 @@
       "http://59.103.38.47:8000/play/a02t/index.m3u8"
     ],
     "best_url": "http://103.119.94.1:7080/play/a0b8/index.m3u8",
-    "best_latency": 502
+    "best_latency": 527
   },
   "sports 18  1": {
     "original_name": "Sports 18 - 1 HD - Rs 19.00",
@@ -6107,7 +6107,7 @@
       "http://59.103.38.47:8000/play/a03e/index.m3u8"
     ],
     "best_url": "http://103.119.94.1:7080/play/a07h/index.m3u8",
-    "best_latency": 557
+    "best_latency": 540
   },
   "sports 18 3": {
     "original_name": "Sports 18 3 - Rs 4.00",
@@ -6156,7 +6156,7 @@
       "http://59.103.38.47:8000/play/a03f/index.m3u8"
     ],
     "best_url": "http://103.119.94.1:7080/play/a07l/index.m3u8",
-    "best_latency": 499
+    "best_latency": 506
   },
   "c9n": {
     "original_name": "C9N",
@@ -6166,7 +6166,7 @@
       "http://45.170.130.224:8000/play/a033/index.m3u8"
     ],
     "best_url": "http://45.170.130.224:8000/play/a033/index.m3u8",
-    "best_latency": 329
+    "best_latency": 344
   },
   "capital": {
     "original_name": "Capital",
@@ -6186,7 +6186,7 @@
       "http://186.33.47.113:8000/play/a04u/index.m3u8"
     ],
     "best_url": "http://186.33.47.113:8000/play/a04u/index.m3u8",
-    "best_latency": 215
+    "best_latency": 229
   },
   "npy": {
     "original_name": "NPY",
@@ -6197,7 +6197,7 @@
       "http://45.185.163.75:8000/play/a05d/index.m3u8"
     ],
     "best_url": "http://45.170.130.224:8000/play/a035/index.m3u8",
-    "best_latency": 339
+    "best_latency": 328
   },
   "paravision": {
     "original_name": "PARAVISION",
@@ -6208,7 +6208,7 @@
       "http://45.185.163.75:8000/play/a05a/index.m3u8"
     ],
     "best_url": "http://45.170.130.224:8000/play/a032/index.m3u8",
-    "best_latency": 340
+    "best_latency": 331
   },
   "surtv": {
     "original_name": "SURTV",
@@ -6219,7 +6219,7 @@
       "http://45.185.163.75:8000/play/a05e/index.m3u8"
     ],
     "best_url": "http://45.170.130.224:8000/play/a036/index.m3u8",
-    "best_latency": 339
+    "best_latency": 335
   },
   "tro": {
     "original_name": "TRO",
@@ -6239,7 +6239,7 @@
       "http://38.131.62.104:8000/play/a0hq/index.m3u8"
     ],
     "best_url": "http://45.166.93.156:9999/play/a0gd/index.m3u8",
-    "best_latency": 140
+    "best_latency": 148
   },
   "canal 12  esa": {
     "original_name": "Canal 12 - ESA",
@@ -6249,7 +6249,7 @@
       "http://38.131.62.104:8000/play/a0g2/index.m3u8"
     ],
     "best_url": "http://45.166.93.156:9999/play/a0eg/index.m3u8",
-    "best_latency": 145
+    "best_latency": 150
   },
   "canal 4 hd esa": {
     "original_name": "Canal 4 HD ESA",
@@ -6259,7 +6259,7 @@
       "http://38.131.62.104:8000/play/a0gm/index.m3u8"
     ],
     "best_url": "http://45.166.93.156:9999/play/a0hp/index.m3u8",
-    "best_latency": 146
+    "best_latency": 143
   },
   "canal 5  hon": {
     "original_name": "Canal 5 - HON",
@@ -6269,7 +6269,7 @@
       "http://38.131.62.104:8000/play/a0ge/index.m3u8"
     ],
     "best_url": "http://45.166.93.156:9999/play/a0jr/index.m3u8",
-    "best_latency": 140
+    "best_latency": 145
   },
   "canal 6  esa": {
     "original_name": "Canal 6 - ESA",
@@ -6279,7 +6279,7 @@
       "http://38.131.62.104:8000/play/a0g1/index.m3u8"
     ],
     "best_url": "http://45.166.93.156:9999/play/a0ef/index.m3u8",
-    "best_latency": 140
+    "best_latency": 146
   },
   "canal 8 tnh hn": {
     "original_name": "Canal 8 TNH HN",
@@ -6289,7 +6289,7 @@
       "http://38.131.62.104:8000/play/a0gj/index.m3u8"
     ],
     "best_url": "http://45.166.93.156:9999/play/a0hb/index.m3u8",
-    "best_latency": 137
+    "best_latency": 154
   },
   "homeandhealth": {
     "original_name": "HomeandHealth",
@@ -6300,7 +6300,7 @@
       "http://186.33.47.113:8000/play/a05i/index.m3u8"
     ],
     "best_url": "http://186.33.47.113:8000/play/a05i/index.m3u8",
-    "best_latency": 219
+    "best_latency": 226
   },
   "paraguaytv": {
     "original_name": "ParaguayTV",
@@ -6310,7 +6310,7 @@
       "http://45.185.163.75:8000/play/a063/index.m3u8"
     ],
     "best_url": "http://45.170.130.224:8000/play/a02r/index.m3u8",
-    "best_latency": 338
+    "best_latency": 363
   },
   "tv camara": {
     "original_name": "TV CAMARA",
@@ -6320,7 +6320,7 @@
       "http://45.185.163.75:8000/play/a050/index.m3u8"
     ],
     "best_url": "http://45.170.130.224:8000/play/a03x/index.m3u8",
-    "best_latency": 329
+    "best_latency": 349
   },
   "tyc": {
     "original_name": "TyC",
@@ -6330,7 +6330,7 @@
       "http://45.185.163.75:8000/play/a06d/index.m3u8"
     ],
     "best_url": "http://45.170.130.224:8000/play/a020/index.m3u8",
-    "best_latency": 344
+    "best_latency": 332
   },
   "92 entertainment": {
     "original_name": "92 Entertainment",
@@ -6350,8 +6350,8 @@
       "http://115.42.65.142:8000/play/a005/index.m3u8",
       "http://103.221.246.96:7505/play/a1w5/index.m3u8"
     ],
-    "best_url": null,
-    "best_latency": null
+    "best_url": "http://115.42.65.142:8000/play/a005/index.m3u8",
+    "best_latency": 437
   },
   "a sportshd": {
     "original_name": "A SportsHD",
@@ -6362,7 +6362,7 @@
       "http://103.147.87.152:18008/play/a05s/index.m3u8"
     ],
     "best_url": "http://103.147.87.152:18008/play/a05s/index.m3u8",
-    "best_latency": 456
+    "best_latency": 461
   },
   "aan tv": {
     "original_name": "AAN TV - HD",
@@ -6384,7 +6384,7 @@
       "http://103.147.87.152:18008/play/a05d/index.m3u8"
     ],
     "best_url": "http://103.147.87.152:18008/play/a05d/index.m3u8",
-    "best_latency": 455
+    "best_latency": 460
   },
   "aaj news": {
     "original_name": "AAJ NEWS",
@@ -6427,7 +6427,7 @@
       "http://103.147.87.152:18008/play/a05o/index.m3u8"
     ],
     "best_url": "http://103.147.87.152:18008/play/a05o/index.m3u8",
-    "best_latency": 452
+    "best_latency": 458
   },
   "arydigitalasia": {
     "original_name": "ARYDigitalAsia HD",
@@ -6438,8 +6438,8 @@
       "http://103.147.87.152:18008/play/a05k/index.m3u8",
       "http://103.221.246.96:7505/play/a1bp/index.m3u8"
     ],
-    "best_url": "http://103.147.87.152:18008/play/a05k/index.m3u8",
-    "best_latency": 460
+    "best_url": "http://115.42.65.142:8000/play/a019/index.m3u8",
+    "best_latency": 467
   },
   "aryqtv": {
     "original_name": "ARYQTV",
@@ -6461,7 +6461,7 @@
       "http://103.147.87.152:18008/play/a05i/index.m3u8"
     ],
     "best_url": "http://103.147.87.152:18008/play/a05i/index.m3u8",
-    "best_latency": 469
+    "best_latency": 463
   },
   "arynewsasia": {
     "original_name": "ARYNewsAsia",
@@ -6472,7 +6472,7 @@
       "http://103.147.87.152:18008/play/a05r/index.m3u8"
     ],
     "best_url": "http://103.147.87.152:18008/play/a05r/index.m3u8",
-    "best_latency": 452
+    "best_latency": 462
   },
   "b4u music": {
     "original_name": "B4U MUSIC",
@@ -6484,7 +6484,7 @@
       "http://103.221.246.96:7505/play/a1z6/index.m3u8"
     ],
     "best_url": "http://103.119.94.1:7080/play/a0hy/index.m3u8",
-    "best_latency": 497
+    "best_latency": 559
   },
   "city21": {
     "original_name": "CITY-21",
@@ -6528,7 +6528,7 @@
       "http://103.198.154.67:8000/play/a01r/index.m3u8"
     ],
     "best_url": "http://103.119.94.1:7080/play/a0sl/index.m3u8",
-    "best_latency": 491
+    "best_latency": 512
   },
   "colors infinity": {
     "original_name": "Colors Infinity HD - Rs 15.0",
@@ -6539,7 +6539,7 @@
       "http://103.31.178.157:8839/play/a009/index.m3u8"
     ],
     "best_url": "http://103.119.94.1:7080/play/a0v1/index.m3u8",
-    "best_latency": 494
+    "best_latency": 543
   },
   "discover pakistan": {
     "original_name": "Discover Pakistan",
@@ -6554,8 +6554,8 @@
       "http://103.221.246.97:7505/play/a1b1/index.m3u8",
       "http://59.103.38.17:8000/play/a04t/index.m3u8"
     ],
-    "best_url": null,
-    "best_latency": null
+    "best_url": "http://115.42.65.142:8000/play/a04c/index.m3u8",
+    "best_latency": 436
   },
   "capital tv": {
     "original_name": "Capital TV",
@@ -6849,7 +6849,7 @@
       "http://103.198.154.67:8000/play/a00k/index.m3u8"
     ],
     "best_url": "http://103.119.94.1:7080/play/a092/index.m3u8",
-    "best_latency": 499
+    "best_latency": 627
   },
   "river": {
     "original_name": "RIVER HD",
@@ -6950,8 +6950,8 @@
       "http://103.221.246.97:7505/play/a1ve/index.m3u8",
       "http://59.103.38.17:8000/play/a06c/index.m3u8"
     ],
-    "best_url": null,
-    "best_latency": null
+    "best_url": "http://115.42.65.142:8000/play/a00y/index.m3u8",
+    "best_latency": 460
   },
   "unite8 sports 2": {
     "original_name": "Unite8 Sports 2 HD",
@@ -6963,7 +6963,7 @@
       "http://103.183.69.179:8000/play/a0n0/index.m3u8"
     ],
     "best_url": "http://103.119.94.1:7080/play/a0yb/index.m3u8",
-    "best_latency": 612
+    "best_latency": 509
   },
   "sony sports ten 2": {
     "original_name": "SONY SPORTS TEN 2 HD - Rs 19.00",
@@ -6975,7 +6975,7 @@
       "http://103.198.154.67:8000/play/a025/index.m3u8"
     ],
     "best_url": "http://103.119.94.1:7080/play/a0s7/index.m3u8",
-    "best_latency": 504
+    "best_latency": 528
   },
   "home and health": {
     "original_name": "Home and Health",
@@ -6994,8 +6994,8 @@
       "http://45.185.163.75:8000/play/a0fj/index.m3u8",
       "http://38.131.62.104:8000/play/a00d/index.m3u8"
     ],
-    "best_url": "http://45.185.163.75:8000/play/a0fj/index.m3u8",
-    "best_latency": 253
+    "best_url": "http://38.131.62.104:8000/play/a00d/index.m3u8",
+    "best_latency": 163
   },
   "nicarao tv": {
     "original_name": "Nicarao TV",
@@ -7005,7 +7005,7 @@
       "http://38.131.62.104:8000/play/a0aq/index.m3u8"
     ],
     "best_url": "http://38.131.62.104:8000/play/a0aq/index.m3u8",
-    "best_latency": 175
+    "best_latency": 168
   },
   "rtu": {
     "original_name": "RTU",
@@ -7015,7 +7015,7 @@
       "http://45.185.163.75:8000/play/a0i4/index.m3u8"
     ],
     "best_url": "http://45.185.163.75:8000/play/a0i4/index.m3u8",
-    "best_latency": 234
+    "best_latency": 268
   },
   "chile": {
     "original_name": "CHILE",
@@ -7089,7 +7089,7 @@
       "http://103.221.246.96:7505/play/a0pb/index.m3u8"
     ],
     "best_url": "http://103.119.94.1:7080/play/a0i1/index.m3u8",
-    "best_latency": 495
+    "best_latency": 548
   },
   "al jazeera english": {
     "original_name": "Al Jazeera English",
@@ -7100,7 +7100,7 @@
       "http://103.119.94.1:7080/play/a004/index.m3u8"
     ],
     "best_url": "http://103.119.94.1:7080/play/a004/index.m3u8",
-    "best_latency": 499
+    "best_latency": 632
   },
   "b4u bhojpuri": {
     "original_name": "B4U BHOJPURI",
@@ -7122,7 +7122,7 @@
       "http://103.221.246.96:7505/play/a1wy/index.m3u8"
     ],
     "best_url": "http://103.147.87.152:18008/play/a06p/index.m3u8",
-    "best_latency": 483
+    "best_latency": 462
   },
   "b4u movies": {
     "original_name": "B4U Movies",
@@ -7133,7 +7133,7 @@
       "http://103.221.246.96:7505/play/a1z7/index.m3u8"
     ],
     "best_url": "http://103.119.94.1:7080/play/a0i0/index.m3u8",
-    "best_latency": 504
+    "best_latency": 516
   },
   "balle balle nonstop music": {
     "original_name": "Balle Balle Non-Stop Music",
@@ -7168,7 +7168,7 @@
       "http://59.103.38.17:8000/play/a03b/index.m3u8"
     ],
     "best_url": "http://103.147.87.152:18008/play/a064/index.m3u8",
-    "best_latency": 456
+    "best_latency": 470
   },
   "dangal 2": {
     "original_name": "DANGAL 2",
@@ -7184,7 +7184,7 @@
       "http://59.103.38.17:8000/play/a037/index.m3u8"
     ],
     "best_url": "http://103.147.87.152:18008/play/a06k/index.m3u8",
-    "best_latency": 443
+    "best_latency": 461
   },
   "dd news": {
     "original_name": "DD News HD",
@@ -7194,7 +7194,7 @@
       "http://103.119.94.1:7080/play/a0hu/index.m3u8"
     ],
     "best_url": "http://103.119.94.1:7080/play/a0hu/index.m3u8",
-    "best_latency": 582
+    "best_latency": 539
   },
   "dd tamil": {
     "original_name": "DD TAMIL",
@@ -7204,7 +7204,7 @@
       "http://103.147.87.152:18008/play/a05w/index.m3u8"
     ],
     "best_url": "http://103.147.87.152:18008/play/a05w/index.m3u8",
-    "best_latency": 448
+    "best_latency": 462
   },
   "fakt marathi": {
     "original_name": "Fakt Marathi",
@@ -7214,7 +7214,7 @@
       "http://103.147.87.152:18008/play/a05z/index.m3u8"
     ],
     "best_url": "http://103.147.87.152:18008/play/a05z/index.m3u8",
-    "best_latency": 449
+    "best_latency": 468
   },
   "goldmines movies": {
     "original_name": "GOLDMINES MOVIES",
@@ -7229,7 +7229,7 @@
       "http://103.221.246.97:7505/play/a0pc/index.m3u8"
     ],
     "best_url": "http://103.147.87.152:18008/play/a06z/index.m3u8",
-    "best_latency": 459
+    "best_latency": 453
   },
   "goldmines": {
     "original_name": "Goldmines",
@@ -7247,7 +7247,7 @@
       "http://103.221.246.97:7505/play/a0pf/index.m3u8"
     ],
     "best_url": "http://103.147.87.152:18008/play/a068/index.m3u8",
-    "best_latency": 449
+    "best_latency": 470
   },
   "goldmines 2": {
     "original_name": "Goldmines 2",
@@ -7288,7 +7288,7 @@
       "http://59.103.38.17:8000/play/a02o/index.m3u8"
     ],
     "best_url": "http://103.147.87.152:18008/play/a06n/index.m3u8",
-    "best_latency": 464
+    "best_latency": 465
   },
   "manoranjan prime": {
     "original_name": "MANORANJAN PRIME",
@@ -7313,7 +7313,7 @@
       "http://59.103.38.17:8000/play/a07d/index.m3u8"
     ],
     "best_url": "http://103.147.87.152:18008/play/a06q/index.m3u8",
-    "best_latency": 445
+    "best_latency": 482
   },
   "mazhavil manorama": {
     "original_name": "MAZHAVIL MANORAMA HD",
@@ -7442,7 +7442,7 @@
       "http://59.103.38.17:8000/play/a01t/index.m3u8"
     ],
     "best_url": "http://103.147.87.152:18008/play/a063/index.m3u8",
-    "best_latency": 455
+    "best_latency": 480
   },
   "shemaroo umang": {
     "original_name": "SHEMAROO UMANG",
@@ -7480,7 +7480,7 @@
       "http://103.221.246.97:7505/play/a1u8/index.m3u8"
     ],
     "best_url": "http://103.147.87.152:18008/play/a070/index.m3u8",
-    "best_latency": 464
+    "best_latency": 456
   },
   "the q": {
     "original_name": "THE Q",
@@ -7491,7 +7491,7 @@
       "http://59.103.38.17:8000/play/a02l/index.m3u8"
     ],
     "best_url": "http://103.147.87.152:18008/play/a069/index.m3u8",
-    "best_latency": 463
+    "best_latency": 461
   },
   "tv5": {
     "original_name": "TV5",
@@ -7500,8 +7500,8 @@
       "http://103.223.14.57:8000/play/a0c3/index.m3u8",
       "http://115.42.65.142:8000/play/a04m/index.m3u8"
     ],
-    "best_url": null,
-    "best_latency": null
+    "best_url": "http://115.42.65.142:8000/play/a04m/index.m3u8",
+    "best_latency": 536
   },
   "tv9 bharatvarsh": {
     "original_name": "TV9 Bharatvarsh",
@@ -7511,7 +7511,7 @@
       "http://103.147.87.152:18008/play/a06r/index.m3u8"
     ],
     "best_url": "http://103.147.87.152:18008/play/a06r/index.m3u8",
-    "best_latency": 454
+    "best_latency": 447
   },
   "tabbar hits": {
     "original_name": "Tabbar Hits",
@@ -7534,7 +7534,7 @@
       "http://103.147.87.152:18008/play/a06u/index.m3u8"
     ],
     "best_url": "http://103.147.87.152:18008/play/a06u/index.m3u8",
-    "best_latency": 449
+    "best_latency": 1478
   },
   "8xm": {
     "original_name": "8XM HD",
@@ -7624,7 +7624,7 @@
       "http://103.147.87.152:18008/play/a05e/index.m3u8"
     ],
     "best_url": "http://103.147.87.152:18008/play/a05e/index.m3u8",
-    "best_latency": 454
+    "best_latency": 1513
   },
   "city41": {
     "original_name": "CITY-41",
@@ -7716,8 +7716,8 @@
       "http://103.221.246.98:7505/play/a0p8/index.m3u8",
       "http://103.221.246.97:7505/play/a0p8/index.m3u8"
     ],
-    "best_url": null,
-    "best_latency": null
+    "best_url": "http://115.42.65.142:8000/play/a02x/index.m3u8",
+    "best_latency": 452
   },
   "madani tvhd cband": {
     "original_name": "MADANI TV-HD C-Band",
@@ -7870,7 +7870,7 @@
       "http://103.183.69.179:8000/play/a0av/index.m3u8"
     ],
     "best_url": "http://103.119.94.1:7080/play/a0yg/index.m3u8",
-    "best_latency": 564
+    "best_latency": 527
   },
   "ananda tv": {
     "original_name": "ANANDA TV",
@@ -7892,7 +7892,7 @@
       "http://103.183.69.179:8000/play/a0ao/index.m3u8"
     ],
     "best_url": "http://36.50.22.214:8000/play/a00c/index.m3u8",
-    "best_latency": 2356
+    "best_latency": 4705
   },
   "global tv": {
     "original_name": "GLOBAL TV HD",
@@ -7924,8 +7924,8 @@
       "http://103.151.61.1:8888/play/a0aq/index.m3u8",
       "http://103.183.69.179:8000/play/a0aq/index.m3u8"
     ],
-    "best_url": null,
-    "best_latency": null
+    "best_url": "http://36.50.22.214:8000/play/a00d/index.m3u8",
+    "best_latency": 2399
   },
   "action cinema": {
     "original_name": "ACTION CINEMA",
@@ -7998,8 +7998,8 @@
       "http://103.147.87.152:18008/play/a06l/index.m3u8",
       "http://103.221.246.96:7505/play/a1y3/index.m3u8"
     ],
-    "best_url": "http://103.119.94.1:7080/play/a0i4/index.m3u8",
-    "best_latency": 491
+    "best_url": "http://103.147.87.152:18008/play/a06l/index.m3u8",
+    "best_latency": 488
   },
   "colors bangla cinema": {
     "original_name": "Colors Bangla Cinema",
@@ -8022,7 +8022,7 @@
       "http://103.221.246.96:7505/play/a1u6/index.m3u8"
     ],
     "best_url": "http://103.147.87.152:18008/play/a06x/index.m3u8",
-    "best_latency": 450
+    "best_latency": 462
   },
   "colors bangla": {
     "original_name": "Colors Bangla HD",
@@ -8031,8 +8031,8 @@
       "http://103.119.94.1:7080/play/a0ki/index.m3u8",
       "http://103.31.178.157:8839/play/a012/index.m3u8"
     ],
-    "best_url": "http://103.119.94.1:7080/play/a0ki/index.m3u8",
-    "best_latency": 496
+    "best_url": null,
+    "best_latency": null
   },
   "colors cineplex": {
     "original_name": "Colors Cineplex HD - Rs 19.00",
@@ -8042,7 +8042,7 @@
       "http://103.31.178.157:8839/play/a01s/index.m3u8"
     ],
     "best_url": "http://103.119.94.1:7080/play/a0lb/index.m3u8",
-    "best_latency": 494
+    "best_latency": 543
   },
   "jalsha movies": {
     "original_name": "Jalsha Movies HD - Rs 19.00",
@@ -8053,7 +8053,7 @@
       "http://103.31.178.157:8839/play/a01q/index.m3u8"
     ],
     "best_url": "http://103.119.94.1:7080/play/a0p1/index.m3u8",
-    "best_latency": 530
+    "best_latency": 509
   },
   "sony sports ten 1": {
     "original_name": "SONY SPORTS TEN 1",
@@ -8067,7 +8067,7 @@
       "http://103.198.154.67:8000/play/a01e/index.m3u8"
     ],
     "best_url": "http://103.119.94.1:7080/play/a0lc/index.m3u8",
-    "best_latency": 522
+    "best_latency": 509
   },
   "star jalsha": {
     "original_name": "Star Jalsha HD",
@@ -8094,7 +8094,7 @@
       "http://103.31.178.157:8839/play/a00y/index.m3u8"
     ],
     "best_url": "http://103.119.94.1:7080/play/a0ky/index.m3u8",
-    "best_latency": 500
+    "best_latency": 544
   },
   "star sports 2 hindi": {
     "original_name": "Star Sports 2 Hindi",
@@ -8118,7 +8118,7 @@
       "http://103.198.154.67:8000/play/a014/index.m3u8"
     ],
     "best_url": "http://103.119.94.1:7080/play/a0rk/index.m3u8",
-    "best_latency": 507
+    "best_latency": 587
   },
   "unite8 sports 1": {
     "original_name": "Unite8 Sports 1 HD - Rs 9.00",
@@ -8130,7 +8130,7 @@
       "http://103.31.178.157:8839/play/a00i/index.m3u8"
     ],
     "best_url": "http://103.119.94.1:7080/play/a0xa/index.m3u8",
-    "best_latency": 496
+    "best_latency": 565
   },
   "zee bangla": {
     "original_name": "Zee Bangla HD",
@@ -8139,8 +8139,8 @@
       "http://103.119.94.1:7080/play/a0sd/index.m3u8",
       "http://103.31.178.157:8839/play/a00d/index.m3u8"
     ],
-    "best_url": null,
-    "best_latency": null
+    "best_url": "http://103.119.94.1:7080/play/a0sd/index.m3u8",
+    "best_latency": 548
   },
   "zee news": {
     "original_name": "Zee News HD",
@@ -8150,7 +8150,7 @@
       "http://103.147.87.152:18008/play/a06y/index.m3u8"
     ],
     "best_url": "http://103.147.87.152:18008/play/a06y/index.m3u8",
-    "best_latency": 457
+    "best_latency": 454
   },
   "0001tsports": {
     "original_name": "0001_TSPORTS",
@@ -8575,7 +8575,7 @@
       "http://111.88.7.92:8000/play/a00c/index.m3u8"
     ],
     "best_url": "http://111.88.7.92:8000/play/a00c/index.m3u8",
-    "best_latency": 454
+    "best_latency": 455
   },
   "bbc first": {
     "original_name": "BBC FIRST",
@@ -8586,7 +8586,7 @@
       "http://119.155.143.222:4600/play/a01d/index.m3u8"
     ],
     "best_url": "http://119.155.143.222:4600/play/a01d/index.m3u8",
-    "best_latency": 425
+    "best_latency": 440
   },
   "13 ulica": {
     "original_name": "13 Ulica HD",
@@ -8596,7 +8596,7 @@
       "http://119.155.143.222:4600/play/a01g/index.m3u8"
     ],
     "best_url": "http://119.155.143.222:4600/play/a01g/index.m3u8",
-    "best_latency": 433
+    "best_latency": 482
   },
   "animal planet poland": {
     "original_name": "Animal Planet Poland HD",
@@ -8607,7 +8607,7 @@
       "http://119.155.143.222:4600/play/a03g/index.m3u8"
     ],
     "best_url": "http://119.155.143.222:4600/play/a03g/index.m3u8",
-    "best_latency": 427
+    "best_latency": 424
   },
   "bbc earth": {
     "original_name": "BBC Earth HD",
@@ -8618,7 +8618,7 @@
       "http://119.155.143.222:4600/play/a01e/index.m3u8"
     ],
     "best_url": "http://119.155.143.222:4600/play/a01e/index.m3u8",
-    "best_latency": 432
+    "best_latency": 442
   },
   "discovery life": {
     "original_name": "Discovery Life",
@@ -8627,8 +8627,8 @@
       "http://110.39.15.114:8000/play/a03a/index.m3u8",
       "http://111.88.7.92:8000/play/a014/index.m3u8"
     ],
-    "best_url": "http://110.39.15.114:8000/play/a03a/index.m3u8",
-    "best_latency": 490
+    "best_url": "http://111.88.7.92:8000/play/a014/index.m3u8",
+    "best_latency": 461
   },
   "eurosport 2 poland": {
     "original_name": "Eurosport 2 Poland HD",
@@ -8639,7 +8639,7 @@
       "http://119.155.143.222:4600/play/a012/index.m3u8"
     ],
     "best_url": "http://119.155.143.222:4600/play/a012/index.m3u8",
-    "best_latency": 422
+    "best_latency": 442
   },
   "eurosport 1 poland": {
     "original_name": "Eurosport 1 Poland HD",
@@ -8649,8 +8649,8 @@
       "http://111.88.7.92:8000/play/a043/index.m3u8",
       "http://119.155.143.222:4600/play/a040/index.m3u8"
     ],
-    "best_url": "http://111.88.7.92:8000/play/a043/index.m3u8",
-    "best_latency": 459
+    "best_url": "http://119.155.143.222:4600/play/a040/index.m3u8",
+    "best_latency": 442
   },
   "extreme sports": {
     "original_name": "Extreme Sports HD",
@@ -8661,8 +8661,8 @@
       "http://111.88.7.92:8000/play/a00l/index.m3u8",
       "http://119.155.143.222:4600/play/a01b/index.m3u8"
     ],
-    "best_url": "http://119.155.143.222:4600/play/a01b/index.m3u8",
-    "best_latency": 443
+    "best_url": "http://111.88.7.92:8000/play/a00l/index.m3u8",
+    "best_latency": 456
   },
   "id poland": {
     "original_name": "ID Poland HD",
@@ -8671,8 +8671,8 @@
       "http://110.39.15.114:8000/play/a03n/index.m3u8",
       "http://111.88.7.92:8000/play/a010/index.m3u8"
     ],
-    "best_url": "http://111.88.7.92:8000/play/a010/index.m3u8",
-    "best_latency": 449
+    "best_url": "http://110.39.15.114:8000/play/a03n/index.m3u8",
+    "best_latency": 462
   },
   "nat geo people": {
     "original_name": "Nat Geo People HD",
@@ -8683,7 +8683,7 @@
       "http://119.155.143.222:4600/play/a01a/index.m3u8"
     ],
     "best_url": "http://119.155.143.222:4600/play/a01a/index.m3u8",
-    "best_latency": 430
+    "best_latency": 438
   },
   "national geographic wild": {
     "original_name": "National Geographic Wild HD",
@@ -8694,7 +8694,7 @@
       "http://119.155.143.222:4600/play/a01l/index.m3u8"
     ],
     "best_url": "http://119.155.143.222:4600/play/a01l/index.m3u8",
-    "best_latency": 427
+    "best_latency": 442
   },
   "science poland": {
     "original_name": "Science Poland HD",
@@ -8705,7 +8705,7 @@
       "http://119.155.143.222:4600/play/a01h/index.m3u8"
     ],
     "best_url": "http://119.155.143.222:4600/play/a01h/index.m3u8",
-    "best_latency": 435
+    "best_latency": 441
   },
   "turbo xtra poland": {
     "original_name": "Turbo Xtra Poland HD",
@@ -8716,7 +8716,7 @@
       "http://119.155.143.222:4600/play/a014/index.m3u8"
     ],
     "best_url": "http://119.155.143.222:4600/play/a014/index.m3u8",
-    "best_latency": 443
+    "best_latency": 446
   },
   "aur tv": {
     "original_name": "AUR TV",
@@ -8726,7 +8726,7 @@
       "http://103.221.246.96:7505/play/a1my/index.m3u8"
     ],
     "best_url": "http://103.147.87.152:18008/play/a05h/index.m3u8",
-    "best_latency": 451
+    "best_latency": 457
   },
   "big magic": {
     "original_name": "Big Magic",
@@ -8736,7 +8736,7 @@
       "http://103.221.246.96:7505/play/a1tv/index.m3u8"
     ],
     "best_url": "http://103.147.87.152:18008/play/a06o/index.m3u8",
-    "best_latency": 465
+    "best_latency": 441
   },
   "cineplex bollywood": {
     "original_name": "Cineplex Bollywood",
@@ -8750,7 +8750,7 @@
       "http://59.103.38.17:8000/play/a02m/index.m3u8"
     ],
     "best_url": "http://103.147.87.152:18008/play/a06a/index.m3u8",
-    "best_latency": 466
+    "best_latency": 450
   },
   "sansad tv": {
     "original_name": "SANSAD TV (RAJYA SABHA)",
@@ -8760,7 +8760,7 @@
       "http://103.147.87.152:18008/play/a061/index.m3u8"
     ],
     "best_url": "http://103.147.87.152:18008/play/a062/index.m3u8",
-    "best_latency": 448
+    "best_latency": 468
   },
   "zee anmol cinema": {
     "original_name": "ZEE ANMOL CINEMA",
@@ -8774,7 +8774,7 @@
       "http://59.103.38.17:8000/play/a02y/index.m3u8"
     ],
     "best_url": "http://103.147.87.152:18008/play/a06v/index.m3u8",
-    "best_latency": 457
+    "best_latency": 444
   },
   "exp ent": {
     "original_name": "EXP ENT.",
@@ -9162,7 +9162,7 @@
       "http://119.152.22.166:4389/play/a01f/index.m3u8"
     ],
     "best_url": "http://119.152.22.162:4389/play/a01f/index.m3u8",
-    "best_latency": 443
+    "best_latency": 438
   },
   "bein sports 3": {
     "original_name": "BEIN SPORTS 3",
@@ -9212,7 +9212,7 @@
       "http://119.152.22.166:4389/play/a02w/index.m3u8"
     ],
     "best_url": "http://119.152.22.162:4389/play/a02w/index.m3u8",
-    "best_latency": 470
+    "best_latency": 457
   },
   "motor trend": {
     "original_name": "MOTOR TREND",
@@ -9232,7 +9232,7 @@
       "http://119.152.22.166:4389/play/a031/index.m3u8"
     ],
     "best_url": "http://119.152.22.162:4389/play/a031/index.m3u8",
-    "best_latency": 443
+    "best_latency": 474
   },
   "sky golf": {
     "original_name": "SKY GOLF",
@@ -9242,7 +9242,7 @@
       "http://119.152.22.166:4389/play/a00p/index.m3u8"
     ],
     "best_url": "http://119.152.22.162:4389/play/a00p/index.m3u8",
-    "best_latency": 441
+    "best_latency": 449
   },
   "sky news": {
     "original_name": "SKY NEWS",
@@ -9252,7 +9252,7 @@
       "http://119.152.22.166:4389/play/a03p/index.m3u8"
     ],
     "best_url": "http://119.152.22.162:4389/play/a03p/index.m3u8",
-    "best_latency": 514
+    "best_latency": 448
   },
   "super sports 2": {
     "original_name": "SUPER SPORTS 2",
@@ -9262,7 +9262,7 @@
       "http://119.152.22.166:4389/play/a01l/index.m3u8"
     ],
     "best_url": "http://119.152.22.162:4389/play/a01l/index.m3u8",
-    "best_latency": 444
+    "best_latency": 446
   },
   "ss football": {
     "original_name": "SS Football",
@@ -9272,7 +9272,7 @@
       "http://119.152.22.166:4389/play/a025/index.m3u8"
     ],
     "best_url": "http://119.152.22.162:4389/play/a025/index.m3u8",
-    "best_latency": 445
+    "best_latency": 461
   },
   "sky sports f1": {
     "original_name": "SKY SPORTS F1",
@@ -9282,7 +9282,7 @@
       "http://119.152.22.166:4389/play/a02f/index.m3u8"
     ],
     "best_url": "http://119.152.22.162:4389/play/a02f/index.m3u8",
-    "best_latency": 445
+    "best_latency": 463
   },
   "super sports 3": {
     "original_name": "SUPER SPORTS 3",
@@ -9292,7 +9292,7 @@
       "http://119.152.22.166:4389/play/a01m/index.m3u8"
     ],
     "best_url": "http://119.152.22.162:4389/play/a01m/index.m3u8",
-    "best_latency": 440
+    "best_latency": 469
   },
   "super sports action": {
     "original_name": "SUPER SPORTS ACTION",
@@ -9302,7 +9302,7 @@
       "http://119.152.22.166:4389/play/a032/index.m3u8"
     ],
     "best_url": "http://119.152.22.162:4389/play/a032/index.m3u8",
-    "best_latency": 442
+    "best_latency": 488
   },
   "super tennies": {
     "original_name": "SUPER TENNIES",
@@ -9312,7 +9312,7 @@
       "http://119.152.22.166:4389/play/a002/index.m3u8"
     ],
     "best_url": "http://119.152.22.162:4389/play/a002/index.m3u8",
-    "best_latency": 446
+    "best_latency": 457
   },
   "super sports premium league": {
     "original_name": "super sports premium league",
@@ -9322,7 +9322,7 @@
       "http://119.152.22.166:4389/play/a02x/index.m3u8"
     ],
     "best_url": "http://119.152.22.162:4389/play/a02x/index.m3u8",
-    "best_latency": 515
+    "best_latency": 453
   },
   "super sports cricket": {
     "original_name": "Super Sports Cricket",
@@ -9332,6 +9332,6 @@
       "http://119.152.22.166:4389/play/a008/index.m3u8"
     ],
     "best_url": "http://119.152.22.162:4389/play/a008/index.m3u8",
-    "best_latency": 476
+    "best_latency": 467
   }
 }
