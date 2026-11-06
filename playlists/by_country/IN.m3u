@@ -1,39 +1,39 @@
 #EXTM3U
-#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",92 News HD
-http://115.42.65.142:8000/play/a005/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",AJJ ENTERTAINMENT
 http://115.42.65.142:8000/play/a01q/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",AL QURAN
+http://115.42.65.142:8000/play/a00b/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",ARYDigitalAsia HD
 http://115.42.65.142:8000/play/a019/index.m3u8
-#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Discover Pakistan
-http://115.42.65.142:8000/play/a04c/index.m3u8
-#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",GEM TRAVEL
-http://115.42.65.142:8000/play/a04q/index.m3u8
-#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",GNNHD 2nd
-http://115.42.65.142:8000/play/a01z/index.m3u8
-#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Kay-2 HD
-http://115.42.65.142:8000/play/a03d/index.m3u8
-#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",KSA SPORTS 3 HD
-http://115.42.65.142:8000/play/a02x/index.m3u8
-#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",LTN FAMILY
-http://115.42.65.142:8000/play/a021/index.m3u8
-#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",M-News
-http://115.42.65.142:8000/play/a035/index.m3u8
-#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Play TV
-http://115.42.65.142:8000/play/a03n/index.m3u8
-#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",PTV NATIONAL
-http://115.42.65.142:8000/play/a00v/index.m3u8
-#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",PTV-World
-http://115.42.65.142:8000/play/a033/index.m3u8
-#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",SAUDI CH For Quran HD
-http://115.42.65.142:8000/play/a02t/index.m3u8
-#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Sindh TV
-http://115.42.65.142:8000/play/a00y/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Channel5
+http://115.42.65.142:8000/play/a04b/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",CITY-42 HD
+http://115.42.65.142:8000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",DAWN NEWS
+http://115.42.65.142:8000/play/a00k/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Dunya News HD
+http://115.42.65.142:8000/play/a01f/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",FASHIONTV HD
+http://115.42.65.142:8000/play/a03r/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",GEM FOOD
+http://115.42.65.142:8000/play/a04s/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Hoora TV
+http://115.42.65.142:8000/play/a02k/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",JOO Music
+http://115.42.65.142:8000/play/a00o/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",MAXX
+http://115.42.65.142:8000/play/a04r/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",NEXT MUSIC
+http://115.42.65.142:8000/play/a04g/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",ONYX HD
+http://115.42.65.142:8000/play/a00u/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",PAIGHAM TV
+http://115.42.65.142:8000/play/a045/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",PTC PUNJABI GOLD
+http://115.42.65.142:8000/play/a03w/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Sindh TV 2nd
+http://115.42.65.142:8000/play/a02h/index.m3u8
+#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Star News Asia
+http://115.42.65.142:8000/play/a02l/index.m3u8
 #EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",TV5
 http://115.42.65.142:8000/play/a04m/index.m3u8
-#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",Unknown
-http://115.42.65.142:8000/play/a009/index.m3u8
-#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",WAQT NEWS HD
-http://115.42.65.142:8000/play/a01k/index.m3u8
-#EXTINF:-1 group-title="india_new_115.42.65.142_8000.m3u",WASEB
-http://115.42.65.142:8000/play/a039/index.m3u8
