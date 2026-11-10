@@ -1,1 +1,3 @@
-# placeholder - put your ULTIMATE file here
+সোর্স: ULTIMATE_LIVE_5261.m3u (config.yaml-এ পরিবর্তন করা যায়)।
+আউটপুট: FINAL_ULTIMATE_LIVE_CHECKED.m3u — সব লাইভ এন্ট্রি, ডুপ্লিকেটসহ।
+সোর্স ফাইল অপরিবর্তিত থাকে; অন্য প্লেলিস্ট স্বয়ংক্রিয়ভাবে যোগ হয় না।

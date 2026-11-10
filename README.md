@@ -1,221 +1,58 @@
-# 🎬 Astra Premium M3U Bot — #1 Pro GitHub Action
+# 🎬 #1 All Live Stream Links — Hourly Action
 
-**Auto 24/7, Every 4 Hours — Deduplicate + Best Live Link Picker**
+একটি GitHub Action প্রতি ঘণ্টায় সোর্স প্লেলিস্টের সব স্ট্রিম পরীক্ষা করে **শুধু একটি লাইভ প্লেলিস্ট** তৈরি করে। বাংলা-সহ সব দেশের ও সব ভাষার কাজ করা স্ট্রিম রাখা হয়; দেশ বা ভাষা অনুযায়ী কোনো ফিল্টার নেই।
 
-এই বট তোমার `ULTIMATE_LIVE_5261.m3u` থেকে সব duplicate channel বের করে, প্রতিটা URL LIVE কিনা BD proxy দিয়ে চেক করে, তারপর সবচেয়ে ফাস্ট/বেস্ট LIVE লিংক দিয়ে **Premium M3U** বানাবে — সম্পূর্ণ অটো, GitHub Action 24/7 চলবে।
+- **ডুপ্লিকেট মুছে ফেলা হয় না।** একই নাম, একই লিংক, এমনকি একই এন্ট্রি একাধিকবার থাকলেও প্রতিটি লাইভ এন্ট্রি সোর্সের একই ক্রমে রাখা হয়। একই URL অপ্রয়োজনীয় নেটওয়ার্ক লোড কমাতে একবার পরীক্ষা করা হয়।
+- মূল `#EXTINF`, প্লেলিস্ট হেডার এবং এন্ট্রির নির্দেশনা সংরক্ষণ করা হয়।
+- মূল সোর্স ফাইল বদলানো হয় না, তাই আগে বন্ধ থাকা লিংকও পরের ঘণ্টায় আবার পরীক্ষা হয়।
+- কোনো আলাদা প্রিমিয়াম, ডিডুপ্লিকেটেড বা দেশভিত্তিক প্লেলিস্ট তৈরি হয় না।
 
----
+## লাইভ প্লেলিস্ট
 
-## ✨ Features
+**`playlists/FINAL_ULTIMATE_LIVE_CHECKED.m3u`** — সর্বশেষ সফল চেকে পাওয়া সব লাইভ এন্ট্রি, ডুপ্লিকেটসহ। Action run-এর summary-তে চেক করা ও লাইভ লিংকের সংখ্যা দেখা যায়; এই একটি প্লেলিস্টই সাত দিনের artifact হিসেবেও রাখা হয়।
 
-- ✅ **Auto every 4 hours** — `cron: 0 */4 * * *`
-- ✅ **Deduplication** — একই নামের চ্যানেলের 5-10 টা লিংক থাকলে শুধু BEST 1 টা রাখে
-- ✅ **Best Live Picker** — latency (ms) + size দিয়ে fastest/best লিংক বেছে নেয়
-- ✅ **BD Proxy Support** — `test:test@203.96.226.98:1088` — PK/BD IP গুলা BD থেকে চেক করে, ব্লক খায় না
-- ✅ **Category Wise** — by_country/ (BD, IN, PK, CO etc) আলাদা playlist
-- ✅ **Stats + Duplicate Report** — কোন চ্যানেলের কয়টা duplicate ছিল, best কোনটা
-- ✅ **Auto Commit & Push** — GitHub বট নিজেই commit করে, তুমি কিছু করতে হবে না
+ডিফল্ট সোর্স হলো `playlists/ULTIMATE_LIVE_5261.m3u`। অন্য সোর্স ব্যবহার করতে `config.yaml`-এর `input.file` বদলান। শুধু কনফিগে নির্বাচিত ফাইল পরীক্ষা হয়; অন্য প্লেলিস্ট স্বয়ংক্রিয়ভাবে যোগ করা হয় না।
 
----
+## Action চালু করুন
 
-## 📁 Project Structure
+1. পরিবর্তনগুলো রিপোজিটরির **default branch**-এ merge করুন এবং **Actions** সক্রিয় করুন। Scheduled workflow default branch থেকেই চলে।
+2. **Settings → Actions → General → Workflow permissions**-এ read/write permission দিন; branch protection থাকলে বটের push অনুমোদন করতে হবে।
+3. প্রয়োজনে **Settings → Secrets and variables → Actions**-এ `BD_PROXY` secret যোগ করুন, যেমন `socks5h://user:password@host:port`। শুধু অনুমোদিত proxy ব্যবহার করুন এবং credentials ফাইলে লিখবেন না। Secret না থাকলে সরাসরি চেক হবে; proxy ব্যর্থ হলে ডিফল্টভাবে সরাসরি আবার চেষ্টা হবে।
+4. **Actions → #1 All Live Stream Links — Hourly → Run workflow** থেকে হাতে চালাতে পারেন। অন্যথায় `0 * * * *` অনুযায়ী প্রতি ঘণ্টায় UTC সময়ে চালু হবে।
 
-```
-astra-premium-bot/
-├── .github/workflows/auto-update.yml  # Every 4 hours bot
-├── config.yaml                        # Input/output, timeout, proxy config
-├── requirements.txt
-├── src/
-│   ├── main.py           # Main bot
-│   ├── checker.py        # LIVE checker (parallel, proxy)
-│   ├── deduplicator.py   # Duplicate group + best picker
-│   └── utils.py          # Normalize, parse m3u
-├── playlists/
-│   ├── ULTIMATE_LIVE_5261.m3u   # Your input (put here)
-│   ├── PREMIUM_BEST.m3u         # Output — BEST live only, deduped (main premium)
-│   ├── FINAL_ULTIMATE_LIVE_CHECKED.m3u  # All live (before dedup)
-│   ├── by_country/BD.m3u, IN.m3u, PK.m3u...
-│   ├── stats.json
-│   └── duplicates.json
-└── README.md
-```
+GitHub নির্ধারিত run বিলম্বিত বা বাদ দিতে পারে এবং নিষ্ক্রিয় রিপোজিটরির schedule বন্ধ করতে পারে। একই branch-এ দুটি run একসঙ্গে চলবে না; ৬০ মিনিটের বেশি লাগলে run ব্যর্থ হবে, অসম্পূর্ণ প্লেলিস্ট প্রকাশ হবে না। ঘণ্টায় ঘণ্টায় run করলে GitHub Actions minutes বেশি লাগতে পারে।
 
----
+## কীভাবে পরীক্ষা হয়
 
-## 🚀 Quick Start
+HTTP(S) HLS প্লেলিস্টের media segment এবং সরাসরি স্ট্রিমের অল্প কিছু media data পরীক্ষা করা হয়। সফল মানে চেকের সময় GitHub runner থেকে media পৌঁছানো গেছে; ভিডিও decode, DRM/key বা ভবিষ্যতে playback নিশ্চিত করা হয় না। Geo-block, authentication, rate limit বা নেটওয়ার্ক সমস্যায় কাজ করা লিংকও unreachable দেখা যেতে পারে। Playlist directive সংরক্ষিত থাকে, তবে directive-এ দেওয়া custom player headers HTTP চেকে প্রয়োগ করা হয় না।
 
-### 1. Fork / Clone
+ইনপুট না থাকলে, খালি/ভুল হলে, non-HTTP(S) এন্ট্রি থাকলে, চেক অসম্পূর্ণ হলে অথবা **একটিও লাইভ স্ট্রিম যাচাই না হলে** run ব্যর্থ হয় এবং পুরোনো আউটপুট অপরিবর্তিত থাকে। সে ক্ষেত্রে আগের প্লেলিস্টটি পুরোনো হতে পারে; Action logs দেখুন। প্রতিটি URL-এর আগে `#EXTINF` থাকতে হবে।
 
-```bash
-git clone https://github.com/YOUR_USERNAME/astra-premium-bot.git
-cd astra-premium-bot
-```
-
-### 2. Put your ULTIMATE file
-
-Copy your `ULTIMATE_LIVE_5261.m3u` (or `ULTIMATE_LIVE_4073.m3u`) to:
-
-```
-playlists/ULTIMATE_LIVE_5261.m3u
-```
-
-Or update `config.yaml`:
+## কনফিগ ও লোকাল টেস্ট
 
 ```yaml
 input:
-  file: "playlists/your_file.m3u"
-```
-
-### 3. Add BD Proxy Secret (Important for PK/BD)
-
-GitHub repo → Settings → Secrets and variables → Actions → New secret:
-
-- Name: `BD_PROXY`
-- Value: `socks5://test:test@203.96.226.98:1088`
-
-Without proxy, PK/BD Astra may show dead (blocked from US GitHub runners). With BD proxy, 90%+ will show LIVE.
-
-### 4. Enable GitHub Actions
-
-- Repo → Actions tab → Enable
-- The bot will auto run every 4 hours
-- You can also manual trigger: Actions → "Astra Premium M3U Auto Bot" → Run workflow
-
-### 5. Done!
-
-After first run, check:
-
-- `playlists/PREMIUM_BEST.m3u` — Your premium, deduped, best live only (e.g., 5261 → 2800 unique best)
-- `playlists/by_country/BD.m3u` — Only BD
-- `playlists/stats.json` — Live%, duplicate count
-
----
-
-## ⚙️ How Deduplication Works?
-
-Example: Your ULTIMATE has 5 links for same channel "Somoy TV":
-
-```
-#EXTINF:-1,Somoy TV
-http://103.124.251.164:28015/play/a04q/index.m3u8  (BD Jessore) - latency 120ms
-http://66.102.126.10:8000/play/a028/index.m3u8     (PK Lodhran) - latency 60ms  <- FASTEST
-http://59.103.38.45:8000/play/a06c/index.m3u8      (PK Sialkot) - latency 200ms
-```
-
-Bot:
-
-1. Normalize name: `somoy tv` (lower, remove special)
-2. Group all 3 URLs under `somoy tv`
-3. Check LIVE for all 3 via BD proxy (parallel)
-4. Pick BEST by `pick_best_by: fastest` → `66.102.126.10:8000` (60ms fastest)
-5. In `PREMIUM_BEST.m3u` only keep 1 best, but in `duplicates.json` keep all 3 for record
-
-Result: **Duplicate removed, best live kept** — Premium playlist becomes small, fast, no duplicates.
-
----
-
-## 📝 Config.yaml Explained
-
-```yaml
+  file: "playlists/ULTIMATE_LIVE_5261.m3u"
+  url: ""                   # ফাইল না থাকলে ঐচ্ছিক download URL
+output:
+  final_checked: "playlists/FINAL_ULTIMATE_LIVE_CHECKED.m3u"
 checker:
-  timeout: 8          # 8 sec per URL
-  workers: 50         # 50 parallel
-  proxy: "${BD_PROXY}" # From env/secret
-
-deduplicator:
-  mode: "exact"       # exact = same normalized name = duplicate
-  pick_best_by: "fastest"  # fastest, biggest, first
+  timeout: 8                # প্রতি প্রচেষ্টার সময়সীমা, সেকেন্ডে
+  workers: 50               # সমান্তরাল চেক, proxy fallback-সহ
+  retries: 1
+  deep_check: true          # HLS media segment-ও পরীক্ষা করে
+  proxy: "${BD_PROXY}"
+  fallback_direct: true
 ```
 
-- `fastest` → Best for live TV (low latency = less buffering)
-- `biggest` → Biggest m3u8 size (higher bitrate)
-- `first` → First live found (fastest to generate)
-
----
-
-## 🤖 GitHub Action Schedule
-
-```yaml
-schedule:
-  - cron: '0 */4 * * *'  # Every 4 hours: 00,04,08,12,16,20 UTC
-```
-
-- Runs 6 times a day, 24/7
-- Auto commits if `PREMIUM_BEST.m3u` changed
-- You get email if workflow fails
-- Artifacts uploaded for 7 days
-
----
-
-## 📊 Example Stats (from your 5261)
-
-- Input: 5261 URLs (8524 entries, 4035 unique from earlier)
-- Checked: 5261
-- Live: 4122 (78.4%)
-- Dead: 1139 (21.6%)
-- Unique normalized: ~2800
-- After dedup best: ~2800 channels (from 5261 → 2800 unique best)
-- Duplicate groups: ~1200 groups had duplicates
-
-Your `PREMIUM_BEST.m3u` will be ~2800 channels, all BEST live, no duplicates.
-
----
-
-## 🔧 Local Test
+Python 3.11 ও `curl` প্রয়োজন। Action-এর artifact ও commit path ডিফল্ট আউটপুটের জন্য নির্ধারিত; আউটপুটের path বদলালে workflow-টিও বদলাতে হবে।
 
 ```bash
+python -m venv .venv
+. .venv/bin/activate
 pip install -r requirements.txt
-BD_PROXY=socks5://test:test@203.96.226.98:1088 python src/main.py
+python -m unittest discover -s tests -v
+python src/main.py
 ```
 
-Output:
-```
-🎬 Astra Premium M3U Bot — Starting
-📖 Parsing playlists/ULTIMATE_LIVE_5261.m3u...
-Found 5261 channel entries
-🔍 Checking 5261 URLs for LIVE...
-✅ LIVE: 4122 | ❌ DEAD: 1139 | Live%: 78.4%
-♻️  Deduplicating...
-After deduplication: 2800
-📝 Generating playlists/PREMIUM_BEST.m3u...
-```
-
----
-
-## 📦 What to do with PREMIUM_BEST.m3u?
-
-- Use in OTT Navigator, Tivimate, VLC
-- Host via GitHub Raw: `https://raw.githubusercontent.com/YOUR_USERNAME/astra-premium-bot/main/playlists/PREMIUM_BEST.m3u`
-- Put in your IPTV panel
-- Auto updates every 4 hours — link never dies
-
----
-
-## 🛡️ Legal Note
-
-- Only scan IPs you own or have permission
-- BD proxy provided by you — ensure you have permission to use
-- This bot is for educational / personal IPTV management
-
----
-
-## 💬 Support
-
-- Found bug? Open Issue
-- Want FOFA/Censys auto scraper added? Tell me — I can add FOFA API to auto discover new Astra IPs every 4 hours too!
-
-**Made with ❤️ for IPTV community — BD Proxy 1088 powered**
-
----
-
-## 🔥 Pro Tip: Add FOFA Auto Discovery (Optional)
-
-In `src/main.py`, you can add FOFA API to auto discover new Astra IPs:
-
-```python
-# FOFA query: header="Server: Astra" && country="BD"
-# Then check playlist.m3u and add to ultimate before dedup
-```
-
-Want me to add it? Just give FOFA email/key in GitHub Secrets `FOFA_EMAIL`, `FOFA_KEY`.
-
+টেস্টগুলো স্থানীয় HTTP fixture ব্যবহার করে; আসল স্ট্রিম সার্ভারে যোগাযোগ করে না। শুধু নিজের বা ব্যবহারের অনুমতি আছে এমন স্ট্রিম ও proxy পরীক্ষা করুন।
