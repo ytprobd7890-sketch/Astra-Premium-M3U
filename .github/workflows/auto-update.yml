@@ -42,20 +42,22 @@ jobs:
       - name: Test the checker
         run: python -m unittest discover -s tests -v
 
-      - name: Check all streams and keep every live entry
+      - name: Check all streams and split live entries by server country
         env:
           BD_PROXY: ${{ secrets.BD_PROXY }}
         run: python src/main.py
 
-      - name: Upload the live playlist
+      - name: Upload the live playlists
         uses: actions/upload-artifact@v4
         with:
           name: all-live-stream-links
-          path: playlists/FINAL_ULTIMATE_LIVE_CHECKED.m3u
+          path: |
+            playlists/FINAL_ULTIMATE_LIVE_CHECKED.m3u
+            playlists/by_country/*.m3u
           if-no-files-found: error
           retention-days: 7
 
-      - name: Commit and push the live playlist
+      - name: Commit and push the live playlists
         run: |
           if [[ "$GITHUB_REF" != refs/heads/* ]]; then
             echo "Refusing to publish to a non-branch ref: $GITHUB_REF"
@@ -63,7 +65,7 @@ jobs:
           fi
           git config user.name "Live Stream Bot"
           git config user.email "bot@astra-premium.local"
-          git add -- playlists/FINAL_ULTIMATE_LIVE_CHECKED.m3u
+          git add -- playlists/FINAL_ULTIMATE_LIVE_CHECKED.m3u playlists/by_country
           if git diff --cached --quiet; then
             echo "No playlist changes to commit"
             exit 0

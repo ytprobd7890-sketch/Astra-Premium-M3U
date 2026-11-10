@@ -1,4 +1,4 @@
-"""Check the source playlist and publish every live entry, without deduplication."""
+"""Check the source playlist and publish live entries grouped by server country."""
 
 import os
 import random
@@ -10,6 +10,7 @@ from pathlib import Path
 
 import yaml
 
+import splitter
 from checker import check_urls_parallel
 from utils import parse_m3u, read_preamble
 
@@ -38,6 +39,8 @@ def load_config(path=CONFIG_PATH):
 config = load_config()
 INPUT_FILE = ROOT / config['input']['file']
 OUTPUT_FINAL = ROOT / config['output']['final_checked']
+OUTPUT_COUNTRIES = ROOT / config['output']['by_server_country']
+COUNTRIES_ENABLED = bool(config['output'].get('countries', True))
 CHECKER_CFG = config['checker']
 
 
@@ -83,9 +86,22 @@ def _write_action_summary(stats):
         summary.write(f"- Dead or unreachable URLs: {stats['dead']}\n")
         summary.write(f"- Live entries (duplicates retained): {stats['live_entries']}\n")
         summary.write(f"- Completed: {stats['timestamp']}\n")
+        countries = stats.get('countries') or []
+        if countries:
+            summary.write(
+                f"\n### Live entries by server country ({stats['country_total']})\n\n"
+                '| Country | Group | Servers | Entries | File |\n'
+                '| --- | --- | ---: | ---: | --- |\n'
+            )
+            for country in countries:
+                summary.write(
+                    f"| {country['name']} ({country['code']}) | {country['group_title']} "
+                    f"| {country['servers']} | {country['entries']} | `{country['file']}` |\n"
+                )
 
 
-def main():
+def main(countries_enabled=None):
+    countries_enabled = COUNTRIES_ENABLED if countries_enabled is None else countries_enabled
     print('=' * 60)
     print('🎬 All Live Streams — Hourly Check')
     print(f'Time: {datetime.now(timezone.utc).isoformat()}')
@@ -93,6 +109,8 @@ def main():
 
     if INPUT_FILE.resolve() == OUTPUT_FINAL.resolve():
         raise SystemExit('Input and output must be different files; the source was not changed.')
+    if countries_enabled and INPUT_FILE.resolve().parent == OUTPUT_COUNTRIES.resolve():
+        raise SystemExit('The country output folder must not be the input folder; nothing was changed.')
     if not INPUT_FILE.exists():
         input_url = config['input'].get('url')
         if not input_url:
@@ -149,6 +167,12 @@ def main():
     live_channels = [channel for channel in channels if check_map[channel['url']]['is_live']]
     _write_playlist(OUTPUT_FINAL, preamble, live_channels)
 
+    country_files = []
+    if countries_enabled:
+        print('\n🌍 Resolving the country of every live server IP (offline DB-IP index)...')
+        splitter.assign_countries(live_channels)
+        country_files = splitter.write_country_files(OUTPUT_COUNTRIES, live_channels, preamble)
+
     stats = {
         'timestamp': datetime.now(timezone.utc).isoformat(timespec='seconds'),
         'total_entries': len(channels),
@@ -157,10 +181,19 @@ def main():
         'dead': len(results) - len(live_results),
         'live_entries': len(live_channels),
         'elapsed_sec': round(elapsed, 1),
+        'countries': country_files,
+        'country_total': len(country_files),
     }
     _write_action_summary(stats)
     print(f"✅ Live URLs: {stats['live']} | Unreachable: {stats['dead']} | {elapsed:.1f}s")
     print(f"✅ All live entries (duplicates retained): {stats['live_entries']} -> {OUTPUT_FINAL}")
+    if countries_enabled:
+        for country in country_files:
+            print(
+                f"   {country['group_title']}: {country['entries']} entries "
+                f"({country['servers']} servers) -> {OUTPUT_COUNTRIES / country['file']}"
+            )
+        print(f"   Master by country -> {OUTPUT_COUNTRIES / 'COUNTRY_MASTER.m3u'}")
     return stats
 
 

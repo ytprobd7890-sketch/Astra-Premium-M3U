@@ -1,4 +1,4 @@
-# Hourly all-live-stream checker
+# Hourly all-live-stream checker, split by the country of each server IP
 input:
   # The original playlist remains unchanged and is checked again every hour.
   file: "playlists/ULTIMATE_LIVE_5261.m3u"
@@ -8,6 +8,9 @@ input:
 output:
   # One playlist: every verified live entry, including duplicates.
   final_checked: "playlists/FINAL_ULTIMATE_LIVE_CHECKED.m3u"
+  # Country split: COUNTRY_MASTER.m3u plus one <CODE>_<COUNTRY>.m3u per server country.
+  by_server_country: "playlists/by_country"
+  countries: true
 
 checker:
   # Per attempt, including any HLS playlist and media probes.

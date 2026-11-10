@@ -1,0 +1,36 @@
+#EXTM3U
+# Astra server country: Portugal (PT) - 11 live entries
+# 🇵🇹 পর্তুগাল (PT)
+#EXTINF:-1 group-title="🇵🇹 পর্তুগাল (PT)" tvg-country="PT" tvg-name="STAR HD",STAR HD [185.228.163.146:8000]
+#EXTGRP:🇵🇹 পর্তুগাল (PT)
+http://185.228.163.146:8000/play/a02c/index.m3u8
+#EXTINF:-1 group-title="🇵🇹 পর্তুগাল (PT)" tvg-country="PT" tvg-name="STAR Movies HD",STAR Movies HD [185.228.163.146:8000]
+#EXTGRP:🇵🇹 পর্তুগাল (PT)
+http://185.228.163.146:8000/play/a02b/index.m3u8
+#EXTINF:-1 group-title="🇵🇹 পর্তুগাল (PT)" tvg-country="PT" tvg-name=TVEi,TVEi [185.228.163.146:8000]
+#EXTGRP:🇵🇹 পর্তুগাল (PT)
+http://185.228.163.146:8000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="🇵🇹 পর্তুগাল (PT)" tvg-country="PT" tvg-name="TV5 Monde",TV5 Monde [185.228.163.146:8000]
+#EXTGRP:🇵🇹 পর্তুগাল (PT)
+http://185.228.163.146:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="🇵🇹 পর্তুগাল (PT)" tvg-country="PT" tvg-name="TV Record HD",TV Record HD [185.228.163.146:8000]
+#EXTGRP:🇵🇹 পর্তুগাল (PT)
+http://185.228.163.146:8000/play/a01w/index.m3u8
+#EXTINF:-1 group-title="🇵🇹 পর্তুগাল (PT)" tvg-country="PT" tvg-name="TV Galicia",TV Galicia [185.228.163.146:8000]
+#EXTGRP:🇵🇹 পর্তুগাল (PT)
+http://185.228.163.146:8000/play/a00p/index.m3u8
+#EXTINF:-1 group-title="🇵🇹 পর্তুগাল (PT)" tvg-country="PT" tvg-name="TVC NEWS",TVC NEWS [185.228.163.146:8000]
+#EXTGRP:🇵🇹 পর্তুগাল (PT)
+http://185.228.163.146:8000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="🇵🇹 পর্তুগাল (PT)" tvg-country="PT" tvg-name="TVI HD",TVI HD [185.228.163.146:8000]
+#EXTGRP:🇵🇹 পর্তুগাল (PT)
+http://185.228.163.146:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="🇵🇹 পর্তুগাল (PT)" tvg-country="PT" tvg-name="life tv",life tv [185.228.163.146:8000]
+#EXTGRP:🇵🇹 পর্তুগাল (PT)
+http://185.228.163.146:8000/play/a02p/index.m3u8
+#EXTINF:-1 group-title="🇵🇹 পর্তুগাল (PT)" tvg-country="PT" tvg-name="Tv Natal",Tv Natal [185.228.163.146:8000]
+#EXTGRP:🇵🇹 পর্তুগাল (PT)
+http://185.228.163.146:8000/play/a01y/index.m3u8
+#EXTINF:-1 group-title="🇵🇹 পর্তুগাল (PT)" tvg-country="PT" tvg-name=Upchannel,Upchannel [185.228.163.146:8000]
+#EXTGRP:🇵🇹 পর্তুগাল (PT)
+http://185.228.163.146:8000/play/a02s/index.m3u8

@@ -1,0 +1,1332 @@
+#EXTM3U
+# Astra server country: Ecuador (EC) - 443 live entries
+# 🇪🇨 ইকুয়েডর (EC)
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=CERTV,CERTV [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a183/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=CERTV,CERTV [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a0x0/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="CHV HD",CHV HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1ma/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=CHV,CHV [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1o3/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="CNN Espaæol",CNN Espaæol [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1s4/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="CNN Internacional",CNN Internacional [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a0z7/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=CNNE,CNNE [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a0ur/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=CNNE,CNNE [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1av/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Canal  21 - ESA",Canal  21 - ESA [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a18b/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Canal 13 HD",Canal 13 HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1l2/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Canal 2 - ESA",Canal 2 - ESA [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a0w8/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Canal 2 - NIC",Canal 2 - NIC [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a0wb/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Canal 3 - GUA",Canal 3 - GUA [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a0w7/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Canal 3 Telesistemas HND",Canal 3 Telesistemas HND [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a18d/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Canal 4 - NIC",Canal 4 - NIC [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a188/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Canal 7 - GUA",Canal 7 - GUA [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a0w6/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Canal Antigua - GUA",Canal Antigua - GUA [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a0w4/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Canal VTV HND",Canal VTV HND [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a18e/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Canal VTV HND",Canal VTV HND [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a0xb/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Canal del Congreso",Canal del Congreso [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a186/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Cartoon Network",Cartoon Network [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1p3/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Cartoonito,Cartoonito [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a0u9/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Cine Latino",Cine Latino [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a18t/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=CineCanal,CineCanal [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a18w/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Cinecanal,Cinecanal [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1jz/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Cinecanal HD",Cinecanal HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1t0/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Cinecanal,Cinecanal [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1su/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Claro Sports 2 SD",Claro Sports 2 SD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a16q/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Claro Sports 1 SD",Claro Sports 1 SD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a18m/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Cinecanal HD",Cinecanal HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1ki/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Cinemax,Cinemax [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1s5/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Claro Sports 2 SD",Claro Sports 2 SD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1pd/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Comedy Central HD",Comedy Central HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1l6/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Concert Channel",Concert Channel [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a18q/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Color Vision 9 - RD",Color Vision 9 - RD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a0we/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="DHE HD",DHE HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1mk/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Discovery Channel  HD",Discovery Channel  HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1ke/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Discovery Channel  HD",Discovery Channel  HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1sw/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Discovery Kids HD",Discovery Kids HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1oy/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Discovery Home & Health",Discovery Home & Health [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a18k/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Discovery Science",Discovery Science [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1sa/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Discovery Turbo",Discovery Turbo [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a18j/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Discovery Theater HD",Discovery Theater HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1m8/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Disney,Disney [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a18h/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Discovery Turbo",Discovery Turbo [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1s8/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Discovery World HD",Discovery World HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1le/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Disney Channel",Disney Channel [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1t8/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Disney HD",Disney HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1kp/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Disney Jr.",Disney Jr. [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1s7/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="E! Entertainment TV",E! Entertainment TV [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1sb/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=ESPN,ESPN [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1rv/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="ESPN 3",ESPN 3 [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1pe/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="ESPN  4 HD",ESPN  4 HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a15k/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="ESPN  4 HD",ESPN  4 HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1pa/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="ESPN  4 HD",ESPN  4 HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1a5/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="ESPN 3 HD",ESPN 3 HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1lh/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="ESPN 4 HD",ESPN 4 HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1t9/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="ESPN 4HD",ESPN 4HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1kr/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="ESPN 5",ESPN 5 [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a18o/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="ESPN 5  HD",ESPN 5  HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a192/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="ESPN 5  HD",ESPN 5  HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a15h/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="ESPN 5  HD",ESPN 5  HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1p2/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="ESPN 5HD",ESPN 5HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1l9/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="ESPN 6",ESPN 6 [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1p6/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="ESPN 6",ESPN 6 [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a15j/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="ESPN 6HD",ESPN 6HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1l3/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="ESPN 7 HD",ESPN 7 HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1t2/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="ESPN HD",ESPN HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1nw/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="ESPN HD",ESPN HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1mi/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="ESPN 7HD",ESPN 7HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1kj/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="ESPN Premium HD",ESPN Premium HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1ml/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="ESPN Premium HD",ESPN Premium HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1nz/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=ETC,ETC [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1ru/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="EURO Channel",EURO Channel [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a14r/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=EWTN,EWTN [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a0uv/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=EWTN,EWTN [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1sf/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Ecuador TV",Ecuador TV [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1ry/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Ecuavisa,Ecuavisa [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1rw/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="El Gourmet",El Gourmet [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a14h/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Espn Premium",Espn Premium [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1o5/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Enlace,Enlace [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1sh/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="El Gourmet HD",El Gourmet HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1l7/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Esport Max",Esport Max [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1pf/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="FUTV CR",FUTV CR [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a184/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Exa TV",Exa TV [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a0wu/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="FX HD",FX HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1ks/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="FX HD",FX HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1ta/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Food Network",Food Network [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1sl/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=France24,France24 [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a0ut/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Gamavisiðn,Gamavisiðn [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1rz/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Golf Channel",Golf Channel [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a0z6/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Guatevision - GUA",Guatevision - GUA [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a0ty/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=H2,H2 [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1pb/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="HBO Family HD",HBO Family HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1o0/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="HBO Family HD",HBO Family HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1mm/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="HBO HD",HBO HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1ld/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="HBO Xtreme HD",HBO Xtreme HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1o1/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="HBO POP HD",HBO POP HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1me/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="HBO XTREME HD",HBO XTREME HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1mn/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=HGTV,HGTV [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1se/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="HOLA TV HD",HOLA TV HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1t1/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=HTV,HTV [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a14l/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="History Channel HD",History Channel HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1sx/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="History Channel HD",History Channel HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1kf/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="History HD",History HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1p9/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="History HD",History HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1a4/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Hola!TV,Hola!TV [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1ow/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=ID,ID [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a0xi/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Hola!TV,Hola!TV [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a0z3/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="ID HD",ID HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1kn/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=ID,ID [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a18l/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="La voz de Maria",La voz de Maria [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a0xk/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="ID HD",ID HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1t6/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="LIFE TIME",LIFE TIME [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a0uk/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="La voz de Maria",La voz de Maria [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a18n/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Las Estrellas HD",Las Estrellas HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1ny/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="La voz de Maria",La voz de Maria [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1oz/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Latin America Sport",Latin America Sport [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a14j/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Lifetime,Lifetime [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1sg/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="MEGA HD",MEGA HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1mh/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="MTV HD",MTV HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1li/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Mas Chic",Mas Chic [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a0yy/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Mega,Mega [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1o4/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Nat Geo HD",Nat Geo HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1kg/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Multipremier,Multipremier [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a18s/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Nat Geo HD",Nat Geo HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1sy/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Nick HD",Nick HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1mf/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="POPU TV",POPU TV [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1ns/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Pasiones HD",Pasiones HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1mb/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Pasiones HD",Pasiones HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1nv/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Playboy HD",Playboy HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1kv/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="RCN - GUA",RCN - GUA [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a0x4/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="RHEMA TV",RHEMA TV [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a18z/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="RCN - GUA",RCN - GUA [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a187/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="REC TV",REC TV [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1sk/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=RTS,RTS [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1s2/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="RCN Novelas",RCN Novelas [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a14g/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=SEMILLITAS,SEMILLITAS [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a0uc/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="SNT HD",SNT HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1o9/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="SPACE HD",SPACE HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a191/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="SPACE HD",SPACE HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a0y0/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="SONY HD",SONY HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1aa/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="STAR CHANNEL",STAR CHANNEL [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a18i/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Sembrador,Sembrador [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1ph/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="STAR CHANNEL HD",STAR CHANNEL HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1kt/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Sony HD",Sony HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1t3/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Sony HD",Sony HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1kk/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Star Channel HD",Star Channel HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1tb/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Space HD",Space HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1ko/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Studio Universal",Studio Universal [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a0xt/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Studio Universal",Studio Universal [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a18v/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Sun Channel",Sun Channel [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1pc/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Sun Channel HD",Sun Channel HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1o2/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Sun Channel HD",Sun Channel HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1mo/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Space HD",Space HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1t7/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="TNT HD",TNT HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1sz/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=TLC,TLC [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1s9/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="TD+HD CR",TD+HD CR [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a0za/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="TBN Enlace",TBN Enlace [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a0uu/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="TBN Enlace",TBN Enlace [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1p8/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="TD+2 HD CR",TD+2 HD CR [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a0zb/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="TNT Novelas HD",TNT Novelas HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1lg/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="TC Televisiðn",TC Televisiðn [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1s0/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="TNT HD",TNT HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1kh/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="TNT Series HD",TNT Series HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1lc/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="TV Oriente ESA",TV Oriente ESA [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a185/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=TNT,TNT [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a16e/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="TNT Sports Premiun HD",TNT Sports Premiun HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1mc/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="TV Oriente ESA",TV Oriente ESA [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a0x2/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=TVE,TVE [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1p0/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="TNT Series",TNT Series [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1a3/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Tooncast,Tooncast [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a0wh/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="TVN HD",TVN HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1m9/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Telemundo,Telemundo [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a0ue/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Telemundo,Telemundo [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1sc/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Tooncast,Tooncast [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1sd/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Teleamazonas,Teleamazonas [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1rx/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Tlnovelas,Tlnovelas [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1nu/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Telefuturo HD",Telefuturo HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1oa/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Tru TV",Tru TV [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a0ud/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="TVM25 -  ESA",TVM25 -  ESA [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a18c/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Warner TV HD",Warner TV HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1t4/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=VENUS,VENUS [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a14s/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Universal,Universal [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a18r/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="UNIVERSAL CHANNEL HD",UNIVERSAL CHANNEL HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1l8/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Unicanal HD",Unicanal HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1sp/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Warner Channel HD",Warner Channel HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1kl/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=ZooMoo,ZooMoo [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a0yx/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="WARNER HD",WARNER HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a0wx/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="13 C",13 C [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a098/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="A&E HD",A&E HD [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a06v/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="AMC HD",AMC HD [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a06w/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="AXN HD",AXN HD [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a072/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Animal Planet HD",Animal Planet HD [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a06u/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Baby TV",Baby TV [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a075/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="CARTOON NETWORK HD",CARTOON NETWORK HD [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a07c/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="CINECANAL HD",CINECANAL HD [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a07r/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=CNNE,CNNE [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a08s/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Canal Caracol",Canal Caracol [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a09p/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Canal RCN",Canal RCN [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a09q/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Caracol,Caracol [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a06z/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Cartoonito,Cartoonito [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a07j/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Cine Latino",Cine Latino [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a08g/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Cine Premium HD",Cine Premium HD [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a084/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=CineMax,CineMax [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a08f/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Concert Channel",Concert Channel [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a08e/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="DISC THEATHER HD",DISC THEATHER HD [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a07v/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="DHE HD",DHE HD [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a08d/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Discovery Channel HD",Discovery Channel HD [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a086/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Discovery ID HD",Discovery ID HD [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a08a/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Discovery Kids HD",Discovery Kids HD [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a078/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Discovery World HD",Discovery World HD [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a087/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Disney JR",Disney JR [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a07k/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Disney Jr.",Disney Jr. [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a09f/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="ESPN  4 HD",ESPN  4 HD [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a07n/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="ESPN 2 HD",ESPN 2 HD [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a080/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="ESPN 3 HD",ESPN 3 HD [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a081/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="ESPN 5  HD",ESPN 5  HD [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a074/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="ESPN 6 HD",ESPN 6 HD [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a08c/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="ESPN 7 HD",ESPN 7 HD [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a06a/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="ESPN HD",ESPN HD [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a07z/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="ESPN Premium HD",ESPN Premium HD [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a09l/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=EWTN,EWTN [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a07l/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Ecuador TV",Ecuador TV [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a0ed/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Ecuavisa,Ecuavisa [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a09s/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Ecuavisa,Ecuavisa [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a04e/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Enlace,Enlace [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a08h/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Gamavisiðn,Gamavisiðn [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a039/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Golden Premiere 2 HD",Golden Premiere 2 HD [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a07a/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Golden Premiere HD",Golden Premiere HD [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a079/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="HBO Family HD",HBO Family HD [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a07g/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="HBO HD",HBO HD [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a07d/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="HBO Plus HD",HBO Plus HD [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a07f/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="HBO XTREME",HBO XTREME [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a07h/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="HBO2 HD",HBO2 HD [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a07e/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="HOLA TV HD",HOLA TV HD [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a08n/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="History HD",History HD [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a07m/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Home & Health HD",Home & Health HD [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a07w/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="KDrama HD",KDrama HD [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a07x/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Las Estrellas HD",Las Estrellas HD [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a09j/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Nat Geo HD",Nat Geo HD [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a083/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Pasiones HD",Pasiones HD [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a088/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=RTS,RTS [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a03b/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="SONY HD",SONY HD [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a07q/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="SPACE HD",SPACE HD [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a09e/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="STAR CHANNEL HD",STAR CHANNEL HD [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a07p/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Studio Universal HD",Studio Universal HD [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a06t/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=TC,TC [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a09r/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="TC Televisiðn",TC Televisiðn [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a04i/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="TNT Series HD",TNT Series HD [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a085/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="TNT HD",TNT HD [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a07u/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=TVChile,TVChile [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a076/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Teleamazonas,Teleamazonas [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a062/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Teleamazonas,Teleamazonas [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a09t/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Telefe,Telefe [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a070/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Telemundo,Telemundo [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a09g/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Telemundo,Telemundo [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a08x/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Telemundo HD",Telemundo HD [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a06x/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Televicentro,Televicentro [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a03v/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Tlnovelas,Tlnovelas [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a09k/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Universal,Universal [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a071/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Univision HD",Univision HD [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a089/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="WARNER HD",WARNER HD [181.78.197.59:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://181.78.197.59:8000/play/a07s/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="History Channel HD",History Channel HD [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a029/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="History HD",History HD [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0eq/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Hola!TV,Hola!TV [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0fl/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Home and Health",Home and Health [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0h3/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=ID,ID [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0ca/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Home and Health",Home and Health [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a05r/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="LATINA +18",LATINA +18 [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0i1/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="L1 MAX",L1 MAX [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0g6/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="La Red",La Red [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a06p/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="La Red",La Red [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a036/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Las Estrellas HD",Las Estrellas HD [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a03a/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Latina,Latina [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a05s/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="La voz de Maria",La voz de Maria [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0cd/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Lifetime,Lifetime [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a01j/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Love Nature",Love Nature [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0h5/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="MEGA HD",MEGA HD [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a032/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Mas Chic",Mas Chic [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0fg/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="LIFE TIME",LIFE TIME [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0ee/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Mega,Mega [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a06r/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Movistar Deportes",Movistar Deportes [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0i9/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Multipremier,Multipremier [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0ci/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=NPY,NPY [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a05d/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=NTN24,NTN24 [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0av/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Nat Geo HD",Nat Geo HD [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a02a/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="National Geographic",National Geographic [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0ed/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Home Garden Latino",Home Garden Latino [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0fj/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Nicarao TV",Nicarao TV [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0e4/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Nick Jr",Nick Jr [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0e1/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Nickelodeon HD",Nickelodeon HD [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a031/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Nick Music",Nick Music [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0ap/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Nuestra Tele",Nuestra Tele [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0ao/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="OROMAR TV",OROMAR TV [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0bb/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=PARAVISION,PARAVISION [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a05a/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="PARIS TV",PARIS TV [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0i5/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Playboy HD",Playboy HD [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a03j/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=ParaguayTV,ParaguayTV [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a063/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Pasiones HD",Pasiones HD [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a02x/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="RCN - GUA",RCN - GUA [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0bx/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="RCN Novelas",RCN Novelas [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a05l/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="REC TV",REC TV [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0gw/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="REY TV",REY TV [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0hv/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="MTV HD",MTV HD [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a04e/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="RHEMA TV",RHEMA TV [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0cp/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=ROUGH,ROUGH [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0i0/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Panamericana,Panamericana [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a093/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=RPP,RPP [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a095/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=RTS,RTS [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a04o/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=RTS,RTS [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a00x/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=RTU,RTU [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0i4/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Russia Today",Russia Today [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0dq/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="SONY HD",SONY HD [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0do/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=SEMILLITAS,SEMILLITAS [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0e5/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Sony HD",Sony HD [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a02e/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="SPACE HD",SPACE HD [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0cr/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=SURTV,SURTV [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a05e/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Sextreme,Sextreme [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0i8/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="STAR CHANNEL HD",STAR CHANNEL HD [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0dm/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Sony Movies",Sony Movies [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0h1/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Senal Colombia",Senal Colombia [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a059/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Space HD",Space HD [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a02i/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Panamericana TV",Panamericana TV [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a05u/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Star Channel HD",Star Channel HD [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a02n/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Sun Channel HD",Sun Channel HD [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a03f/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="TBN Enlace",TBN Enlace [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0eo/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=TC,TC [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a052/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="TC Televisiðn",TC Televisiðn [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=TCM,TCM [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0b2/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=TCM,TCM [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a07h/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="TD+2 HD CR",TD+2 HD CR [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0ft/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="TD+HD CR",TD+HD CR [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0fs/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=TEEN,TEEN [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0hz/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=TLC,TLC [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a01b/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=TLC,TLC [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0dh/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="TNT HD",TNT HD [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a02b/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="TNT Novelas HD",TNT Novelas HD [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a04c/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Studio Universal",Studio Universal [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0ha/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="TNT SPORTS",TNT SPORTS [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a03q/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="TNT Series HD",TNT Series HD [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a046/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="TNT Series",TNT Series [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0ea/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="TNT Sports",TNT Sports [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a06e/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="TNT Sports Premium",TNT Sports Premium [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a06u/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="TNT Sports Premiun HD",TNT Sports Premiun HD [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a02y/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=TRO,TRO [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a05g/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="TV Peru SD",TV Peru SD [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a05x/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="TV CAMARA",TV CAMARA [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a050/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=TVChile,TVChile [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0fi/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=TVE,TVE [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0h9/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=TVE,TVE [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a07o/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=TVN,TVN [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a06q/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="TVM25 -  ESA",TVM25 -  ESA [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0c0/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="TVN HD",TVN HD [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a02v/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Teen Nick",Teen Nick [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0aq/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Tele Antillas - RD",Tele Antillas - RD [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0dv/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="TeleMicro - RD",TeleMicro - RD [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0d3/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Teleamazonas,Teleamazonas [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a00s/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Teleamazonas,Teleamazonas [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a056/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Teleantioquia,Teleantioquia [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a04l/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Telecafe,Telecafe [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a04y/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Telecaribe,Telecaribe [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a04w/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Telefe,Telefe [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a04p/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=TV+,TV+ [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a034/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Teleislas,Teleislas [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a05h/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Telemundo,Telemundo [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0e7/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Telepacifico,Telepacifico [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a04n/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Televicentro,Televicentro [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a00w/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Telesistema RD",Telesistema RD [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0dx/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Tlnovelas,Tlnovelas [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0g4/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Tooncast,Tooncast [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0d7/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="TV Oriente ESA",TV Oriente ESA [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0bv/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Trece,Trece [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a04z/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Tooncast,Tooncast [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a01f/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=TyC,TyC [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a06d/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="UNE TV HND",UNE TV HND [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0c2/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="UFC ACTION",UFC ACTION [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0hr/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="UFC FIGHT NETWORK",UFC FIGHT NETWORK [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0hs/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="UNIVERSAL CHANNEL HD",UNIVERSAL CHANNEL HD [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a043/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=USA,USA [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0az/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=USA,USA [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0gp/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Universal,Universal [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a07c/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Universal Cinema SD",Universal Cinema SD [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0hc/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Universal Comedy SD",Universal Comedy SD [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0hd/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Venus,Venus [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a06g/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Universal Premiere SD",Universal Premiere SD [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0hb/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Venus,Venus [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0b7/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Via X Esports",Via X Esports [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0ay/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=ViaX,ViaX [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a06i/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="WARNER HD",WARNER HD [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0dn/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Warner TV HD",Warner TV HD [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a02f/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Willax,Willax [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a05q/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Win,Win [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a04m/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Zoom,Zoom [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a05f/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=ZooMoo,ZooMoo [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0ff/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",CNN Espanol
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://186.33.47.113:8000/play/a05p/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",Animal Planet
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://186.33.47.113:8000/play/a08f/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",AE Mundo
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://186.33.47.113:8000/play/a043/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",Canal Estrellas
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://186.33.47.113:8000/play/a044/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",Disney Jr
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://186.33.47.113:8000/play/a05q/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",AXN
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://186.33.47.113:8000/play/a04h/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",Canal Claro
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://186.33.47.113:8000/play/a064/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",Discovery Turbo
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://186.33.47.113:8000/play/a04l/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",Discovery Kids
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://186.33.47.113:8000/play/a05o/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",Disney Channel
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://186.33.47.113:8000/play/a03v/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",Cinecanal
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://186.33.47.113:8000/play/a022/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",ESPN
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://186.33.47.113:8000/play/a041/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",Discovery ID
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://186.33.47.113:8000/play/a05g/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",Cinemax
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://186.33.47.113:8000/play/a04f/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",Discovery Channel
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://186.33.47.113:8000/play/a08g/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",Fox Sports 2
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://186.33.47.113:8000/play/a045/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",FX
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://186.33.47.113:8000/play/a04j/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",Fox Sports 3
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://186.33.47.113:8000/play/a046/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",ESPN 4
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://186.33.47.113:8000/play/a05l/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",GamaTV
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://186.33.47.113:8000/play/a05n/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",ESPN 2
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://186.33.47.113:8000/play/a05t/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",Ecuador TV
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://186.33.47.113:8000/play/a05m/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",France 24
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://186.33.47.113:8000/play/a05h/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",ESPN 3
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://186.33.47.113:8000/play/a04m/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",Ecuavisa
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://186.33.47.113:8000/play/a04s/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",Enlace
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://186.33.47.113:8000/play/a03g/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",HBO
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://186.33.47.113:8000/play/a04e/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",History Channel
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://186.33.47.113:8000/play/a08d/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",ECDF SD
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://186.33.47.113:8000/play/a04u/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",MTV
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://186.33.47.113:8000/play/a03b/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",HomeandHealth
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://186.33.47.113:8000/play/a05i/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",National Geographic
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://186.33.47.113:8000/play/a08h/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",STAR CHANNEL
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://186.33.47.113:8000/play/a03c/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",Nickelodeon
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://186.33.47.113:8000/play/a038/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",Sony
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://186.33.47.113:8000/play/a04g/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",Space
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://186.33.47.113:8000/play/a04i/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",RCN Novelas
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://186.33.47.113:8000/play/a05f/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",Studio Universal
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://186.33.47.113:8000/play/a05s/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",RTS
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://186.33.47.113:8000/play/a04k/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",E Entertainment
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://186.33.47.113:8000/play/a03z/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",TC Television
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://186.33.47.113:8000/play/a04p/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",TCM
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://186.33.47.113:8000/play/a03d/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",Teleamazonas
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://186.33.47.113:8000/play/a04t/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",Universal
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://186.33.47.113:8000/play/a03a/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",SyFy
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://186.33.47.113:8000/play/a03i/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",TNT
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://186.33.47.113:8000/play/a03f/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",Telemundo
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://186.33.47.113:8000/play/a04n/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",Warner
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://186.33.47.113:8000/play/a03y/index.m3u8
