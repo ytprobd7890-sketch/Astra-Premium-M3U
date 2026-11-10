@@ -4,16 +4,16 @@
 
 | গ্রুপ | সার্ভার | এন্ট্রি | ফাইল |
 | --- | ---: | ---: | --- |
-| 🇧🇩 বাংলাদেশ (BD) | 2 | 108 | `BD_BANGLADESH.m3u` |
-| 🇪🇨 ইকুয়েডর (EC) | 4 | 443 | `EC_ECUADOR.m3u` |
-| 🇨🇴 কলম্বিয়া (CO) | 6 | 503 | `CO_COLOMBIA.m3u` |
-| 🇬🇹 গুয়াতেমালা (GT) | 1 | 112 | `GT_GUATEMALA.m3u` |
+| 🇧🇩 বাংলাদেশ (BD) | 2 | 106 | `BD_BANGLADESH.m3u` |
+| 🇪🇨 ইকুয়েডর (EC) | 4 | 441 | `EC_ECUADOR.m3u` |
+| 🇨🇴 কলম্বিয়া (CO) | 6 | 505 | `CO_COLOMBIA.m3u` |
+| 🇬🇹 গুয়াতেমালা (GT) | 1 | 119 | `GT_GUATEMALA.m3u` |
 | 🇵🇹 পর্তুগাল (PT) | 1 | 11 | `PT_PORTUGAL.m3u` |
 | 🇵🇾 প্যারাগুয়ে (PY) | 1 | 70 | `PY_PARAGUAY.m3u` |
-| 🇵🇰 পাকিস্তান (PK) | 8 | 340 | `PK_PAKISTAN.m3u` |
-| 🇵🇪 পেরু (PE) | 3 | 242 | `PE_PERU.m3u` |
-| 🇭🇳 হন্ডুরাস (HN) | 2 | 42 | `HN_HONDURAS.m3u` |
-| 🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO) | 1 | 146 | `DO_DOMINICAN_REPUBLIC.m3u` |
+| 🇵🇰 পাকিস্তান (PK) | 8 | 339 | `PK_PAKISTAN.m3u` |
+| 🇵🇪 পেরু (PE) | 3 | 243 | `PE_PERU.m3u` |
+| 🇭🇳 হন্ডুরাস (HN) | 2 | 40 | `HN_HONDURAS.m3u` |
+| 🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO) | 1 | 143 | `DO_DOMINICAN_REPUBLIC.m3u` |
 
 ## ব্যবহার
 
