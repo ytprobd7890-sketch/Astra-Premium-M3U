@@ -10,6 +10,7 @@ from http_fixtures import fixture_server
 
 
 ROOT = Path(__file__).resolve().parents[1]
+DATA_FILES = ('ip2country-v4.tsv.gz', 'ip2country-v6.tsv.gz')
 
 
 class CommandLineTests(unittest.TestCase):
@@ -18,11 +19,15 @@ class CommandLineTests(unittest.TestCase):
             root = Path(directory)
             (root / 'src').mkdir()
             (root / 'playlists').mkdir()
-            for filename in ('main.py', 'checker.py', 'utils.py'):
+            (root / 'src/data').mkdir()
+            for filename in ('main.py', 'checker.py', 'utils.py', 'splitter.py', 'geoip.py', 'countries.py'):
                 shutil.copy2(ROOT / 'src' / filename, root / 'src' / filename)
+            for filename in DATA_FILES:
+                shutil.copy2(ROOT / 'src/data' / filename, root / 'src/data' / filename)
             (root / 'config.yaml').write_text(
                 'input:\n  file: "playlists/source.m3u"\n  url: ""\n'
                 'output:\n  final_checked: "playlists/FINAL_ULTIMATE_LIVE_CHECKED.m3u"\n'
+                '  by_server_country: "playlists/by_country"\n  countries: true\n'
                 'checker:\n  timeout: 2\n  workers: 3\n  retries: 0\n'
                 '  deep_check: true\n  proxy: "${BD_PROXY}"\n  fallback_direct: true\n',
                 encoding='utf-8',
@@ -47,9 +52,17 @@ class CommandLineTests(unittest.TestCase):
                 (root / 'playlists/FINAL_ULTIMATE_LIVE_CHECKED.m3u').read_text(encoding='utf-8'),
                 '#EXTM3U\n' + live + live,
             )
-            self.assertEqual({p.name for p in (root / 'playlists').iterdir()}, {
+            self.assertEqual({p.name for p in (root / 'playlists').iterdir() if p.is_file()}, {
                 'source.m3u', 'FINAL_ULTIMATE_LIVE_CHECKED.m3u',
             })
+            # The loopback fixture has no public server country, so the two
+            # duplicates land in the unknown-country playlist, not in a real one.
+            self.assertEqual({p.name for p in (root / 'playlists/by_country').iterdir()}, {
+                'COUNTRY_MASTER.m3u', 'XX_UNKNOWN.m3u', 'README.md',
+            })
+            unknown = (root / 'playlists/by_country/XX_UNKNOWN.m3u').read_text(encoding='utf-8')
+            self.assertEqual(unknown.count('#EXTINF'), 2)
+            self.assertIn('group-title="🇺🇳 অজানা সার্ভার (XX)"', unknown)
             self.assertIn('Live entries (duplicates retained): 2', summary.read_text(encoding='utf-8'))
             self.assertEqual(server.hits['/valid.m3u8'], 1)
 

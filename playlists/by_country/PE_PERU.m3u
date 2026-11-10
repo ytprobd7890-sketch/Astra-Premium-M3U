@@ -1,0 +1,729 @@
+#EXTM3U
+# Astra server country: Peru (PE) - 242 live entries
+# 🇵🇪 পেরু (PE)
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=24H,24H [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a00v
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="A&E HD",A&E HD [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a01u
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="ADN 40 - RT ESPAÑOL",ADN 40 - RT ESPAÑOL [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a02y
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=AMC,AMC [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a02l
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="AMC SERIES",AMC SERIES [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a02u
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="AMERICA HD",AMERICA HD [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a015
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="ANIMAL PLANET",ANIMAL PLANET [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a00t
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="ATV +",ATV + [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a028
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="ATV SUR",ATV SUR [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a029
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="ATV HD",ATV HD [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a02a
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=AXN,AXN [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a00w
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="AZ CINEMA",AZ CINEMA [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a013
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="AZ CLICK",AZ CLICK [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a02g
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="AZ CORAZON",AZ CORAZON [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a014
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="BABY TV",BABY TV [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a02m
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="AZ MUNDO",AZ MUNDO [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a02j
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=BITME,BITME [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a00h
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=BETHEL,BETHEL [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a016
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="CANAL DE LAS ESTRELLAS",CANAL DE LAS ESTRELLAS [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a01g
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="CARTOON NETWORK",CARTOON NETWORK [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a006
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=CARTOONITO,CARTOONITO [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a005
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=CGTN,CGTN [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a00f
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=CINECANAL,CINECANAL [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a02o
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=CINEMAX,CINEMAX [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a003
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=CLAN,CLAN [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a02k
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="COMEDY CENTER !!!",COMEDY CENTER !!! [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a02x
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="DE PELICULA",DE PELICULA [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a019
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=DHE,DHE [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a02v
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="DISCOVERY CHANNEL",DISCOVERY CHANNEL [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a00o
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="DISCOVERY H&H",DISCOVERY H&H [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a00q
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="DISCOVERY ID",DISCOVERY ID [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a00n
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="DISCOVERY KIDS",DISCOVERY KIDS [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a00s
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="DISCOVERY TURBO",DISCOVERY TURBO [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a00r
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="DISNEY JR",DISNEY JR [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a004
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="DISNEY CHANNEL",DISNEY CHANNEL [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a01a
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="DISTRITO COMEDIA",DISTRITO COMEDIA [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a00c
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=DW,DW [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a01h
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=E!,E! [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a01w
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="ESPN 2",ESPN 2 [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a01l
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="ESPN 4",ESPN 4 [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a00j
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="ESPN 3",ESPN 3 [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a007
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=ENLACE,ENLACE [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a01m
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="ESPN 5",ESPN 5 [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a02s
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="ESPN 6",ESPN 6 [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a02q
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="ESPN 7",ESPN 7 [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a02p
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="ESPN HD",ESPN HD [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a01x
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="EUROPA EUROPA",EUROPA EUROPA [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a01n
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=EWTN,EWTN [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a011
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="FMH FAMILY",FMH FAMILY [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a01z
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="FOOD NETWORK",FOOD NETWORK [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a00m
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=FUNBOX,FUNBOX [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a00d
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=FX,FX [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a01e
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=GLOBAL,GLOBAL [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a02e
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=GOLDEN,GOLDEN [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a017
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="GOLDEN EDGE",GOLDEN EDGE [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a018
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=GOURMENT,GOURMENT [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a01f
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=HBO,HBO [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a002
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=HISTORY,HISTORY [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a00y
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="HISTORY 2",HISTORY 2 [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a00x
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=IPE,IPE [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a023
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="KANAL D-DRAMA",KANAL D-DRAMA [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a02i
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="LA EXITOSA",LA EXITOSA [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a02b
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="LA TELE",LA TELE [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a022
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=LATINA,LATINA [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a025
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="LIFE TIME",LIFE TIME [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a00z
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="LOVE NATURE",LOVE NATURE [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a00b
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="MARIA VISION",MARIA VISION [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a02d
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="NAT GEO",NAT GEO [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a01o
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="NICK HD",NICK HD [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a020
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="ODTV - BOLIVISION",ODTV - BOLIVISION [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a00e
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=PASIONES,PASIONES [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a00u
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=PANAMERICANA,PANAMERICANA [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a027
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=RPP,RPP [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a01j
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="RUMBA TV",RUMBA TV [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a02h
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="SONY MOVIES",SONY MOVIES [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a021
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="SONY HD",SONY HD [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a01q
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="STAR CHANNEL",STAR CHANNEL [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a02n
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="STAR TVE",STAR TVE [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a00l
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="STUDIO UNIVERSAL HD",STUDIO UNIVERSAL HD [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a01t
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="TELEHIT MUSIC",TELEHIT MUSIC [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a01r
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=TELEHIT,TELEHIT [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a01s
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=TELEMUNDO,TELEMUNDO [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a01b
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=TELENOVELAS,TELENOVELAS [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a012
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="TLC DISCOVERY",TLC DISCOVERY [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a00p
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="TELESUR INTERNACIONAL",TELESUR INTERNACIONAL [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a01i
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=TNT,TNT [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a009
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="TV PERU",TV PERU [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a00a
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=TVE,TVE [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a010
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="TV PERU NOTICIAS",TV PERU NOTICIAS [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a024
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="TVN HD",TVN HD [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a02w
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=UNIVERSAL,UNIVERSAL [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a02r
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=USA,USA [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a02t
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=UNIVISION,UNIVISION [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a01p
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=VCLASSICTV,VCLASSICTV [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a02z
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="VE PLUS",VE PLUS [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a01d
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=WARNER,WARNER [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a001
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=WILLAX,WILLAX [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a02c
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="A G WEST",A G WEST [190.61.117.35:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a0c9/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="13 C",13 C [190.61.117.35:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a02o/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="A H L1MAX",A H L1MAX [190.61.117.35:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a0bl/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="A&E HD",A&E HD [190.61.117.35:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a02y/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="AMC HD",AMC HD [190.61.117.35:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a033/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=ATV,ATV [190.61.117.35:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a019/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="AMC SERIES",AMC SERIES [190.61.117.35:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a00p/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="Animal Planet HD",Animal Planet HD [190.61.117.35:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a043/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="America TV HD",America TV HD [190.61.117.35:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a00f/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="Antena 3",Antena 3 [190.61.117.35:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a01e/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="Atres Series HD",Atres Series HD [190.61.117.35:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a0al/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="AXN HD",AXN HD [190.61.117.35:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a04c/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="Adult Swim",Adult Swim [190.61.117.35:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a02k/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="Baby TV",Baby TV [190.61.117.35:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a022/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="BETHEL TV",BETHEL TV [190.61.117.35:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a040/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="BBC World",BBC World [190.61.117.35:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a01c/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="Cartoon Network HD",Cartoon Network HD [190.61.117.35:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a08g/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="CHV HD",CHV HD [190.61.117.35:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a03g/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="CNN Espanol",CNN Espanol [190.61.117.35:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a023/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=Cinemax,Cinemax [190.61.117.35:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a06s/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="Canal 13 HD",Canal 13 HD [190.61.117.35:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a02v/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=Cartoonito,Cartoonito [190.61.117.35:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a0aa/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="Cinecanal HD",Cinecanal HD [190.61.117.35:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a048/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="Canal N",Canal N [190.61.117.35:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a07r/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="DHE HD",DHE HD [190.61.117.35:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a03v/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="Comedy Central HD",Comedy Central HD [190.61.117.35:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a02z/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="DW Espanol",DW Espanol [190.61.117.35:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a01l/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="De PelŦcula",De PelŦcula [190.61.117.35:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a06o/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="Discovery Channel  HD",Discovery Channel  HD [190.61.117.35:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a044/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="Discovery Kids HD",Discovery Kids HD [190.61.117.35:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a0bn/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="Discovery Science",Discovery Science [190.61.117.35:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a02b/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="Discovery Theater HD",Discovery Theater HD [190.61.117.35:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a03e/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="Discovery Turbo",Discovery Turbo [190.61.117.35:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a026/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="Home & Health HD",Home & Health HD [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a08k/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="ID HD",ID HD [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a04d/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=L1,L1 [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a08s/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=Lifetime,Lifetime [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a02i/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="Kanal D Drama",Kanal D Drama [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a084/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="Love Nature",Love Nature [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a085/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="L1 MAX",L1 MAX [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a083/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="Latina HD",Latina HD [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="NTN 24 Horas",NTN 24 Horas [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="MEGA HD",MEGA HD [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a03m/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="MTV HD",MTV HD [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a03a/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="Las Estrellas HD",Las Estrellas HD [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a09l/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="Movistar Deportes",Movistar Deportes [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a07o/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="Nick HD",Nick HD [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a03l/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="Nat Geo HD",Nat Geo HD [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a046/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="OROMAR TV",OROMAR TV [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a017/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="Nuestra Tele",Nuestra Tele [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a00k/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="Playboy HD",Playboy HD [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a02p/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=Panamericana,Panamericana [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a018/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="Pasiones HD",Pasiones HD [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a03h/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="Plim Plim TV",Plim Plim TV [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a07n/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="Plus TV Life",Plus TV Life [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a086/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="R CHARAPA TV",R CHARAPA TV [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a067/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="R Estacion Tv",R Estacion Tv [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a07k/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="R PREMIUM GO",R PREMIUM GO [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a082/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="R Nex Tv",R Nex Tv [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a06r/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="R PUCALLPA TV",R PUCALLPA TV [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a05z/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="R SELVATICA",R SELVATICA [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a05y/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=RPP,RPP [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a01a/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="RADIO BETHEL",RADIO BETHEL [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a041/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="Stingray Concerts HD",Stingray Concerts HD [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="STAR CHANNEL HD",STAR CHANNEL HD [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a04j/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="Space HD",Space HD [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a04e/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="SONY CHANNEL HD",SONY CHANNEL HD [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a04a/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="Sony Movies",Sony Movies [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a08j/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=Sextreme,Sextreme [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a0cj/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="Studio Universal HD",Studio Universal HD [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a074/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="Sun Channel HD",Sun Channel HD [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a03z/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="T NOVA TV",T NOVA TV [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a07y/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="T PBO HD",T PBO HD [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a05r/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=TCM,TCM [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a00y/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="TNT Novelas HD",TNT Novelas HD [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a038/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="TNT HD",TNT HD [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a047/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=TLC,TLC [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a02a/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=TVE,TVE [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a08m/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="TNT Sports Premiun HD",TNT Sports Premiun HD [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a03i/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="TVN HD",TVN HD [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a03f/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="TNT Series HD",TNT Series HD [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a034/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=TelefØ,TelefØ [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a08l/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=Telemundo,Telemundo [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a02d/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=Tlnovelas,Tlnovelas [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a06n/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="Via X Esports",Via X Esports [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a00u/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=USA,USA [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=Venus,Venus [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a013/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="UNIVERSAL CHANNEL HD",UNIVERSAL CHANNEL HD [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a031/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=Willax,Willax [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a07t/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="Warner Channel HD",Warner Channel HD [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a04b/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="ATV HD",ATV HD [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/a0d6
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="AMERICA TV HD",AMERICA TV HD [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/a0c1
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="AMC Series",AMC Series [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/a0c8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=ATV,ATV [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/a0cv
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="Adult swim HD",Adult swim HD [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/a0au
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="America TV HD",America TV HD [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/a08c
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="CABLE TACNA TV",CABLE TACNA TV [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/a0az
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="CANAL CONGRESO",CANAL CONGRESO [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/a0ax
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="CANAL DRAMA HD",CANAL DRAMA HD [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/a0a9
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="CARTOON NETWORK HD",CARTOON NETWORK HD [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/a0ab
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="CINE SONY",CINE SONY [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/a0a4
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="CINEMAX HD",CINEMAX HD [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/a09r
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="CT DEPORTES HD",CT DEPORTES HD [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/a09o
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="Canal N",Canal N [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/a0cn
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=Clover,Clover [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/a0cj
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="DIRECTV 1604 HD",DIRECTV 1604 HD [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/a096
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="DIRECTV 1612 HD",DIRECTV 1612 HD [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/dhehd
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="DIRECTV SPORT 2 HD",DIRECTV SPORT 2 HD [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/a0ae
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="ESPN1 HD",ESPN1 HD [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/a0bo
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="EXITOSA HD M3U",EXITOSA HD M3U [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/a07z
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=GLOBAL,GLOBAL [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/a0cs
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="EXITOSA HD",EXITOSA HD [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/a0b5
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="Europa Europa",Europa Europa [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/a0cb
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="Exitosa TV",Exitosa TV [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/a0co
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="GOLPERU 714 HD",GOLPERU 714 HD [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/golperu
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="GLOBAL HD",GLOBAL HD [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/a0bm
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="Golden HD",Golden HD [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/a0c6
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="Golden Edge",Golden Edge [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/a0ca
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="HBO Mundi",HBO Mundi [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/a0cu
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="HBO Signature",HBO Signature [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/a0ct
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="History 2",History 2 [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/a0ck
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=HTV,HTV [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/a0c9
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="RCN EXTRA",RCN EXTRA [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/a087
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="LIGA 1 MAX",LIGA 1 MAX [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/ligamax1
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="Las Estrellas",Las Estrellas [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/a0bq
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="Latina HD",Latina HD [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/a08d
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="NICK JR HD",NICK JR HD [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/a0ay
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="PANAMERICANA HD",PANAMERICANA HD [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/a0a8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="PASIONES HD",PASIONES HD [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/pasiones
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="PBO HD",PBO HD [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/a0aa
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=Panamericana,Panamericana [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/a0cz
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="Plim Plim TV",Plim Plim TV [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/a0cm
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=RPP,RPP [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/a0cr
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="Sony Movies HD",Sony Movies HD [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/a0aw
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="Stingray Concerts HD",Stingray Concerts HD [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/a08b
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="Studio Universal HD",Studio Universal HD [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/a0bx
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="TELE ESTRELLA TV HD",TELE ESTRELLA TV HD [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/a09y
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="TLNOVELAS HD",TLNOVELAS HD [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/goldenplush
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="TyC Sports HD",TyC Sports HD [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/a0ar
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="TV PERU",TV PERU [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/a0ac
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="TV Peru",TV Peru [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/a0dc
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="Televisa Telenovelas",Televisa Telenovelas [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/a0a3
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=Telesur,Telesur [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/a0cq
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=Willax,Willax [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/a0cp
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="WILLAX HD",WILLAX HD [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/a0ad

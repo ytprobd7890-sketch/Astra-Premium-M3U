@@ -31,7 +31,11 @@ class BotIntegrationTests(unittest.TestCase):
         self.root = Path(self.temp.name)
         self.source = self.root / 'source.m3u'
         self.final = self.root / 'FINAL.m3u'
-        self.config = {'input': {'file': str(self.source), 'url': ''}}
+        self.countries = self.root / 'by_country'
+        self.config = {
+            'input': {'file': str(self.source), 'url': ''},
+            'output': {'by_server_country': str(self.countries), 'countries': True},
+        }
         self.checker_config = {
             'timeout': 2, 'workers': 5, 'retries': 0,
             'proxy': '', 'fallback_direct': True, 'deep_check': True,
@@ -39,15 +43,17 @@ class BotIntegrationTests(unittest.TestCase):
         with self.server.lock:
             self.server.hits.clear()
 
-    def run_bot(self, output=None, summary_path=None, destination=None):
+    def run_bot(self, output=None, summary_path=None, destination=None,
+                countries_enabled=None, countries_dir=None):
         patches = patch.multiple(
             bot, config=self.config, INPUT_FILE=self.source,
             OUTPUT_FINAL=destination if destination is not None else self.final,
+            OUTPUT_COUNTRIES=self.countries if countries_dir is None else countries_dir,
             CHECKER_CFG=self.checker_config,
         )
         env = {'BD_PROXY': '', 'GITHUB_STEP_SUMMARY': str(summary_path) if summary_path else ''}
         with patch.dict(os.environ, env), patches, redirect_stdout(output if output is not None else io.StringIO()):
-            return bot.main()
+            return bot.main(countries_enabled=countries_enabled)
 
     def test_all_live_entries_keep_duplicates_order_and_original_metadata(self):
         preamble = '#EXTM3U x-tvg-url="http://example.test/guide.xml"\n# global option\n'
@@ -86,7 +92,12 @@ class BotIntegrationTests(unittest.TestCase):
         summary = summary_path.read_text(encoding='utf-8')
         self.assertIn('Checked: 5 unique URLs', summary)
         self.assertIn('Live entries (duplicates retained): 5', summary)
-        self.assertEqual({p.name for p in self.root.iterdir()}, {'source.m3u', 'FINAL.m3u', 'summary.md'})
+        self.assertEqual(
+            {p.name for p in self.root.iterdir()},
+            {'source.m3u', 'FINAL.m3u', 'summary.md', 'by_country'},
+        )
+        self.assertIn('Live entries by server country', summary)
+        self.assertIn('অজানা সার্ভার (XX)', summary)
 
     def test_no_live_streams_leave_previous_playlist_untouched(self):
         self.source.write_text(f'#EXTM3U\n#EXTINF:-1,Dead\n{self.base}/missing.m3u8\n', encoding='utf-8')
@@ -165,6 +176,62 @@ class BotIntegrationTests(unittest.TestCase):
         with patch.dict(os.environ, {'BD_PROXY': secret}):
             loaded = bot.load_config(config_file)
         self.assertEqual(loaded['checker']['proxy'], secret)
+
+    def test_live_entries_are_grouped_by_the_country_of_the_server_ip(self):
+        import geoip
+        import splitter
+
+        # 1.2.3.4 is the fixture server host in the source entries, so patch the
+        # lookup table instead of the network: two "countries" plus one unknown.
+        servers = {
+            '1.2.3.4': ('PK', '1.2.3.4'),
+            '5.6.7.8': ('BD', '5.6.7.8'),
+            'example.test': ('XX', ''),
+        }
+        original_lookup = geoip.lookup_host
+        self.addCleanup(setattr, geoip, 'lookup_host', original_lookup)
+        geoip.lookup_host = lambda host: servers.get(host, ('XX', ''))
+
+        self.source.write_text(
+            '#EXTM3U\n'
+            f'#EXTINF:-1 group-title="Old Group" tvg-name="One",First\n{self.base}/raw\n'
+            f'#EXTINF:-1,দুই\n{self.base}/media2\n',
+            encoding='utf-8',
+        )
+        # Both fixture URLs share 127.0.0.1; keep the mapping honest by looking
+        # up the host through the patched table below.
+        def host_of(url):
+            return '1.2.3.4' if url.endswith('/raw') else '5.6.7.8'
+
+        with patch.object(splitter.geoip, 'host_of', side_effect=host_of):
+            stats = self.run_bot()
+
+        master = (self.countries / 'COUNTRY_MASTER.m3u').read_text(encoding='utf-8')
+        pakistan = (self.countries / 'PK_PAKISTAN.m3u').read_text(encoding='utf-8')
+        bangladesh = (self.countries / 'BD_BANGLADESH.m3u').read_text(encoding='utf-8')
+        self.assertIn('group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK" tvg-name=One,First', pakistan)
+        self.assertIn('group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",দুই', bangladesh)
+        self.assertEqual(pakistan.count('#EXTINF'), 1)
+        self.assertEqual(bangladesh.count('#EXTINF'), 1)
+        self.assertEqual(master.count('#EXTINF'), 2)
+        self.assertLess(master.index('বাংলাদেশ'), master.index('পাকিস্তান'))
+        self.assertEqual([item['code'] for item in stats['countries']], ['BD', 'PK'])
+        self.assertEqual({p.name for p in self.countries.iterdir()}, {
+            'COUNTRY_MASTER.m3u', 'BD_BANGLADESH.m3u', 'PK_PAKISTAN.m3u', 'README.md',
+        })
+
+    def test_country_output_can_be_switched_off_and_never_overwrites_the_source(self):
+        self.source.write_text(f'#EXTM3U\n#EXTINF:-1,One\n{self.base}/raw\n', encoding='utf-8')
+        stats = self.run_bot(countries_enabled=False)
+        self.assertFalse(self.countries.exists())
+        self.assertEqual(stats['countries'], [])
+
+        with self.assertRaisesRegex(SystemExit, 'country output folder must not be'):
+            self.run_bot(countries_dir=self.source.parent)
+        self.assertEqual(
+            self.source.read_text(encoding='utf-8'),
+            '#EXTM3U\n#EXTINF:-1,One\n' + self.base + '/raw\n',
+        )
 
 
 if __name__ == '__main__':

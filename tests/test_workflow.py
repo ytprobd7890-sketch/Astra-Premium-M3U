@@ -21,19 +21,25 @@ class WorkflowTests(unittest.TestCase):
         commands = '\n'.join(step.get('run', '') for step in job['steps'])
         self.assertIn('python -m unittest discover -s tests -v', commands)
         self.assertIn('python src/main.py', commands)
-        self.assertIn('git add -- playlists/FINAL_ULTIMATE_LIVE_CHECKED.m3u', commands)
+        self.assertIn('playlists/FINAL_ULTIMATE_LIVE_CHECKED.m3u playlists/by_country', commands)
         self.assertIn('git push origin "HEAD:$GITHUB_REF"', commands)
         uploads = [step for step in job['steps'] if step.get('uses', '').startswith('actions/upload-artifact@')]
         self.assertEqual(len(uploads), 1)
-        self.assertEqual(uploads[0]['with']['path'], 'playlists/FINAL_ULTIMATE_LIVE_CHECKED.m3u')
+        self.assertEqual(
+            uploads[0]['with']['path'].splitlines(),
+            ['playlists/FINAL_ULTIMATE_LIVE_CHECKED.m3u', 'playlists/by_country/*.m3u'],
+        )
         self.assertNotIn('PREMIUM_BEST', commands)
-        self.assertNotIn('by_country', commands)
         self.assertNotIn('duplicates.json', commands)
 
-    def test_config_has_one_output(self):
+    def test_config_publishes_the_all_live_and_country_playlists(self):
         with (ROOT / 'config.yaml').open(encoding='utf-8') as source:
             config = yaml.safe_load(source)
-        self.assertEqual(config['output'], {'final_checked': 'playlists/FINAL_ULTIMATE_LIVE_CHECKED.m3u'})
+        self.assertEqual(config['output'], {
+            'final_checked': 'playlists/FINAL_ULTIMATE_LIVE_CHECKED.m3u',
+            'by_server_country': 'playlists/by_country',
+            'countries': True,
+        })
         self.assertNotIn('deduplicator', config)
 
 
