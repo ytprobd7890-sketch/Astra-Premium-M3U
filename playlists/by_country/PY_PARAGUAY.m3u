@@ -1,5 +1,5 @@
 #EXTM3U
-# Astra server country: Paraguay (PY) - 48 live entries
+# Astra server country: Paraguay (PY) - 71 live entries
 # 🇵🇾 প্যারাগুয়ে (PY)
 #EXTINF:-1 group-title="🇵🇾 প্যারাগুয়ে (PY)" tvg-country="PY" tvg-name="AE Mundo",AE Mundo [45.170.130.224:8000]
 #EXTGRP:🇵🇾 প্যারাগুয়ে (PY)
@@ -16,6 +16,12 @@ http://45.170.130.224:8000/play/a00t/index.m3u8
 #EXTINF:-1 group-title="🇵🇾 প্যারাগুয়ে (PY)" tvg-country="PY" tvg-name=BabyFirst,BabyFirst [45.170.130.224:8000]
 #EXTGRP:🇵🇾 প্যারাগুয়ে (PY)
 http://45.170.130.224:8000/play/a017/index.m3u8
+#EXTINF:-1 group-title="🇵🇾 প্যারাগুয়ে (PY)" tvg-country="PY" tvg-name="Discovery Kids",Discovery Kids [45.170.130.224:8000]
+#EXTGRP:🇵🇾 প্যারাগুয়ে (PY)
+http://45.170.130.224:8000/play/a01a/index.m3u8
+#EXTINF:-1 group-title="🇵🇾 প্যারাগুয়ে (PY)" tvg-country="PY" tvg-name="Discovery ID",Discovery ID [45.170.130.224:8000]
+#EXTGRP:🇵🇾 প্যারাগুয়ে (PY)
+http://45.170.130.224:8000/play/a02b/index.m3u8
 #EXTINF:-1 group-title="🇵🇾 প্যারাগুয়ে (PY)" tvg-country="PY" tvg-name="Disney Channel",Disney Channel [45.170.130.224:8000]
 #EXTGRP:🇵🇾 প্যারাগুয়ে (PY)
 http://45.170.130.224:8000/play/a01r/index.m3u8
@@ -37,6 +43,12 @@ http://45.170.130.224:8000/play/a01p/index.m3u8
 #EXTINF:-1 group-title="🇵🇾 প্যারাগুয়ে (PY)" tvg-country="PY" tvg-name=Cinemax,Cinemax [45.170.130.224:8000]
 #EXTGRP:🇵🇾 প্যারাগুয়ে (PY)
 http://45.170.130.224:8000/play/a03e/index.m3u8
+#EXTINF:-1 group-title="🇵🇾 প্যারাগুয়ে (PY)" tvg-country="PY" tvg-name="America TV PY",America TV PY [45.170.130.224:8000]
+#EXTGRP:🇵🇾 প্যারাগুয়ে (PY)
+http://45.170.130.224:8000/play/a02o/index.m3u8
+#EXTINF:-1 group-title="🇵🇾 প্যারাগুয়ে (PY)" tvg-country="PY" tvg-name="CNN Espanol",CNN Espanol [45.170.130.224:8000]
+#EXTGRP:🇵🇾 প্যারাগুয়ে (PY)
+http://45.170.130.224:8000/play/a01b/index.m3u8
 #EXTINF:-1 group-title="🇵🇾 প্যারাগুয়ে (PY)" tvg-country="PY" tvg-name="EVENTOS HD",EVENTOS HD [45.170.130.224:8000]
 #EXTGRP:🇵🇾 প্যারাগুয়ে (PY)
 http://45.170.130.224:8000/play/a04k/index.m3u8
@@ -49,6 +61,9 @@ http://45.170.130.224:8000/play/a03g/index.m3u8
 #EXTINF:-1 group-title="🇵🇾 প্যারাগুয়ে (PY)" tvg-country="PY" tvg-name=C9N,C9N [45.170.130.224:8000]
 #EXTGRP:🇵🇾 প্যারাগুয়ে (PY)
 http://45.170.130.224:8000/play/a033/index.m3u8
+#EXTINF:-1 group-title="🇵🇾 প্যারাগুয়ে (PY)" tvg-country="PY" tvg-name=Enlace,Enlace [45.170.130.224:8000]
+#EXTGRP:🇵🇾 প্যারাগুয়ে (PY)
+http://45.170.130.224:8000/play/a015/index.m3u8
 #EXTINF:-1 group-title="🇵🇾 প্যারাগুয়ে (PY)" tvg-country="PY" tvg-name="ESPN 2 Latin",ESPN 2 Latin [45.170.130.224:8000]
 #EXTGRP:🇵🇾 প্যারাগুয়ে (PY)
 http://45.170.130.224:8000/play/a01x/index.m3u8
@@ -58,21 +73,54 @@ http://45.170.130.224:8000/play/a03s/index.m3u8
 #EXTINF:-1 group-title="🇵🇾 প্যারাগুয়ে (PY)" tvg-country="PY" tvg-name="ESPN HD",ESPN HD [45.170.130.224:8000]
 #EXTGRP:🇵🇾 প্যারাগুয়ে (PY)
 http://45.170.130.224:8000/play/a04l/index.m3u8
+#EXTINF:-1 group-title="🇵🇾 প্যারাগুয়ে (PY)" tvg-country="PY" tvg-name="ESPN 4",ESPN 4 [45.170.130.224:8000]
+#EXTGRP:🇵🇾 প্যারাগুয়ে (PY)
+http://45.170.130.224:8000/play/a02k/index.m3u8
+#EXTINF:-1 group-title="🇵🇾 প্যারাগুয়ে (PY)" tvg-country="PY" tvg-name="ESPN 4",ESPN 4 [45.170.130.224:8000]
+#EXTGRP:🇵🇾 প্যারাগুয়ে (PY)
+http://45.170.130.224:8000/play/a01w/index.m3u8
+#EXTINF:-1 group-title="🇵🇾 প্যারাগুয়ে (PY)" tvg-country="PY" tvg-name="ESPN CO",ESPN CO [45.170.130.224:8000]
+#EXTGRP:🇵🇾 প্যারাগুয়ে (PY)
+http://45.170.130.224:8000/play/a034/index.m3u8
 #EXTINF:-1 group-title="🇵🇾 প্যারাগুয়ে (PY)" tvg-country="PY" tvg-name=FX,FX [45.170.130.224:8000]
 #EXTGRP:🇵🇾 প্যারাগুয়ে (PY)
 http://45.170.130.224:8000/play/a03i/index.m3u8
 #EXTINF:-1 group-title="🇵🇾 প্যারাগুয়ে (PY)" tvg-country="PY" tvg-name="Esne TV",Esne TV [45.170.130.224:8000]
 #EXTGRP:🇵🇾 প্যারাগুয়ে (PY)
 http://45.170.130.224:8000/play/a03r/index.m3u8
+#EXTINF:-1 group-title="🇵🇾 প্যারাগুয়ে (PY)" tvg-country="PY" tvg-name="France 24",France 24 [45.170.130.224:8000]
+#EXTGRP:🇵🇾 প্যারাগুয়ে (PY)
+http://45.170.130.224:8000/play/a02c/index.m3u8
 #EXTINF:-1 group-title="🇵🇾 প্যারাগুয়ে (PY)" tvg-country="PY" tvg-name="Fox Sports 3",Fox Sports 3 [45.170.130.224:8000]
 #EXTGRP:🇵🇾 প্যারাগুয়ে (PY)
 http://45.170.130.224:8000/play/a028/index.m3u8
 #EXTINF:-1 group-title="🇵🇾 প্যারাগুয়ে (PY)" tvg-country="PY" tvg-name="GEN HD",GEN HD [45.170.130.224:8000]
 #EXTGRP:🇵🇾 প্যারাগুয়ে (PY)
 http://45.170.130.224:8000/play/a04j/index.m3u8
+#EXTINF:-1 group-title="🇵🇾 প্যারাগুয়ে (PY)" tvg-country="PY" tvg-name="HBO 2 sd",HBO 2 sd [45.170.130.224:8000]
+#EXTGRP:🇵🇾 প্যারাগুয়ে (PY)
+http://45.170.130.224:8000/play/a01i/index.m3u8
+#EXTINF:-1 group-title="🇵🇾 প্যারাগুয়ে (PY)" tvg-country="PY" tvg-name="HBO Plus sd",HBO Plus sd [45.170.130.224:8000]
+#EXTGRP:🇵🇾 প্যারাগুয়ে (PY)
+http://45.170.130.224:8000/play/a01j/index.m3u8
+#EXTINF:-1 group-title="🇵🇾 প্যারাগুয়ে (PY)" tvg-country="PY" tvg-name="HBO Family sd",HBO Family sd [45.170.130.224:8000]
+#EXTGRP:🇵🇾 প্যারাগুয়ে (PY)
+http://45.170.130.224:8000/play/a01l/index.m3u8
 #EXTINF:-1 group-title="🇵🇾 প্যারাগুয়ে (PY)" tvg-country="PY" tvg-name="HBO sd",HBO sd [45.170.130.224:8000]
 #EXTGRP:🇵🇾 প্যারাগুয়ে (PY)
 http://45.170.130.224:8000/play/a03d/index.m3u8
+#EXTINF:-1 group-title="🇵🇾 প্যারাগুয়ে (PY)" tvg-country="PY" tvg-name="HBO XTREME SD",HBO XTREME SD [45.170.130.224:8000]
+#EXTGRP:🇵🇾 প্যারাগুয়ে (PY)
+http://45.170.130.224:8000/play/a01k/index.m3u8
+#EXTINF:-1 group-title="🇵🇾 প্যারাগুয়ে (PY)" tvg-country="PY" tvg-name="La Tele",La Tele [45.170.130.224:8000]
+#EXTGRP:🇵🇾 প্যারাগুয়ে (PY)
+http://45.170.130.224:8000/play/a03u/index.m3u8
+#EXTINF:-1 group-title="🇵🇾 প্যারাগুয়ে (PY)" tvg-country="PY" tvg-name=Lifetime,Lifetime [45.170.130.224:8000]
+#EXTGRP:🇵🇾 প্যারাগুয়ে (PY)
+http://45.170.130.224:8000/play/a018/index.m3u8
+#EXTINF:-1 group-title="🇵🇾 প্যারাগুয়ে (PY)" tvg-country="PY" tvg-name=HomeandHealth,HomeandHealth [45.170.130.224:8000]
+#EXTGRP:🇵🇾 প্যারাগুয়ে (PY)
+http://45.170.130.224:8000/play/a02f/index.m3u8
 #EXTINF:-1 group-title="🇵🇾 প্যারাগুয়ে (PY)" tvg-country="PY" tvg-name=NPY,NPY [45.170.130.224:8000]
 #EXTGRP:🇵🇾 প্যারাগুয়ে (PY)
 http://45.170.130.224:8000/play/a035/index.m3u8
@@ -91,9 +139,15 @@ http://45.170.130.224:8000/play/a00q/index.m3u8
 #EXTINF:-1 group-title="🇵🇾 প্যারাগুয়ে (PY)" tvg-country="PY" tvg-name=PARAVISION,PARAVISION [45.170.130.224:8000]
 #EXTGRP:🇵🇾 প্যারাগুয়ে (PY)
 http://45.170.130.224:8000/play/a032/index.m3u8
+#EXTINF:-1 group-title="🇵🇾 প্যারাগুয়ে (PY)" tvg-country="PY" tvg-name=ParaguayTV,ParaguayTV [45.170.130.224:8000]
+#EXTGRP:🇵🇾 প্যারাগুয়ে (PY)
+http://45.170.130.224:8000/play/a02r/index.m3u8
 #EXTINF:-1 group-title="🇵🇾 প্যারাগুয়ে (PY)" tvg-country="PY" tvg-name=SNT,SNT [45.170.130.224:8000]
 #EXTGRP:🇵🇾 প্যারাগুয়ে (PY)
 http://45.170.130.224:8000/play/a013/index.m3u8
+#EXTINF:-1 group-title="🇵🇾 প্যারাগুয়ে (PY)" tvg-country="PY" tvg-name="RCN Novelas",RCN Novelas [45.170.130.224:8000]
+#EXTGRP:🇵🇾 প্যারাগুয়ে (PY)
+http://45.170.130.224:8000/play/a02a/index.m3u8
 #EXTINF:-1 group-title="🇵🇾 প্যারাগুয়ে (PY)" tvg-country="PY" tvg-name="SNT HD",SNT HD [45.170.130.224:8000]
 #EXTGRP:🇵🇾 প্যারাগুয়ে (PY)
 http://45.170.130.224:8000/play/a04i/index.m3u8
@@ -112,9 +166,18 @@ http://45.170.130.224:8000/play/a036/index.m3u8
 #EXTINF:-1 group-title="🇵🇾 প্যারাগুয়ে (PY)" tvg-country="PY" tvg-name=TCM,TCM [45.170.130.224:8000]
 #EXTGRP:🇵🇾 প্যারাগুয়ে (PY)
 http://45.170.130.224:8000/play/a010/index.m3u8
+#EXTINF:-1 group-title="🇵🇾 প্যারাগুয়ে (PY)" tvg-country="PY" tvg-name="Studio Universal",Studio Universal [45.170.130.224:8000]
+#EXTGRP:🇵🇾 প্যারাগুয়ে (PY)
+http://45.170.130.224:8000/play/a01o/index.m3u8
+#EXTINF:-1 group-title="🇵🇾 প্যারাগুয়ে (PY)" tvg-country="PY" tvg-name=TLC,TLC [45.170.130.224:8000]
+#EXTGRP:🇵🇾 প্যারাগুয়ে (PY)
+http://45.170.130.224:8000/play/a024/index.m3u8
 #EXTINF:-1 group-title="🇵🇾 প্যারাগুয়ে (PY)" tvg-country="PY" tvg-name="TELEFUTURO HD",TELEFUTURO HD [45.170.130.224:8000]
 #EXTGRP:🇵🇾 প্যারাগুয়ে (PY)
 http://45.170.130.224:8000/play/a04m/index.m3u8
+#EXTINF:-1 group-title="🇵🇾 প্যারাগুয়ে (PY)" tvg-country="PY" tvg-name=Sony,Sony [45.170.130.224:8000]
+#EXTGRP:🇵🇾 প্যারাগুয়ে (PY)
+http://45.170.130.224:8000/play/a03f/index.m3u8
 #EXTINF:-1 group-title="🇵🇾 প্যারাগুয়ে (PY)" tvg-country="PY" tvg-name=Space,Space [45.170.130.224:8000]
 #EXTGRP:🇵🇾 প্যারাগুয়ে (PY)
 http://45.170.130.224:8000/play/a03h/index.m3u8
@@ -136,9 +199,15 @@ http://45.170.130.224:8000/play/a03x/index.m3u8
 #EXTINF:-1 group-title="🇵🇾 প্যারাগুয়ে (PY)" tvg-country="PY" tvg-name="Telefuturo HD",Telefuturo HD [45.170.130.224:8000]
 #EXTGRP:🇵🇾 প্যারাগুয়ে (PY)
 http://45.170.130.224:8000/play/a04x/index.m3u8
+#EXTINF:-1 group-title="🇵🇾 প্যারাগুয়ে (PY)" tvg-country="PY" tvg-name=TyC,TyC [45.170.130.224:8000]
+#EXTGRP:🇵🇾 প্যারাগুয়ে (PY)
+http://45.170.130.224:8000/play/a020/index.m3u8
 #EXTINF:-1 group-title="🇵🇾 প্যারাগুয়ে (PY)" tvg-country="PY" tvg-name=Telemundo,Telemundo [45.170.130.224:8000]
 #EXTGRP:🇵🇾 প্যারাগুয়ে (PY)
 http://45.170.130.224:8000/play/a029/index.m3u8
+#EXTINF:-1 group-title="🇵🇾 প্যারাগুয়ে (PY)" tvg-country="PY" tvg-name=ViaX,ViaX [45.170.130.224:8000]
+#EXTGRP:🇵🇾 প্যারাগুয়ে (PY)
+http://45.170.130.224:8000/play/a025/index.m3u8
 #EXTINF:-1 group-title="🇵🇾 প্যারাগুয়ে (PY)" tvg-country="PY" tvg-name=Warner,Warner [45.170.130.224:8000]
 #EXTGRP:🇵🇾 প্যারাগুয়ে (PY)
 http://45.170.130.224:8000/play/a01u/index.m3u8
