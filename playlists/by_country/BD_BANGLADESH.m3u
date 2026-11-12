@@ -1,9 +1,6 @@
 #EXTM3U
-# Astra server country: Bangladesh (BD) - 108 live entries
+# Astra server country: Bangladesh (BD) - 107 live entries
 # 🇧🇩 বাংলাদেশ (BD)
-#EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",BTV NEWS HD
-#EXTGRP:🇧🇩 বাংলাদেশ (BD)
-http://36.50.22.214:8000/play/a00a/index.m3u8
 #EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",All Time Movies
 #EXTGRP:🇧🇩 বাংলাদেশ (BD)
 http://103.119.94.1:7080/play/a0i1/index.m3u8
