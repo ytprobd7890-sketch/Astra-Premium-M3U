@@ -1,5 +1,5 @@
 #EXTM3U
-# Astra server country: Peru (PE) - 241 live entries
+# Astra server country: Peru (PE) - 242 live entries
 # 🇵🇪 পেরু (PE)
 #EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=24H,24H [186.148.196.100:8000]
 #EXTGRP:🇵🇪 পেরু (PE)
@@ -196,6 +196,9 @@ http://186.148.196.100:8000/play/a025
 #EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="LIFE TIME",LIFE TIME [186.148.196.100:8000]
 #EXTGRP:🇵🇪 পেরু (PE)
 http://186.148.196.100:8000/play/a00z
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="LIGA 1 MAX",LIGA 1 MAX [186.148.196.100:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.100:8000/play/a030
 #EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="LOVE NATURE",LOVE NATURE [186.148.196.100:8000]
 #EXTGRP:🇵🇪 পেরু (PE)
 http://186.148.196.100:8000/play/a00b
@@ -457,6 +460,9 @@ http://190.108.83.69:8000/play/a07n/index.m3u8
 #EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="Plus TV Life",Plus TV Life [190.108.83.69:8000]
 #EXTGRP:🇵🇪 পেরু (PE)
 http://190.108.83.69:8000/play/a086/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="R CHARAPA TV",R CHARAPA TV [190.108.83.69:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a067/index.m3u8
 #EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="R Estacion Tv",R Estacion Tv [190.108.83.69:8000]
 #EXTGRP:🇵🇪 পেরু (PE)
 http://190.108.83.69:8000/play/a07k/index.m3u8
@@ -628,9 +634,6 @@ http://186.148.196.82:8001/play/a0cs
 #EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="EXITOSA HD",EXITOSA HD [186.148.196.82:8001]
 #EXTGRP:🇵🇪 পেরু (PE)
 http://186.148.196.82:8001/play/a0b5
-#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="Europa Europa",Europa Europa [186.148.196.82:8001]
-#EXTGRP:🇵🇪 পেরু (PE)
-http://186.148.196.82:8001/play/a0cb
 #EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="Exitosa TV",Exitosa TV [186.148.196.82:8001]
 #EXTGRP:🇵🇪 পেরু (PE)
 http://186.148.196.82:8001/play/a0co

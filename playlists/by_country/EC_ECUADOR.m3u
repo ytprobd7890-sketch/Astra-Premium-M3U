@@ -1,5 +1,5 @@
 #EXTM3U
-# Astra server country: Ecuador (EC) - 444 live entries
+# Astra server country: Ecuador (EC) - 442 live entries
 # 🇪🇨 ইকুয়েডর (EC)
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=CERTV,CERTV [179.51.136.19:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
@@ -556,9 +556,6 @@ http://179.51.136.19:8000/play/a18r/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="UNIVERSAL CHANNEL HD",UNIVERSAL CHANNEL HD [179.51.136.19:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://179.51.136.19:8000/play/a1l8/index.m3u8
-#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Unicanal HD",Unicanal HD [179.51.136.19:8000]
-#EXTGRP:🇪🇨 ইকুয়েডর (EC)
-http://179.51.136.19:8000/play/a1sp/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Warner Channel HD",Warner Channel HD [179.51.136.19:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://179.51.136.19:8000/play/a1kl/index.m3u8
@@ -841,9 +838,6 @@ http://45.185.163.75:8000/play/a032/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Mas Chic",Mas Chic [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a0fg/index.m3u8
-#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="LIFE TIME",LIFE TIME [45.185.163.75:8000]
-#EXTGRP:🇪🇨 ইকুয়েডর (EC)
-http://45.185.163.75:8000/play/a0ee/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Mega,Mega [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a06r/index.m3u8
@@ -1021,9 +1015,6 @@ http://45.185.163.75:8000/play/a04c/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Studio Universal",Studio Universal [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a0ha/index.m3u8
-#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="TNT SPORTS",TNT SPORTS [45.185.163.75:8000]
-#EXTGRP:🇪🇨 ইকুয়েডর (EC)
-http://45.185.163.75:8000/play/a03q/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="TNT Series HD",TNT Series HD [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a046/index.m3u8
@@ -1192,6 +1183,9 @@ http://45.185.163.75:8000/play/a0ff/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",CNN Espanol
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://186.33.47.113:8000/play/a05p/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",Animal Planet
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://186.33.47.113:8000/play/a08f/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",AE Mundo
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://186.33.47.113:8000/play/a043/index.m3u8

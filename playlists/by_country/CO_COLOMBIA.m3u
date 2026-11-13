@@ -1,5 +1,5 @@
 #EXTM3U
-# Astra server country: Colombia (CO) - 492 live entries
+# Astra server country: Colombia (CO) - 497 live entries
 # 🇨🇴 কলম্বিয়া (CO)
 #EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name="A&E HD",A&E HD [181.205.130.194:4000]
 #EXTGRP:🇨🇴 কলম্বিয়া (CO)
@@ -202,9 +202,6 @@ http://181.205.130.194:4000/play/a0e3
 #EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name="RT - ESPAÑOL",RT - ESPAÑOL [181.205.130.194:4000]
 #EXTGRP:🇨🇴 কলম্বিয়া (CO)
 http://181.205.130.194:4000/play/a0f8
-#EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name=TLC,TLC [181.205.130.194:4000]
-#EXTGRP:🇨🇴 কলম্বিয়া (CO)
-http://181.205.130.194:4000/play/a07p
 #EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name="TNT Sports Premiun HD",TNT Sports Premiun HD [181.205.130.194:4000]
 #EXTGRP:🇨🇴 কলম্বিয়া (CO)
 http://181.205.130.194:4000/play/a0e4
@@ -874,9 +871,15 @@ http://181.78.8.199:8000/play/a0ap/index.m3u8
 #EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name="SONY MUVIES",SONY MUVIES [181.78.8.199:8000]
 #EXTGRP:🇨🇴 কলম্বিয়া (CO)
 http://181.78.8.199:8000/play/a0e7/index.m3u8
+#EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name="SPACE SRT EN",SPACE SRT EN [181.78.8.199:8000]
+#EXTGRP:🇨🇴 কলম্বিয়া (CO)
+http://181.78.8.199:8000/play/a096/index.m3u8
 #EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name=STARCHANNEL,STARCHANNEL [181.78.8.199:8000]
 #EXTGRP:🇨🇴 কলম্বিয়া (CO)
 http://181.78.8.199:8000/play/a0i9/index.m3u8
+#EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name="SYFY (USA  TRANSCODIFICADO)",SYFY (USA  TRANSCODIFICADO) [181.78.8.199:8000]
+#EXTGRP:🇨🇴 কলম্বিয়া (CO)
+http://181.78.8.199:8000/play/a0cl/index.m3u8
 #EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name="SYFY (USA)",SYFY (USA) [181.78.8.199:8000]
 #EXTGRP:🇨🇴 কলম্বিয়া (CO)
 http://181.78.8.199:8000/play/a09x/index.m3u8
@@ -946,9 +949,15 @@ http://181.78.8.199:8000/play/a0a3/index.m3u8
 #EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name=TLT,TLT [181.78.8.199:8000]
 #EXTGRP:🇨🇴 কলম্বিয়া (CO)
 http://181.78.8.199:8000/play/a0fs/index.m3u8
+#EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name="TNT NOVELAS",TNT NOVELAS [181.78.8.199:8000]
+#EXTGRP:🇨🇴 কলম্বিয়া (CO)
+http://181.78.8.199:8000/play/a0bq/index.m3u8
 #EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name="TNT SRT EN",TNT SRT EN [181.78.8.199:8000]
 #EXTGRP:🇨🇴 কলম্বিয়া (CO)
 http://181.78.8.199:8000/play/a097/index.m3u8
+#EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name="TNT SERIES SRT EN",TNT SERIES SRT EN [181.78.8.199:8000]
+#EXTGRP:🇨🇴 কলম্বিয়া (CO)
+http://181.78.8.199:8000/play/a098/index.m3u8
 #EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name=TURBO,TURBO [181.78.8.199:8000]
 #EXTGRP:🇨🇴 কলম্বিয়া (CO)
 http://181.78.8.199:8000/play/a0ci/index.m3u8
@@ -1003,6 +1012,9 @@ http://181.78.8.199:8000/play/a0ia/index.m3u8
 #EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name=WINSPORT,WINSPORT [181.78.8.199:8000]
 #EXTGRP:🇨🇴 কলম্বিয়া (CO)
 http://181.78.8.199:8000/play/a0cc/index.m3u8
+#EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name=Venevision,Venevision [181.78.8.199:8000]
+#EXTGRP:🇨🇴 কলম্বিয়া (CO)
+http://181.78.8.199:8000/play/a0cp/index.m3u8
 #EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name="ZONA TV PLUS",ZONA TV PLUS [181.78.8.199:8000]
 #EXTGRP:🇨🇴 কলম্বিয়া (CO)
 http://181.78.8.199:8000/play/a0ie/index.m3u8
@@ -1030,6 +1042,9 @@ http://181.78.8.199:8000/play/a0cr/index.m3u8
 #EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name=telemundo,telemundo [181.78.8.199:8000]
 #EXTGRP:🇨🇴 কলম্বিয়া (CO)
 http://181.78.8.199:8000/play/a0cg/index.m3u8
+#EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name=televen,televen [181.78.8.199:8000]
+#EXTGRP:🇨🇴 কলম্বিয়া (CO)
+http://181.78.8.199:8000/play/a0cd/index.m3u8
 #EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name=warner,warner [181.78.8.199:8000]
 #EXTGRP:🇨🇴 কলম্বিয়া (CO)
 http://181.78.8.199:8000/play/a0cb/index.m3u8
