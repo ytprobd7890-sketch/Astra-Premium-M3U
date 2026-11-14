@@ -484,9 +484,6 @@ http://179.51.136.19:8000/play/a0uu/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="TBN Enlace",TBN Enlace [179.51.136.19:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://179.51.136.19:8000/play/a1p8/index.m3u8
-#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="TD+2 HD CR",TD+2 HD CR [179.51.136.19:8000]
-#EXTGRP:🇪🇨 ইকুয়েডর (EC)
-http://179.51.136.19:8000/play/a0zb/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="TNT Novelas HD",TNT Novelas HD [179.51.136.19:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://179.51.136.19:8000/play/a1lg/index.m3u8
@@ -940,6 +937,9 @@ http://45.185.163.75:8000/play/a00x/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=RTU,RTU [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a0b9/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=RTU,RTU [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0i4/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Russia Today",Russia Today [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a0dq/index.m3u8
