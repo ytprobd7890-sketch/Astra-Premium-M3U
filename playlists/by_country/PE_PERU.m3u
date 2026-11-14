@@ -1,5 +1,5 @@
 #EXTM3U
-# Astra server country: Peru (PE) - 242 live entries
+# Astra server country: Peru (PE) - 240 live entries
 # 🇵🇪 পেরু (PE)
 #EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=24H,24H [186.148.196.100:8000]
 #EXTGRP:🇵🇪 পেরু (PE)
@@ -139,9 +139,6 @@ http://186.148.196.100:8000/play/a02p
 #EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="ESPN HD",ESPN HD [186.148.196.100:8000]
 #EXTGRP:🇵🇪 পেরু (PE)
 http://186.148.196.100:8000/play/a01x
-#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="EUROPA EUROPA",EUROPA EUROPA [186.148.196.100:8000]
-#EXTGRP:🇵🇪 পেরু (PE)
-http://186.148.196.100:8000/play/a01n
 #EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=EWTN,EWTN [186.148.196.100:8000]
 #EXTGRP:🇵🇪 পেরু (PE)
 http://186.148.196.100:8000/play/a011
@@ -466,9 +463,6 @@ http://190.108.83.69:8000/play/a067/index.m3u8
 #EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="R Estacion Tv",R Estacion Tv [190.108.83.69:8000]
 #EXTGRP:🇵🇪 পেরু (PE)
 http://190.108.83.69:8000/play/a07k/index.m3u8
-#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="R PREMIUM GO",R PREMIUM GO [190.108.83.69:8000]
-#EXTGRP:🇵🇪 পেরু (PE)
-http://190.108.83.69:8000/play/a082/index.m3u8
 #EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="R Nex Tv",R Nex Tv [190.108.83.69:8000]
 #EXTGRP:🇵🇪 পেরু (PE)
 http://190.108.83.69:8000/play/a06r/index.m3u8

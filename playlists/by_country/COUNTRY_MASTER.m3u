@@ -1,12 +1,15 @@
 #EXTM3U
-# Astra server-IP country master: 1987 live entries
+# Astra server-IP country master: 1918 live entries
 # Country groups are ordered BD first, then Bangla alphabetical order
-#EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",HI DOST HD
-#EXTGRP:🇧🇩 বাংলাদেশ (BD)
-http://36.50.22.214:8000/play/a00n/index.m3u8
 #EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD", B4U Bhojpuri
 #EXTGRP:🇧🇩 বাংলাদেশ (BD)
 http://103.119.94.1:7080/play/a0hz/index.m3u8
+#EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",Desh TV
+#EXTGRP:🇧🇩 বাংলাদেশ (BD)
+http://36.50.22.214:8000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",GLOBAL TV HD
+#EXTGRP:🇧🇩 বাংলাদেশ (BD)
+http://36.50.22.214:8000/play/a00g/index.m3u8
 #EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",All Time Movies
 #EXTGRP:🇧🇩 বাংলাদেশ (BD)
 http://103.119.94.1:7080/play/a0i1/index.m3u8
@@ -229,6 +232,9 @@ http://103.119.94.1:7080/play/a0pj/index.m3u8
 #EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",TLC HD
 #EXTGRP:🇧🇩 বাংলাদেশ (BD)
 http://103.119.94.1:7080/play/a0t2/index.m3u8
+#EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",Unite8 Sports 2 HD - Rs 11.00
+#EXTGRP:🇧🇩 বাংলাদেশ (BD)
+http://103.119.94.1:7080/play/a0yb/index.m3u8
 #EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",ZZZ || - ATN Bangla
 #EXTGRP:🇧🇩 বাংলাদেশ (BD)
 http://103.119.94.1:7080/play/a0dl/index.m3u8
@@ -1114,9 +1120,6 @@ http://181.78.197.59:8000/play/a089/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="WARNER HD",WARNER HD [181.78.197.59:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://181.78.197.59:8000/play/a07s/index.m3u8
-#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="History Channel HD",History Channel HD [45.185.163.75:8000]
-#EXTGRP:🇪🇨 ইকুয়েডর (EC)
-http://45.185.163.75:8000/play/a029/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="History HD",History HD [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a0eq/index.m3u8
@@ -1126,24 +1129,15 @@ http://45.185.163.75:8000/play/a0fl/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Home and Health",Home and Health [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a0h3/index.m3u8
-#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=ID,ID [45.185.163.75:8000]
-#EXTGRP:🇪🇨 ইকুয়েডর (EC)
-http://45.185.163.75:8000/play/a0ca/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Home and Health",Home and Health [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a05r/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="LATINA +18",LATINA +18 [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a0i1/index.m3u8
-#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="L1 MAX",L1 MAX [45.185.163.75:8000]
-#EXTGRP:🇪🇨 ইকুয়েডর (EC)
-http://45.185.163.75:8000/play/a0g6/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="La Red",La Red [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a06p/index.m3u8
-#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="La Red",La Red [45.185.163.75:8000]
-#EXTGRP:🇪🇨 ইকুয়েডর (EC)
-http://45.185.163.75:8000/play/a036/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Las Estrellas HD",Las Estrellas HD [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a03a/index.m3u8
@@ -1156,9 +1150,6 @@ http://45.185.163.75:8000/play/a0cd/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Lifetime,Lifetime [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a01j/index.m3u8
-#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Love Nature",Love Nature [45.185.163.75:8000]
-#EXTGRP:🇪🇨 ইকুয়েডর (EC)
-http://45.185.163.75:8000/play/a0h5/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="MEGA HD",MEGA HD [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a032/index.m3u8
@@ -1171,18 +1162,12 @@ http://45.185.163.75:8000/play/a0ee/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Mega,Mega [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a06r/index.m3u8
-#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Movistar Deportes",Movistar Deportes [45.185.163.75:8000]
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Multipremier,Multipremier [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
-http://45.185.163.75:8000/play/a0i9/index.m3u8
+http://45.185.163.75:8000/play/a0ci/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=NPY,NPY [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a05d/index.m3u8
-#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=NTN24,NTN24 [45.185.163.75:8000]
-#EXTGRP:🇪🇨 ইকুয়েডর (EC)
-http://45.185.163.75:8000/play/a0av/index.m3u8
-#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Nat Geo HD",Nat Geo HD [45.185.163.75:8000]
-#EXTGRP:🇪🇨 ইকুয়েডর (EC)
-http://45.185.163.75:8000/play/a02a/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="National Geographic",National Geographic [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a0ed/index.m3u8
@@ -1201,27 +1186,15 @@ http://45.185.163.75:8000/play/a031/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Nick Music",Nick Music [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a0ap/index.m3u8
-#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Nuestra Tele",Nuestra Tele [45.185.163.75:8000]
-#EXTGRP:🇪🇨 ইকুয়েডর (EC)
-http://45.185.163.75:8000/play/a0ao/index.m3u8
-#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="OROMAR TV",OROMAR TV [45.185.163.75:8000]
-#EXTGRP:🇪🇨 ইকুয়েডর (EC)
-http://45.185.163.75:8000/play/a0bb/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=PARAVISION,PARAVISION [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a05a/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="PARIS TV",PARIS TV [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a0i5/index.m3u8
-#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Playboy HD",Playboy HD [45.185.163.75:8000]
-#EXTGRP:🇪🇨 ইকুয়েডর (EC)
-http://45.185.163.75:8000/play/a03j/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=ParaguayTV,ParaguayTV [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a063/index.m3u8
-#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Pasiones HD",Pasiones HD [45.185.163.75:8000]
-#EXTGRP:🇪🇨 ইকুয়েডর (EC)
-http://45.185.163.75:8000/play/a02x/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="RCN - GUA",RCN - GUA [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a0bx/index.m3u8
@@ -1243,12 +1216,6 @@ http://45.185.163.75:8000/play/a0cp/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=ROUGH,ROUGH [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a0i0/index.m3u8
-#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Panamericana,Panamericana [45.185.163.75:8000]
-#EXTGRP:🇪🇨 ইকুয়েডর (EC)
-http://45.185.163.75:8000/play/a093/index.m3u8
-#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=RPP,RPP [45.185.163.75:8000]
-#EXTGRP:🇪🇨 ইকুয়েডর (EC)
-http://45.185.163.75:8000/play/a095/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=RTS,RTS [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a04o/index.m3u8
@@ -1258,66 +1225,36 @@ http://45.185.163.75:8000/play/a00x/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=RTU,RTU [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a0b9/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=RTU,RTU [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0i4/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Russia Today",Russia Today [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a0dq/index.m3u8
-#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="SONY HD",SONY HD [45.185.163.75:8000]
-#EXTGRP:🇪🇨 ইকুয়েডর (EC)
-http://45.185.163.75:8000/play/a0do/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=SEMILLITAS,SEMILLITAS [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a0e5/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Sony HD",Sony HD [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a02e/index.m3u8
-#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="SPACE HD",SPACE HD [45.185.163.75:8000]
-#EXTGRP:🇪🇨 ইকুয়েডর (EC)
-http://45.185.163.75:8000/play/a0cr/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=SURTV,SURTV [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a05e/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Sextreme,Sextreme [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a0i8/index.m3u8
-#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="STAR CHANNEL HD",STAR CHANNEL HD [45.185.163.75:8000]
-#EXTGRP:🇪🇨 ইকুয়েডর (EC)
-http://45.185.163.75:8000/play/a0dm/index.m3u8
-#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Sony Movies",Sony Movies [45.185.163.75:8000]
-#EXTGRP:🇪🇨 ইকুয়েডর (EC)
-http://45.185.163.75:8000/play/a0h1/index.m3u8
-#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Senal Colombia",Senal Colombia [45.185.163.75:8000]
-#EXTGRP:🇪🇨 ইকুয়েডর (EC)
-http://45.185.163.75:8000/play/a059/index.m3u8
-#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Space HD",Space HD [45.185.163.75:8000]
-#EXTGRP:🇪🇨 ইকুয়েডর (EC)
-http://45.185.163.75:8000/play/a02i/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Panamericana TV",Panamericana TV [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a05u/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Star Channel HD",Star Channel HD [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a02n/index.m3u8
-#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Sun Channel HD",Sun Channel HD [45.185.163.75:8000]
-#EXTGRP:🇪🇨 ইকুয়েডর (EC)
-http://45.185.163.75:8000/play/a03f/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="TBN Enlace",TBN Enlace [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a0eo/index.m3u8
-#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=TC,TC [45.185.163.75:8000]
-#EXTGRP:🇪🇨 ইকুয়েডর (EC)
-http://45.185.163.75:8000/play/a052/index.m3u8
-#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="TC Televisiðn",TC Televisiðn [45.185.163.75:8000]
-#EXTGRP:🇪🇨 ইকুয়েডর (EC)
-http://45.185.163.75:8000/play/a00v/index.m3u8
-#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=TCM,TCM [45.185.163.75:8000]
-#EXTGRP:🇪🇨 ইকুয়েডর (EC)
-http://45.185.163.75:8000/play/a0b2/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=TCM,TCM [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a07h/index.m3u8
-#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="TD+2 HD CR",TD+2 HD CR [45.185.163.75:8000]
-#EXTGRP:🇪🇨 ইকুয়েডর (EC)
-http://45.185.163.75:8000/play/a0ft/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="TD+HD CR",TD+HD CR [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a0fs/index.m3u8
@@ -1342,15 +1279,6 @@ http://45.185.163.75:8000/play/a04c/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Studio Universal",Studio Universal [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a0ha/index.m3u8
-#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="TNT SPORTS",TNT SPORTS [45.185.163.75:8000]
-#EXTGRP:🇪🇨 ইকুয়েডর (EC)
-http://45.185.163.75:8000/play/a03q/index.m3u8
-#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="TNT Series HD",TNT Series HD [45.185.163.75:8000]
-#EXTGRP:🇪🇨 ইকুয়েডর (EC)
-http://45.185.163.75:8000/play/a046/index.m3u8
-#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="TNT Series",TNT Series [45.185.163.75:8000]
-#EXTGRP:🇪🇨 ইকুয়েডর (EC)
-http://45.185.163.75:8000/play/a0ea/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="TNT Sports",TNT Sports [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a06e/index.m3u8
@@ -1384,18 +1312,9 @@ http://45.185.163.75:8000/play/a06q/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="TVM25 -  ESA",TVM25 -  ESA [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a0c0/index.m3u8
-#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="TVN HD",TVN HD [45.185.163.75:8000]
-#EXTGRP:🇪🇨 ইকুয়েডর (EC)
-http://45.185.163.75:8000/play/a02v/index.m3u8
-#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Teen Nick",Teen Nick [45.185.163.75:8000]
-#EXTGRP:🇪🇨 ইকুয়েডর (EC)
-http://45.185.163.75:8000/play/a0aq/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="TeleMicro - RD",TeleMicro - RD [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a0d3/index.m3u8
-#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Teleamazonas,Teleamazonas [45.185.163.75:8000]
-#EXTGRP:🇪🇨 ইকুয়েডর (EC)
-http://45.185.163.75:8000/play/a00s/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Teleamazonas,Teleamazonas [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a056/index.m3u8
@@ -1411,27 +1330,15 @@ http://45.185.163.75:8000/play/a04w/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Telefe,Telefe [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a04p/index.m3u8
-#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=TV+,TV+ [45.185.163.75:8000]
-#EXTGRP:🇪🇨 ইকুয়েডর (EC)
-http://45.185.163.75:8000/play/a034/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Teleislas,Teleislas [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a05h/index.m3u8
-#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Telemundo,Telemundo [45.185.163.75:8000]
-#EXTGRP:🇪🇨 ইকুয়েডর (EC)
-http://45.185.163.75:8000/play/a0e7/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Telepacifico,Telepacifico [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a04n/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Televicentro,Televicentro [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a00w/index.m3u8
-#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Telesistema RD",Telesistema RD [45.185.163.75:8000]
-#EXTGRP:🇪🇨 ইকুয়েডর (EC)
-http://45.185.163.75:8000/play/a0dx/index.m3u8
-#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Tlnovelas,Tlnovelas [45.185.163.75:8000]
-#EXTGRP:🇪🇨 ইকুয়েডর (EC)
-http://45.185.163.75:8000/play/a0g4/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Tooncast,Tooncast [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a0d7/index.m3u8
@@ -1456,15 +1363,9 @@ http://45.185.163.75:8000/play/a0hr/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="UFC FIGHT NETWORK",UFC FIGHT NETWORK [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a0hs/index.m3u8
-#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="UNIVERSAL CHANNEL HD",UNIVERSAL CHANNEL HD [45.185.163.75:8000]
-#EXTGRP:🇪🇨 ইকুয়েডর (EC)
-http://45.185.163.75:8000/play/a043/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=USA,USA [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a0az/index.m3u8
-#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=USA,USA [45.185.163.75:8000]
-#EXTGRP:🇪🇨 ইকুয়েডর (EC)
-http://45.185.163.75:8000/play/a0gp/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Universal,Universal [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a07c/index.m3u8
@@ -1483,15 +1384,6 @@ http://45.185.163.75:8000/play/a0hb/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Venus,Venus [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a0b7/index.m3u8
-#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Via X Esports",Via X Esports [45.185.163.75:8000]
-#EXTGRP:🇪🇨 ইকুয়েডর (EC)
-http://45.185.163.75:8000/play/a0ay/index.m3u8
-#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=ViaX,ViaX [45.185.163.75:8000]
-#EXTGRP:🇪🇨 ইকুয়েডর (EC)
-http://45.185.163.75:8000/play/a06i/index.m3u8
-#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="WARNER HD",WARNER HD [45.185.163.75:8000]
-#EXTGRP:🇪🇨 ইকুয়েডর (EC)
-http://45.185.163.75:8000/play/a0dn/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Warner TV HD",Warner TV HD [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a02f/index.m3u8
@@ -1504,9 +1396,6 @@ http://45.185.163.75:8000/play/a04m/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Zoom,Zoom [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a05f/index.m3u8
-#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=ZooMoo,ZooMoo [45.185.163.75:8000]
-#EXTGRP:🇪🇨 ইকুয়েডর (EC)
-http://45.185.163.75:8000/play/a0ff/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",CNN Espanol
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://186.33.47.113:8000/play/a05p/index.m3u8
@@ -1555,6 +1444,9 @@ http://186.33.47.113:8000/play/a04f/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",Discovery Channel
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://186.33.47.113:8000/play/a08g/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",Fox Sports 2
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://186.33.47.113:8000/play/a045/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC",FX
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://186.33.47.113:8000/play/a04j/index.m3u8
@@ -2038,9 +1930,6 @@ http://181.78.14.26:4000/play/a042/index.m3u8
 #EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name="@DIG - HISPANTV HD",@DIG - HISPANTV HD [181.78.14.26:4000]
 #EXTGRP:🇨🇴 কলম্বিয়া (CO)
 http://181.78.14.26:4000/play/a04m/index.m3u8
-#EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name="@DIG - DREAMWORKS HD",@DIG - DREAMWORKS HD [181.78.14.26:4000]
-#EXTGRP:🇨🇴 কলম্বিয়া (CO)
-http://181.78.14.26:4000/play/a047/index.m3u8
 #EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name="@DIG - HISTORY 2 HD",@DIG - HISTORY 2 HD [181.78.14.26:4000]
 #EXTGRP:🇨🇴 কলম্বিয়া (CO)
 http://181.78.14.26:4000/play/a07g/index.m3u8
@@ -2056,9 +1945,6 @@ http://181.78.14.26:4000/play/a081/index.m3u8
 #EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name="@DIG - ESPN 5 HD",@DIG - ESPN 5 HD [181.78.14.26:4000]
 #EXTGRP:🇨🇴 কলম্বিয়া (CO)
 http://181.78.14.26:4000/play/a03x/index.m3u8
-#EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name="@DIG - LA SUPER SD",@DIG - LA SUPER SD [181.78.14.26:4000]
-#EXTGRP:🇨🇴 কলম্বিয়া (CO)
-http://181.78.14.26:4000/play/a03i/index.m3u8
 #EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name="@DIG - LA TELE DIGITAL HD",@DIG - LA TELE DIGITAL HD [181.78.14.26:4000]
 #EXTGRP:🇨🇴 কলম্বিয়া (CO)
 http://181.78.14.26:4000/play/a03a/index.m3u8
@@ -2068,9 +1954,6 @@ http://181.78.14.26:4000/play/a07a/index.m3u8
 #EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name="@DIG - MIMUSICA ROMANTICA HD",@DIG - MIMUSICA ROMANTICA HD [181.78.14.26:4000]
 #EXTGRP:🇨🇴 কলম্বিয়া (CO)
 http://181.78.14.26:4000/play/a06s/index.m3u8
-#EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name="@DIG - PASIONES HD",@DIG - PASIONES HD [181.78.14.26:4000]
-#EXTGRP:🇨🇴 কলম্বিয়া (CO)
-http://181.78.14.26:4000/play/a03j/index.m3u8
 #EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name="@DIG - PLOUS TV HD",@DIG - PLOUS TV HD [181.78.14.26:4000]
 #EXTGRP:🇨🇴 কলম্বিয়া (CO)
 http://181.78.14.26:4000/play/a034/index.m3u8
@@ -2578,6 +2461,12 @@ http://181.78.8.199:8000/play/a07t/index.m3u8
 #EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name=TELENOVELAS,TELENOVELAS [181.78.8.199:8000]
 #EXTGRP:🇨🇴 কলম্বিয়া (CO)
 http://181.78.8.199:8000/play/a0ar/index.m3u8
+#EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name=TELEVEN,TELEVEN [181.78.8.199:8000]
+#EXTGRP:🇨🇴 কলম্বিয়া (CO)
+http://181.78.8.199:8000/play/a09j/index.m3u8
+#EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name=TLC,TLC [181.78.8.199:8000]
+#EXTGRP:🇨🇴 কলম্বিয়া (CO)
+http://181.78.8.199:8000/play/a0ch/index.m3u8
 #EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name="TELEVISA CON ENTRETEIMENT",TELEVISA CON ENTRETEIMENT [181.78.8.199:8000]
 #EXTGRP:🇨🇴 কলম্বিয়া (CO)
 http://181.78.8.199:8000/play/a0av/index.m3u8
@@ -2593,9 +2482,6 @@ http://181.78.8.199:8000/play/a09g/index.m3u8
 #EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name=TLC,TLC [181.78.8.199:8000]
 #EXTGRP:🇨🇴 কলম্বিয়া (CO)
 http://181.78.8.199:8000/play/a0a3/index.m3u8
-#EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name=TLT,TLT [181.78.8.199:8000]
-#EXTGRP:🇨🇴 কলম্বিয়া (CO)
-http://181.78.8.199:8000/play/a0fs/index.m3u8
 #EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name="TNT NOVELAS",TNT NOVELAS [181.78.8.199:8000]
 #EXTGRP:🇨🇴 কলম্বিয়া (CO)
 http://181.78.8.199:8000/play/a0bq/index.m3u8
@@ -2611,9 +2497,6 @@ http://181.78.8.199:8000/play/a0ci/index.m3u8
 #EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name=TVAGRO,TVAGRO [181.78.8.199:8000]
 #EXTGRP:🇨🇴 কলম্বিয়া (CO)
 http://181.78.8.199:8000/play/a0e5/index.m3u8
-#EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name=TVES,TVES [181.78.8.199:8000]
-#EXTGRP:🇨🇴 কলম্বিয়া (CO)
-http://181.78.8.199:8000/play/a0ft/index.m3u8
 #EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name=TURBO,TURBO [181.78.8.199:8000]
 #EXTGRP:🇨🇴 কলম্বিয়া (CO)
 http://181.78.8.199:8000/play/a0a5/index.m3u8
@@ -2623,18 +2506,12 @@ http://181.78.8.199:8000/play/a09w/index.m3u8
 #EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name=UNIVERSAL,UNIVERSAL [181.78.8.199:8000]
 #EXTGRP:🇨🇴 কলম্বিয়া (CO)
 http://181.78.8.199:8000/play/a09t/index.m3u8
-#EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name=TVFANB,TVFANB [181.78.8.199:8000]
-#EXTGRP:🇨🇴 কলম্বিয়া (CO)
-http://181.78.8.199:8000/play/a0fp/index.m3u8
 #EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name=Universal,Universal [181.78.8.199:8000]
 #EXTGRP:🇨🇴 কলম্বিয়া (CO)
 http://181.78.8.199:8000/play/a0ce/index.m3u8
 #EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name=UNIVISION,UNIVISION [181.78.8.199:8000]
 #EXTGRP:🇨🇴 কলম্বিয়া (CO)
 http://181.78.8.199:8000/play/a0er/index.m3u8
-#EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name=VTV,VTV [181.78.8.199:8000]
-#EXTGRP:🇨🇴 কলম্বিয়া (CO)
-http://181.78.8.199:8000/play/a0jl/index.m3u8
 #EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name=UNIVISION,UNIVISION [181.78.8.199:8000]
 #EXTGRP:🇨🇴 কলম্বিয়া (CO)
 http://181.78.8.199:8000/play/a0e2/index.m3u8
@@ -2674,9 +2551,6 @@ http://181.78.8.199:8000/play/a0cv/index.m3u8
 #EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name=ZOOM,ZOOM [181.78.8.199:8000]
 #EXTGRP:🇨🇴 কলম্বিয়া (CO)
 http://181.78.8.199:8000/play/a0dw/index.m3u8
-#EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name="ewtn enviado",ewtn enviado [181.78.8.199:8000]
-#EXTGRP:🇨🇴 কলম্বিয়া (CO)
-http://181.78.8.199:8000/play/a0ib/index.m3u8
 #EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name=comedycentral,comedycentral [181.78.8.199:8000]
 #EXTGRP:🇨🇴 কলম্বিয়া (CO)
 http://181.78.8.199:8000/play/a0c0/index.m3u8
@@ -2689,6 +2563,9 @@ http://181.78.8.199:8000/play/a0cr/index.m3u8
 #EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name=telemundo,telemundo [181.78.8.199:8000]
 #EXTGRP:🇨🇴 কলম্বিয়া (CO)
 http://181.78.8.199:8000/play/a0cg/index.m3u8
+#EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name=televen,televen [181.78.8.199:8000]
+#EXTGRP:🇨🇴 কলম্বিয়া (CO)
+http://181.78.8.199:8000/play/a0cd/index.m3u8
 #EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name=warner,warner [181.78.8.199:8000]
 #EXTGRP:🇨🇴 কলম্বিয়া (CO)
 http://181.78.8.199:8000/play/a0cb/index.m3u8
@@ -2908,9 +2785,6 @@ http://190.60.37.118:4000/play/a0aj
 #EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name="Baby First",Baby First [190.60.37.118:4000]
 #EXTGRP:🇨🇴 কলম্বিয়া (CO)
 http://190.60.37.118:4000/play/a088
-#EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name="CARACOL HD",CARACOL HD [190.60.37.118:4000]
-#EXTGRP:🇨🇴 কলম্বিয়া (CO)
-http://190.60.37.118:4000/play/a0ca
 #EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name="Canal 13 HD",Canal 13 HD [190.60.37.118:4000]
 #EXTGRP:🇨🇴 কলম্বিয়া (CO)
 http://190.60.37.118:4000/play/a0bo
@@ -3157,36 +3031,27 @@ http://186.33.1.71:8000/play/a0fl/index.m3u8
 #EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",FOX SPORTS 2
 #EXTGRP:🇬🇹 গুয়াতেমালা (GT)
 http://186.33.1.71:8000/play/a0dd/index.m3u8
-#EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",FOX ESA HD
-#EXTGRP:🇬🇹 গুয়াতেমালা (GT)
-http://186.33.1.71:8000/play/a0fn/index.m3u8
 #EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",FOX GUA HD
 #EXTGRP:🇬🇹 গুয়াতেমালা (GT)
 http://186.33.1.71:8000/play/a0fm/index.m3u8
+#EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",LAS ESTRELLAS MX
+#EXTGRP:🇬🇹 গুয়াতেমালা (GT)
+http://186.33.1.71:8000/play/a03x/index.m3u8
 #EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",SKY SPORTS LA LIGA HD
 #EXTGRP:🇬🇹 গুয়াতেমালা (GT)
 http://186.33.1.71:8000/play/a03u/index.m3u8
 #EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",TN23
 #EXTGRP:🇬🇹 গুয়াতেমালা (GT)
 http://186.33.1.71:8000/play/a0df/index.m3u8
-#EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",TUDN HD
-#EXTGRP:🇬🇹 গুয়াতেমালা (GT)
-http://186.33.1.71:8000/play/a0bx/index.m3u8
 #EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",VEA CANAL
 #EXTGRP:🇬🇹 গুয়াতেমালা (GT)
 http://186.33.1.71:8000/play/a0fp/index.m3u8
-#EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",Baby First
-#EXTGRP:🇬🇹 গুয়াতেমালা (GT)
-http://186.33.1.71:8000/play/a03i/index.m3u8
 #EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",Boomerang
 #EXTGRP:🇬🇹 গুয়াতেমালা (GT)
 http://186.33.1.71:8000/play/a0g0/index.m3u8
 #EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",CARTOON NT HD
 #EXTGRP:🇬🇹 গুয়াতেমালা (GT)
 http://186.33.1.71:8000/play/a0l0/index.m3u8
-#EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",Discovery Kids
-#EXTGRP:🇬🇹 গুয়াতেমালা (GT)
-http://186.33.1.71:8000/play/a03l/index.m3u8
 #EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",CLAN
 #EXTGRP:🇬🇹 গুয়াতেমালা (GT)
 http://186.33.1.71:8000/play/a0dl/index.m3u8
@@ -3211,54 +3076,36 @@ http://186.33.1.71:8000/play/a03k/index.m3u8
 #EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",A+ GUA
 #EXTGRP:🇬🇹 গুয়াতেমালা (GT)
 http://186.33.1.71:8000/play/a05u/index.m3u8
-#EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",Canal 11 - GUA
-#EXTGRP:🇬🇹 গুয়াতেমালা (GT)
-http://186.33.1.71:8000/play/a0jk/index.m3u8
 #EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",Canal 13-GUA
 #EXTGRP:🇬🇹 গুয়াতেমালা (GT)
 http://186.33.1.71:8000/play/a0jj/index.m3u8
 #EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",Canal 3 - GUA
 #EXTGRP:🇬🇹 গুয়াতেমালা (GT)
 http://186.33.1.71:8000/play/a0h5/index.m3u8
-#EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",Canal Antigua - GUA
+#EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",Canal 7 - GUA
 #EXTGRP:🇬🇹 গুয়াতেমালা (GT)
-http://186.33.1.71:8000/play/a0h2/index.m3u8
+http://186.33.1.71:8000/play/a0h4/index.m3u8
 #EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",Canal Guatevision - GUA
 #EXTGRP:🇬🇹 গুয়াতেমালা (GT)
 http://186.33.1.71:8000/play/a0fw/index.m3u8
-#EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",Gobierno GUA
+#EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",Exa TV
 #EXTGRP:🇬🇹 গুয়াতেমালা (GT)
-http://186.33.1.71:8000/play/a05v/index.m3u8
-#EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",BANDAMAX
-#EXTGRP:🇬🇹 গুয়াতেমালা (GT)
-http://186.33.1.71:8000/play/a0i0/index.m3u8
-#EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",Concert Channel
-#EXTGRP:🇬🇹 গুয়াতেমালা (GT)
-http://186.33.1.71:8000/play/a02r/index.m3u8
+http://186.33.1.71:8000/play/a0hk/index.m3u8
 #EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",La voz de Maria
 #EXTGRP:🇬🇹 গুয়াতেমালা (GT)
 http://186.33.1.71:8000/play/a0id/index.m3u8
-#EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",RHEMA TV
+#EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",Claro Sports 1 HD
 #EXTGRP:🇬🇹 গুয়াতেমালা (GT)
-http://186.33.1.71:8000/play/a0iw/index.m3u8
-#EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",TBN Enlace
-#EXTGRP:🇬🇹 গুয়াতেমালা (GT)
-http://186.33.1.71:8000/play/a0gj/index.m3u8
-#EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",Azteca Deportes
-#EXTGRP:🇬🇹 গুয়াতেমালা (GT)
-http://186.33.1.71:8000/play/a05t/index.m3u8
-#EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",Sembrador
-#EXTGRP:🇬🇹 গুয়াতেমালা (GT)
-http://186.33.1.71:8000/play/a0k0/index.m3u8
+http://186.33.1.71:8000/play/a05g/index.m3u8
 #EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",Claro Sports 2 HD
 #EXTGRP:🇬🇹 গুয়াতেমালা (GT)
 http://186.33.1.71:8000/play/a05h/index.m3u8
-#EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",Claro Sports 3 HD
-#EXTGRP:🇬🇹 গুয়াতেমালা (GT)
-http://186.33.1.71:8000/play/a05i/index.m3u8
 #EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",ESPN  4 HD
 #EXTGRP:🇬🇹 গুয়াতেমালা (GT)
 http://186.33.1.71:8000/play/a0gl/index.m3u8
+#EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",ESPN 2 HD
+#EXTGRP:🇬🇹 গুয়াতেমালা (GT)
+http://186.33.1.71:8000/play/a0ki/index.m3u8
 #EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",ESPN 3 HD
 #EXTGRP:🇬🇹 গুয়াতেমালা (GT)
 http://186.33.1.71:8000/play/a0kh/index.m3u8
@@ -3268,9 +3115,6 @@ http://186.33.1.71:8000/play/a0ix/index.m3u8
 #EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",ESPN 6 HD
 #EXTGRP:🇬🇹 গুয়াতেমালা (GT)
 http://186.33.1.71:8000/play/a0kj/index.m3u8
-#EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",ESPN HD
-#EXTGRP:🇬🇹 গুয়াতেমালা (GT)
-http://186.33.1.71:8000/play/a0kg/index.m3u8
 #EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",Latin America Sport
 #EXTGRP:🇬🇹 গুয়াতেমালা (GT)
 http://186.33.1.71:8000/play/a03j/index.m3u8
@@ -3286,45 +3130,24 @@ http://186.33.1.71:8000/play/a0g4/index.m3u8
 #EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",Univision HD
 #EXTGRP:🇬🇹 গুয়াতেমালা (GT)
 http://186.33.1.71:8000/play/a0kr/index.m3u8
-#EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",Telemundo HD
-#EXTGRP:🇬🇹 গুয়াতেমালা (GT)
-http://186.33.1.71:8000/play/a0gv/index.m3u8
 #EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",AZTECA INTERNACIONAL
 #EXTGRP:🇬🇹 গুয়াতেমালা (GT)
 http://186.33.1.71:8000/play/a0h8/index.m3u8
 #EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",AZ click HD
 #EXTGRP:🇬🇹 গুয়াতেমালা (GT)
 http://186.33.1.71:8000/play/a0gz/index.m3u8
-#EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",Azcorazon
-#EXTGRP:🇬🇹 গুয়াতেমালা (GT)
-http://186.33.1.71:8000/play/a0g6/index.m3u8
 #EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",Caracol
 #EXTGRP:🇬🇹 গুয়াতেমালা (GT)
 http://186.33.1.71:8000/play/a05w/index.m3u8
-#EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",Discovery Channel HD
-#EXTGRP:🇬🇹 গুয়াতেমালা (GT)
-http://186.33.1.71:8000/play/a0kn/index.m3u8
 #EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",El Gourmet
 #EXTGRP:🇬🇹 গুয়াতেমালা (GT)
 http://186.33.1.71:8000/play/a04v/index.m3u8
-#EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",Discovery World HD
-#EXTGRP:🇬🇹 গুয়াতেমালা (GT)
-http://186.33.1.71:8000/play/a0kp/index.m3u8
-#EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",HBO HD
-#EXTGRP:🇬🇹 গুয়াতেমালা (GT)
-http://186.33.1.71:8000/play/a0l2/index.m3u8
-#EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",HBO Family HD
-#EXTGRP:🇬🇹 গুয়াতেমালা (GT)
-http://186.33.1.71:8000/play/a0l5/index.m3u8
 #EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",HBO XTREME HD
 #EXTGRP:🇬🇹 গুয়াতেমালা (GT)
 http://186.33.1.71:8000/play/a0l6/index.m3u8
 #EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",HBO Plus HD
 #EXTGRP:🇬🇹 গুয়াতেমালা (GT)
 http://186.33.1.71:8000/play/a0l4/index.m3u8
-#EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",FX HD
-#EXTGRP:🇬🇹 গুয়াতেমালা (GT)
-http://186.33.1.71:8000/play/a0gw/index.m3u8
 #EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",Discovery Turbo
 #EXTGRP:🇬🇹 গুয়াতেমালা (GT)
 http://186.33.1.71:8000/play/a0ia/index.m3u8
@@ -3340,9 +3163,6 @@ http://186.33.1.71:8000/play/a0jp/index.m3u8
 #EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",SONY HD
 #EXTGRP:🇬🇹 গুয়াতেমালা (GT)
 http://186.33.1.71:8000/play/a0hp/index.m3u8
-#EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",History Channel HD
-#EXTGRP:🇬🇹 গুয়াতেমালা (GT)
-http://186.33.1.71:8000/play/a0gk/index.m3u8
 #EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",UNIVERSAL CINEMA HD
 #EXTGRP:🇬🇹 গুয়াতেমালা (GT)
 http://186.33.1.71:8000/play/a0kt/index.m3u8
@@ -3355,39 +3175,24 @@ http://186.33.1.71:8000/play/a0hn/index.m3u8
 #EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",UNIVERSAL COMEDY HD
 #EXTGRP:🇬🇹 গুয়াতেমালা (GT)
 http://186.33.1.71:8000/play/a0i5/index.m3u8
-#EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",UNIVERSAL PREMIERE HD
-#EXTGRP:🇬🇹 গুয়াতেমালা (GT)
-http://186.33.1.71:8000/play/a0i1/index.m3u8
-#EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",UNIVERSAL PREMI O HD
-#EXTGRP:🇬🇹 গুয়াতেমালা (GT)
-http://186.33.1.71:8000/play/a0i2/index.m3u8
 #EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",UNIVERSAL REALITY HD
 #EXTGRP:🇬🇹 গুয়াতেমালা (GT)
 http://186.33.1.71:8000/play/a0i3/index.m3u8
 #EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",AMC HD
 #EXTGRP:🇬🇹 গুয়াতেমালা (GT)
 http://186.33.1.71:8000/play/a0gu/index.m3u8
-#EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",AXN HD
-#EXTGRP:🇬🇹 গুয়াতেমালা (GT)
-http://186.33.1.71:8000/play/a0iy/index.m3u8
 #EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",CINE PREMIUM HD
 #EXTGRP:🇬🇹 গুয়াতেমালা (GT)
 http://186.33.1.71:8000/play/a0kl/index.m3u8
 #EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",DHE HD
 #EXTGRP:🇬🇹 গুয়াতেমালা (GT)
 http://186.33.1.71:8000/play/a0gy/index.m3u8
-#EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",Animal Planet HD
-#EXTGRP:🇬🇹 গুয়াতেমালা (GT)
-http://186.33.1.71:8000/play/a0gq/index.m3u8
 #EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",CNN Español
 #EXTGRP:🇬🇹 গুয়াতেমালা (GT)
 http://186.33.1.71:8000/play/a0gi/index.m3u8
 #EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",CINECANAL HD
 #EXTGRP:🇬🇹 গুয়াতেমালা (GT)
 http://186.33.1.71:8000/play/a0hq/index.m3u8
-#EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",Canal Claro
-#EXTGRP:🇬🇹 গুয়াতেমালা (GT)
-http://186.33.1.71:8000/play/a0fv/index.m3u8
 #EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",CineMax
 #EXTGRP:🇬🇹 গুয়াতেমালা (GT)
 http://186.33.1.71:8000/play/a0il/index.m3u8
@@ -3421,21 +3226,12 @@ http://186.33.1.71:8000/play/a00x/index.m3u8
 #EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",LIFE TIME
 #EXTGRP:🇬🇹 গুয়াতেমালা (GT)
 http://186.33.1.71:8000/play/a0gb/index.m3u8
-#EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",Nat Geo HD
-#EXTGRP:🇬🇹 গুয়াতেমালা (GT)
-http://186.33.1.71:8000/play/a0kk/index.m3u8
 #EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",SPACE HD
 #EXTGRP:🇬🇹 গুয়াতেমালা (GT)
 http://186.33.1.71:8000/play/a0iz/index.m3u8
 #EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",TCM
 #EXTGRP:🇬🇹 গুয়াতেমালা (GT)
 http://186.33.1.71:8000/play/a0jw/index.m3u8
-#EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",Star TVE HD
-#EXTGRP:🇬🇹 গুয়াতেমালা (GT)
-http://186.33.1.71:8000/play/a0h0/index.m3u8
-#EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",Multipremier
-#EXTGRP:🇬🇹 গুয়াতেমালা (GT)
-http://186.33.1.71:8000/play/a0ij/index.m3u8
 #EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",TLC
 #EXTGRP:🇬🇹 গুয়াতেমালা (GT)
 http://186.33.1.71:8000/play/a0hh/index.m3u8
@@ -3445,9 +3241,6 @@ http://186.33.1.71:8000/play/a0hu/index.m3u8
 #EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",Universal
 #EXTGRP:🇬🇹 গুয়াতেমালা (GT)
 http://186.33.1.71:8000/play/a0ih/index.m3u8
-#EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",TNT Series HD
-#EXTGRP:🇬🇹 গুয়াতেমালা (GT)
-http://186.33.1.71:8000/play/a0km/index.m3u8
 #EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",WARNER HD
 #EXTGRP:🇬🇹 গুয়াতেমালা (GT)
 http://186.33.1.71:8000/play/a0ho/index.m3u8
@@ -3469,33 +3262,15 @@ http://186.33.1.71:8000/play/a03v/index.m3u8
 #EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",CANAL 5 HD MX
 #EXTGRP:🇬🇹 গুয়াতেমালা (GT)
 http://186.33.1.71:8000/play/a03z/index.m3u8
-#EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",NU9VE MX
-#EXTGRP:🇬🇹 গুয়াতেমালা (GT)
-http://186.33.1.71:8000/play/a040/index.m3u8
 #EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",AZTECA 1
 #EXTGRP:🇬🇹 গুয়াতেমালা (GT)
 http://186.33.1.71:8000/play/a042/index.m3u8
 #EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",CANAL LOCAL
 #EXTGRP:🇬🇹 গুয়াতেমালা (GT)
 http://186.33.1.71:8000/play/a0fk/index.m3u8
-#EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",TL NOVELAS HD MX
-#EXTGRP:🇬🇹 গুয়াতেমালা (GT)
-http://186.33.1.71:8000/play/a044/index.m3u8
-#EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",UNICABLE
-#EXTGRP:🇬🇹 গুয়াতেমালা (GT)
-http://186.33.1.71:8000/play/a04x/index.m3u8
 #EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",TELEHIT
 #EXTGRP:🇬🇹 গুয়াতেমালা (GT)
 http://186.33.1.71:8000/play/a03w/index.m3u8
-#EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",BUNDES LIGA
-#EXTGRP:🇬🇹 গুয়াতেমালা (GT)
-http://186.33.1.71:8000/play/a045/index.m3u8
-#EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",XXX PLAYBOY
-#EXTGRP:🇬🇹 গুয়াতেমালা (GT)
-http://186.33.1.71:8000/play/a02t/index.m3u8
-#EXTINF:-1 group-title="🇬🇹 গুয়াতেমালা (GT)" tvg-country="GT",DISTRITO COMEDIAHD
-#EXTGRP:🇬🇹 গুয়াতেমালা (GT)
-http://186.33.1.71:8000/play/a05l/index.m3u8
 #EXTINF:-1 group-title="🇵🇹 পর্তুগাল (PT)" tvg-country="PT" tvg-name="STAR HD",STAR HD [185.228.163.146:8000]
 #EXTGRP:🇵🇹 পর্তুগাল (PT)
 http://185.228.163.146:8000/play/a02c/index.m3u8
@@ -4171,9 +3946,6 @@ http://110.39.15.114:8000/play/a03k/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",BBC Earth HD
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://110.39.15.114:8000/play/a02z/index.m3u8
-#EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",Comedy Central HD
-#EXTGRP:🇵🇰 পাকিস্তান (PK)
-http://110.39.15.114:8000/play/a03w/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",Discovery Life
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://110.39.15.114:8000/play/a03a/index.m3u8
@@ -4231,6 +4003,9 @@ http://110.39.15.114:8000/play/a03h/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",Nick Jr
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://110.39.15.114:8000/play/a03u/index.m3u8
+#EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",OSN CRIME
+#EXTGRP:🇵🇰 পাকিস্তান (PK)
+http://110.39.15.114:8000/play/a02n/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",OSN MOVIES HOLLYWOOD
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://110.39.15.114:8000/play/a004/index.m3u8
@@ -4243,6 +4018,9 @@ http://110.39.15.114:8000/play/a05q/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",Outdoor Channel
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://110.39.15.114:8000/play/a05g/index.m3u8
+#EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",OSN MOVIES ACTION
+#EXTGRP:🇵🇰 পাকিস্তান (PK)
+http://110.39.15.114:8000/play/a060/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",Science Poland HD
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://110.39.15.114:8000/play/a03o/index.m3u8
@@ -4318,6 +4096,9 @@ http://103.147.87.152:18008/play/a05d/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",ARYMusik
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://103.147.87.152:18008/play/a05o/index.m3u8
+#EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",ARYNewsAsia
+#EXTGRP:🇵🇰 পাকিস্তান (PK)
+http://103.147.87.152:18008/play/a05r/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",ARYQTV
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://103.147.87.152:18008/play/a05n/index.m3u8
@@ -4377,6 +4158,9 @@ http://103.147.87.152:18008/play/a06z/index.m3u8
 http://103.147.87.152:18008/play/a196/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",Geo Tez
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
+http://103.147.87.152:18008/play/a19a/index.m3u8
+#EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",Geo Tez
+#EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://103.147.87.152:18008/play/a08t/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",Geo News
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
@@ -4420,9 +4204,15 @@ http://103.147.87.152:18008/play/a062/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",SANSAD TV
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://103.147.87.152:18008/play/a061/index.m3u8
+#EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",STAR UTSAV
+#EXTGRP:🇵🇰 পাকিস্তান (PK)
+http://103.147.87.152:18008/play/a060/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",SONY PAL
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://103.147.87.152:18008/play/a06m/index.m3u8
+#EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",SUN Neo
+#EXTGRP:🇵🇰 পাকিস্তান (PK)
+http://103.147.87.152:18008/play/a067/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",Sanskar TV
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://103.147.87.152:18008/play/a071/index.m3u8
@@ -4444,12 +4234,12 @@ http://103.147.87.152:18008/play/a06w/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",STAR UTSAV MOVIES
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://103.147.87.152:18008/play/a05v/index.m3u8
-#EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",UNIQUE TV
-#EXTGRP:🇵🇰 পাকিস্তান (PK)
-http://103.147.87.152:18008/play/a06u/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",ZEE ANMOL CINEMA
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://103.147.87.152:18008/play/a06v/index.m3u8
+#EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",ZEE NEWS
+#EXTGRP:🇵🇰 পাকিস্তান (PK)
+http://103.147.87.152:18008/play/a06y/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",Zee Biskope
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://103.147.87.152:18008/play/a066/index.m3u8
@@ -4798,9 +4588,6 @@ http://186.148.196.100:8000/play/a02p
 #EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="ESPN HD",ESPN HD [186.148.196.100:8000]
 #EXTGRP:🇵🇪 পেরু (PE)
 http://186.148.196.100:8000/play/a01x
-#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="EUROPA EUROPA",EUROPA EUROPA [186.148.196.100:8000]
-#EXTGRP:🇵🇪 পেরু (PE)
-http://186.148.196.100:8000/play/a01n
 #EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=EWTN,EWTN [186.148.196.100:8000]
 #EXTGRP:🇵🇪 পেরু (PE)
 http://186.148.196.100:8000/play/a011
@@ -5125,9 +4912,6 @@ http://190.108.83.69:8000/play/a067/index.m3u8
 #EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="R Estacion Tv",R Estacion Tv [190.108.83.69:8000]
 #EXTGRP:🇵🇪 পেরু (PE)
 http://190.108.83.69:8000/play/a07k/index.m3u8
-#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="R PREMIUM GO",R PREMIUM GO [190.108.83.69:8000]
-#EXTGRP:🇵🇪 পেরু (PE)
-http://190.108.83.69:8000/play/a082/index.m3u8
 #EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="R Nex Tv",R Nex Tv [190.108.83.69:8000]
 #EXTGRP:🇵🇪 পেরু (PE)
 http://190.108.83.69:8000/play/a06r/index.m3u8
@@ -5542,6 +5326,9 @@ http://38.131.62.104:8000/play/a01h/index.m3u8
 #EXTINF:-1 group-title="🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)" tvg-country="DO",AXN CATV
 #EXTGRP:🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)
 http://38.131.62.104:8000/play/a0nm/index.m3u8
+#EXTINF:-1 group-title="🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)" tvg-country="DO",BABY TV CATV
+#EXTGRP:🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)
+http://38.131.62.104:8000/play/a0ns/index.m3u8
 #EXTINF:-1 group-title="🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)" tvg-country="DO",CANAL DE LAS ESTRELLAS CATV
 #EXTGRP:🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)
 http://38.131.62.104:8000/play/a0nx/index.m3u8
@@ -5689,6 +5476,9 @@ http://38.131.62.104:8000/play/a0f7/index.m3u8
 #EXTINF:-1 group-title="🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)" tvg-country="DO",Color Vision 9 - RD
 #EXTGRP:🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)
 http://38.131.62.104:8000/play/a026/index.m3u8
+#EXTINF:-1 group-title="🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)" tvg-country="DO",DISCOVERY KIDS CATV
+#EXTGRP:🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)
+http://38.131.62.104:8000/play/a0nh/index.m3u8
 #EXTINF:-1 group-title="🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)" tvg-country="DO",DISCOVERY CHANNEL CATV
 #EXTGRP:🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)
 http://38.131.62.104:8000/play/a0ni/index.m3u8
@@ -5776,6 +5566,9 @@ http://38.131.62.104:8000/play/a024/index.m3u8
 #EXTINF:-1 group-title="🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)" tvg-country="DO",Home Garden Latino
 #EXTGRP:🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)
 http://38.131.62.104:8000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)" tvg-country="DO",KANAL D DRAMA
+#EXTGRP:🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)
+http://38.131.62.104:8000/play/a0n7/index.m3u8
 #EXTINF:-1 group-title="🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)" tvg-country="DO",Hola!TV
 #EXTGRP:🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)
 http://38.131.62.104:8000/play/a00f/index.m3u8

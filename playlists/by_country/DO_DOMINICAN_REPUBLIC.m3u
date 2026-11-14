@@ -1,5 +1,5 @@
 #EXTM3U
-# Astra server country: Dominican Republic (DO) - 150 live entries
+# Astra server country: Dominican Republic (DO) - 153 live entries
 # 🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)
 #EXTINF:-1 group-title="🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)" tvg-country="DO",Antena 3
 #EXTGRP:🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)
@@ -31,6 +31,9 @@ http://38.131.62.104:8000/play/a01h/index.m3u8
 #EXTINF:-1 group-title="🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)" tvg-country="DO",AXN CATV
 #EXTGRP:🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)
 http://38.131.62.104:8000/play/a0nm/index.m3u8
+#EXTINF:-1 group-title="🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)" tvg-country="DO",BABY TV CATV
+#EXTGRP:🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)
+http://38.131.62.104:8000/play/a0ns/index.m3u8
 #EXTINF:-1 group-title="🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)" tvg-country="DO",CANAL DE LAS ESTRELLAS CATV
 #EXTGRP:🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)
 http://38.131.62.104:8000/play/a0nx/index.m3u8
@@ -178,6 +181,9 @@ http://38.131.62.104:8000/play/a0f7/index.m3u8
 #EXTINF:-1 group-title="🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)" tvg-country="DO",Color Vision 9 - RD
 #EXTGRP:🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)
 http://38.131.62.104:8000/play/a026/index.m3u8
+#EXTINF:-1 group-title="🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)" tvg-country="DO",DISCOVERY KIDS CATV
+#EXTGRP:🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)
+http://38.131.62.104:8000/play/a0nh/index.m3u8
 #EXTINF:-1 group-title="🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)" tvg-country="DO",DISCOVERY CHANNEL CATV
 #EXTGRP:🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)
 http://38.131.62.104:8000/play/a0ni/index.m3u8
@@ -265,6 +271,9 @@ http://38.131.62.104:8000/play/a024/index.m3u8
 #EXTINF:-1 group-title="🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)" tvg-country="DO",Home Garden Latino
 #EXTGRP:🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)
 http://38.131.62.104:8000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)" tvg-country="DO",KANAL D DRAMA
+#EXTGRP:🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)
+http://38.131.62.104:8000/play/a0n7/index.m3u8
 #EXTINF:-1 group-title="🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)" tvg-country="DO",Hola!TV
 #EXTGRP:🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)
 http://38.131.62.104:8000/play/a00f/index.m3u8
