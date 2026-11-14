@@ -163,9 +163,6 @@ http://186.148.196.100:8000/play/a02e
 #EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=GOLDEN,GOLDEN [186.148.196.100:8000]
 #EXTGRP:🇵🇪 পেরু (PE)
 http://186.148.196.100:8000/play/a017
-#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="GOLDEN EDGE",GOLDEN EDGE [186.148.196.100:8000]
-#EXTGRP:🇵🇪 পেরু (PE)
-http://186.148.196.100:8000/play/a018
 #EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=GOURMENT,GOURMENT [186.148.196.100:8000]
 #EXTGRP:🇵🇪 পেরু (PE)
 http://186.148.196.100:8000/play/a01f
@@ -625,6 +622,9 @@ http://186.148.196.82:8001/play/a0ae
 #EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="ESPN1 HD",ESPN1 HD [186.148.196.82:8001]
 #EXTGRP:🇵🇪 পেরু (PE)
 http://186.148.196.82:8001/play/a0bo
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="EXITOSA HD M3U",EXITOSA HD M3U [186.148.196.82:8001]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://186.148.196.82:8001/play/a07z
 #EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name=GLOBAL,GLOBAL [186.148.196.82:8001]
 #EXTGRP:🇵🇪 পেরু (PE)
 http://186.148.196.82:8001/play/a0cs

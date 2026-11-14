@@ -1,5 +1,5 @@
 #EXTM3U
-# Astra server country: Ecuador (EC) - 445 live entries
+# Astra server country: Ecuador (EC) - 446 live entries
 # 🇪🇨 ইকুয়েডর (EC)
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=CERTV,CERTV [179.51.136.19:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
@@ -853,6 +853,9 @@ http://45.185.163.75:8000/play/a06r/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Movistar Deportes",Movistar Deportes [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a0i9/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Multipremier,Multipremier [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0ci/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=NPY,NPY [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a05d/index.m3u8
@@ -937,9 +940,6 @@ http://45.185.163.75:8000/play/a00x/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=RTU,RTU [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a0b9/index.m3u8
-#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=RTU,RTU [45.185.163.75:8000]
-#EXTGRP:🇪🇨 ইকুয়েডর (EC)
-http://45.185.163.75:8000/play/a0i4/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Russia Today",Russia Today [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a0dq/index.m3u8
@@ -1174,6 +1174,9 @@ http://45.185.163.75:8000/play/a0ay/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=ViaX,ViaX [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a06i/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="WARNER HD",WARNER HD [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a0dn/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Warner TV HD",Warner TV HD [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a02f/index.m3u8

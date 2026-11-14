@@ -1,9 +1,6 @@
 #EXTM3U
-# Astra server country: Honduras (HN) - 42 live entries
+# Astra server country: Honduras (HN) - 39 live entries
 # 🇭🇳 হন্ডুরাস (HN)
-#EXTINF:-1 group-title="🇭🇳 হন্ডুরাস (HN)" tvg-country="HN" tvg-name="CVS MPEG4 SPS",CVS MPEG4 SPS [200.115.96.66:4000]
-#EXTGRP:🇭🇳 হন্ডুরাস (HN)
-http://200.115.96.66:4000/play/a0jl/index.m3u8
 #EXTINF:-1 group-title="🇭🇳 হন্ডুরাস (HN)" tvg-country="HN" tvg-name=A&E,A&E [200.125.170.123:8000]
 #EXTGRP:🇭🇳 হন্ডুরাস (HN)
 http://45.166.93.156:9999/play/a08b/index.m3u8
@@ -28,9 +25,6 @@ http://45.166.93.156:9999/play/a09v/index.m3u8
 #EXTINF:-1 group-title="🇭🇳 হন্ডুরাস (HN)" tvg-country="HN" tvg-name="AMIGOS TV GT",AMIGOS TV GT [200.125.170.123:8000]
 #EXTGRP:🇭🇳 হন্ডুরাস (HN)
 http://45.166.93.156:9999/play/a0j2/index.m3u8
-#EXTINF:-1 group-title="🇭🇳 হন্ডুরাস (HN)" tvg-country="HN" tvg-name="Animal Planet HD",Animal Planet HD [200.125.170.123:8000]
-#EXTGRP:🇭🇳 হন্ডুরাস (HN)
-http://45.166.93.156:9999/play/a0bp/index.m3u8
 #EXTINF:-1 group-title="🇭🇳 হন্ডুরাস (HN)" tvg-country="HN" tvg-name="Antena 3",Antena 3 [200.125.170.123:8000]
 #EXTGRP:🇭🇳 হন্ডুরাস (HN)
 http://45.166.93.156:9999/play/a0fo/index.m3u8
@@ -106,9 +100,6 @@ http://45.166.93.156:9999/play/a07i/index.m3u8
 #EXTINF:-1 group-title="🇭🇳 হন্ডুরাস (HN)" tvg-country="HN" tvg-name="Canal 8 TNH HN",Canal 8 TNH HN [200.125.170.123:8000]
 #EXTGRP:🇭🇳 হন্ডুরাস (HN)
 http://45.166.93.156:9999/play/a0hb/index.m3u8
-#EXTINF:-1 group-title="🇭🇳 হন্ডুরাস (HN)" tvg-country="HN" tvg-name="Canal 7 HD CR",Canal 7 HD CR [200.125.170.123:8000]
-#EXTGRP:🇭🇳 হন্ডুরাস (HN)
-http://45.166.93.156:9999/play/a08s/index.m3u8
 #EXTINF:-1 group-title="🇭🇳 হন্ডুরাস (HN)" tvg-country="HN" tvg-name="Canal5 COMPAY",Canal5 COMPAY [200.125.170.123:8000]
 #EXTGRP:🇭🇳 হন্ডুরাস (HN)
 http://45.166.93.156:9999/play/a0jk/index.m3u8

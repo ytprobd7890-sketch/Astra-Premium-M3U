@@ -1,9 +1,12 @@
 #EXTM3U
-# Astra server country: Bangladesh (BD) - 108 live entries
+# Astra server country: Bangladesh (BD) - 115 live entries
 # 🇧🇩 বাংলাদেশ (BD)
-#EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",BTV Chattagram
+#EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD", B4U Bhojpuri
 #EXTGRP:🇧🇩 বাংলাদেশ (BD)
-http://36.50.22.214:8000/play/a009/index.m3u8
+http://103.119.94.1:7080/play/a0hz/index.m3u8
+#EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",M CHANNELS HD
+#EXTGRP:🇧🇩 বাংলাদেশ (BD)
+http://36.50.22.214:8000/play/a00o/index.m3u8
 #EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",All Time Movies
 #EXTGRP:🇧🇩 বাংলাদেশ (BD)
 http://103.119.94.1:7080/play/a0i1/index.m3u8
@@ -34,9 +37,18 @@ http://103.119.94.1:7080/play/a0hy/index.m3u8
 #EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",Aaj Tak HD
 #EXTGRP:🇧🇩 বাংলাদেশ (BD)
 http://103.119.94.1:7080/play/a098/index.m3u8
+#EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD", Dangal 2
+#EXTGRP:🇧🇩 বাংলাদেশ (BD)
+http://103.119.94.1:7080/play/a0i3/index.m3u8
+#EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",Colors Bangla Cinema
+#EXTGRP:🇧🇩 বাংলাদেশ (BD)
+http://103.119.94.1:7080/play/a0w6/index.m3u8
 #EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",CNN News 18
 #EXTGRP:🇧🇩 বাংলাদেশ (BD)
 http://103.119.94.1:7080/play/a00k/index.m3u8
+#EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",COLORS RISHTEY
+#EXTGRP:🇧🇩 বাংলাদেশ (BD)
+http://103.119.94.1:7080/play/a0u1/index.m3u8
 #EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",Cartoon Network HD+ - Rs 7.00
 #EXTGRP:🇧🇩 বাংলাদেশ (BD)
 http://103.119.94.1:7080/play/a0sl/index.m3u8
@@ -100,6 +112,9 @@ http://103.119.94.1:7080/play/a0y0/index.m3u8
 #EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",INDIA TODAY
 #EXTGRP:🇧🇩 বাংলাদেশ (BD)
 http://103.119.94.1:7080/play/a0t1/index.m3u8
+#EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",History TV18 HD
+#EXTGRP:🇧🇩 বাংলাদেশ (BD)
+http://103.119.94.1:7080/play/a0sf/index.m3u8
 #EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",Jalsha Movies HD - Rs 19.00
 #EXTGRP:🇧🇩 বাংলাদেশ (BD)
 http://103.119.94.1:7080/play/a0p1/index.m3u8
@@ -127,6 +142,9 @@ http://103.119.94.1:7080/play/a0sm/index.m3u8
 #EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",Movies Now HD
 #EXTGRP:🇧🇩 বাংলাদেশ (BD)
 http://103.119.94.1:7080/play/a0sz/index.m3u8
+#EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",GOOD NEWS TODAY
+#EXTGRP:🇧🇩 বাংলাদেশ (BD)
+http://103.119.94.1:7080/play/a0tr/index.m3u8
 #EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",REPUBLIC TV - Free
 #EXTGRP:🇧🇩 বাংলাদেশ (BD)
 http://103.119.94.1:7080/play/a0wo/index.m3u8
@@ -220,6 +238,9 @@ http://103.119.94.1:7080/play/a07h/index.m3u8
 #EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",Star Sports 3
 #EXTGRP:🇧🇩 বাংলাদেশ (BD)
 http://103.119.94.1:7080/play/a0rk/index.m3u8
+#EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",Sony Wah
+#EXTGRP:🇧🇩 বাংলাদেশ (BD)
+http://103.119.94.1:7080/play/a0u0/index.m3u8
 #EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",Travelxp HD
 #EXTGRP:🇧🇩 বাংলাদেশ (BD)
 http://103.119.94.1:7080/play/a0pj/index.m3u8
