@@ -1,5 +1,5 @@
 #EXTM3U
-# Astra server country: Pakistan (PK) - 313 live entries
+# Astra server country: Pakistan (PK) - 308 live entries
 # 🇵🇰 পাকিস্তান (PK)
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",24 News HD
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
@@ -505,9 +505,6 @@ http://110.39.15.114:8000/play/a05q/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",Outdoor Channel
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://110.39.15.114:8000/play/a05g/index.m3u8
-#EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",OSN MOVIES ACTION
-#EXTGRP:🇵🇰 পাকিস্তান (PK)
-http://110.39.15.114:8000/play/a060/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",Science Poland HD
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://110.39.15.114:8000/play/a03o/index.m3u8
@@ -631,9 +628,6 @@ http://103.147.87.152:18008/play/a06t/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",Fakt Marathi
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://103.147.87.152:18008/play/a05z/index.m3u8
-#EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",Dangal
-#EXTGRP:🇵🇰 পাকিস্তান (PK)
-http://103.147.87.152:18008/play/a064/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",Dangal 2
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://103.147.87.152:18008/play/a06k/index.m3u8
@@ -673,9 +667,6 @@ http://103.147.87.152:18008/play/a08e/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",PAKISTAN TV
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://103.147.87.152:18008/play/a08g/index.m3u8
-#EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",PTV-Home
-#EXTGRP:🇵🇰 পাকিস্তান (PK)
-http://103.147.87.152:18008/play/a08c/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",PTV-NEWS HD
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://103.147.87.152:18008/play/a08d/index.m3u8
@@ -730,9 +721,6 @@ http://103.147.87.152:18008/play/a06v/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",ZEE NEWS
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://103.147.87.152:18008/play/a06y/index.m3u8
-#EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",Zee Biskope
-#EXTGRP:🇵🇰 পাকিস্তান (PK)
-http://103.147.87.152:18008/play/a066/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",IPTV | PTV Sports HD
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://103.31.103.218:4000/play/a01g/index.m3u8
@@ -874,9 +862,6 @@ http://119.152.22.162:4389/play/a032/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",SUPER TENNIES
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://119.152.22.162:4389/play/a002/index.m3u8
-#EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",super sports premium league
-#EXTGRP:🇵🇰 পাকিস্তান (PK)
-http://119.152.22.162:4389/play/a02x/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",Super Sports Cricket
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://119.152.22.162:4389/play/a008/index.m3u8
