@@ -1,5 +1,5 @@
 #EXTM3U
-# Astra server country: Pakistan (PK) - 312 live entries
+# Astra server country: Pakistan (PK) - 313 live entries
 # 🇵🇰 পাকিস্তান (PK)
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",24 News HD
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
@@ -196,6 +196,9 @@ http://115.42.65.142:8000/play/a048/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",KSA SPORT1 HD
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://115.42.65.142:8000/play/a02v/index.m3u8
+#EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",JOO Music
+#EXTGRP:🇵🇰 পাকিস্তান (PK)
+http://115.42.65.142:8000/play/a00o/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",Kay-2 HD
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://115.42.65.142:8000/play/a03d/index.m3u8
