@@ -1,5 +1,5 @@
 #EXTM3U
-# Astra server country: Honduras (HN) - 41 live entries
+# Astra server country: Honduras (HN) - 42 live entries
 # 🇭🇳 হন্ডুরাস (HN)
 #EXTINF:-1 group-title="🇭🇳 হন্ডুরাস (HN)" tvg-country="HN" tvg-name="CVS MPEG4 SPS",CVS MPEG4 SPS [200.115.96.66:4000]
 #EXTGRP:🇭🇳 হন্ডুরাস (HN)
@@ -82,6 +82,9 @@ http://45.166.93.156:9999/play/a0eg/index.m3u8
 #EXTINF:-1 group-title="🇭🇳 হন্ডুরাস (HN)" tvg-country="HN" tvg-name="Canal 3 - GUA",Canal 3 - GUA [200.125.170.123:8000]
 #EXTGRP:🇭🇳 হন্ডুরাস (HN)
 http://45.166.93.156:9999/play/a07j/index.m3u8
+#EXTINF:-1 group-title="🇭🇳 হন্ডুরাস (HN)" tvg-country="HN" tvg-name="Canal 29 Plan Network",Canal 29 Plan Network [200.125.170.123:8000]
+#EXTGRP:🇭🇳 হন্ডুরাস (HN)
+http://45.166.93.156:9999/play/a0jc/index.m3u8
 #EXTINF:-1 group-title="🇭🇳 হন্ডুরাস (HN)" tvg-country="HN" tvg-name="Canal 3 Telesistemas HND",Canal 3 Telesistemas HND [200.125.170.123:8000]
 #EXTGRP:🇭🇳 হন্ডুরাস (HN)
 http://45.166.93.156:9999/play/a0ez/index.m3u8
