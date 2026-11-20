@@ -1,5 +1,5 @@
 #EXTM3U
-# Astra server country: Colombia (CO) - 492 live entries
+# Astra server country: Colombia (CO) - 486 live entries
 # 🇨🇴 কলম্বিয়া (CO)
 #EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name="A&E HD",A&E HD [181.205.130.194:4000]
 #EXTGRP:🇨🇴 কলম্বিয়া (CO)
@@ -82,9 +82,6 @@ http://181.205.130.194:4000/play/a07j
 #EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name="ESPN 2 Latin",ESPN 2 Latin [181.205.130.194:4000]
 #EXTGRP:🇨🇴 কলম্বিয়া (CO)
 http://181.205.130.194:4000/play/a07i
-#EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name="ESPN 4",ESPN 4 [181.205.130.194:4000]
-#EXTGRP:🇨🇴 কলম্বিয়া (CO)
-http://181.205.130.194:4000/play/a085
 #EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name="ESPN 2 HD",ESPN 2 HD [181.205.130.194:4000]
 #EXTGRP:🇨🇴 কলম্বিয়া (CO)
 http://181.205.130.194:4000/play/a0fe
@@ -628,12 +625,6 @@ http://181.78.78.66:8000/play/a0c2
 #EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name="Baby TV",Baby TV [181.78.78.66:8000]
 #EXTGRP:🇨🇴 কলম্বিয়া (CO)
 http://181.78.78.66:8000/play/a0bf
-#EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name=Bitme,Bitme [181.78.78.66:8000]
-#EXTGRP:🇨🇴 কলম্বিয়া (CO)
-http://181.78.78.66:8000/play/a0cz
-#EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name="CINE PLATINO",CINE PLATINO [181.78.78.66:8000]
-#EXTGRP:🇨🇴 কলম্বিয়া (CO)
-http://181.78.78.66:8000/play/a04n
 #EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name="CNN Espaæol",CNN Espaæol [181.78.78.66:8000]
 #EXTGRP:🇨🇴 কলম্বিয়া (CO)
 http://181.78.78.66:8000/play/a0bh
@@ -652,9 +643,6 @@ http://181.78.78.66:8000/play/a0gg
 #EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name=Cartoonito,Cartoonito [181.78.78.66:8000]
 #EXTGRP:🇨🇴 কলম্বিয়া (CO)
 http://181.78.78.66:8000/play/a0dc
-#EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name="Cine Mexicano",Cine Mexicano [181.78.78.66:8000]
-#EXTGRP:🇨🇴 কলম্বিয়া (CO)
-http://181.78.78.66:8000/play/a0f3
 #EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name="Cinecanal HD",Cinecanal HD [181.78.78.66:8000]
 #EXTGRP:🇨🇴 কলম্বিয়া (CO)
 http://181.78.78.66:8000/play/a04q
@@ -1024,12 +1012,6 @@ http://181.78.8.199:8000/play/a0cr/index.m3u8
 #EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name=telemundo,telemundo [181.78.8.199:8000]
 #EXTGRP:🇨🇴 কলম্বিয়া (CO)
 http://181.78.8.199:8000/play/a0cg/index.m3u8
-#EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name=televen,televen [181.78.8.199:8000]
-#EXTGRP:🇨🇴 কলম্বিয়া (CO)
-http://181.78.8.199:8000/play/a0cd/index.m3u8
-#EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name=warner,warner [181.78.8.199:8000]
-#EXTGRP:🇨🇴 কলম্বিয়া (CO)
-http://181.78.8.199:8000/play/a0cb/index.m3u8
 #EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name=telenovelas,telenovelas [181.78.8.199:8000]
 #EXTGRP:🇨🇴 কলম্বিয়া (CO)
 http://181.78.8.199:8000/play/a0cw/index.m3u8

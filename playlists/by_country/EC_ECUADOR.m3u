@@ -1,5 +1,5 @@
 #EXTM3U
-# Astra server country: Ecuador (EC) - 443 live entries
+# Astra server country: Ecuador (EC) - 442 live entries
 # 🇪🇨 ইকুয়েডর (EC)
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=CERTV,CERTV [179.51.136.19:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
@@ -373,9 +373,6 @@ http://179.51.136.19:8000/play/a1o4/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Nat Geo HD",Nat Geo HD [179.51.136.19:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://179.51.136.19:8000/play/a1kg/index.m3u8
-#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=OROMARTV,OROMARTV [179.51.136.19:8000]
-#EXTGRP:🇪🇨 ইকুয়েডর (EC)
-http://179.51.136.19:8000/play/a1ov/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Multipremier,Multipremier [179.51.136.19:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://179.51.136.19:8000/play/a18s/index.m3u8
@@ -559,6 +556,9 @@ http://179.51.136.19:8000/play/a18r/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="UNIVERSAL CHANNEL HD",UNIVERSAL CHANNEL HD [179.51.136.19:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://179.51.136.19:8000/play/a1l8/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Unicanal HD",Unicanal HD [179.51.136.19:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://179.51.136.19:8000/play/a1sp/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Warner Channel HD",Warner Channel HD [179.51.136.19:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://179.51.136.19:8000/play/a1kl/index.m3u8
@@ -823,6 +823,9 @@ http://45.185.163.75:8000/play/a036/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Las Estrellas HD",Las Estrellas HD [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a03a/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Latina,Latina [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a05s/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="La voz de Maria",La voz de Maria [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a0cd/index.m3u8
@@ -847,9 +850,6 @@ http://45.185.163.75:8000/play/a06r/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Movistar Deportes",Movistar Deportes [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a0i9/index.m3u8
-#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Multipremier,Multipremier [45.185.163.75:8000]
-#EXTGRP:🇪🇨 ইকুয়েডর (EC)
-http://45.185.163.75:8000/play/a0ci/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=NPY,NPY [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a05d/index.m3u8
@@ -931,9 +931,6 @@ http://45.185.163.75:8000/play/a00x/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=RTU,RTU [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a0b9/index.m3u8
-#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=RTU,RTU [45.185.163.75:8000]
-#EXTGRP:🇪🇨 ইকুয়েডর (EC)
-http://45.185.163.75:8000/play/a0i4/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Russia Today",Russia Today [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a0dq/index.m3u8
@@ -1084,9 +1081,6 @@ http://45.185.163.75:8000/play/a04l/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Telecafe,Telecafe [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a04y/index.m3u8
-#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Telecaribe,Telecaribe [45.185.163.75:8000]
-#EXTGRP:🇪🇨 ইকুয়েডর (EC)
-http://45.185.163.75:8000/play/a04w/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Telefe,Telefe [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a04p/index.m3u8
@@ -1174,6 +1168,9 @@ http://45.185.163.75:8000/play/a0dn/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="Warner TV HD",Warner TV HD [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a02f/index.m3u8
+#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Willax,Willax [45.185.163.75:8000]
+#EXTGRP:🇪🇨 ইকুয়েডর (EC)
+http://45.185.163.75:8000/play/a05q/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Win,Win [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a04m/index.m3u8
