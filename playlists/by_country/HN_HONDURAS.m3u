@@ -1,6 +1,9 @@
 #EXTM3U
-# Astra server country: Honduras (HN) - 41 live entries
+# Astra server country: Honduras (HN) - 42 live entries
 # 🇭🇳 হন্ডুরাস (HN)
+#EXTINF:-1 group-title="🇭🇳 হন্ডুরাস (HN)" tvg-country="HN" tvg-name="CVS MPEG4 SPS",CVS MPEG4 SPS [200.115.96.66:4000]
+#EXTGRP:🇭🇳 হন্ডুরাস (HN)
+http://200.115.96.66:4000/play/a0jl/index.m3u8
 #EXTINF:-1 group-title="🇭🇳 হন্ডুরাস (HN)" tvg-country="HN" tvg-name=A&E,A&E [200.125.170.123:8000]
 #EXTGRP:🇭🇳 হন্ডুরাস (HN)
 http://45.166.93.156:9999/play/a08b/index.m3u8
