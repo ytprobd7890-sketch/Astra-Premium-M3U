@@ -1,5 +1,5 @@
 #EXTM3U
-# Astra server country: Paraguay (PY) - 71 live entries
+# Astra server country: Paraguay (PY) - 70 live entries
 # 🇵🇾 প্যারাগুয়ে (PY)
 #EXTINF:-1 group-title="🇵🇾 প্যারাগুয়ে (PY)" tvg-country="PY" tvg-name="AE Mundo",AE Mundo [45.170.130.224:8000]
 #EXTGRP:🇵🇾 প্যারাগুয়ে (PY)
@@ -19,9 +19,6 @@ http://45.170.130.224:8000/play/a017/index.m3u8
 #EXTINF:-1 group-title="🇵🇾 প্যারাগুয়ে (PY)" tvg-country="PY" tvg-name="Discovery Kids",Discovery Kids [45.170.130.224:8000]
 #EXTGRP:🇵🇾 প্যারাগুয়ে (PY)
 http://45.170.130.224:8000/play/a01a/index.m3u8
-#EXTINF:-1 group-title="🇵🇾 প্যারাগুয়ে (PY)" tvg-country="PY" tvg-name="Discovery ID",Discovery ID [45.170.130.224:8000]
-#EXTGRP:🇵🇾 প্যারাগুয়ে (PY)
-http://45.170.130.224:8000/play/a02b/index.m3u8
 #EXTINF:-1 group-title="🇵🇾 প্যারাগুয়ে (PY)" tvg-country="PY" tvg-name="Disney Channel",Disney Channel [45.170.130.224:8000]
 #EXTGRP:🇵🇾 প্যারাগুয়ে (PY)
 http://45.170.130.224:8000/play/a01r/index.m3u8

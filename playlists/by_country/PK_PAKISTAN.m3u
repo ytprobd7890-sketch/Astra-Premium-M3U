@@ -1,5 +1,5 @@
 #EXTM3U
-# Astra server country: Pakistan (PK) - 311 live entries
+# Astra server country: Pakistan (PK) - 307 live entries
 # 🇵🇰 পাকিস্তান (PK)
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",24 News HD
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
@@ -604,12 +604,6 @@ http://103.147.87.152:18008/play/a06o/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",B4U KADAK
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://103.147.87.152:18008/play/a06p/index.m3u8
-#EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",COLORS CINEPLEX SUPERHITS
-#EXTGRP:🇵🇰 পাকিস্তান (PK)
-http://103.147.87.152:18008/play/a06l/index.m3u8
-#EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",COLORS RISHTEY
-#EXTGRP:🇵🇰 পাকিস্তান (PK)
-http://103.147.87.152:18008/play/a06x/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",DD Sahyadri
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://103.147.87.152:18008/play/a05y/index.m3u8
@@ -634,9 +628,6 @@ http://103.147.87.152:18008/play/a05z/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",Dangal
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://103.147.87.152:18008/play/a064/index.m3u8
-#EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",Dangal 2
-#EXTGRP:🇵🇰 পাকিস্তান (PK)
-http://103.147.87.152:18008/play/a06k/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",GOLDMINES MOVIES
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://103.147.87.152:18008/play/a06z/index.m3u8
@@ -670,9 +661,6 @@ http://103.147.87.152:18008/play/a06q/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",PTV-Global
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://103.147.87.152:18008/play/a08e/index.m3u8
-#EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",PAKISTAN TV
-#EXTGRP:🇵🇰 পাকিস্তান (PK)
-http://103.147.87.152:18008/play/a08g/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",PTV-Home
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://103.147.87.152:18008/play/a08c/index.m3u8
@@ -709,9 +697,6 @@ http://103.147.87.152:18008/play/a06r/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",THE Q
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://103.147.87.152:18008/play/a069/index.m3u8
-#EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",Shemaroo JOSH
-#EXTGRP:🇵🇰 পাকিস্তান (PK)
-http://103.147.87.152:18008/play/a070/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",TV2DAY
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://103.147.87.152:18008/play/a05g/index.m3u8
@@ -721,9 +706,6 @@ http://103.147.87.152:18008/play/a06w/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",STAR UTSAV MOVIES
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://103.147.87.152:18008/play/a05v/index.m3u8
-#EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",UNIQUE TV
-#EXTGRP:🇵🇰 পাকিস্তান (PK)
-http://103.147.87.152:18008/play/a06u/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",ZEE ANMOL CINEMA
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://103.147.87.152:18008/play/a06v/index.m3u8
@@ -775,6 +757,9 @@ http://103.31.103.218:4000/play/a00h/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",TS | Discovery HD
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://103.31.103.218:4000/play/a00n/index.m3u8
+#EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",TS | Disney Channel HD
+#EXTGRP:🇵🇰 পাকিস্তান (PK)
+http://103.31.103.218:4000/play/a00e/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",TS | Eurosports HD
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://103.31.103.218:4000/play/a00l/index.m3u8
@@ -898,6 +883,9 @@ http://119.155.143.222:4600/play/a01d/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",Comedy Central HD
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://119.155.143.222:4600/play/a03d/index.m3u8
+#EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",DMAX
+#EXTGRP:🇵🇰 পাকিস্তান (PK)
+http://119.155.143.222:4600/play/a03z/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",Disney Junior
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://119.155.143.222:4600/play/a01c/index.m3u8

@@ -1,15 +1,9 @@
 #EXTM3U
-# Astra server country: Bangladesh (BD) - 96 live entries
+# Astra server country: Bangladesh (BD) - 79 live entries
 # 🇧🇩 বাংলাদেশ (BD)
-#EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",BTV NEWS HD
-#EXTGRP:🇧🇩 বাংলাদেশ (BD)
-http://36.50.22.214:8000/play/a00a/index.m3u8
 #EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD", B4U Bhojpuri
 #EXTGRP:🇧🇩 বাংলাদেশ (BD)
 http://103.119.94.1:7080/play/a0hz/index.m3u8
-#EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",All Time Movies
-#EXTGRP:🇧🇩 বাংলাদেশ (BD)
-http://103.119.94.1:7080/play/a0i1/index.m3u8
 #EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",&pictures HD
 #EXTGRP:🇧🇩 বাংলাদেশ (BD)
 http://103.119.94.1:7080/play/a0si/index.m3u8
@@ -37,27 +31,18 @@ http://103.119.94.1:7080/play/a0u1/index.m3u8
 #EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",Cartoon Network HD+ - Rs 7.00
 #EXTGRP:🇧🇩 বাংলাদেশ (BD)
 http://103.119.94.1:7080/play/a0sl/index.m3u8
-#EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",Channel S
-#EXTGRP:🇧🇩 বাংলাদেশ (BD)
-http://103.119.94.1:7080/play/a0yg/index.m3u8
 #EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",Colors Bangla HD
 #EXTGRP:🇧🇩 বাংলাদেশ (BD)
 http://103.119.94.1:7080/play/a0ki/index.m3u8
 #EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",Colors HD
 #EXTGRP:🇧🇩 বাংলাদেশ (BD)
 http://103.119.94.1:7080/play/a097/index.m3u8
-#EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",Colors Cineplex Superhits
+#EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",DD National HD
 #EXTGRP:🇧🇩 বাংলাদেশ (BD)
-http://103.119.94.1:7080/play/a0i4/index.m3u8
-#EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",Colors Cineplex Bollywood - Rs 0
-#EXTGRP:🇧🇩 বাংলাদেশ (BD)
-http://103.119.94.1:7080/play/a0t0/index.m3u8
+http://103.119.94.1:7080/play/a0hv/index.m3u8
 #EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",Colors Cineplex HD - Rs 19.00
 #EXTGRP:🇧🇩 বাংলাদেশ (BD)
 http://103.119.94.1:7080/play/a0lb/index.m3u8
-#EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",Colors Infinity HD - Rs 15.00
-#EXTGRP:🇧🇩 বাংলাদেশ (BD)
-http://103.119.94.1:7080/play/a0v1/index.m3u8
 #EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",Discovery Kids
 #EXTGRP:🇧🇩 বাংলাদেশ (BD)
 http://103.119.94.1:7080/play/a0b3/index.m3u8
@@ -94,30 +79,24 @@ http://103.119.94.1:7080/play/a0p1/index.m3u8
 #EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",MTV HD
 #EXTGRP:🇧🇩 বাংলাদেশ (BD)
 http://103.119.94.1:7080/play/a0s6/index.m3u8
-#EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",DD News HD
-#EXTGRP:🇧🇩 বাংলাদেশ (BD)
-http://103.119.94.1:7080/play/a0hu/index.m3u8
 #EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",Nat Geo Wild HD
 #EXTGRP:🇧🇩 বাংলাদেশ (BD)
 http://103.119.94.1:7080/play/a0t3/index.m3u8
-#EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",NATIONAL GEOGRAPHIC HD - Rs 14.0
-#EXTGRP:🇧🇩 বাংলাদেশ (BD)
-http://103.119.94.1:7080/play/a0sm/index.m3u8
 #EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",Movies Now HD
 #EXTGRP:🇧🇩 বাংলাদেশ (BD)
 http://103.119.94.1:7080/play/a0sz/index.m3u8
 #EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",SET HD
 #EXTGRP:🇧🇩 বাংলাদেশ (BD)
 http://103.119.94.1:7080/play/a092/index.m3u8
-#EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",SONY BBC EARTH HD - Rs 19.00
-#EXTGRP:🇧🇩 বাংলাদেশ (BD)
-http://103.119.94.1:7080/play/a0up/index.m3u8
 #EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",SONY MAX
 #EXTGRP:🇧🇩 বাংলাদেশ (BD)
 http://103.119.94.1:7080/play/a09o/index.m3u8
 #EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",SONY PIX HD
 #EXTGRP:🇧🇩 বাংলাদেশ (BD)
 http://103.119.94.1:7080/play/a0s8/index.m3u8
+#EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",SONY SAB
+#EXTGRP:🇧🇩 বাংলাদেশ (BD)
+http://103.119.94.1:7080/play/a090/index.m3u8
 #EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",SONY SAB HD
 #EXTGRP:🇧🇩 বাংলাদেশ (BD)
 http://103.119.94.1:7080/play/a0ax/index.m3u8
@@ -127,18 +106,9 @@ http://103.119.94.1:7080/play/a0s7/index.m3u8
 #EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",SONY SPORTS TEN 1
 #EXTGRP:🇧🇩 বাংলাদেশ (BD)
 http://103.119.94.1:7080/play/a0lc/index.m3u8
-#EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",STAR Plus HD
-#EXTGRP:🇧🇩 বাংলাদেশ (BD)
-http://103.119.94.1:7080/play/a096/index.m3u8
-#EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",STAR Movies Select HD - Rs 19.00
-#EXTGRP:🇧🇩 বাংলাদেশ (BD)
-http://103.119.94.1:7080/play/a0s9/index.m3u8
 #EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",STAR GOLD HD
 #EXTGRP:🇧🇩 বাংলাদেশ (BD)
 http://103.119.94.1:7080/play/a0ay/index.m3u8
-#EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",SONY SPORTS TEN 3 Hindi
-#EXTGRP:🇧🇩 বাংলাদেশ (BD)
-http://103.119.94.1:7080/play/a08x/index.m3u8
 #EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",STV - T Sports
 #EXTGRP:🇧🇩 বাংলাদেশ (BD)
 http://103.119.94.1:7080/play/4236966184/index.m3u8
@@ -148,9 +118,6 @@ http://103.119.94.1:7080/play/a0x0/index.m3u8
 #EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",Sonic
 #EXTGRP:🇧🇩 বাংলাদেশ (BD)
 http://103.119.94.1:7080/play/a0b8/index.m3u8
-#EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",Nick Jr.
-#EXTGRP:🇧🇩 বাংলাদেশ (BD)
-http://103.119.94.1:7080/play/a0b5/index.m3u8
 #EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",Star Bharat
 #EXTGRP:🇧🇩 বাংলাদেশ (BD)
 http://103.119.94.1:7080/play/a0cy/index.m3u8
@@ -163,9 +130,6 @@ http://103.119.94.1:7080/play/a0b0/index.m3u8
 #EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",Star Gold 2 HD
 #EXTGRP:🇧🇩 বাংলাদেশ (BD)
 http://103.119.94.1:7080/play/a0pn/index.m3u8
-#EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",Star Gold Select HD - Rs 8.00
-#EXTGRP:🇧🇩 বাংলাদেশ (BD)
-http://103.119.94.1:7080/play/a0yd/index.m3u8
 #EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",Star News HD
 #EXTGRP:🇧🇩 বাংলাদেশ (BD)
 http://103.119.94.1:7080/play/a0xv/index.m3u8
@@ -175,18 +139,15 @@ http://103.119.94.1:7080/play/a0bl/index.m3u8
 #EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",Star Sports 1 Hindi
 #EXTGRP:🇧🇩 বাংলাদেশ (BD)
 http://103.119.94.1:7080/play/a0b2/index.m3u8
-#EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",Star Sports 2 HD
-#EXTGRP:🇧🇩 বাংলাদেশ (BD)
-http://103.119.94.1:7080/play/a0ky/index.m3u8
 #EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",Star Sports 1 Hindi HD
 #EXTGRP:🇧🇩 বাংলাদেশ (BD)
 http://103.119.94.1:7080/play/a0l1/index.m3u8
-#EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",SONY SPORTS TEN 5 HD
-#EXTGRP:🇧🇩 বাংলাদেশ (BD)
-http://103.119.94.1:7080/play/a0do/index.m3u8
 #EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",Star Sports Select 2 HD
 #EXTGRP:🇧🇩 বাংলাদেশ (BD)
 http://103.119.94.1:7080/play/a07h/index.m3u8
+#EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",Star Sports 3
+#EXTGRP:🇧🇩 বাংলাদেশ (BD)
+http://103.119.94.1:7080/play/a0rk/index.m3u8
 #EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",Travelxp HD
 #EXTGRP:🇧🇩 বাংলাদেশ (BD)
 http://103.119.94.1:7080/play/a0pj/index.m3u8
@@ -226,12 +187,6 @@ http://103.119.94.1:7080/play/4802327623/index.m3u8
 #EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",ZZZ || - Bijoy TV
 #EXTGRP:🇧🇩 বাংলাদেশ (BD)
 http://103.119.94.1:7080/play/3158057073/index.m3u8
-#EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",ZZZ || - Channel 24
-#EXTGRP:🇧🇩 বাংলাদেশ (BD)
-http://103.119.94.1:7080/play/a03c/index.m3u8
-#EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",ZZZ || - Channel I
-#EXTGRP:🇧🇩 বাংলাদেশ (BD)
-http://103.119.94.1:7080/play/3349914885/index.m3u8
 #EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",ZZZ || - Deepto TV HD
 #EXTGRP:🇧🇩 বাংলাদেশ (BD)
 http://103.119.94.1:7080/play/7219378758/index.m3u8
@@ -241,9 +196,6 @@ http://103.119.94.1:7080/play/3034155434/index.m3u8
 #EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",ZZZ || - Desh TV
 #EXTGRP:🇧🇩 বাংলাদেশ (BD)
 http://103.119.94.1:7080/play/5490056533/index.m3u8
-#EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",ZZZ || - Ekattor TV
-#EXTGRP:🇧🇩 বাংলাদেশ (BD)
-http://103.119.94.1:7080/play/3434572570/index.m3u8
 #EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",ZZZ || - Ekushey TV
 #EXTGRP:🇧🇩 বাংলাদেশ (BD)
 http://103.119.94.1:7080/play/7282885840/index.m3u8
@@ -256,9 +208,6 @@ http://103.119.94.1:7080/play/8502556831/index.m3u8
 #EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",ZZZ || - Madani TV
 #EXTGRP:🇧🇩 বাংলাদেশ (BD)
 http://103.119.94.1:7080/play/a003/index.m3u8
-#EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",ZZZ || - Mohona TV
-#EXTGRP:🇧🇩 বাংলাদেশ (BD)
-http://103.119.94.1:7080/play/6710328328/index.m3u8
 #EXTINF:-1 group-title="🇧🇩 বাংলাদেশ (BD)" tvg-country="BD",ZZZ || - My TV
 #EXTGRP:🇧🇩 বাংলাদেশ (BD)
 http://103.119.94.1:7080/play/9700144461/index.m3u8
