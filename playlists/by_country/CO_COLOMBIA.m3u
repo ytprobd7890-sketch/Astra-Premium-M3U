@@ -1,5 +1,5 @@
 #EXTM3U
-# Astra server country: Colombia (CO) - 485 live entries
+# Astra server country: Colombia (CO) - 488 live entries
 # 🇨🇴 কলম্বিয়া (CO)
 #EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name="A&E HD",A&E HD [181.205.130.194:4000]
 #EXTGRP:🇨🇴 কলম্বিয়া (CO)
@@ -994,6 +994,9 @@ http://181.78.8.199:8000/play/a0ia/index.m3u8
 #EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name=WINSPORT,WINSPORT [181.78.8.199:8000]
 #EXTGRP:🇨🇴 কলম্বিয়া (CO)
 http://181.78.8.199:8000/play/a0cc/index.m3u8
+#EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name=Venevision,Venevision [181.78.8.199:8000]
+#EXTGRP:🇨🇴 কলম্বিয়া (CO)
+http://181.78.8.199:8000/play/a0cp/index.m3u8
 #EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name="ZONA TV PLUS",ZONA TV PLUS [181.78.8.199:8000]
 #EXTGRP:🇨🇴 কলম্বিয়া (CO)
 http://181.78.8.199:8000/play/a0ie/index.m3u8
@@ -1033,6 +1036,9 @@ http://181.78.8.199:8000/play/a0hh/index.m3u8
 #EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name="2021 MITV CANAL 20",2021 MITV CANAL 20 [190.60.32.178:8178]
 #EXTGRP:🇨🇴 কলম্বিয়া (CO)
 http://190.60.32.178:8178/play/a034/index.m3u8
+#EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name="2072 Golden Premier (TARRA)",2072 Golden Premier (TARRA) [190.60.32.178:8178]
+#EXTGRP:🇨🇴 কলম্বিয়া (CO)
+http://190.60.32.178:8178/play/a097/index.m3u8
 #EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name="AMC HD",AMC HD [190.60.32.178:8178]
 #EXTGRP:🇨🇴 কলম্বিয়া (CO)
 http://190.60.32.178:8178/play/a0kg/index.m3u8
@@ -1060,6 +1066,9 @@ http://190.60.32.178:8178/play/a0gh/index.m3u8
 #EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name="CRISTO VISION (PEL)",CRISTO VISION (PEL) [190.60.32.178:8178]
 #EXTGRP:🇨🇴 কলম্বিয়া (CO)
 http://190.60.32.178:8178/play/a0n8/index.m3u8
+#EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name="Caracol HD2",Caracol HD2 [190.60.32.178:8178]
+#EXTGRP:🇨🇴 কলম্বিয়া (CO)
+http://190.60.32.178:8178/play/a0aj/index.m3u8
 #EXTINF:-1 group-title="🇨🇴 কলম্বিয়া (CO)" tvg-country="CO" tvg-name="Cartoon Network",Cartoon Network [190.60.32.178:8178]
 #EXTGRP:🇨🇴 কলম্বিয়া (CO)
 http://190.60.32.178:8178/play/a0l5/index.m3u8
