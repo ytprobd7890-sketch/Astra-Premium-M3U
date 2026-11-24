@@ -367,6 +367,9 @@ http://190.108.83.69:8000/play/a07r/index.m3u8
 #EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="DHE HD",DHE HD [190.61.117.35:8000]
 #EXTGRP:🇵🇪 পেরু (PE)
 http://190.108.83.69:8000/play/a03v/index.m3u8
+#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="Comedy Central HD",Comedy Central HD [190.61.117.35:8000]
+#EXTGRP:🇵🇪 পেরু (PE)
+http://190.108.83.69:8000/play/a02z/index.m3u8
 #EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="DW Espanol",DW Espanol [190.61.117.35:8000]
 #EXTGRP:🇵🇪 পেরু (PE)
 http://190.108.83.69:8000/play/a01l/index.m3u8
@@ -457,9 +460,6 @@ http://190.108.83.69:8000/play/a07n/index.m3u8
 #EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="Plus TV Life",Plus TV Life [190.108.83.69:8000]
 #EXTGRP:🇵🇪 পেরু (PE)
 http://190.108.83.69:8000/play/a086/index.m3u8
-#EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="R CHARAPA TV",R CHARAPA TV [190.108.83.69:8000]
-#EXTGRP:🇵🇪 পেরু (PE)
-http://190.108.83.69:8000/play/a067/index.m3u8
 #EXTINF:-1 group-title="🇵🇪 পেরু (PE)" tvg-country="PE" tvg-name="R Estacion Tv",R Estacion Tv [190.108.83.69:8000]
 #EXTGRP:🇵🇪 পেরু (PE)
 http://190.108.83.69:8000/play/a07k/index.m3u8

@@ -1,5 +1,5 @@
 #EXTM3U
-# Astra server country: Pakistan (PK) - 308 live entries
+# Astra server country: Pakistan (PK) - 313 live entries
 # 🇵🇰 পাকিস্তান (PK)
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",24 News HD
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
@@ -592,6 +592,12 @@ http://103.147.87.152:18008/play/a05n/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",ARYZindagi
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://103.147.87.152:18008/play/a05i/index.m3u8
+#EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",AUR TV
+#EXTGRP:🇵🇰 পাকিস্তান (PK)
+http://103.147.87.152:18008/play/a05h/index.m3u8
+#EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",Bhojpuri Cinema
+#EXTGRP:🇵🇰 পাকিস্তান (PK)
+http://103.147.87.152:18008/play/a065/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",Big Magic
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://103.147.87.152:18008/play/a06o/index.m3u8
@@ -619,6 +625,9 @@ http://103.147.87.152:18008/play/a05e/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",DD Tamil
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://103.147.87.152:18008/play/a05w/index.m3u8
+#EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",FILAMCHI BHOJPURI
+#EXTGRP:🇵🇰 পাকিস্তান (PK)
+http://103.147.87.152:18008/play/a06t/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",Fakt Marathi
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://103.147.87.152:18008/play/a05z/index.m3u8
@@ -703,6 +712,12 @@ http://103.147.87.152:18008/play/a069/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",Shemaroo JOSH
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://103.147.87.152:18008/play/a070/index.m3u8
+#EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",TV2DAY
+#EXTGRP:🇵🇰 পাকিস্তান (PK)
+http://103.147.87.152:18008/play/a05g/index.m3u8
+#EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",Sony Wah
+#EXTGRP:🇵🇰 পাকিস্তান (PK)
+http://103.147.87.152:18008/play/a06w/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",STAR UTSAV MOVIES
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://103.147.87.152:18008/play/a05v/index.m3u8
