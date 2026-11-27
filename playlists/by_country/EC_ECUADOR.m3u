@@ -1,5 +1,5 @@
 #EXTM3U
-# Astra server country: Ecuador (EC) - 256 live entries
+# Astra server country: Ecuador (EC) - 255 live entries
 # 🇪🇨 ইকুয়েডর (EC)
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name="13 C",13 C [181.78.197.59:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
@@ -514,9 +514,6 @@ http://45.185.163.75:8000/play/a00s/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Teleamazonas,Teleamazonas [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a056/index.m3u8
-#EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Teleantioquia,Teleantioquia [45.185.163.75:8000]
-#EXTGRP:🇪🇨 ইকুয়েডর (EC)
-http://45.185.163.75:8000/play/a04l/index.m3u8
 #EXTINF:-1 group-title="🇪🇨 ইকুয়েডর (EC)" tvg-country="EC" tvg-name=Telecafe,Telecafe [45.185.163.75:8000]
 #EXTGRP:🇪🇨 ইকুয়েডর (EC)
 http://45.185.163.75:8000/play/a04y/index.m3u8

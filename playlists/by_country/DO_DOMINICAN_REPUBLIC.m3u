@@ -52,9 +52,6 @@ http://38.131.62.104:8000/play/a0i5/index.m3u8
 #EXTINF:-1 group-title="🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)" tvg-country="DO",CDN37 - RD
 #EXTGRP:🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)
 http://38.131.62.104:8000/play/a027/index.m3u8
-#EXTINF:-1 group-title="🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)" tvg-country="DO",CDN CATV
-#EXTGRP:🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)
-http://38.131.62.104:8000/play/a0o1/index.m3u8
 #EXTINF:-1 group-title="🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)" tvg-country="DO",Antena 7- RD
 #EXTGRP:🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)
 http://38.131.62.104:8000/play/a0hq/index.m3u8
@@ -388,6 +385,9 @@ http://38.131.62.104:8000/play/a0no/index.m3u8
 #EXTINF:-1 group-title="🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)" tvg-country="DO",TL NOVELA CATV
 #EXTGRP:🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)
 http://38.131.62.104:8000/play/a0nw/index.m3u8
+#EXTINF:-1 group-title="🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)" tvg-country="DO",TITANICO TV
+#EXTGRP:🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)
+http://38.131.62.104:8000/play/a0i2/index.m3u8
 #EXTINF:-1 group-title="🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)" tvg-country="DO",TNT
 #EXTGRP:🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)
 http://38.131.62.104:8000/play/a067/index.m3u8
