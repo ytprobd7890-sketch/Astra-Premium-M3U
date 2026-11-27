@@ -1,5 +1,5 @@
 #EXTM3U
-# Astra server country: Pakistan (PK) - 312 live entries
+# Astra server country: Pakistan (PK) - 310 live entries
 # 🇵🇰 পাকিস্তান (PK)
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",24 News HD
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
@@ -85,9 +85,6 @@ http://115.42.65.142:8000/play/a03e/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",ByPass 16
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://115.42.65.142:8000/play/a03y/index.m3u8
-#EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",CGTN
-#EXTGRP:🇵🇰 পাকিস্তান (PK)
-http://115.42.65.142:8000/play/a03h/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",CHAUPAAL
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://115.42.65.142:8000/play/a01s/index.m3u8
@@ -118,9 +115,6 @@ http://115.42.65.142:8000/play/a04c/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",DW
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://115.42.65.142:8000/play/a00l/index.m3u8
-#EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",EWTN Africa
-#EXTGRP:🇵🇰 পাকিস্তান (PK)
-http://115.42.65.142:8000/play/a03g/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",EXP ENTERTAINMENT
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://115.42.65.142:8000/play/a01n/index.m3u8
@@ -505,9 +499,6 @@ http://110.39.15.114:8000/play/a05q/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",Outdoor Channel
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://110.39.15.114:8000/play/a05g/index.m3u8
-#EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",OSN MOVIES ACTION
-#EXTGRP:🇵🇰 পাকিস্তান (PK)
-http://110.39.15.114:8000/play/a060/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",Science Poland HD
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://110.39.15.114:8000/play/a03o/index.m3u8
@@ -754,6 +745,9 @@ http://103.31.103.218:4000/play/a018/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",O11| NatGeo People HD
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://103.31.103.218:4000/play/a017/index.m3u8
+#EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",O11| SKY GOLF HD
+#EXTGRP:🇵🇰 পাকিস্তান (PK)
+http://103.31.103.218:4000/play/a012/index.m3u8
 #EXTINF:-1 group-title="🇵🇰 পাকিস্তান (PK)" tvg-country="PK",SUR | Baby TV HD
 #EXTGRP:🇵🇰 পাকিস্তান (PK)
 http://103.31.103.218:4000/play/a00v/index.m3u8
