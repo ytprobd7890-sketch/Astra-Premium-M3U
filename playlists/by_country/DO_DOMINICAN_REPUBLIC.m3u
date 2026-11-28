@@ -1,12 +1,9 @@
 #EXTM3U
-# Astra server country: Dominican Republic (DO) - 154 live entries
+# Astra server country: Dominican Republic (DO) - 150 live entries
 # 🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)
 #EXTINF:-1 group-title="🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)" tvg-country="DO",Antena 3
 #EXTGRP:🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)
 http://38.131.62.104:8000/play/a00b/index.m3u8
-#EXTINF:-1 group-title="🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)" tvg-country="DO",ALIENTO VISION CRISTIANO
-#EXTGRP:🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)
-http://38.131.62.104:8000/play/a0ie/index.m3u8
 #EXTINF:-1 group-title="🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)" tvg-country="DO",13-Sinart
 #EXTGRP:🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)
 http://38.131.62.104:8000/play/a0fs/index.m3u8
@@ -22,9 +19,6 @@ http://38.131.62.104:8000/play/a0nl/index.m3u8
 #EXTINF:-1 group-title="🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)" tvg-country="DO",42 - Extra TV 42
 #EXTGRP:🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)
 http://38.131.62.104:8000/play/a0aj/index.m3u8
-#EXTINF:-1 group-title="🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)" tvg-country="DO",AME 47 CATV
-#EXTGRP:🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)
-http://38.131.62.104:8000/play/a0ny/index.m3u8
 #EXTINF:-1 group-title="🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)" tvg-country="DO",AXN HD
 #EXTGRP:🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)
 http://38.131.62.104:8000/play/a01h/index.m3u8
@@ -52,9 +46,6 @@ http://38.131.62.104:8000/play/a0i5/index.m3u8
 #EXTINF:-1 group-title="🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)" tvg-country="DO",CDN37 - RD
 #EXTGRP:🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)
 http://38.131.62.104:8000/play/a027/index.m3u8
-#EXTINF:-1 group-title="🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)" tvg-country="DO",CDN CATV
-#EXTGRP:🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)
-http://38.131.62.104:8000/play/a0o1/index.m3u8
 #EXTINF:-1 group-title="🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)" tvg-country="DO",Antena 7- RD
 #EXTGRP:🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)
 http://38.131.62.104:8000/play/a0hq/index.m3u8
@@ -313,9 +304,6 @@ http://38.131.62.104:8000/play/a0d8/index.m3u8
 #EXTINF:-1 group-title="🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)" tvg-country="DO",Playboy
 #EXTGRP:🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)
 http://38.131.62.104:8000/play/a01w/index.m3u8
-#EXTINF:-1 group-title="🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)" tvg-country="DO",R&E TV ELIAS PIÑA
-#EXTGRP:🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)
-http://38.131.62.104:8000/play/a0i7/index.m3u8
 #EXTINF:-1 group-title="🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)" tvg-country="DO",RCN Novelas
 #EXTGRP:🇩🇴 ডোমিনিকান প্রজাতন্ত্র (DO)
 http://38.131.62.104:8000/play/a04k/index.m3u8
